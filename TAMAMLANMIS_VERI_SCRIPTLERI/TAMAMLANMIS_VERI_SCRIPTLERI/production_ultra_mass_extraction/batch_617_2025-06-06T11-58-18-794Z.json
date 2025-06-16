@@ -1,0 +1,28 @@
+{
+  "batchInfo": {
+    "batchNumber": 617,
+    "startIndex": 1848,
+    "urlCount": 3,
+    "timestamp": "2025-06-06T11-58-18-794Z"
+  },
+  "results": [
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/sinav-13.html",
+      "error": "AI processing failed: API Error: 401 Unauthorized",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/sinav-29.html",
+      "error": "AI processing failed: API Error: 401 Unauthorized",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/sinav-14.html",
+      "error": "AI processing failed: API Error: 429 Too Many Requests",
+      "cost": 0
+    }
+  ]
+}

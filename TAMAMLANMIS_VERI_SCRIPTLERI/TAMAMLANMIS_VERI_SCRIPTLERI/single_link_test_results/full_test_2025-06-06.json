@@ -1,0 +1,2840 @@
+{
+  "testInfo": {
+    "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+    "timestamp": "2025-06-06T09:26:56.939Z",
+    "extractionMethod": "advanced_pattern_matching",
+    "success": true
+  },
+  "summary": {
+    "totalQuestions": 50,
+    "totalOptions": 200,
+    "totalImages": 26,
+    "questionImages": 19,
+    "pageTitle": "1 Haziran 2025 Ehliyet Sınavı Hazırlık Soruları"
+  },
+  "questions": [
+    {
+      "id": 1,
+      "question": {
+        "number": 1,
+        "text": "\"Geceleyin şehirlerarası kara yolunda seyrederken araçla karşılaşıldığında kısa farları kullanmak gerekir. Bu durumda, net görüş mesafesi ortalama 25 metreye düşer.\"\nBu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+        "method": "numbered_pattern",
+        "raw": "1.  \"Geceleyin şehirlerarası kara yolunda seyrederken araçla karşılaşıldığında kısa farları kullanmak gerekir. Bu durumda, net görüş mesafesi ortalama 25 metreye düşer.\"\nBu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 1
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 2
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 3
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 4
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 2,
+      "question": {
+        "number": 2,
+        "text": "Taşıt yolu üzerine çizilen şekildeki yazı neyi bildirmektedir?",
+        "method": "numbered_pattern",
+        "raw": "2. Taşıt yolu üzerine çizilen şekildeki yazı neyi bildirmektedir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 5
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 6
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 7
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 8
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 3,
+      "question": {
+        "number": 3,
+        "text": "Aşağıdakilerden hangisinin otoyolda sürülmesi yasaktır?",
+        "method": "numbered_pattern",
+        "raw": "3. Aşağıdakilerden hangisinin otoyolda sürülmesi yasaktır?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 9
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 10
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 11
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 12
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 4,
+      "question": {
+        "number": 4,
+        "text": "Karşıdan gelen araçla karşılaşıldığında uzağı gösteren ışıkların yerine hangisi yakılmalıdır?",
+        "method": "numbered_pattern",
+        "raw": "4. Karşıdan gelen araçla karşılaşıldığında uzağı gösteren ışıkların yerine hangisi yakılmalıdır?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 13
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 14
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 15
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 16
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 5,
+      "question": {
+        "number": 5,
+        "text": "Aşağıdakilerden hangisi taşıt giremez işaretidir?",
+        "method": "numbered_pattern",
+        "raw": "5. Aşağıdakilerden hangisi taşıt giremez işaretidir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 17
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 18
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 19
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 20
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 6,
+      "question": {
+        "number": 6,
+        "text": "Aşağıdakilerden hangisi balanssız tekerleğin araç üzerindeki etkilerinden biridir?",
+        "method": "numbered_pattern",
+        "raw": "6. Aşağıdakilerden hangisi balanssız tekerleğin araç üzerindeki etkilerinden biridir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 21
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 22
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 23
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 24
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 7,
+      "question": {
+        "number": 7,
+        "text": "Bir arızadan dolayı sürülemeyen veya ışık ve fren donanımları bozulan araçlar, diğer bir araç ile en yakın bakım ve onarım yerine kadar gerekli şartlara uyulmak kaydıyla çekilebilirler.\nBuna göre aşağıdakilerden hangisi arızalı araç çekilirken uyulması gereken şartlardan biri değildir?",
+        "method": "numbered_pattern",
+        "raw": "7. Bir arızadan dolayı sürülemeyen veya ışık ve fren donanımları bozulan araçlar, diğer bir araç ile en yakın bakım ve onarım yerine kadar gerekli şartlara uyulmak kaydıyla çekilebilirler.\nBuna göre aşağıdakilerden hangisi arızalı araç çekilirken uyulması gereken şartlardan biri değildir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 25
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 26
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 27
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 28
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 8,
+      "question": {
+        "number": 8,
+        "text": "Şekildeki trafik işareti neyi ifade eder?",
+        "method": "numbered_pattern",
+        "raw": "8. Şekildeki trafik işareti neyi ifade eder?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 29
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 30
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 31
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 32
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 9,
+      "question": {
+        "number": 9,
+        "text": "İlk yardımcı, baş bölgesinden şiddetli darbe alan kazazedenin;\n\nsesli ve ağrılı uyarılara yanıt vermediğini,\nyutkunma ve öksürük gibi tepkilerinin olmadığını,\nışığa karşı tepkisiz olduğunu ve idrar kaçırdığını tespit etmiştir.\n\nBu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur?",
+        "method": "numbered_pattern",
+        "raw": "9. İlk yardımcı, baş bölgesinden şiddetli darbe alan kazazedenin;\n\nsesli ve ağrılı uyarılara yanıt vermediğini,\nyutkunma ve öksürük gibi tepkilerinin olmadığını,\nışığa karşı tepkisiz olduğunu ve idrar kaçırdığını tespit etmiştir.\n\nBu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 33
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 34
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 35
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 36
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 10,
+      "question": {
+        "number": 10,
+        "text": "Şekildeki kavşakta ilk geçiş hakkı sıralaması nasıl olmalıdır?",
+        "method": "numbered_pattern",
+        "raw": "10. Şekildeki kavşakta ilk geçiş hakkı sıralaması nasıl olmalıdır?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 37
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 38
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 39
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 40
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 11,
+      "question": {
+        "number": 11,
+        "text": "Motor çok sıcak iken radyatöre soğuk su konulması aşağıdakilerden hangisine sebep olur?",
+        "method": "numbered_pattern",
+        "raw": "11. Motor çok sıcak iken radyatöre soğuk su konulması aşağıdakilerden hangisine sebep olur?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 41
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 42
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 43
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 44
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 12,
+      "question": {
+        "number": 12,
+        "text": "Yönetmeliğe göre işitme cihazı ile belirli bir duyma yeterliliğine ulaşan sürücü, aşağıdaki sürücü belgelerinden hangisi ile araç kullanabilir?",
+        "method": "numbered_pattern",
+        "raw": "12. Yönetmeliğe göre işitme cihazı ile belirli bir duyma yeterliliğine ulaşan sürücü, aşağıdaki sürücü belgelerinden hangisi ile araç kullanabilir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 45
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 46
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 47
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 48
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 13,
+      "question": {
+        "number": 13,
+        "text": "Görsele göre, hangisinin yapılması doğru olur?",
+        "method": "numbered_pattern",
+        "raw": "13. Görsele göre, hangisinin yapılması doğru olur?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 49
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 50
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 51
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 52
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 14,
+      "question": {
+        "number": 14,
+        "text": "Şekildeki trafik işaretinin anlamı nedir?",
+        "method": "numbered_pattern",
+        "raw": "14. Şekildeki trafik işaretinin anlamı nedir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 53
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 54
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 55
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 56
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 15,
+      "question": {
+        "number": 15,
+        "text": "Aşağıdakilerden hangisi, şok durumundaki kazazedeye yapılması gereken ilk yardım uygulamalarındandır?",
+        "method": "numbered_pattern",
+        "raw": "15. Aşağıdakilerden hangisi, şok durumundaki kazazedeye yapılması gereken ilk yardım uygulamalarındandır?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 57
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 58
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 59
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 60
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 16,
+      "question": {
+        "number": 16,
+        "text": "Aşağıdakilerden hangisi çıkıklarda yapılan ilk yardım uygulamalarındandır?",
+        "method": "numbered_pattern",
+        "raw": "16. Aşağıdakilerden hangisi çıkıklarda yapılan ilk yardım uygulamalarındandır?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 61
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 62
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 63
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 64
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 17,
+      "question": {
+        "number": 17,
+        "text": "Şekle göre aşağıdaki ifadelerden hangisi yanlıştır?",
+        "method": "numbered_pattern",
+        "raw": "17. Şekle göre aşağıdaki ifadelerden hangisi yanlıştır?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 65
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 66
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 67
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 68
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 18,
+      "question": {
+        "number": 18,
+        "text": "Aşağıdaki durumların hangisinde, sürüş esnasında refleksler zayıflamış olacağından direksiyon başındaki tepkiler çok daha yavaş gerçekleşecektir?",
+        "method": "numbered_pattern",
+        "raw": "18. Aşağıdaki durumların hangisinde, sürüş esnasında refleksler zayıflamış olacağından direksiyon başındaki tepkiler çok daha yavaş gerçekleşecektir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 69
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 70
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 71
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 72
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 19,
+      "question": {
+        "number": 19,
+        "text": "Yakıtı doğrudan doğruya silindirler içersinde yakan ve üretilen ısı enerjisini pistonbiyel mekanizması ile krank miline ileten motorlara ne ad verilir?",
+        "method": "numbered_pattern",
+        "raw": "19. Yakıtı doğrudan doğruya silindirler içersinde yakan ve üretilen ısı enerjisini pistonbiyel mekanizması ile krank miline ileten motorlara ne ad verilir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 73
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 74
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 75
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 76
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 20,
+      "question": {
+        "number": 20,
+        "text": "Hangisini yapmak çevrenin temiz kalmasına katkı sağlar?",
+        "method": "numbered_pattern",
+        "raw": "20. Hangisini yapmak çevrenin temiz kalmasına katkı sağlar?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 77
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 78
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 79
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 80
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 21,
+      "question": {
+        "number": 21,
+        "text": "Bir sürücünün, emniyet kemeri kullanmaya özen göstermesinin esas nedeni ne olmalıdır?",
+        "method": "numbered_pattern",
+        "raw": "21. Bir sürücünün, emniyet kemeri kullanmaya özen göstermesinin esas nedeni ne olmalıdır?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 81
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 82
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 83
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 84
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 22,
+      "question": {
+        "number": 22,
+        "text": "Aracın periyodik bakımı yapılırken aşağıdakilerden hangisinin değiştirilmemesi araç motorunun çalışmasını olumsuz etkiler?",
+        "method": "numbered_pattern",
+        "raw": "22. Aracın periyodik bakımı yapılırken aşağıdakilerden hangisinin değiştirilmemesi araç motorunun çalışmasını olumsuz etkiler?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 85
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 86
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 87
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 88
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 23,
+      "question": {
+        "number": 23,
+        "text": "Fan motoru çalıştığı hâlde motor suyunun soğumamasının sebebi aşağıdakilerden hangisidir?",
+        "method": "numbered_pattern",
+        "raw": "23. Fan motoru çalıştığı hâlde motor suyunun soğumamasının sebebi aşağıdakilerden hangisidir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 89
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 90
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 91
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 92
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 24,
+      "question": {
+        "number": 24,
+        "text": "Videoya göre sürücü nasıl davranmalıdır?",
+        "method": "numbered_pattern",
+        "raw": "24. Videoya göre sürücü nasıl davranmalıdır?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 93
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 94
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 95
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 96
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 25,
+      "question": {
+        "number": 25,
+        "text": "Yetişkinlere yapılan dış kalp masajı uygulamasıyla ilgili olarak verilenlerden hangisi doğrudur?",
+        "method": "numbered_pattern",
+        "raw": "25. Yetişkinlere yapılan dış kalp masajı uygulamasıyla ilgili olarak verilenlerden hangisi doğrudur?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 97
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 98
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 99
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 100
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 26,
+      "question": {
+        "number": 26,
+        "text": "Aşağıdakilerden hangisi atardamar kanamalarına ait bir özelliktir?",
+        "method": "numbered_pattern",
+        "raw": "26. Aşağıdakilerden hangisi atardamar kanamalarına ait bir özelliktir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 101
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 102
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 103
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 104
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 27,
+      "question": {
+        "number": 27,
+        "text": "Aşağıdaki parçalardan hangisi arızalandığında motor yağında su, soğutma suyunda yağ olduğu gözlenir?",
+        "method": "numbered_pattern",
+        "raw": "27. Aşağıdaki parçalardan hangisi arızalandığında motor yağında su, soğutma suyunda yağ olduğu gözlenir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 105
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 106
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 107
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 108
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 28,
+      "question": {
+        "number": 28,
+        "text": "Hangisi, motor soğutma sisteminin elemanı değildir?",
+        "method": "numbered_pattern",
+        "raw": "28. Hangisi, motor soğutma sisteminin elemanı değildir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 109
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 110
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 111
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 112
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 29,
+      "question": {
+        "number": 29,
+        "text": "Motordaki yağ basıncını sürücüye bildiren gösterge aşağıdakilerden hangisidir?",
+        "method": "numbered_pattern",
+        "raw": "29. Motordaki yağ basıncını sürücüye bildiren gösterge aşağıdakilerden hangisidir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 113
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 114
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 115
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 116
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 30,
+      "question": {
+        "number": 30,
+        "text": "Yağ çubuğunun görevi aşağıdakilerden hangisidir?",
+        "method": "numbered_pattern",
+        "raw": "30. Yağ çubuğunun görevi aşağıdakilerden hangisidir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 117
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 118
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 119
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 120
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 31,
+      "question": {
+        "number": 31,
+        "text": "Aşağıdaki tehlike uyarı işaretlerinden hangisi “gevşek malzemeli zemin” anlamındadır?",
+        "method": "numbered_pattern",
+        "raw": "31. Aşağıdaki tehlike uyarı işaretlerinden hangisi “gevşek malzemeli zemin” anlamındadır?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 121
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 122
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 123
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 124
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 32,
+      "question": {
+        "number": 32,
+        "text": "Aşağıdakilerden hangisi yakıt sisteminin parçası değildir?",
+        "method": "numbered_pattern",
+        "raw": "32. Aşağıdakilerden hangisi yakıt sisteminin parçası değildir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 125
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 126
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 127
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 128
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 33,
+      "question": {
+        "number": 33,
+        "text": "Aracın 2 saniyede gideceği yol uzunluğu, hangi mesafenin belirlenmesinde kullanılır?",
+        "method": "numbered_pattern",
+        "raw": "33. Aracın 2 saniyede gideceği yol uzunluğu, hangi mesafenin belirlenmesinde kullanılır?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 129
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 130
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 131
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 132
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 34,
+      "question": {
+        "number": 34,
+        "text": "Aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, şarj sisteminin çalışmadığını gösterir?",
+        "method": "numbered_pattern",
+        "raw": "34. Aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, şarj sisteminin çalışmadığını gösterir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 133
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 134
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 135
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 136
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 35,
+      "question": {
+        "number": 35,
+        "text": "Demir yolu (hemzemin) geçidinde aşağıdakilerden hangisinin yapılması yasaktır?",
+        "method": "numbered_pattern",
+        "raw": "35. Demir yolu (hemzemin) geçidinde aşağıdakilerden hangisinin yapılması yasaktır?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 137
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 138
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 139
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 140
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 36,
+      "question": {
+        "number": 36,
+        "text": "Araç park edildikten sonra aşağıdakilerden hangisini yapmak gerekir?",
+        "method": "numbered_pattern",
+        "raw": "36. Araç park edildikten sonra aşağıdakilerden hangisini yapmak gerekir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 141
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 142
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 143
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 144
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 37,
+      "question": {
+        "number": 37,
+        "text": "Aracın kullanma kılavuzuna göre, belirli kilometre dolunca aşağıdaki parçalardan hangisi değiştirilir?",
+        "method": "numbered_pattern",
+        "raw": "37. Aracın kullanma kılavuzuna göre, belirli kilometre dolunca aşağıdaki parçalardan hangisi değiştirilir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 145
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 146
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 147
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 148
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 38,
+      "question": {
+        "number": 38,
+        "text": "Aşağıdakilerden hangisi solunum durmasına bağlı olarak dokuların oksijensiz kaldığını gösteren bir belirtidir?",
+        "method": "numbered_pattern",
+        "raw": "38. Aşağıdakilerden hangisi solunum durmasına bağlı olarak dokuların oksijensiz kaldığını gösteren bir belirtidir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 149
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 150
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 151
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 152
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 39,
+      "question": {
+        "number": 39,
+        "text": "Araç motorunun ilk çalıştırılması esnasında vites hangi konumda olmalıdır?",
+        "method": "numbered_pattern",
+        "raw": "39. Araç motorunun ilk çalıştırılması esnasında vites hangi konumda olmalıdır?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 153
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 154
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 155
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 156
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 40,
+      "question": {
+        "number": 1,
+        "text": "vites\nC) 2. vites\nD) 3. vites Soru 40. Aşağıdakilerden hangisi motorun harareti yükseldiğinde yapılması gereken işlemlerdendir?",
+        "method": "numbered_pattern",
+        "raw": "1. vites\nC) 2. vites\nD) 3. vites Soru 40. Aşağıdakilerden hangisi motorun harareti yükseldiğinde yapılması gereken işlemlerdendir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 157
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 158
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 159
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 160
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 41,
+      "question": {
+        "number": 41,
+        "text": "Bebeklerde (0-12 ay) tek ilk yardımcı ile yapılan dış kalp masajı uygulanması ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+        "method": "numbered_pattern",
+        "raw": "41. Bebeklerde (0-12 ay) tek ilk yardımcı ile yapılan dış kalp masajı uygulanması ile ilgili olarak aşağıdakilerden hangisi doğrudur?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 161
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 162
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 163
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 164
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 42,
+      "question": {
+        "number": 42,
+        "text": "I- Trafik kültürünün ve güvenlik bilincinin gelişmesine katkıda bulunmakII- İnsan faktöründen kaynaklanan trafik kazalarının azalmasını sağlamakIII- Trafik kazaları nedeniyle, insan, araç ve çevrede meydana gelen zararı azaltmak\nVerilenlerden hangileri trafik psikolojisinin hedeflerindendir?",
+        "method": "numbered_pattern",
+        "raw": "42. I- Trafik kültürünün ve güvenlik bilincinin gelişmesine katkıda bulunmakII- İnsan faktöründen kaynaklanan trafik kazalarının azalmasını sağlamakIII- Trafik kazaları nedeniyle, insan, araç ve çevrede meydana gelen zararı azaltmak\nVerilenlerden hangileri trafik psikolojisinin hedeflerindendir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 165
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 166
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 167
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 168
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 43,
+      "question": {
+        "number": 43,
+        "text": "Araçların güvenli bir şekilde yavaşlamasını, durmasını ve sabitlenmesini sağlayan sistem aşağıdakilerden hangisidir?",
+        "method": "numbered_pattern",
+        "raw": "43. Araçların güvenli bir şekilde yavaşlamasını, durmasını ve sabitlenmesini sağlayan sistem aşağıdakilerden hangisidir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 169
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 170
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 171
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 172
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 44,
+      "question": {
+        "number": 44,
+        "text": "Görseldeki gibi bir karşılaşmada, 2 numaralı araç sürücüsü ne yapmalıdır?",
+        "method": "numbered_pattern",
+        "raw": "44. Görseldeki gibi bir karşılaşmada, 2 numaralı araç sürücüsü ne yapmalıdır?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 173
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 174
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 175
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 176
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 45,
+      "question": {
+        "number": 45,
+        "text": "Aşağıdaki kanama türlerinden hangisinde, kan kaybı diğerlerine nazaran fazla olduğu için daha kısa sürede hayati tehlike meydana gelir?",
+        "method": "numbered_pattern",
+        "raw": "45. Aşağıdaki kanama türlerinden hangisinde, kan kaybı diğerlerine nazaran fazla olduğu için daha kısa sürede hayati tehlike meydana gelir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 177
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 178
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 179
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 180
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 46,
+      "question": {
+        "number": 46,
+        "text": "Kara yolunun sağ ve soluna konan şekildeki trafik işaretleri sürücülere aşağıdakilerden hangisine yaklaşıldığını bildirir?",
+        "method": "numbered_pattern",
+        "raw": "46. Kara yolunun sağ ve soluna konan şekildeki trafik işaretleri sürücülere aşağıdakilerden hangisine yaklaşıldığını bildirir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 181
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 182
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 183
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 184
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 47,
+      "question": {
+        "number": 47,
+        "text": "Aracın motorunda başlayan bir yangını, yangın söndürücü ile söndürmek için ilk olarak aşağıdakilerden hangisi yapılır?",
+        "method": "numbered_pattern",
+        "raw": "47. Aracın motorunda başlayan bir yangını, yangın söndürücü ile söndürmek için ilk olarak aşağıdakilerden hangisi yapılır?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 185
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 186
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 187
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 188
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 48,
+      "question": {
+        "number": 48,
+        "text": "Şok pozisyonunda, kazazedenin bacakları kaç cm kadar yukarı kaldırılır?",
+        "method": "numbered_pattern",
+        "raw": "48. Şok pozisyonunda, kazazedenin bacakları kaç cm kadar yukarı kaldırılır?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 189
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 190
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 191
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 192
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 49,
+      "question": {
+        "number": 49,
+        "text": "Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?",
+        "method": "numbered_pattern",
+        "raw": "49. Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 193
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 194
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 195
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 196
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    },
+    {
+      "id": 50,
+      "question": {
+        "number": 50,
+        "text": "Aşağıdakilerden hangisi geçiş üstünlüğüne sahiptir?",
+        "method": "numbered_pattern",
+        "raw": "50. Aşağıdakilerden hangisi geçiş üstünlüğüne sahiptir?"
+      },
+      "options": [
+        {
+          "letter": "A",
+          "text": "Seçenek A",
+          "raw": "A)",
+          "index": 197
+        },
+        {
+          "letter": "B",
+          "text": "Seçenek B",
+          "raw": "B)",
+          "index": 198
+        },
+        {
+          "letter": "C",
+          "text": "Seçenek C",
+          "raw": "C)",
+          "index": 199
+        },
+        {
+          "letter": "D",
+          "text": "Seçenek D",
+          "raw": "D)",
+          "index": 200
+        }
+      ],
+      "extractionMethod": "numberedMethod",
+      "hasImage": true,
+      "timestamp": "2025-06-06T09:26:56.938Z"
+    }
+  ],
+  "metadata": {
+    "pageTitle": "1 Haziran 2025 Ehliyet Sınavı Hazırlık Soruları",
+    "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+    "totalTextLength": 15284,
+    "optionCount": 200,
+    "estimatedQuestions": 50,
+    "imageCount": 26,
+    "questionImageCount": 19,
+    "extractionMethods": {
+      "soruPattern": 50,
+      "numberedPattern": 50,
+      "questionMarkPattern": 50
+    }
+  },
+  "extractionMethods": {
+    "soruMethod": [
+      {
+        "number": 1,
+        "text": "\"Geceleyin şehirlerarası kara yolunda seyrederken araçla karşılaşıldığında kısa farları kullanmak gerekir. Bu durumda, net görüş mesafesi ortalama 25 metreye düşer.\"\nBu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+        "method": "soru_pattern",
+        "raw": "Soru 1.  \"Geceleyin şehirlerarası kara yolunda seyrederken araçla karşılaşıldığında kısa farları kullanmak gerekir. Bu durumda, net görüş mesafesi ortalama 25 metreye düşer.\"\nBu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?"
+      },
+      {
+        "number": 2,
+        "text": "Taşıt yolu üzerine çizilen şekildeki yazı neyi bildirmektedir?",
+        "method": "soru_pattern",
+        "raw": "Soru 2. Taşıt yolu üzerine çizilen şekildeki yazı neyi bildirmektedir?"
+      },
+      {
+        "number": 3,
+        "text": "Aşağıdakilerden hangisinin otoyolda sürülmesi yasaktır?",
+        "method": "soru_pattern",
+        "raw": "Soru 3. Aşağıdakilerden hangisinin otoyolda sürülmesi yasaktır?"
+      },
+      {
+        "number": 4,
+        "text": "Karşıdan gelen araçla karşılaşıldığında uzağı gösteren ışıkların yerine hangisi yakılmalıdır?",
+        "method": "soru_pattern",
+        "raw": "Soru 4. Karşıdan gelen araçla karşılaşıldığında uzağı gösteren ışıkların yerine hangisi yakılmalıdır?"
+      },
+      {
+        "number": 5,
+        "text": "Aşağıdakilerden hangisi taşıt giremez işaretidir?",
+        "method": "soru_pattern",
+        "raw": "Soru 5. Aşağıdakilerden hangisi taşıt giremez işaretidir?"
+      },
+      {
+        "number": 6,
+        "text": "Aşağıdakilerden hangisi balanssız tekerleğin araç üzerindeki etkilerinden biridir?",
+        "method": "soru_pattern",
+        "raw": "Soru 6. Aşağıdakilerden hangisi balanssız tekerleğin araç üzerindeki etkilerinden biridir?"
+      },
+      {
+        "number": 7,
+        "text": "Bir arızadan dolayı sürülemeyen veya ışık ve fren donanımları bozulan araçlar, diğer bir araç ile en yakın bakım ve onarım yerine kadar gerekli şartlara uyulmak kaydıyla çekilebilirler.\nBuna göre aşağıdakilerden hangisi arızalı araç çekilirken uyulması gereken şartlardan biri değildir?",
+        "method": "soru_pattern",
+        "raw": "Soru 7. Bir arızadan dolayı sürülemeyen veya ışık ve fren donanımları bozulan araçlar, diğer bir araç ile en yakın bakım ve onarım yerine kadar gerekli şartlara uyulmak kaydıyla çekilebilirler.\nBuna göre aşağıdakilerden hangisi arızalı araç çekilirken uyulması gereken şartlardan biri değildir?"
+      },
+      {
+        "number": 8,
+        "text": "Şekildeki trafik işareti neyi ifade eder?",
+        "method": "soru_pattern",
+        "raw": "Soru 8. Şekildeki trafik işareti neyi ifade eder?"
+      },
+      {
+        "number": 9,
+        "text": "İlk yardımcı, baş bölgesinden şiddetli darbe alan kazazedenin;\n\nsesli ve ağrılı uyarılara yanıt vermediğini,\nyutkunma ve öksürük gibi tepkilerinin olmadığını,\nışığa karşı tepkisiz olduğunu ve idrar kaçırdığını tespit etmiştir.\n\nBu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur?",
+        "method": "soru_pattern",
+        "raw": "Soru 9. İlk yardımcı, baş bölgesinden şiddetli darbe alan kazazedenin;\n\nsesli ve ağrılı uyarılara yanıt vermediğini,\nyutkunma ve öksürük gibi tepkilerinin olmadığını,\nışığa karşı tepkisiz olduğunu ve idrar kaçırdığını tespit etmiştir.\n\nBu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur?"
+      },
+      {
+        "number": 10,
+        "text": "Şekildeki kavşakta ilk geçiş hakkı sıralaması nasıl olmalıdır?",
+        "method": "soru_pattern",
+        "raw": "Soru 10. Şekildeki kavşakta ilk geçiş hakkı sıralaması nasıl olmalıdır?"
+      },
+      {
+        "number": 11,
+        "text": "Motor çok sıcak iken radyatöre soğuk su konulması aşağıdakilerden hangisine sebep olur?",
+        "method": "soru_pattern",
+        "raw": "Soru 11. Motor çok sıcak iken radyatöre soğuk su konulması aşağıdakilerden hangisine sebep olur?"
+      },
+      {
+        "number": 12,
+        "text": "Yönetmeliğe göre işitme cihazı ile belirli bir duyma yeterliliğine ulaşan sürücü, aşağıdaki sürücü belgelerinden hangisi ile araç kullanabilir?",
+        "method": "soru_pattern",
+        "raw": "Soru 12. Yönetmeliğe göre işitme cihazı ile belirli bir duyma yeterliliğine ulaşan sürücü, aşağıdaki sürücü belgelerinden hangisi ile araç kullanabilir?"
+      },
+      {
+        "number": 13,
+        "text": "Görsele göre, hangisinin yapılması doğru olur?",
+        "method": "soru_pattern",
+        "raw": "Soru 13. Görsele göre, hangisinin yapılması doğru olur?"
+      },
+      {
+        "number": 14,
+        "text": "Şekildeki trafik işaretinin anlamı nedir?",
+        "method": "soru_pattern",
+        "raw": "Soru 14. Şekildeki trafik işaretinin anlamı nedir?"
+      },
+      {
+        "number": 15,
+        "text": "Aşağıdakilerden hangisi, şok durumundaki kazazedeye yapılması gereken ilk yardım uygulamalarındandır?",
+        "method": "soru_pattern",
+        "raw": "Soru 15. Aşağıdakilerden hangisi, şok durumundaki kazazedeye yapılması gereken ilk yardım uygulamalarındandır?"
+      },
+      {
+        "number": 16,
+        "text": "Aşağıdakilerden hangisi çıkıklarda yapılan ilk yardım uygulamalarındandır?",
+        "method": "soru_pattern",
+        "raw": "Soru 16. Aşağıdakilerden hangisi çıkıklarda yapılan ilk yardım uygulamalarındandır?"
+      },
+      {
+        "number": 17,
+        "text": "Şekle göre aşağıdaki ifadelerden hangisi yanlıştır?",
+        "method": "soru_pattern",
+        "raw": "Soru 17. Şekle göre aşağıdaki ifadelerden hangisi yanlıştır?"
+      },
+      {
+        "number": 18,
+        "text": "Aşağıdaki durumların hangisinde, sürüş esnasında refleksler zayıflamış olacağından direksiyon başındaki tepkiler çok daha yavaş gerçekleşecektir?",
+        "method": "soru_pattern",
+        "raw": "Soru 18. Aşağıdaki durumların hangisinde, sürüş esnasında refleksler zayıflamış olacağından direksiyon başındaki tepkiler çok daha yavaş gerçekleşecektir?"
+      },
+      {
+        "number": 19,
+        "text": "Yakıtı doğrudan doğruya silindirler içersinde yakan ve üretilen ısı enerjisini pistonbiyel mekanizması ile krank miline ileten motorlara ne ad verilir?",
+        "method": "soru_pattern",
+        "raw": "Soru 19. Yakıtı doğrudan doğruya silindirler içersinde yakan ve üretilen ısı enerjisini pistonbiyel mekanizması ile krank miline ileten motorlara ne ad verilir?"
+      },
+      {
+        "number": 20,
+        "text": "Hangisini yapmak çevrenin temiz kalmasına katkı sağlar?",
+        "method": "soru_pattern",
+        "raw": "Soru 20. Hangisini yapmak çevrenin temiz kalmasına katkı sağlar?"
+      },
+      {
+        "number": 21,
+        "text": "Bir sürücünün, emniyet kemeri kullanmaya özen göstermesinin esas nedeni ne olmalıdır?",
+        "method": "soru_pattern",
+        "raw": "Soru 21. Bir sürücünün, emniyet kemeri kullanmaya özen göstermesinin esas nedeni ne olmalıdır?"
+      },
+      {
+        "number": 22,
+        "text": "Aracın periyodik bakımı yapılırken aşağıdakilerden hangisinin değiştirilmemesi araç motorunun çalışmasını olumsuz etkiler?",
+        "method": "soru_pattern",
+        "raw": "Soru 22. Aracın periyodik bakımı yapılırken aşağıdakilerden hangisinin değiştirilmemesi araç motorunun çalışmasını olumsuz etkiler?"
+      },
+      {
+        "number": 23,
+        "text": "Fan motoru çalıştığı hâlde motor suyunun soğumamasının sebebi aşağıdakilerden hangisidir?",
+        "method": "soru_pattern",
+        "raw": "Soru 23. Fan motoru çalıştığı hâlde motor suyunun soğumamasının sebebi aşağıdakilerden hangisidir?"
+      },
+      {
+        "number": 24,
+        "text": "Videoya göre sürücü nasıl davranmalıdır?",
+        "method": "soru_pattern",
+        "raw": "Soru 24. Videoya göre sürücü nasıl davranmalıdır?"
+      },
+      {
+        "number": 25,
+        "text": "Yetişkinlere yapılan dış kalp masajı uygulamasıyla ilgili olarak verilenlerden hangisi doğrudur?",
+        "method": "soru_pattern",
+        "raw": "Soru 25. Yetişkinlere yapılan dış kalp masajı uygulamasıyla ilgili olarak verilenlerden hangisi doğrudur?"
+      },
+      {
+        "number": 26,
+        "text": "Aşağıdakilerden hangisi atardamar kanamalarına ait bir özelliktir?",
+        "method": "soru_pattern",
+        "raw": "Soru 26. Aşağıdakilerden hangisi atardamar kanamalarına ait bir özelliktir?"
+      },
+      {
+        "number": 27,
+        "text": "Aşağıdaki parçalardan hangisi arızalandığında motor yağında su, soğutma suyunda yağ olduğu gözlenir?",
+        "method": "soru_pattern",
+        "raw": "Soru 27. Aşağıdaki parçalardan hangisi arızalandığında motor yağında su, soğutma suyunda yağ olduğu gözlenir?"
+      },
+      {
+        "number": 28,
+        "text": "Hangisi, motor soğutma sisteminin elemanı değildir?",
+        "method": "soru_pattern",
+        "raw": "Soru 28. Hangisi, motor soğutma sisteminin elemanı değildir?"
+      },
+      {
+        "number": 29,
+        "text": "Motordaki yağ basıncını sürücüye bildiren gösterge aşağıdakilerden hangisidir?",
+        "method": "soru_pattern",
+        "raw": "Soru 29. Motordaki yağ basıncını sürücüye bildiren gösterge aşağıdakilerden hangisidir?"
+      },
+      {
+        "number": 30,
+        "text": "Yağ çubuğunun görevi aşağıdakilerden hangisidir?",
+        "method": "soru_pattern",
+        "raw": "Soru 30. Yağ çubuğunun görevi aşağıdakilerden hangisidir?"
+      },
+      {
+        "number": 31,
+        "text": "Aşağıdaki tehlike uyarı işaretlerinden hangisi “gevşek malzemeli zemin” anlamındadır?",
+        "method": "soru_pattern",
+        "raw": "Soru 31. Aşağıdaki tehlike uyarı işaretlerinden hangisi “gevşek malzemeli zemin” anlamındadır?"
+      },
+      {
+        "number": 32,
+        "text": "Aşağıdakilerden hangisi yakıt sisteminin parçası değildir?",
+        "method": "soru_pattern",
+        "raw": "Soru 32. Aşağıdakilerden hangisi yakıt sisteminin parçası değildir?"
+      },
+      {
+        "number": 33,
+        "text": "Aracın 2 saniyede gideceği yol uzunluğu, hangi mesafenin belirlenmesinde kullanılır?",
+        "method": "soru_pattern",
+        "raw": "Soru 33. Aracın 2 saniyede gideceği yol uzunluğu, hangi mesafenin belirlenmesinde kullanılır?"
+      },
+      {
+        "number": 34,
+        "text": "Aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, şarj sisteminin çalışmadığını gösterir?",
+        "method": "soru_pattern",
+        "raw": "Soru 34. Aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, şarj sisteminin çalışmadığını gösterir?"
+      },
+      {
+        "number": 35,
+        "text": "Demir yolu (hemzemin) geçidinde aşağıdakilerden hangisinin yapılması yasaktır?",
+        "method": "soru_pattern",
+        "raw": "Soru 35. Demir yolu (hemzemin) geçidinde aşağıdakilerden hangisinin yapılması yasaktır?"
+      },
+      {
+        "number": 36,
+        "text": "Araç park edildikten sonra aşağıdakilerden hangisini yapmak gerekir?",
+        "method": "soru_pattern",
+        "raw": "Soru 36. Araç park edildikten sonra aşağıdakilerden hangisini yapmak gerekir?"
+      },
+      {
+        "number": 37,
+        "text": "Aracın kullanma kılavuzuna göre, belirli kilometre dolunca aşağıdaki parçalardan hangisi değiştirilir?",
+        "method": "soru_pattern",
+        "raw": "Soru 37. Aracın kullanma kılavuzuna göre, belirli kilometre dolunca aşağıdaki parçalardan hangisi değiştirilir?"
+      },
+      {
+        "number": 38,
+        "text": "Aşağıdakilerden hangisi solunum durmasına bağlı olarak dokuların oksijensiz kaldığını gösteren bir belirtidir?",
+        "method": "soru_pattern",
+        "raw": "Soru 38. Aşağıdakilerden hangisi solunum durmasına bağlı olarak dokuların oksijensiz kaldığını gösteren bir belirtidir?"
+      },
+      {
+        "number": 39,
+        "text": "Araç motorunun ilk çalıştırılması esnasında vites hangi konumda olmalıdır?",
+        "method": "soru_pattern",
+        "raw": "Soru 39. Araç motorunun ilk çalıştırılması esnasında vites hangi konumda olmalıdır?"
+      },
+      {
+        "number": 40,
+        "text": "Aşağıdakilerden hangisi motorun harareti yükseldiğinde yapılması gereken işlemlerdendir?",
+        "method": "soru_pattern",
+        "raw": "Soru 40. Aşağıdakilerden hangisi motorun harareti yükseldiğinde yapılması gereken işlemlerdendir?"
+      },
+      {
+        "number": 41,
+        "text": "Bebeklerde (0-12 ay) tek ilk yardımcı ile yapılan dış kalp masajı uygulanması ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+        "method": "soru_pattern",
+        "raw": "Soru 41. Bebeklerde (0-12 ay) tek ilk yardımcı ile yapılan dış kalp masajı uygulanması ile ilgili olarak aşağıdakilerden hangisi doğrudur?"
+      },
+      {
+        "number": 42,
+        "text": "I- Trafik kültürünün ve güvenlik bilincinin gelişmesine katkıda bulunmakII- İnsan faktöründen kaynaklanan trafik kazalarının azalmasını sağlamakIII- Trafik kazaları nedeniyle, insan, araç ve çevrede meydana gelen zararı azaltmak\nVerilenlerden hangileri trafik psikolojisinin hedeflerindendir?",
+        "method": "soru_pattern",
+        "raw": "Soru 42. I- Trafik kültürünün ve güvenlik bilincinin gelişmesine katkıda bulunmakII- İnsan faktöründen kaynaklanan trafik kazalarının azalmasını sağlamakIII- Trafik kazaları nedeniyle, insan, araç ve çevrede meydana gelen zararı azaltmak\nVerilenlerden hangileri trafik psikolojisinin hedeflerindendir?"
+      },
+      {
+        "number": 43,
+        "text": "Araçların güvenli bir şekilde yavaşlamasını, durmasını ve sabitlenmesini sağlayan sistem aşağıdakilerden hangisidir?",
+        "method": "soru_pattern",
+        "raw": "Soru 43. Araçların güvenli bir şekilde yavaşlamasını, durmasını ve sabitlenmesini sağlayan sistem aşağıdakilerden hangisidir?"
+      },
+      {
+        "number": 44,
+        "text": "Görseldeki gibi bir karşılaşmada, 2 numaralı araç sürücüsü ne yapmalıdır?",
+        "method": "soru_pattern",
+        "raw": "Soru 44. Görseldeki gibi bir karşılaşmada, 2 numaralı araç sürücüsü ne yapmalıdır?"
+      },
+      {
+        "number": 45,
+        "text": "Aşağıdaki kanama türlerinden hangisinde, kan kaybı diğerlerine nazaran fazla olduğu için daha kısa sürede hayati tehlike meydana gelir?",
+        "method": "soru_pattern",
+        "raw": "Soru 45. Aşağıdaki kanama türlerinden hangisinde, kan kaybı diğerlerine nazaran fazla olduğu için daha kısa sürede hayati tehlike meydana gelir?"
+      },
+      {
+        "number": 46,
+        "text": "Kara yolunun sağ ve soluna konan şekildeki trafik işaretleri sürücülere aşağıdakilerden hangisine yaklaşıldığını bildirir?",
+        "method": "soru_pattern",
+        "raw": "Soru 46. Kara yolunun sağ ve soluna konan şekildeki trafik işaretleri sürücülere aşağıdakilerden hangisine yaklaşıldığını bildirir?"
+      },
+      {
+        "number": 47,
+        "text": "Aracın motorunda başlayan bir yangını, yangın söndürücü ile söndürmek için ilk olarak aşağıdakilerden hangisi yapılır?",
+        "method": "soru_pattern",
+        "raw": "Soru 47. Aracın motorunda başlayan bir yangını, yangın söndürücü ile söndürmek için ilk olarak aşağıdakilerden hangisi yapılır?"
+      },
+      {
+        "number": 48,
+        "text": "Şok pozisyonunda, kazazedenin bacakları kaç cm kadar yukarı kaldırılır?",
+        "method": "soru_pattern",
+        "raw": "Soru 48. Şok pozisyonunda, kazazedenin bacakları kaç cm kadar yukarı kaldırılır?"
+      },
+      {
+        "number": 49,
+        "text": "Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?",
+        "method": "soru_pattern",
+        "raw": "Soru 49. Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?"
+      },
+      {
+        "number": 50,
+        "text": "Aşağıdakilerden hangisi geçiş üstünlüğüne sahiptir?",
+        "method": "soru_pattern",
+        "raw": "Soru 50. Aşağıdakilerden hangisi geçiş üstünlüğüne sahiptir?"
+      }
+    ],
+    "numberedMethod": [
+      {
+        "number": 1,
+        "text": "\"Geceleyin şehirlerarası kara yolunda seyrederken araçla karşılaşıldığında kısa farları kullanmak gerekir. Bu durumda, net görüş mesafesi ortalama 25 metreye düşer.\"\nBu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+        "method": "numbered_pattern",
+        "raw": "1.  \"Geceleyin şehirlerarası kara yolunda seyrederken araçla karşılaşıldığında kısa farları kullanmak gerekir. Bu durumda, net görüş mesafesi ortalama 25 metreye düşer.\"\nBu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?"
+      },
+      {
+        "number": 2,
+        "text": "Taşıt yolu üzerine çizilen şekildeki yazı neyi bildirmektedir?",
+        "method": "numbered_pattern",
+        "raw": "2. Taşıt yolu üzerine çizilen şekildeki yazı neyi bildirmektedir?"
+      },
+      {
+        "number": 3,
+        "text": "Aşağıdakilerden hangisinin otoyolda sürülmesi yasaktır?",
+        "method": "numbered_pattern",
+        "raw": "3. Aşağıdakilerden hangisinin otoyolda sürülmesi yasaktır?"
+      },
+      {
+        "number": 4,
+        "text": "Karşıdan gelen araçla karşılaşıldığında uzağı gösteren ışıkların yerine hangisi yakılmalıdır?",
+        "method": "numbered_pattern",
+        "raw": "4. Karşıdan gelen araçla karşılaşıldığında uzağı gösteren ışıkların yerine hangisi yakılmalıdır?"
+      },
+      {
+        "number": 5,
+        "text": "Aşağıdakilerden hangisi taşıt giremez işaretidir?",
+        "method": "numbered_pattern",
+        "raw": "5. Aşağıdakilerden hangisi taşıt giremez işaretidir?"
+      },
+      {
+        "number": 6,
+        "text": "Aşağıdakilerden hangisi balanssız tekerleğin araç üzerindeki etkilerinden biridir?",
+        "method": "numbered_pattern",
+        "raw": "6. Aşağıdakilerden hangisi balanssız tekerleğin araç üzerindeki etkilerinden biridir?"
+      },
+      {
+        "number": 7,
+        "text": "Bir arızadan dolayı sürülemeyen veya ışık ve fren donanımları bozulan araçlar, diğer bir araç ile en yakın bakım ve onarım yerine kadar gerekli şartlara uyulmak kaydıyla çekilebilirler.\nBuna göre aşağıdakilerden hangisi arızalı araç çekilirken uyulması gereken şartlardan biri değildir?",
+        "method": "numbered_pattern",
+        "raw": "7. Bir arızadan dolayı sürülemeyen veya ışık ve fren donanımları bozulan araçlar, diğer bir araç ile en yakın bakım ve onarım yerine kadar gerekli şartlara uyulmak kaydıyla çekilebilirler.\nBuna göre aşağıdakilerden hangisi arızalı araç çekilirken uyulması gereken şartlardan biri değildir?"
+      },
+      {
+        "number": 8,
+        "text": "Şekildeki trafik işareti neyi ifade eder?",
+        "method": "numbered_pattern",
+        "raw": "8. Şekildeki trafik işareti neyi ifade eder?"
+      },
+      {
+        "number": 9,
+        "text": "İlk yardımcı, baş bölgesinden şiddetli darbe alan kazazedenin;\n\nsesli ve ağrılı uyarılara yanıt vermediğini,\nyutkunma ve öksürük gibi tepkilerinin olmadığını,\nışığa karşı tepkisiz olduğunu ve idrar kaçırdığını tespit etmiştir.\n\nBu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur?",
+        "method": "numbered_pattern",
+        "raw": "9. İlk yardımcı, baş bölgesinden şiddetli darbe alan kazazedenin;\n\nsesli ve ağrılı uyarılara yanıt vermediğini,\nyutkunma ve öksürük gibi tepkilerinin olmadığını,\nışığa karşı tepkisiz olduğunu ve idrar kaçırdığını tespit etmiştir.\n\nBu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur?"
+      },
+      {
+        "number": 10,
+        "text": "Şekildeki kavşakta ilk geçiş hakkı sıralaması nasıl olmalıdır?",
+        "method": "numbered_pattern",
+        "raw": "10. Şekildeki kavşakta ilk geçiş hakkı sıralaması nasıl olmalıdır?"
+      },
+      {
+        "number": 11,
+        "text": "Motor çok sıcak iken radyatöre soğuk su konulması aşağıdakilerden hangisine sebep olur?",
+        "method": "numbered_pattern",
+        "raw": "11. Motor çok sıcak iken radyatöre soğuk su konulması aşağıdakilerden hangisine sebep olur?"
+      },
+      {
+        "number": 12,
+        "text": "Yönetmeliğe göre işitme cihazı ile belirli bir duyma yeterliliğine ulaşan sürücü, aşağıdaki sürücü belgelerinden hangisi ile araç kullanabilir?",
+        "method": "numbered_pattern",
+        "raw": "12. Yönetmeliğe göre işitme cihazı ile belirli bir duyma yeterliliğine ulaşan sürücü, aşağıdaki sürücü belgelerinden hangisi ile araç kullanabilir?"
+      },
+      {
+        "number": 13,
+        "text": "Görsele göre, hangisinin yapılması doğru olur?",
+        "method": "numbered_pattern",
+        "raw": "13. Görsele göre, hangisinin yapılması doğru olur?"
+      },
+      {
+        "number": 14,
+        "text": "Şekildeki trafik işaretinin anlamı nedir?",
+        "method": "numbered_pattern",
+        "raw": "14. Şekildeki trafik işaretinin anlamı nedir?"
+      },
+      {
+        "number": 15,
+        "text": "Aşağıdakilerden hangisi, şok durumundaki kazazedeye yapılması gereken ilk yardım uygulamalarındandır?",
+        "method": "numbered_pattern",
+        "raw": "15. Aşağıdakilerden hangisi, şok durumundaki kazazedeye yapılması gereken ilk yardım uygulamalarındandır?"
+      },
+      {
+        "number": 16,
+        "text": "Aşağıdakilerden hangisi çıkıklarda yapılan ilk yardım uygulamalarındandır?",
+        "method": "numbered_pattern",
+        "raw": "16. Aşağıdakilerden hangisi çıkıklarda yapılan ilk yardım uygulamalarındandır?"
+      },
+      {
+        "number": 17,
+        "text": "Şekle göre aşağıdaki ifadelerden hangisi yanlıştır?",
+        "method": "numbered_pattern",
+        "raw": "17. Şekle göre aşağıdaki ifadelerden hangisi yanlıştır?"
+      },
+      {
+        "number": 18,
+        "text": "Aşağıdaki durumların hangisinde, sürüş esnasında refleksler zayıflamış olacağından direksiyon başındaki tepkiler çok daha yavaş gerçekleşecektir?",
+        "method": "numbered_pattern",
+        "raw": "18. Aşağıdaki durumların hangisinde, sürüş esnasında refleksler zayıflamış olacağından direksiyon başındaki tepkiler çok daha yavaş gerçekleşecektir?"
+      },
+      {
+        "number": 19,
+        "text": "Yakıtı doğrudan doğruya silindirler içersinde yakan ve üretilen ısı enerjisini pistonbiyel mekanizması ile krank miline ileten motorlara ne ad verilir?",
+        "method": "numbered_pattern",
+        "raw": "19. Yakıtı doğrudan doğruya silindirler içersinde yakan ve üretilen ısı enerjisini pistonbiyel mekanizması ile krank miline ileten motorlara ne ad verilir?"
+      },
+      {
+        "number": 20,
+        "text": "Hangisini yapmak çevrenin temiz kalmasına katkı sağlar?",
+        "method": "numbered_pattern",
+        "raw": "20. Hangisini yapmak çevrenin temiz kalmasına katkı sağlar?"
+      },
+      {
+        "number": 21,
+        "text": "Bir sürücünün, emniyet kemeri kullanmaya özen göstermesinin esas nedeni ne olmalıdır?",
+        "method": "numbered_pattern",
+        "raw": "21. Bir sürücünün, emniyet kemeri kullanmaya özen göstermesinin esas nedeni ne olmalıdır?"
+      },
+      {
+        "number": 22,
+        "text": "Aracın periyodik bakımı yapılırken aşağıdakilerden hangisinin değiştirilmemesi araç motorunun çalışmasını olumsuz etkiler?",
+        "method": "numbered_pattern",
+        "raw": "22. Aracın periyodik bakımı yapılırken aşağıdakilerden hangisinin değiştirilmemesi araç motorunun çalışmasını olumsuz etkiler?"
+      },
+      {
+        "number": 23,
+        "text": "Fan motoru çalıştığı hâlde motor suyunun soğumamasının sebebi aşağıdakilerden hangisidir?",
+        "method": "numbered_pattern",
+        "raw": "23. Fan motoru çalıştığı hâlde motor suyunun soğumamasının sebebi aşağıdakilerden hangisidir?"
+      },
+      {
+        "number": 24,
+        "text": "Videoya göre sürücü nasıl davranmalıdır?",
+        "method": "numbered_pattern",
+        "raw": "24. Videoya göre sürücü nasıl davranmalıdır?"
+      },
+      {
+        "number": 25,
+        "text": "Yetişkinlere yapılan dış kalp masajı uygulamasıyla ilgili olarak verilenlerden hangisi doğrudur?",
+        "method": "numbered_pattern",
+        "raw": "25. Yetişkinlere yapılan dış kalp masajı uygulamasıyla ilgili olarak verilenlerden hangisi doğrudur?"
+      },
+      {
+        "number": 26,
+        "text": "Aşağıdakilerden hangisi atardamar kanamalarına ait bir özelliktir?",
+        "method": "numbered_pattern",
+        "raw": "26. Aşağıdakilerden hangisi atardamar kanamalarına ait bir özelliktir?"
+      },
+      {
+        "number": 27,
+        "text": "Aşağıdaki parçalardan hangisi arızalandığında motor yağında su, soğutma suyunda yağ olduğu gözlenir?",
+        "method": "numbered_pattern",
+        "raw": "27. Aşağıdaki parçalardan hangisi arızalandığında motor yağında su, soğutma suyunda yağ olduğu gözlenir?"
+      },
+      {
+        "number": 28,
+        "text": "Hangisi, motor soğutma sisteminin elemanı değildir?",
+        "method": "numbered_pattern",
+        "raw": "28. Hangisi, motor soğutma sisteminin elemanı değildir?"
+      },
+      {
+        "number": 29,
+        "text": "Motordaki yağ basıncını sürücüye bildiren gösterge aşağıdakilerden hangisidir?",
+        "method": "numbered_pattern",
+        "raw": "29. Motordaki yağ basıncını sürücüye bildiren gösterge aşağıdakilerden hangisidir?"
+      },
+      {
+        "number": 30,
+        "text": "Yağ çubuğunun görevi aşağıdakilerden hangisidir?",
+        "method": "numbered_pattern",
+        "raw": "30. Yağ çubuğunun görevi aşağıdakilerden hangisidir?"
+      },
+      {
+        "number": 31,
+        "text": "Aşağıdaki tehlike uyarı işaretlerinden hangisi “gevşek malzemeli zemin” anlamındadır?",
+        "method": "numbered_pattern",
+        "raw": "31. Aşağıdaki tehlike uyarı işaretlerinden hangisi “gevşek malzemeli zemin” anlamındadır?"
+      },
+      {
+        "number": 32,
+        "text": "Aşağıdakilerden hangisi yakıt sisteminin parçası değildir?",
+        "method": "numbered_pattern",
+        "raw": "32. Aşağıdakilerden hangisi yakıt sisteminin parçası değildir?"
+      },
+      {
+        "number": 33,
+        "text": "Aracın 2 saniyede gideceği yol uzunluğu, hangi mesafenin belirlenmesinde kullanılır?",
+        "method": "numbered_pattern",
+        "raw": "33. Aracın 2 saniyede gideceği yol uzunluğu, hangi mesafenin belirlenmesinde kullanılır?"
+      },
+      {
+        "number": 34,
+        "text": "Aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, şarj sisteminin çalışmadığını gösterir?",
+        "method": "numbered_pattern",
+        "raw": "34. Aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, şarj sisteminin çalışmadığını gösterir?"
+      },
+      {
+        "number": 35,
+        "text": "Demir yolu (hemzemin) geçidinde aşağıdakilerden hangisinin yapılması yasaktır?",
+        "method": "numbered_pattern",
+        "raw": "35. Demir yolu (hemzemin) geçidinde aşağıdakilerden hangisinin yapılması yasaktır?"
+      },
+      {
+        "number": 36,
+        "text": "Araç park edildikten sonra aşağıdakilerden hangisini yapmak gerekir?",
+        "method": "numbered_pattern",
+        "raw": "36. Araç park edildikten sonra aşağıdakilerden hangisini yapmak gerekir?"
+      },
+      {
+        "number": 37,
+        "text": "Aracın kullanma kılavuzuna göre, belirli kilometre dolunca aşağıdaki parçalardan hangisi değiştirilir?",
+        "method": "numbered_pattern",
+        "raw": "37. Aracın kullanma kılavuzuna göre, belirli kilometre dolunca aşağıdaki parçalardan hangisi değiştirilir?"
+      },
+      {
+        "number": 38,
+        "text": "Aşağıdakilerden hangisi solunum durmasına bağlı olarak dokuların oksijensiz kaldığını gösteren bir belirtidir?",
+        "method": "numbered_pattern",
+        "raw": "38. Aşağıdakilerden hangisi solunum durmasına bağlı olarak dokuların oksijensiz kaldığını gösteren bir belirtidir?"
+      },
+      {
+        "number": 39,
+        "text": "Araç motorunun ilk çalıştırılması esnasında vites hangi konumda olmalıdır?",
+        "method": "numbered_pattern",
+        "raw": "39. Araç motorunun ilk çalıştırılması esnasında vites hangi konumda olmalıdır?"
+      },
+      {
+        "number": 1,
+        "text": "vites\nC) 2. vites\nD) 3. vites Soru 40. Aşağıdakilerden hangisi motorun harareti yükseldiğinde yapılması gereken işlemlerdendir?",
+        "method": "numbered_pattern",
+        "raw": "1. vites\nC) 2. vites\nD) 3. vites Soru 40. Aşağıdakilerden hangisi motorun harareti yükseldiğinde yapılması gereken işlemlerdendir?"
+      },
+      {
+        "number": 41,
+        "text": "Bebeklerde (0-12 ay) tek ilk yardımcı ile yapılan dış kalp masajı uygulanması ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+        "method": "numbered_pattern",
+        "raw": "41. Bebeklerde (0-12 ay) tek ilk yardımcı ile yapılan dış kalp masajı uygulanması ile ilgili olarak aşağıdakilerden hangisi doğrudur?"
+      },
+      {
+        "number": 42,
+        "text": "I- Trafik kültürünün ve güvenlik bilincinin gelişmesine katkıda bulunmakII- İnsan faktöründen kaynaklanan trafik kazalarının azalmasını sağlamakIII- Trafik kazaları nedeniyle, insan, araç ve çevrede meydana gelen zararı azaltmak\nVerilenlerden hangileri trafik psikolojisinin hedeflerindendir?",
+        "method": "numbered_pattern",
+        "raw": "42. I- Trafik kültürünün ve güvenlik bilincinin gelişmesine katkıda bulunmakII- İnsan faktöründen kaynaklanan trafik kazalarının azalmasını sağlamakIII- Trafik kazaları nedeniyle, insan, araç ve çevrede meydana gelen zararı azaltmak\nVerilenlerden hangileri trafik psikolojisinin hedeflerindendir?"
+      },
+      {
+        "number": 43,
+        "text": "Araçların güvenli bir şekilde yavaşlamasını, durmasını ve sabitlenmesini sağlayan sistem aşağıdakilerden hangisidir?",
+        "method": "numbered_pattern",
+        "raw": "43. Araçların güvenli bir şekilde yavaşlamasını, durmasını ve sabitlenmesini sağlayan sistem aşağıdakilerden hangisidir?"
+      },
+      {
+        "number": 44,
+        "text": "Görseldeki gibi bir karşılaşmada, 2 numaralı araç sürücüsü ne yapmalıdır?",
+        "method": "numbered_pattern",
+        "raw": "44. Görseldeki gibi bir karşılaşmada, 2 numaralı araç sürücüsü ne yapmalıdır?"
+      },
+      {
+        "number": 45,
+        "text": "Aşağıdaki kanama türlerinden hangisinde, kan kaybı diğerlerine nazaran fazla olduğu için daha kısa sürede hayati tehlike meydana gelir?",
+        "method": "numbered_pattern",
+        "raw": "45. Aşağıdaki kanama türlerinden hangisinde, kan kaybı diğerlerine nazaran fazla olduğu için daha kısa sürede hayati tehlike meydana gelir?"
+      },
+      {
+        "number": 46,
+        "text": "Kara yolunun sağ ve soluna konan şekildeki trafik işaretleri sürücülere aşağıdakilerden hangisine yaklaşıldığını bildirir?",
+        "method": "numbered_pattern",
+        "raw": "46. Kara yolunun sağ ve soluna konan şekildeki trafik işaretleri sürücülere aşağıdakilerden hangisine yaklaşıldığını bildirir?"
+      },
+      {
+        "number": 47,
+        "text": "Aracın motorunda başlayan bir yangını, yangın söndürücü ile söndürmek için ilk olarak aşağıdakilerden hangisi yapılır?",
+        "method": "numbered_pattern",
+        "raw": "47. Aracın motorunda başlayan bir yangını, yangın söndürücü ile söndürmek için ilk olarak aşağıdakilerden hangisi yapılır?"
+      },
+      {
+        "number": 48,
+        "text": "Şok pozisyonunda, kazazedenin bacakları kaç cm kadar yukarı kaldırılır?",
+        "method": "numbered_pattern",
+        "raw": "48. Şok pozisyonunda, kazazedenin bacakları kaç cm kadar yukarı kaldırılır?"
+      },
+      {
+        "number": 49,
+        "text": "Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?",
+        "method": "numbered_pattern",
+        "raw": "49. Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?"
+      },
+      {
+        "number": 50,
+        "text": "Aşağıdakilerden hangisi geçiş üstünlüğüne sahiptir?",
+        "method": "numbered_pattern",
+        "raw": "50. Aşağıdakilerden hangisi geçiş üstünlüğüne sahiptir?"
+      }
+    ],
+    "questionMarkMethod": [
+      {
+        "number": 1,
+        "text": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+        "method": "question_mark_pattern",
+        "raw": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?"
+      },
+      {
+        "number": 2,
+        "text": "Taşıt yolu üzerine çizilen şekildeki yazı neyi bildirmektedir?",
+        "method": "question_mark_pattern",
+        "raw": "Taşıt yolu üzerine çizilen şekildeki yazı neyi bildirmektedir?"
+      },
+      {
+        "number": 3,
+        "text": "Aşağıdakilerden hangisinin otoyolda sürülmesi yasaktır?",
+        "method": "question_mark_pattern",
+        "raw": "Aşağıdakilerden hangisinin otoyolda sürülmesi yasaktır?"
+      },
+      {
+        "number": 4,
+        "text": "Karşıdan gelen araçla karşılaşıldığında uzağı gösteren ışıkların yerine hangisi yakılmalıdır?",
+        "method": "question_mark_pattern",
+        "raw": "Karşıdan gelen araçla karşılaşıldığında uzağı gösteren ışıkların yerine hangisi yakılmalıdır?"
+      },
+      {
+        "number": 5,
+        "text": "Aşağıdakilerden hangisi taşıt giremez işaretidir?",
+        "method": "question_mark_pattern",
+        "raw": "Aşağıdakilerden hangisi taşıt giremez işaretidir?"
+      },
+      {
+        "number": 6,
+        "text": "Aşağıdakilerden hangisi balanssız tekerleğin araç üzerindeki etkilerinden biridir?",
+        "method": "question_mark_pattern",
+        "raw": "Aşağıdakilerden hangisi balanssız tekerleğin araç üzerindeki etkilerinden biridir?"
+      },
+      {
+        "number": 7,
+        "text": "Buna göre aşağıdakilerden hangisi arızalı araç çekilirken uyulması gereken şartlardan biri değildir?",
+        "method": "question_mark_pattern",
+        "raw": "Buna göre aşağıdakilerden hangisi arızalı araç çekilirken uyulması gereken şartlardan biri değildir?"
+      },
+      {
+        "number": 8,
+        "text": "Şekildeki trafik işareti neyi ifade eder?",
+        "method": "question_mark_pattern",
+        "raw": "Şekildeki trafik işareti neyi ifade eder?"
+      },
+      {
+        "number": 9,
+        "text": "Bu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur?",
+        "method": "question_mark_pattern",
+        "raw": "Bu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur?"
+      },
+      {
+        "number": 10,
+        "text": "Şekildeki kavşakta ilk geçiş hakkı sıralaması nasıl olmalıdır?",
+        "method": "question_mark_pattern",
+        "raw": "Şekildeki kavşakta ilk geçiş hakkı sıralaması nasıl olmalıdır?"
+      },
+      {
+        "number": 11,
+        "text": "Motor çok sıcak iken radyatöre soğuk su konulması aşağıdakilerden hangisine sebep olur?",
+        "method": "question_mark_pattern",
+        "raw": "Motor çok sıcak iken radyatöre soğuk su konulması aşağıdakilerden hangisine sebep olur?"
+      },
+      {
+        "number": 12,
+        "text": "Yönetmeliğe göre işitme cihazı ile belirli bir duyma yeterliliğine ulaşan sürücü, aşağıdaki sürücü belgelerinden hangisi ile araç kullanabilir?",
+        "method": "question_mark_pattern",
+        "raw": "Yönetmeliğe göre işitme cihazı ile belirli bir duyma yeterliliğine ulaşan sürücü, aşağıdaki sürücü belgelerinden hangisi ile araç kullanabilir?"
+      },
+      {
+        "number": 13,
+        "text": "Görsele göre, hangisinin yapılması doğru olur?",
+        "method": "question_mark_pattern",
+        "raw": "Görsele göre, hangisinin yapılması doğru olur?"
+      },
+      {
+        "number": 14,
+        "text": "Şekildeki trafik işaretinin anlamı nedir?",
+        "method": "question_mark_pattern",
+        "raw": "Şekildeki trafik işaretinin anlamı nedir?"
+      },
+      {
+        "number": 15,
+        "text": "Aşağıdakilerden hangisi, şok durumundaki kazazedeye yapılması gereken ilk yardım uygulamalarındandır?",
+        "method": "question_mark_pattern",
+        "raw": "Aşağıdakilerden hangisi, şok durumundaki kazazedeye yapılması gereken ilk yardım uygulamalarındandır?"
+      },
+      {
+        "number": 16,
+        "text": "Aşağıdakilerden hangisi çıkıklarda yapılan ilk yardım uygulamalarındandır?",
+        "method": "question_mark_pattern",
+        "raw": "Aşağıdakilerden hangisi çıkıklarda yapılan ilk yardım uygulamalarındandır?"
+      },
+      {
+        "number": 17,
+        "text": "Şekle göre aşağıdaki ifadelerden hangisi yanlıştır?",
+        "method": "question_mark_pattern",
+        "raw": "Şekle göre aşağıdaki ifadelerden hangisi yanlıştır?"
+      },
+      {
+        "number": 18,
+        "text": "Aşağıdaki durumların hangisinde, sürüş esnasında refleksler zayıflamış olacağından direksiyon başındaki tepkiler çok daha yavaş gerçekleşecektir?",
+        "method": "question_mark_pattern",
+        "raw": "Aşağıdaki durumların hangisinde, sürüş esnasında refleksler zayıflamış olacağından direksiyon başındaki tepkiler çok daha yavaş gerçekleşecektir?"
+      },
+      {
+        "number": 19,
+        "text": "Yakıtı doğrudan doğruya silindirler içersinde yakan ve üretilen ısı enerjisini pistonbiyel mekanizması ile krank miline ileten motorlara ne ad verilir?",
+        "method": "question_mark_pattern",
+        "raw": "Yakıtı doğrudan doğruya silindirler içersinde yakan ve üretilen ısı enerjisini pistonbiyel mekanizması ile krank miline ileten motorlara ne ad verilir?"
+      },
+      {
+        "number": 20,
+        "text": "Hangisini yapmak çevrenin temiz kalmasına katkı sağlar?",
+        "method": "question_mark_pattern",
+        "raw": "Hangisini yapmak çevrenin temiz kalmasına katkı sağlar?"
+      },
+      {
+        "number": 21,
+        "text": "Bir sürücünün, emniyet kemeri kullanmaya özen göstermesinin esas nedeni ne olmalıdır?",
+        "method": "question_mark_pattern",
+        "raw": "Bir sürücünün, emniyet kemeri kullanmaya özen göstermesinin esas nedeni ne olmalıdır?"
+      },
+      {
+        "number": 22,
+        "text": "Aracın periyodik bakımı yapılırken aşağıdakilerden hangisinin değiştirilmemesi araç motorunun çalışmasını olumsuz etkiler?",
+        "method": "question_mark_pattern",
+        "raw": "Aracın periyodik bakımı yapılırken aşağıdakilerden hangisinin değiştirilmemesi araç motorunun çalışmasını olumsuz etkiler?"
+      },
+      {
+        "number": 23,
+        "text": "Fan motoru çalıştığı hâlde motor suyunun soğumamasının sebebi aşağıdakilerden hangisidir?",
+        "method": "question_mark_pattern",
+        "raw": "Fan motoru çalıştığı hâlde motor suyunun soğumamasının sebebi aşağıdakilerden hangisidir?"
+      },
+      {
+        "number": 24,
+        "text": "Videoya göre sürücü nasıl davranmalıdır?",
+        "method": "question_mark_pattern",
+        "raw": "Videoya göre sürücü nasıl davranmalıdır?"
+      },
+      {
+        "number": 25,
+        "text": "Yetişkinlere yapılan dış kalp masajı uygulamasıyla ilgili olarak verilenlerden hangisi doğrudur?",
+        "method": "question_mark_pattern",
+        "raw": "Yetişkinlere yapılan dış kalp masajı uygulamasıyla ilgili olarak verilenlerden hangisi doğrudur?"
+      },
+      {
+        "number": 26,
+        "text": "Aşağıdakilerden hangisi atardamar kanamalarına ait bir özelliktir?",
+        "method": "question_mark_pattern",
+        "raw": "Aşağıdakilerden hangisi atardamar kanamalarına ait bir özelliktir?"
+      },
+      {
+        "number": 27,
+        "text": "Aşağıdaki parçalardan hangisi arızalandığında motor yağında su, soğutma suyunda yağ olduğu gözlenir?",
+        "method": "question_mark_pattern",
+        "raw": "Aşağıdaki parçalardan hangisi arızalandığında motor yağında su, soğutma suyunda yağ olduğu gözlenir?"
+      },
+      {
+        "number": 28,
+        "text": "Hangisi, motor soğutma sisteminin elemanı değildir?",
+        "method": "question_mark_pattern",
+        "raw": "Hangisi, motor soğutma sisteminin elemanı değildir?"
+      },
+      {
+        "number": 29,
+        "text": "Motordaki yağ basıncını sürücüye bildiren gösterge aşağıdakilerden hangisidir?",
+        "method": "question_mark_pattern",
+        "raw": "Motordaki yağ basıncını sürücüye bildiren gösterge aşağıdakilerden hangisidir?"
+      },
+      {
+        "number": 30,
+        "text": "Yağ çubuğunun görevi aşağıdakilerden hangisidir?",
+        "method": "question_mark_pattern",
+        "raw": "Yağ çubuğunun görevi aşağıdakilerden hangisidir?"
+      },
+      {
+        "number": 31,
+        "text": "Aşağıdaki tehlike uyarı işaretlerinden hangisi “gevşek malzemeli zemin” anlamındadır?",
+        "method": "question_mark_pattern",
+        "raw": "Aşağıdaki tehlike uyarı işaretlerinden hangisi “gevşek malzemeli zemin” anlamındadır?"
+      },
+      {
+        "number": 32,
+        "text": "Aşağıdakilerden hangisi yakıt sisteminin parçası değildir?",
+        "method": "question_mark_pattern",
+        "raw": "Aşağıdakilerden hangisi yakıt sisteminin parçası değildir?"
+      },
+      {
+        "number": 33,
+        "text": "Aracın 2 saniyede gideceği yol uzunluğu, hangi mesafenin belirlenmesinde kullanılır?",
+        "method": "question_mark_pattern",
+        "raw": "Aracın 2 saniyede gideceği yol uzunluğu, hangi mesafenin belirlenmesinde kullanılır?"
+      },
+      {
+        "number": 34,
+        "text": "Aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, şarj sisteminin çalışmadığını gösterir?",
+        "method": "question_mark_pattern",
+        "raw": "Aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, şarj sisteminin çalışmadığını gösterir?"
+      },
+      {
+        "number": 35,
+        "text": "Demir yolu (hemzemin) geçidinde aşağıdakilerden hangisinin yapılması yasaktır?",
+        "method": "question_mark_pattern",
+        "raw": "Demir yolu (hemzemin) geçidinde aşağıdakilerden hangisinin yapılması yasaktır?"
+      },
+      {
+        "number": 36,
+        "text": "Araç park edildikten sonra aşağıdakilerden hangisini yapmak gerekir?",
+        "method": "question_mark_pattern",
+        "raw": "Araç park edildikten sonra aşağıdakilerden hangisini yapmak gerekir?"
+      },
+      {
+        "number": 37,
+        "text": "Aracın kullanma kılavuzuna göre, belirli kilometre dolunca aşağıdaki parçalardan hangisi değiştirilir?",
+        "method": "question_mark_pattern",
+        "raw": "Aracın kullanma kılavuzuna göre, belirli kilometre dolunca aşağıdaki parçalardan hangisi değiştirilir?"
+      },
+      {
+        "number": 38,
+        "text": "Aşağıdakilerden hangisi solunum durmasına bağlı olarak dokuların oksijensiz kaldığını gösteren bir belirtidir?",
+        "method": "question_mark_pattern",
+        "raw": "Aşağıdakilerden hangisi solunum durmasına bağlı olarak dokuların oksijensiz kaldığını gösteren bir belirtidir?"
+      },
+      {
+        "number": 39,
+        "text": "Araç motorunun ilk çalıştırılması esnasında vites hangi konumda olmalıdır?",
+        "method": "question_mark_pattern",
+        "raw": "Araç motorunun ilk çalıştırılması esnasında vites hangi konumda olmalıdır?"
+      },
+      {
+        "number": 40,
+        "text": "Aşağıdakilerden hangisi motorun harareti yükseldiğinde yapılması gereken işlemlerdendir?",
+        "method": "question_mark_pattern",
+        "raw": "Aşağıdakilerden hangisi motorun harareti yükseldiğinde yapılması gereken işlemlerdendir?"
+      },
+      {
+        "number": 41,
+        "text": "Bebeklerde (0-12 ay) tek ilk yardımcı ile yapılan dış kalp masajı uygulanması ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+        "method": "question_mark_pattern",
+        "raw": "Bebeklerde (0-12 ay) tek ilk yardımcı ile yapılan dış kalp masajı uygulanması ile ilgili olarak aşağıdakilerden hangisi doğrudur?"
+      },
+      {
+        "number": 42,
+        "text": "I- Trafik kültürünün ve güvenlik bilincinin gelişmesine katkıda bulunmakII- İnsan faktöründen kaynaklanan trafik kazalarının azalmasını sağlamakIII- Trafik kazaları nedeniyle, insan, araç ve çevrede meydana gelen zararı azaltmak\nVerilenlerden hangileri trafik psikolojisinin hedeflerindendir?",
+        "method": "question_mark_pattern",
+        "raw": "I- Trafik kültürünün ve güvenlik bilincinin gelişmesine katkıda bulunmakII- İnsan faktöründen kaynaklanan trafik kazalarının azalmasını sağlamakIII- Trafik kazaları nedeniyle, insan, araç ve çevrede meydana gelen zararı azaltmak\nVerilenlerden hangileri trafik psikolojisinin hedeflerindendir?"
+      },
+      {
+        "number": 43,
+        "text": "Araçların güvenli bir şekilde yavaşlamasını, durmasını ve sabitlenmesini sağlayan sistem aşağıdakilerden hangisidir?",
+        "method": "question_mark_pattern",
+        "raw": "Araçların güvenli bir şekilde yavaşlamasını, durmasını ve sabitlenmesini sağlayan sistem aşağıdakilerden hangisidir?"
+      },
+      {
+        "number": 44,
+        "text": "Görseldeki gibi bir karşılaşmada, 2 numaralı araç sürücüsü ne yapmalıdır?",
+        "method": "question_mark_pattern",
+        "raw": "Görseldeki gibi bir karşılaşmada, 2 numaralı araç sürücüsü ne yapmalıdır?"
+      },
+      {
+        "number": 45,
+        "text": "Aşağıdaki kanama türlerinden hangisinde, kan kaybı diğerlerine nazaran fazla olduğu için daha kısa sürede hayati tehlike meydana gelir?",
+        "method": "question_mark_pattern",
+        "raw": "Aşağıdaki kanama türlerinden hangisinde, kan kaybı diğerlerine nazaran fazla olduğu için daha kısa sürede hayati tehlike meydana gelir?"
+      },
+      {
+        "number": 46,
+        "text": "Kara yolunun sağ ve soluna konan şekildeki trafik işaretleri sürücülere aşağıdakilerden hangisine yaklaşıldığını bildirir?",
+        "method": "question_mark_pattern",
+        "raw": "Kara yolunun sağ ve soluna konan şekildeki trafik işaretleri sürücülere aşağıdakilerden hangisine yaklaşıldığını bildirir?"
+      },
+      {
+        "number": 47,
+        "text": "Aracın motorunda başlayan bir yangını, yangın söndürücü ile söndürmek için ilk olarak aşağıdakilerden hangisi yapılır?",
+        "method": "question_mark_pattern",
+        "raw": "Aracın motorunda başlayan bir yangını, yangın söndürücü ile söndürmek için ilk olarak aşağıdakilerden hangisi yapılır?"
+      },
+      {
+        "number": 48,
+        "text": "Şok pozisyonunda, kazazedenin bacakları kaç cm kadar yukarı kaldırılır?",
+        "method": "question_mark_pattern",
+        "raw": "Şok pozisyonunda, kazazedenin bacakları kaç cm kadar yukarı kaldırılır?"
+      },
+      {
+        "number": 49,
+        "text": "Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?",
+        "method": "question_mark_pattern",
+        "raw": "Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?"
+      },
+      {
+        "number": 50,
+        "text": "Aşağıdakilerden hangisi geçiş üstünlüğüne sahiptir?",
+        "method": "question_mark_pattern",
+        "raw": "Aşağıdakilerden hangisi geçiş üstünlüğüne sahiptir?"
+      }
+    ]
+  },
+  "rawSample": "\n    \n        \n    \n        \n    \n        \n\n\n\t\n\t\t            \n        \n                        \n                \n                \n    \n        \n            \n                    Menü\n            \n        \n    \n\n                              \n            \n    \n        \n                \n\n                        \n        \nAnasayfa                        \n        \nİlkyardım Soruları                        \n        \nTrafik Soruları                        \n        \nMotor Soruları                        \n        \nTrafik Adabı                        \n        \nEhliyet sınav soruları                        \n    \n                \n    \n\n            \n                \n                    \n        \n                \n\nfunction myFunction() {\n  document.getElementById(\"myDropdown\").classList.toggle(\"in\");\n}\n\n\nwindow.onclick = function(event) {\n  if (!event.target.matches('.dropbtn')) {\n    var dropdowns = document.getElementsByClassName(\"navbar-collapse collapse \");\n    var i;\n    for (i = 0; i < dropdowns.length; i++) {\n      var openDropdown = dropdowns[i];\n      if (openDropdown.classList.contains('show')) {\n        openDropdown.classList.remove('show');\n      }\n    }\n  }\n}\n\n        \n        \n\n    \n\n\n\t\n\t\t\n\n\n    \n\n        \n            \n            \n                \n                     \n                \n                    \n                    \n            \n            \n    \n        \n\n\n\t\n\n\n\n\n     (adsbygoogle = window.adsbygoogle || []).push({});\n\n\n    \n    \n\n                            \n                \n            \n                        \n                    \n\n                    \n    \n    Haziran Ehliyet Deneme Soruları 12025 Haziran Ayı Sınav-1 Ehliyet sınavı hazırlık ekibi tarafından e-sınav müfredatına uygun olarak hazırlanmıştır.Soru 1.  \"Geceleyin şehirlerarası kara yolunda seyrederken araçla karşılaşıldığında kısa farları kullanmak gerekir. Bu durumda, net görüş mesafesi ortalama 25 metreye düşer.\"\nBu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak d"
+}

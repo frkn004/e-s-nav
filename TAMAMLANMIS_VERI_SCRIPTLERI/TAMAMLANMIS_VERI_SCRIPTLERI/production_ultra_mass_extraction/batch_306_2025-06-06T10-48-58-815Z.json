@@ -1,0 +1,28 @@
+{
+  "batchInfo": {
+    "batchNumber": 306,
+    "startIndex": 915,
+    "urlCount": 3,
+    "timestamp": "2025-06-06T10-48-58-815Z"
+  },
+  "results": [
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/esinavlar-ekim-3.html",
+      "error": "AI processing failed: API Error: 401 Unauthorized",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/esinavlar-ekim-19.html",
+      "error": "AI processing failed: API Error: 429 Too Many Requests",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/esinavlar-ekim-4.html",
+      "error": "AI processing failed: API Error: 429 Too Many Requests",
+      "cost": 0
+    }
+  ]
+}

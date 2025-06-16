@@ -1,0 +1,28 @@
+{
+  "batchInfo": {
+    "batchNumber": 400,
+    "startIndex": 1197,
+    "urlCount": 3,
+    "timestamp": "2025-06-06T11-09-59-097Z"
+  },
+  "results": [
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/esinav-subat-6.html",
+      "error": "AI processing failed: API Error: 429 Too Many Requests",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/esinav-subat-20.html",
+      "error": "AI processing failed: API Error: 429 Too Many Requests",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/esinav-subat-7.html",
+      "error": "AI processing failed: API Error: 429 Too Many Requests",
+      "cost": 0
+    }
+  ]
+}

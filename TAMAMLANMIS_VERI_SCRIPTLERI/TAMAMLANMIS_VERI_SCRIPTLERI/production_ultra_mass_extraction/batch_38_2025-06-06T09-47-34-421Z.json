@@ -1,0 +1,28 @@
+{
+  "batchInfo": {
+    "batchNumber": 38,
+    "startIndex": 111,
+    "urlCount": 3,
+    "timestamp": "2025-06-06T09-47-34-421Z"
+  },
+  "results": [
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-nisan-sorulari-25.html",
+      "error": "AI processing failed: API Error: 429 Too Many Requests",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-nisan-sorulari-11.html",
+      "error": "AI processing failed: API Error: 429 Too Many Requests",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-nisan-sorulari-26.html",
+      "error": "AI processing failed: API Error: 429 Too Many Requests",
+      "cost": 0
+    }
+  ]
+}

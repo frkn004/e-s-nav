@@ -1,0 +1,28 @@
+{
+  "batchInfo": {
+    "batchNumber": 417,
+    "startIndex": 1248,
+    "urlCount": 3,
+    "timestamp": "2025-06-06T11-13-46-594Z"
+  },
+  "results": [
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinav-kasim-ayi-17.html",
+      "error": "AI processing failed: API Error: 429 Too Many Requests",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinav-kasim-ayi-3.html",
+      "error": "AI processing failed: API Error: 429 Too Many Requests",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinav-kasim-ayi-18.html",
+      "error": "AI processing failed: API Error: 429 Too Many Requests",
+      "cost": 0
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "pageId": "4.3",
+  "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-7.html",
+  "processed": true,
+  "timestamp": "2025-06-06T09:23:06.113Z",
+  "questionCount": 51,
+  "imageCount": 13,
+  "hasContent": true,
+  "title": "7 Haziran 2025 Ehliyet Sınavı Hazırlık Soruları",
+  "data": {
+    "title": "7 Haziran 2025 Ehliyet Sınavı Hazırlık Soruları",
+    "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-7.html",
+    "questions": [],
+    "images": [
+      {
+        "src": "https://ehliyetsinavihazirlik.com/templates/ehliyetsinavihazirl/images/designer/ehliyetlogo.webp",
+        "alt": "Ehliyet Sınavı Hazırlık",
+        "index": 1
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/sorular/6eylul2014ehliyetsorulari/soru26.jpg",
+        "alt": "",
+        "index": 2
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/sorular/12temmuz2014ehliyetsorulari/soru16.jpg",
+        "alt": "",
+        "index": 3
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/sorular/29agustos/soru18.png",
+        "alt": "",
+        "index": 4
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/22.JPG",
+        "alt": "",
+        "index": 5
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/21nisanehliyetsorulari/16.png",
+        "alt": "",
+        "index": 6
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/23.JPG",
+        "alt": "",
+        "index": 7
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/soru_3.png",
+        "alt": "",
+        "index": 8
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/12_a.JPG",
+        "alt": "",
+        "index": 9
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/12_b.JPG",
+        "alt": "",
+        "index": 10
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/12_c.JPG",
+        "alt": "",
+        "index": 11
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/12_d.JPG",
+        "alt": "",
+        "index": 12
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/10sinav6/soru69.gif",
+        "alt": "",
+        "index": 13
+      }
+    ],
+    "metadata": {
+      "questionCount": 51,
+      "optionCount": 207,
+      "imageCount": 13,
+      "hasContent": true,
+      "contentLength": 15652,
+      "soruPatternCount": 50,
+      "questionMarkCount": 48,
+      "calculationMethod": "options_divided_by_4"
+    }
+  }
+}

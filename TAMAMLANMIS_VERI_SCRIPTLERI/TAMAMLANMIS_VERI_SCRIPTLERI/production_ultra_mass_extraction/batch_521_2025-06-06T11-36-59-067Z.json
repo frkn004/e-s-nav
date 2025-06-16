@@ -1,0 +1,28 @@
+{
+  "batchInfo": {
+    "batchNumber": 521,
+    "startIndex": 1560,
+    "urlCount": 3,
+    "timestamp": "2025-06-06T11-36-59-067Z"
+  },
+  "results": [
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinav-ocak-22.html",
+      "error": "AI processing failed: API Error: 401 Unauthorized",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinav-ocak-7.html",
+      "error": "AI processing failed: API Error: 401 Unauthorized",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinav-ocak-23.html",
+      "error": "AI processing failed: API Error: 401 Unauthorized",
+      "cost": 0
+    }
+  ]
+}

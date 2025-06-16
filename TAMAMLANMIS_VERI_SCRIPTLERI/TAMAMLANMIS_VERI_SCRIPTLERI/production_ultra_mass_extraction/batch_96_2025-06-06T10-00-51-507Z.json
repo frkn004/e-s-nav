@@ -1,0 +1,28 @@
+{
+  "batchInfo": {
+    "batchNumber": 96,
+    "startIndex": 285,
+    "urlCount": 3,
+    "timestamp": "2025-06-06T10-00-51-507Z"
+  },
+  "results": [
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-agustos-sorulari-7.html",
+      "error": "AI processing failed: API Error: 429 Too Many Requests",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-agustos-sorulari-23.html",
+      "error": "AI processing failed: API Error: 401 Unauthorized",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-agustos-sorulari-8.html",
+      "error": "AI processing failed: API Error: 401 Unauthorized",
+      "cost": 0
+    }
+  ]
+}

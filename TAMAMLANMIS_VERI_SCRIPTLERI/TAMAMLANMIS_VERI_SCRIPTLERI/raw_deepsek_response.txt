@@ -1,0 +1,66 @@
+```json
+{
+  "questions": [
+    {
+      "id": 1,
+      "text": "Aşağıdakilerden hangisi trafik kazalarının en önemli sebebidir?",
+      "options": {
+        "A": "İklim şartları",
+        "B": "Yol yapısı",
+        "C": "Sürücü hataları",
+        "D": "Araç bakımsızlığı"
+      },
+      "correctAnswer": "C",
+      "hasImage": false
+    },
+    {
+      "id": 2,
+      "text": "Araçlarda emniyet kemeri kullanımının zorunlu olması ile aşağıdakilerden hangisi hedeflenmiştir?",
+      "options": {
+        "A": "Kaza anında ölüm ve yaralanmaları en aza indirmek",
+        "B": "Sürücülerin daha rahat etmesini sağlamak",
+        "C": "Trafikteki araç sayısını azaltmak",
+        "D": "Trafik akışını hızlandırmak"
+      },
+      "correctAnswer": "A",
+      "hasImage": false
+    },
+    {
+      "id": 3,
+      "text": "Aşağıdakilerden hangisi trafikte çevreyi korumaya yönelik davranışlardandır?",
+      "options": {
+        "A": "Aracın bakımını düzenli yaptırmak",
+        "B": "Aracı yüksek hızda kullanmak",
+        "C": "Aracın camlarını açık bırakmak",
+        "D": "Aracı gürültülü kullanmak"
+      },
+      "correctAnswer": "A",
+      "hasImage": false
+    },
+    {
+      "id": 4,
+      "text": "Trafik kazası geçiren bir yaralının araç içerisinden çıkarılmasında ilk önce aşağıdakilerden hangisi dikkate alınmalıdır?",
+      "options": {
+        "A": "Yaralının kendisinin çıkmasını beklemek",
+        "B": "Yaralının omuriliğine zarar vermeden çıkarmak",
+        "C": "Yaralının hızlıca çıkarılması",
+        "D": "Yaralının eşyalarının toplanması"
+      },
+      "correctAnswer": "B",
+      "hasImage": false
+    },
+    {
+      "id": 5,
+      "text": "Aşağıdakilerden hangisi trafikte sürücülerin uyması gereken kurallardan biri değildir?",
+      "options": {
+        "A": "Hız limitlerine uymak",
+        "B": "Alkollü araç kullanmamak",
+        "C": "Trafik işaretlerine uymak",
+        "D": "Yayalara yol vermemek"
+      },
+      "correctAnswer": "D",
+      "hasImage": false
+    }
+  ]
+}
+```

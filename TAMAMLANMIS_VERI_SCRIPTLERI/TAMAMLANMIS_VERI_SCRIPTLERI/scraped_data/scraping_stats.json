@@ -1,0 +1,25 @@
+{
+  "total_questions": 147,
+  "by_category": {
+    "trafik": 106,
+    "motorbilgisi": 41
+  },
+  "sample_questions": [
+    {
+      "category": "trafik",
+      "question": "Şekildeki kavşakta ilk geçiş hakkı sıralaması nasıl olmalıdır?...",
+      "options_count": 4
+    },
+    {
+      "category": "trafik",
+      "question": "Sürücü ve yolcuları araçta tutarak vücudun ileri-sağa-sola veya yukarı vurmasını önler. Kaza anında ...",
+      "options_count": 4
+    },
+    {
+      "category": "motorbilgisi",
+      "question": "Ani hızlanmalar yapılması Araç lastiklerinin eskimesi Hava filtresinin değiştirilmesi Yukarıdakilerd...",
+      "options_count": 4
+    }
+  ],
+  "scraped_at": "2025-06-05T16:39:26.436Z"
+}

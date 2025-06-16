@@ -1,0 +1,77 @@
+{
+  "pageId": "2.3",
+  "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-2.html",
+  "processed": true,
+  "timestamp": "2025-06-06T09:22:57.085Z",
+  "questionCount": 51,
+  "imageCount": 10,
+  "hasContent": true,
+  "title": "2 Haziran 2025 Ehliyet Sınavı Hazırlık Soruları",
+  "data": {
+    "title": "2 Haziran 2025 Ehliyet Sınavı Hazırlık Soruları",
+    "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-2.html",
+    "questions": [],
+    "images": [
+      {
+        "src": "https://ehliyetsinavihazirlik.com/templates/ehliyetsinavihazirl/images/designer/ehliyetlogo.webp",
+        "alt": "Ehliyet Sınavı Hazırlık",
+        "index": 1
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/47.JPG",
+        "alt": "",
+        "index": 2
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/sorular/deneme/soru44.jpg",
+        "alt": "",
+        "index": 3
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/sorular/deneme/soru40.jpg",
+        "alt": "",
+        "index": 4
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/20-mayis-2017/39.gif",
+        "alt": "",
+        "index": 5
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/10sinav7/soru39.gif",
+        "alt": "",
+        "index": 6
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/banners/soru26.gif",
+        "alt": "",
+        "index": 7
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/10sinav10/soru55.gif",
+        "alt": "",
+        "index": 8
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/21.JPG",
+        "alt": "",
+        "index": 9
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/10sinav6/soru46.gif",
+        "alt": "",
+        "index": 10
+      }
+    ],
+    "metadata": {
+      "questionCount": 51,
+      "optionCount": 207,
+      "imageCount": 10,
+      "hasContent": true,
+      "contentLength": 15886,
+      "soruPatternCount": 50,
+      "questionMarkCount": 49,
+      "calculationMethod": "options_divided_by_4"
+    }
+  }
+}

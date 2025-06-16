@@ -1,0 +1,1036 @@
+[
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nBu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?\n\nA) Tarım araçları\nB) Toplu taşıma araçları\nC) Gümrük muhafaza araçları\nD) Yaralı ve acil hasta taşıyan araçlar"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770572_1",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nTaşıt yolu üzerine çizilen şekildeki yazı neyi bildirmektedir?\n\nA) Işıklara 50 m kaldığını\nB) Asgari (en az) hız sınırını\nC) Azami (en yüksek) hız sınırını\nD) Öndeki araca 50 m’den fazla yaklaşılmamasını"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770572_2",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nKarşıdan gelen araçla karşılaşıldığında uzağı gösteren ışıkların yerine hangisi yakılmalıdır?\n\nA) Yakını gösteren ışıklar\nB) Acil uyarı ışıkları\nC) Dönüş ışıkları\nD) Park ışıkları"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770572_3",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAşağıdakilerden hangisi balanssız tekerleğin araç üzerindeki etkilerinden biridir?\n\nA) Motorun soğuması\nB) Direksiyonun titremesi\nC) Motor yakıtına yağ karışması\nD) Fren disk yüzeyinin soğuması"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770572_4",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nBuna göre aşağıdakilerden hangisi arızalı araç çekilirken uyulması gereken şartlardan biri değildir?\n\nA) Çekilen aracın ağırlığının, çeken aracın taşıma sınırından az olması\nB) Birbirine bağlanan iki araç arasındaki açıklığın 10 metre olması\nC) Çekilen aracın, sürücü yönetiminde olması\nD) Her iki aracın da boş (yüksüz) olması"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770572_5",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nŞekildeki trafik işareti neyi ifade eder?\n\nA) Geçme yasağının sonu olduğunu\nB) Öndeki taşıtın geçilmesinin yasak olduğunu\nC) Bütün yasaklama ve kısıtlamaların sona erdiğini\nD) Yük taşıtlarının öndeki taşıtları geçmelerinin yasak olduğunu"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770572_6",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nBu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur?\n\nA) Sırtüstü yatış\nB) Yarı oturuş\nC) Koma\nD) Şok"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770572_7",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nŞekildeki kavşakta ilk geçiş hakkı sıralaması nasıl olmalıdır?\n\nA) 1 - 2 - 3\nB) 1 - 3 - 2\nC) 2 - 3 - 1\nD) 3 - 1 – 2"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770572_8",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nMotor çok sıcak iken radyatöre soğuk su konulması aşağıdakilerden hangisine sebep olur?\n\nA) Motorun stop etmesine\nB) Motor gücünün artmasına\nC) Motor bloğunun çatlamasına\nD) Motor sıcaklığının artmasına"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770572_9",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nYönetmeliğe göre işitme cihazı ile belirli bir duyma yeterliliğine ulaşan sürücü, aşağıdaki sürücü belgelerinden hangisi ile araç kullanabilir?\n\nA) G sınıfı\nB) A1 ve A2 sınıfı\nC) C, CE ve D sınıfı\nD) B sınıfı (hususi araç)"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770572_10",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nGörsele göre, hangisinin yapılması doğru olur?\n\nA) 1 numaralı aracın 2 numaralı araca geçme önceliği vermesi\nB) 1 numaralı aracın, 2 numaralı araca geçiş kolaylığı sağlamak için, solundaki şeride geçmesi\nC) 2 numaralı aracın, 1 numaralı araç geçtikten sonra sol şeride geçmesi\nD) 2 numaralı aracın, 1 numaralı aracı uyararak yavaşlatması"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770572_11",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nŞekildeki trafik işaretinin anlamı nedir?\n\nA) Taşıt giremez\nB) Motosiklet giremez\nC) Taşıt trafiğine kapalı yol\nD) Motosiklet hariç motorlu taşıt trafiğine kapalı yol"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770572_12",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAşağıdakilerden hangisi, şok durumundaki kazazedeye yapılması gereken ilk yardım uygulamalarındandır?\n\nA) Yarı oturur pozisyon verilmesi\nB) Fiziksel hareketinin artırılması\nC) Hava yolu açıklığının sağlanması\nD) Soğuk suyla ıslatılmış çarşafla üzerinin örtülmesi"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde medium seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770572_13",
+      "category": "unknown",
+      "difficulty": "medium",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAşağıdakilerden hangisi çıkıklarda yapılan ilk yardım uygulamalarındandır?\n\nA) Kazazedenin hareket ettirilmesi\nB) Çıkığın yerine oturtulmaya çalışılması\nC) Çıkığın alt bölgesindeki deri rengi, ısı ve nabzın kontrol edilmesi\nD) Eklemin düzeltildikten sonra tespit edilmesi"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_14",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nŞekle göre aşağıdaki ifadelerden hangisi yanlıştır?\n\nA) 1 ve 2 numaralı taşıtlar ana yoldadır.\nB) 3 ve 4 numaralı taşıtlar tali yoldadır.\nC) 3 ve 4 numaralı taşıtlar bölünmüş kara yolundadır.\nD) 1, 2, 3 ve 4 numaralı taşıtlar iki yönlü kara yolundadır."
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_15",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAşağıdaki durumların hangisinde, sürüş esnasında refleksler zayıflamış olacağından direksiyon başındaki tepkiler çok daha yavaş gerçekleşecektir?\n\nA) Sürüş öncesi alkollü içki içilmişse\nB) Sürüş öncesi düzenli ve yeterli uyku uyunmuşsa\nC) Molalarda kan dolaşımını artıran hareketler yapılmışsa\nD) Temiz hava için aracın camları kısa süreliğine açılmışsa"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_16",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nYakıtı doğrudan doğruya silindirler içersinde yakan ve üretilen ısı enerjisini pistonbiyel mekanizması ile krank miline ileten motorlara ne ad verilir?\n\nA) Marş motoru\nB) Elektrik motoru\nC) İçten yanmalı motor\nD) Dıştan yanmalı motor"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde hard seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_17",
+      "category": "unknown",
+      "difficulty": "hard",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nHangisini yapmak çevrenin temiz kalmasına katkı sağlar?\n\nA) Gereksiz yere korna çalmak\nB) Seyahat esnasında, yiyecek atıklarını otoyol kenarlarına bırakmak\nC) Egzoz emisyon ölçümünü geciktirmek\nD) Araç bakımlarını zamanında yaptırmak"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_18",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nBir sürücünün, emniyet kemeri kullanmaya özen göstermesinin esas nedeni ne olmalıdır?\n\nA) Trafik kazalarında koruyucu önlem olarak görmek\nB) Araçta bulunan uyarı sistemini susturmak\nC) Denetimlerde problem yaşamamak\nD) Ceza almaktan çekinmek"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_19",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAracın periyodik bakımı yapılırken aşağıdakilerden hangisinin değiştirilmemesi araç motorunun çalışmasını olumsuz etkiler?\n\nA) Fren balatasının\nB) Polen filtresinin\nC) Yakıt filtresinin\nD) Geri vites müşirinin"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde medium seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_20",
+      "category": "unknown",
+      "difficulty": "medium",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nFan motoru çalıştığı hâlde motor suyunun soğumamasının sebebi aşağıdakilerden hangisidir?\n\nA) Radyatör petekleri tıkanmıştır.\nB) Araç lastiklerinin havası fazladır.\nC) Soğutma suyunda antifriz vardır.\nD) Soğutma sisteminde termostat yoktur."
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_21",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nVideoya göre sürücü nasıl davranmalıdır?\n\nA) Sabit hızla aynı şeritte yoluna devam etmeli\nB) Sol şeride geçip derhal servise gitmeli\nC) Yavaşlayıp sağ şeritten yoluna devam etmeli\nD) Trafik kurallarına uygun olarak derhal durmalı"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_22",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nYetişkinlere yapılan dış kalp masajı uygulamasıyla ilgili olarak verilenlerden hangisi doğrudur?\n\nA) Ellerin parmakları göğüs kafesiyle temas ettirilmeden, dirsekler bükülmeden ve göğüs kemiği üzerine vücuda dik olacak şekilde tutulması\nB) Göğüs kemiğinin alt ve üst ucunun tespit edilerek üst yarısına, orta ve yüzük parmağının dik olarak yerleştirilmesi\nC) Uygulama hızının dakikada 30 bası olacakşekilde ayarlanması\nD) Göğüs kemiği 3 cm aşağı inecek şekildebası uygulanması"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_23",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAşağıdakilerden hangisi atardamar kanamalarına ait bir özelliktir?\n\nA) Küçük kabarcıklar şeklinde kanama olması\nB) Yüzeysel bir yaradan yayılarak, yavaş akması\nC) Koyu kırmızı renkteki kanın taşar biçimde akması\nD) Açık kırmızı renkteki kanın, kalp atımı ile eş zamanlı fışkırır tarzda akması"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_24",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAşağıdaki parçalardan hangisi arızalandığında motor yağında su, soğutma suyunda yağ olduğu gözlenir?\n\nA) Piston\nB) Kam mili\nC) Krank mili\nD) Silindir kapak contası"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_25",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nHangisi, motor soğutma sisteminin elemanı değildir?\n\nA) Balata\nB) Su pompası\nC) Radyatör\nD) Termostat"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_26",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nMotordaki yağ basıncını sürücüye bildiren gösterge aşağıdakilerden hangisidir?\n\nA) Yağ göstergesi\nB) Yakıt göstergesi\nC) Hararet göstergesi\nD) Motor devir göstergesi"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_27",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nYağ çubuğunun görevi aşağıdakilerden hangisidir?\n\nA) Antifriz seviyesini göstermek\nB) Elektrolit seviyesini göstermek\nC) Motor yağı seviyesini göstermek\nD) Soğutma suyu seviyesini göstermek"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_28",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAşağıdakilerden hangisi yakıt sisteminin parçası değildir?\n\nA) Yakıt pompası\nB) Enjektörler\nC) Endüksiyon bobini\nD) Hava filtresi"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_29",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAracın 2 saniyede gideceği yol uzunluğu, hangi mesafenin belirlenmesinde kullanılır?\n\nA) Takip mesafesi\nB) Geçiş mesafesi\nC) İntikal mesafesi\nD) Görüş mesafesi"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_30",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nDemir yolu (hemzemin) geçidinde aşağıdakilerden hangisinin yapılması yasaktır?\n\nA) Bariyer açık ise dikkatli geçilmesi\nB) Bariyer kapalı ise durulması\nC) Öndeki aracın geçilmesi\nD) Hızın azaltılması"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_31",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAraç park edildikten sonra aşağıdakilerden hangisini yapmak gerekir?\n\nA) Vitesi boşa almak\nB) El frenini çekmek\nC) Fren pedalına basmak\nD) Debriyaj pedalına basmak"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_32",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAracın kullanma kılavuzuna göre, belirli kilometre dolunca aşağıdaki parçalardan hangisi değiştirilir?\n\nA) Buji\nB) Manifold\nC) Karbüratör\nD) Teker jantı"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_33",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAşağıdakilerden hangisi solunum durmasına bağlı olarak dokuların oksijensiz kaldığını gösteren bir belirtidir?\n\nA) Göz bebeklerinin küçülmesi\nB) Kişinin aktif ve huzursuz olması\nC) Yüzde kızarma ve vücut sıcaklığının artması\nD) Parmak uçları ve dudaklardan başlayıp yayılan morarma olması"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde medium seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_34",
+      "category": "unknown",
+      "difficulty": "medium",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAraç motorunun ilk çalıştırılması esnasında vites hangi konumda olmalıdır?\n\nA) Boş\nB) 1. vites\nC) 2. vites\nD) 3. vites"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_35",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAşağıdakilerden hangisi motorun harareti yükseldiğinde yapılması gereken işlemlerdendir?\n\nA) Motorun üzerine su dökülmesi\nB) Klimanın, çalışıyorsa kapatılması\nC) Motorun stop edilerek soğuk su ilave edilmesi\nD) Motorun stop edilerek soğuk antifriz ilave edilmesi"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_36",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nBebeklerde (0-12 ay) tek ilk yardımcı ile yapılan dış kalp masajı uygulanması ile ilgili olarak aşağıdakilerden hangisi doğrudur?\n\nA) Göğüs ve sırt kısmının iki elin arasına alınarak sıkıştırılması\nB) Sağ elin yumruk hâline getirilerek göğüs merkezine vurulması\nC) Göğüs kemiği 6 cm aşağıya inecek şekilde basınç uygulanması\nD) Bir elin orta ve yüzük parmağı ile göğüs kemiği 4 cm aşağıya inecek şekilde basınç uygulanması"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde medium seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_37",
+      "category": "unknown",
+      "difficulty": "medium",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nVerilenlerden hangileri trafik psikolojisinin hedeflerindendir?\n\nA) Yalnız I\nB) I ve II\nC) II ve III\nD) I, II ve III"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_38",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAraçların güvenli bir şekilde yavaşlamasını, durmasını ve sabitlenmesini sağlayan sistem aşağıdakilerden hangisidir?\n\nA) Fren sistemi\nB) Marş sistemi\nC) Ateşleme sistemi\nD) Süspansiyon sistemi"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde medium seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_39",
+      "category": "unknown",
+      "difficulty": "medium",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nGörseldeki gibi bir karşılaşmada, 2 numaralı araç sürücüsü ne yapmalıdır?\n\nA) Geçiş önceliğini kendisi kullanmalı\nB) Hızlanıp köprüye 1 numaralı araçtan önce girmeli\nC) Geçiş önceliğini 1 numaralı araca vermeli\nD) 1 numaralı aracın daralan yol bölümüne girmemesi için selektör yaparak uyarmalı"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_40",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAşağıdaki kanama türlerinden hangisinde, kan kaybı diğerlerine nazaran fazla olduğu için daha kısa sürede hayati tehlike meydana gelir?\n\nA) Burun kanamaları\nB) Atardamar kanamaları\nC) Kılcal damar kanamaları\nD) Toplardamar kanamaları"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru unknown kategorisinde medium seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_41",
+      "category": "unknown",
+      "difficulty": "medium",
+      "source": "ehliyetsinavihazirlik.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAşağıdakilerden hangisi yakıt içerisindeki yabancı maddeleri temizleyen elemandır?\n\nC) EVAP AÇIKLAMASI:\nA) şağıdakilerden hangisi yakıt içerisindeki yabancı maddeleri temizleyen elemandır?\nD) istribütörün arızalanması\nB) ujilerin arızalanması"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru trafik kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_42",
+      "category": "trafik",
+      "difficulty": "easy",
+      "source": "ehliyet-soru.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nTrafikte kırmızı ışıkta beklerken ışık sarıya döner dönmez önündeki araca korna çalan, ışığın yeşile dönmesi için 1 saniye bile bekleyemeyen sürücünün bu davranışı için aşağıdakilerden hangisi söylenebilir?\n\nA) Saygılı\nB) Telaşsız\nC) Sorumlu\nD) Sabırsız"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru ilkyard kategorisinde medium seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_43",
+      "category": "ilkyard",
+      "difficulty": "medium",
+      "source": "ehliyet-soru.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nBuna göre trafik içinde hatalı davranış sergileyen bir sürücüye hangisinin yapılması, hem o sürücünün hem de trafikteki diğer sürücülerin kaza yapma yada olumsuz bir durum oluşturma riskini azaltır?\n\nA) Aşırı tepki gösterilmesi\nB) Kaba ve saldırgan davranılması\nC) Kızgın biçimde kornaya basılması\nD) Nezaket ve saygı çerçevesinde uyarılması"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru trafik kategorisinde medium seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_44",
+      "category": "trafik",
+      "difficulty": "medium",
+      "source": "ehliyet-soru.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nYukarıdakilerden hangileri ilk yardımı yapacak kişide bulunmalıdır?\n\nA) zami (en yüksek) hız sınırını\nC) EVAP AÇIKLAMASI:\nD) önüş ışıklarını geç anlamında kullanmak\nB) uji kıvılcımı ile"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru trafikadab kategorisinde easy seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_45",
+      "category": "trafikadab",
+      "difficulty": "easy",
+      "source": "ehliyet-soru.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nYaya yolu ayrılmamış kara yolunda, taşıt yolu kenarı ile şev başı veya hendek iç üst kenarı arasında kalan ve olağan olarak yayaların ve hayvanların kullanacağı, zorunlu hâllerde de araçların faydalanabileceği bölüme ne denir?\n\nA) Banket\nB) Şerit\nC) Platform\nD) Kavşak ortak alanı"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru trafikadab kategorisinde medium seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_46",
+      "category": "trafikadab",
+      "difficulty": "medium",
+      "source": "ehliyet-soru.com"
+    }
+  },
+  {
+    "messages": [
+      {
+        "role": "system",
+        "content": "Sen ehliyet sınavı uzmanısın. Verilen soruları analiz et ve doğru cevabı bul."
+      },
+      {
+        "role": "user",
+        "content": "Aşağıdaki ehliyet sınavı sorusunu cevaplayın:\n\nAracın kontak anahtarı motoru çalıştırmayacak şekilde açıldığında, gösterge panelinde bulunan şekildeki akü şarj ikaz ışığının yanması gerekir. Yanmıyorsa, arıza aşağıdakilerden hangisinde olabilir?\n\nA) Marş motorunda\nB) Soğutma fanında\nC) Motor devir göstergesinde\nD) Akü şarj ikaz ışığının ampülünde"
+      },
+      {
+        "role": "assistant",
+        "content": "Bu soru trafik kategorisinde hard seviyesinde bir sorudur. Soruyu dikkatlice okuyup en uygun seçeneği işaretlemelisiniz."
+      }
+    ],
+    "metadata": {
+      "question_id": "clean_1749198770573_47",
+      "category": "trafik",
+      "difficulty": "hard",
+      "source": "ehliyet-soru.com"
+    }
+  }
+]

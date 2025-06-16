@@ -1,0 +1,3971 @@
+[
+  {
+    "questionNumber": "4",
+    "category": "trafik",
+    "questionText": "Şekildeki kavşakta ilk geçiş hakkı sıralaması nasıl olmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1 - 2 - 3"
+      },
+      {
+        "label": "B",
+        "text": "1 - 3 - 2"
+      },
+      {
+        "label": "C",
+        "text": "2 - 3 - 1"
+      },
+      {
+        "label": "D",
+        "text": "3 - 1 – 2"
+      }
+    ],
+    "explanation": "Kavşak içindeki araç öncelikli olduğu için ilk geçiş hakkı 2 numaralı aracındır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_0"
+  },
+  {
+    "questionNumber": "5",
+    "category": "trafik",
+    "questionText": "Sürücü ve yolcuları araçta tutarak vücudun ileri-sağa-sola veya yukarı vurmasını önler. Kaza anında ölüm ve yaralanmaları en aza indirmek amacıyla sürücü ve yolcular tarafından kullanılır. Yerleşim yeri içinde ticari amaçla yolcu taşımacılığı yapan minibüs ile dolmuş otomobillerindeki yolcuların emniyet kemeri takması zorunlu değildir. Emniyet kemeri ve kullanımıyla ilgili olarak yukarıda verilenlerden hangileri doğrudur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "I ve II."
+      },
+      {
+        "label": "B",
+        "text": "I ve III."
+      },
+      {
+        "label": "C",
+        "text": "II ve III."
+      },
+      {
+        "label": "D",
+        "text": "I, II ve III."
+      }
+    ],
+    "explanation": "I- Doğru. Emniyet kemeri kaza anında sürücü ve yolcuların araç koltuğundan fırlamasını önler.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_1"
+  },
+  {
+    "questionNumber": "6",
+    "category": "motorbilgisi",
+    "questionText": "Ani hızlanmalar yapılması Araç lastiklerinin eskimesi Hava filtresinin değiştirilmesi Yukarıdakilerden hangileri yakıt tüketiminin artmasına neden olur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "label": "B",
+        "text": "I ve II"
+      },
+      {
+        "label": "C",
+        "text": "II ve III"
+      },
+      {
+        "label": "D",
+        "text": "I, II ve III"
+      }
+    ],
+    "explanation": "Ani hızlanmalar, motorun daha fazla güç üretmesini gerektirir ve bu da daha fazla yakıt tüketimine neden olabilir. Ayrıca, eskimiş lastikler, aracın yuvarlanma direncini artırabilir ve bu da daha fazla yakıt tüketimine yol açabilir. Kirli hava filtresinin değiştirilmesi ise yakıt tüketimini olumlu yönde etkiler.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_2"
+  },
+  {
+    "questionNumber": "12",
+    "category": "trafik",
+    "questionText": "Şekildeki trafik işaretinin anlamı nedir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yaya giremez."
+      },
+      {
+        "label": "B",
+        "text": "Bisiklet giremez."
+      },
+      {
+        "label": "C",
+        "text": "At arabası giremez."
+      },
+      {
+        "label": "D",
+        "text": "Motorlu taşıt giremez."
+      }
+    ],
+    "explanation": "Şekildeki işaret yasağı bildirmektedir. Üzerinde yer alan otomobil ve motosiklet ise motorlu taşıt yasağını bildirir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_3"
+  },
+  {
+    "questionNumber": "13",
+    "category": "trafik",
+    "questionText": "Araç sürücüleri, taşıt yolunun dar olduğu yerlerdeki karşılaşmalarda, aksini gösteren bir trafik işareti yoksa aşağıdakilerden hangisine geçiş hakkı vermek suretiyle geçiş kolaylığı sağlamak zorundadır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Otomobili süren otobüse"
+      },
+      {
+        "label": "B",
+        "text": "Motorsuz aracı süren motorlu araca"
+      },
+      {
+        "label": "C",
+        "text": "Motorlu aracı süren motorsuz araca"
+      },
+      {
+        "label": "D",
+        "text": "Minibüsü süren lastik tekerlekli traktöre"
+      }
+    ],
+    "explanation": "Araç sürücüleri, taşıt yolunun dar olduğu yerlerde karşılaşmalarda, aksini gösteren bir trafik işareti yoksa motorsuz aracı süren motorlu araca geçiş hakkı vermek zorundadır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_4"
+  },
+  {
+    "questionNumber": "14",
+    "category": "trafik",
+    "questionText": "Yerleşim birimleri dışındaki kara yollarında geceleri seyrederken aşağıdaki durumların hangisinde uzağı gösteren ışıkların yakılması mecburidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Karşılaşmalarda"
+      },
+      {
+        "label": "B",
+        "text": "Öndeki araç yakından izlenirken"
+      },
+      {
+        "label": "C",
+        "text": "Aydınlatmanın yeterli olduğu kesimlerde"
+      },
+      {
+        "label": "D",
+        "text": "Yeterince aydınlatılmamış tünellere girerken"
+      }
+    ],
+    "explanation": "Yerleşim birimleri dışındaki kara yollarında geceleri seyrederken, yeterince aydınlatılmamış tünellere girerken (D) uzağı gösteren farların yakılması mecburidir. Diğer seçeneklerde ise farklı kurallar geçerlidir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_5"
+  },
+  {
+    "questionNumber": "15",
+    "category": "motorbilgisi",
+    "questionText": "Motoru çalıştırmak için uzun süre ve sıkça marş yapılması aşağıdakilerden hangisinin ömrünü kısaltır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Fren pedalının"
+      },
+      {
+        "label": "B",
+        "text": "Far ampulünün"
+      },
+      {
+        "label": "C",
+        "text": "Marş motorunun"
+      },
+      {
+        "label": "D",
+        "text": "Silecek motorunun"
+      }
+    ],
+    "explanation": "Uzun süre ve sıkça marş yapıldığında, marş motoru aşırı ısınır ve içindeki dişliler aşınır. Bu da motorun ömrünü kısaltır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_6"
+  },
+  {
+    "questionNumber": "16",
+    "category": "motorbilgisi",
+    "questionText": "Motor çalışır durumda iken, aracın gösterge panelinde bulunan şekildeki uyarı lambasının yanıyor olması neyi bildirir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Araç yakıtının bitmek üzere olduğunu"
+      },
+      {
+        "label": "B",
+        "text": "Araç kapılarından birinin açık kaldığını"
+      },
+      {
+        "label": "C",
+        "text": "Motor yağının değiştirilmesi gerektiğini"
+      },
+      {
+        "label": "D",
+        "text": "Ön ısıtma bujilerinin çalışmakta olduğunu"
+      }
+    ],
+    "explanation": "Uyarı lambası, benzin istasyonundaki yakıt pompasını işaret etmektedir. Bu ışığın yanması, yakıt deposunda kalan yakıt miktarının düşük seviyeye indiğini ve yakında yakıt almanız gerektiğini belirtir",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_7"
+  },
+  {
+    "questionNumber": "17",
+    "category": "trafik",
+    "questionText": "Zorunlu hâller dışında otoyollarda motorlu araçların asgari (en az) hız sınırı saatte kaç kilometredir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "15"
+      },
+      {
+        "label": "B",
+        "text": "35"
+      },
+      {
+        "label": "C",
+        "text": "40"
+      },
+      {
+        "label": "D",
+        "text": "50"
+      }
+    ],
+    "explanation": "Zorunlu hâller dışında otoyollarda motorlu araçların asgari hız sınırı saatte 40 kilometre olarak belirlenmiştir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_8"
+  },
+  {
+    "questionNumber": "18",
+    "category": "trafik",
+    "questionText": "Aşağıdakilerden hangisi, duraklanan veya park edilen yerden çıkan araç sürücüsünün uyması gereken kurallardan biri değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Işıkla veya kolla çıkış işareti vermesi"
+      },
+      {
+        "label": "B",
+        "text": "Aracını ve aracının etrafını kontrol etmesi"
+      },
+      {
+        "label": "C",
+        "text": "Yoldan geçen araç sürücülerini ikaz edip yavaşlatması"
+      },
+      {
+        "label": "D",
+        "text": "Sakıncalı bir durum olmadığında manevraya başlaması"
+      }
+    ],
+    "explanation": "Soruda altı çizili \"değildir\" ifadesine dikkat edilmelidir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_9"
+  },
+  {
+    "questionNumber": "19",
+    "category": "trafik",
+    "questionText": "Monoküler (tek gözü gören) kişilerle ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bu kişiler ticari araç kullanabilir."
+      },
+      {
+        "label": "B",
+        "text": "Sürücü belgesi aldıktan sonra her yıl bir göz hekiminden sağlık raporu almaları zorunludur."
+      },
+      {
+        "label": "C",
+        "text": "Kullanacakları araçların içinde, sağında ve solunda olmak üzere en az 3 ayna bulunması zorunludur."
+      },
+      {
+        "label": "D",
+        "text": "Kendileri açısından konulan kurallara uyup uymadıklarının denetlenebilmesi için sürücü belgelerine monoküler ibaresi yazılır."
+      }
+    ],
+    "explanation": "Monoküler kişiler, ticari araç kullanmak için gerekli olan bazı sağlık koşullarını sağlayamadıkları için ticari araç kullanamazlar. Genellikle ticari araç kullanabilmek için her iki gözün de sağlıklı olması beklenir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_10"
+  },
+  {
+    "questionNumber": "20",
+    "category": "trafik",
+    "questionText": "Trafik görevlisinin, geceleyin ışıklı işaret çubuğunu şekildeki gibi hareket ettirmesinin sürücüler için anlamı nedir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dur işareti"
+      },
+      {
+        "label": "B",
+        "text": "Geç işareti"
+      },
+      {
+        "label": "C",
+        "text": "Yavaşlatma işareti"
+      },
+      {
+        "label": "D",
+        "text": "Hızlandırma işareti"
+      }
+    ],
+    "explanation": "Trafik görevlisinin yaptığı bu işaret \"DUR\" anlamına gelmektedir. Trafik polisi, dur işareti yapmak için işaret çubuğunu 45 derecelik bir açıyla sağdan sola doğru hareket ettirir. Çubuğun ışıklı ucu yere dik şekilde tutulur ve ucu yukarıya bakacak şekilde konumlandırılır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_11"
+  },
+  {
+    "questionNumber": "24",
+    "category": "trafik",
+    "questionText": "Şekle göre araç sürücüsü hangi şeritleri kullanabilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1 ve 2"
+      },
+      {
+        "label": "B",
+        "text": "1 ve 3"
+      },
+      {
+        "label": "C",
+        "text": "2 ve 3"
+      },
+      {
+        "label": "D",
+        "text": "1, 2 ve 3"
+      }
+    ],
+    "explanation": "Sürücü, bulunduğu 3. şeritte düz devam edebilir. Bunun dışında, sürücünün sol tarafındaki kesikli çizgiler, 2. şeride geçiş yapabileceğini gösterir. Eğer sürücü tarafında kesikli çizgi olmasaydı, 2. şeride geçmesi yasak olurdu.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_12"
+  },
+  {
+    "questionNumber": "26",
+    "category": "motorbilgisi",
+    "questionText": "Şekilde soru işareti (?) ile gösterilen kapak­tan motora ne konulur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Antifriz"
+      },
+      {
+        "label": "B",
+        "text": "Motor yağı"
+      },
+      {
+        "label": "C",
+        "text": "Fren hidroliği"
+      },
+      {
+        "label": "D",
+        "text": "Motor soğutma suyu"
+      }
+    ],
+    "explanation": "Doğru cevap: B) Motor yağı ✅",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_13"
+  },
+  {
+    "questionNumber": "27",
+    "category": "trafik",
+    "questionText": "Bir kavşakta, trafik görevlisi ile birlikte ışıklı trafik işaret cihazı da bulunuyorsa, sürücü­ler öncelikle hangisine uymak zorundadır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Trafik görevlisine"
+      },
+      {
+        "label": "B",
+        "text": "Işıklı trafik işaret cihazına"
+      },
+      {
+        "label": "C",
+        "text": "Yeşil ışık yanıyorsa, ışıklı trafik işaret cihazına"
+      },
+      {
+        "label": "D",
+        "text": "Kırmızı ışık yanıyorsa, ışıklı trafik işaret cihazına"
+      }
+    ],
+    "explanation": "✅ Doğru cevap: A) Trafik görevlisine",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_14"
+  },
+  {
+    "questionNumber": "28",
+    "category": "trafik",
+    "questionText": "Reflektör İlk yardım çantası Flaşörlü yanıp sönen, sarı ışıklı dönerli uyarı lambası Lastik tekerlekli traktörlerde yukarıdaki teçhizattan hangilerinin bulundurulması zorunludur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "I ve II"
+      },
+      {
+        "label": "B",
+        "text": "I ve III"
+      },
+      {
+        "label": "C",
+        "text": "II ve III"
+      },
+      {
+        "label": "D",
+        "text": "I, II ve III"
+      }
+    ],
+    "explanation": "1. Reflektör: Motosiklet ve motoru bisiklet hariç bütün motorlu araçlarda bulundurulması zorunludur.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_15"
+  },
+  {
+    "questionNumber": "30",
+    "category": "trafik",
+    "questionText": "Yapılan ölçüm sonucunda yasal sınırların üzerinde alkollü olarak araç kullandığı birinci defa tespit edilen sürücüye aşağıdaki işlemlerden hangisi uygulanır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sadece para cezası verilir."
+      },
+      {
+        "label": "B",
+        "text": "Sürücü belgesi 6 ay süreyle geri alınır."
+      },
+      {
+        "label": "C",
+        "text": "Sürücü belgesi 5 yıl süreyle geri alınır."
+      },
+      {
+        "label": "D",
+        "text": "Sürücü belgesine süresiz olarak el konur."
+      }
+    ],
+    "explanation": "Yasal sınırların üzerinde alkollü olarak araç kullandığı ilk defa tespit edilen bir sürücüye sürücü belgesinin 6 ay süreyle geri alınması uygulanır. Bu, alkollü araç kullanmanın ilk kez tespit edilen bir sürücüye verilen cezadır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.767Z",
+    "id": "ehliyet_soru_1749141550768_16"
+  },
+  {
+    "questionNumber": "33",
+    "category": "motorbilgisi",
+    "questionText": "Donmayı önlemek için radyatöre ne konulur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yağ"
+      },
+      {
+        "label": "B",
+        "text": "Asit"
+      },
+      {
+        "label": "C",
+        "text": "Antifriz"
+      },
+      {
+        "label": "D",
+        "text": "Saf su"
+      }
+    ],
+    "explanation": "Antifriz, suyun donma noktasını düşürür ve radyatör sisteminde donmayı önler. Ayrıca pas ve korozyona karşı da koruma sağlar.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.767Z",
+    "id": "ehliyet_soru_1749141550768_17"
+  },
+  {
+    "questionNumber": "34",
+    "category": "trafik",
+    "questionText": "Şekildeki kara yolu bölümünde hangi numaralı taşıtın ok yönündeki hareketi yasaktır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1"
+      },
+      {
+        "label": "B",
+        "text": "2"
+      },
+      {
+        "label": "C",
+        "text": "3"
+      },
+      {
+        "label": "D",
+        "text": "4"
+      }
+    ],
+    "explanation": "Şekildeki kırmızı trafik levhası \"Girişi Olmayan Yol\" anlamına gelmektedir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.767Z",
+    "id": "ehliyet_soru_1749141550768_18"
+  },
+  {
+    "questionNumber": "35",
+    "category": "trafik",
+    "questionText": "Görülmelerinin engellenmesi Sorumlu kuruluşların eskiyenleri yenisi ile değiştirmesi Üzerlerine yazı yazılması, çizilmesi, kırılması, delinmesi, sökülmesi Trafik işaretleri ile ilgili olarak yukarıdaki davranışlardan hangilerinin yapılması yasaktır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "I ve II"
+      },
+      {
+        "label": "B",
+        "text": "I ve III"
+      },
+      {
+        "label": "C",
+        "text": "II ve III"
+      },
+      {
+        "label": "D",
+        "text": "I, II ve III"
+      }
+    ],
+    "explanation": "#ilkyardım",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.767Z",
+    "id": "ehliyet_soru_1749141550768_19"
+  },
+  {
+    "questionNumber": "38",
+    "category": "trafik",
+    "questionText": "Otomobilinin muayene zamanını öğrenmek isteyen sürücü, aşağıdaki belgelerden han­gisini kontrol etmelidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sürücü belgesi"
+      },
+      {
+        "label": "B",
+        "text": "Araç tescil belgesi"
+      },
+      {
+        "label": "C",
+        "text": "Araç imalat belgesi"
+      },
+      {
+        "label": "D",
+        "text": "Motorlu araç trafik belgesi"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.767Z",
+    "id": "ehliyet_soru_1749141550768_20"
+  },
+  {
+    "questionNumber": "39",
+    "category": "trafik",
+    "questionText": "Şekildeki trafik görevlisinin yapmış olduğu işaretin sürücüler için anlamı nedir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Geç"
+      },
+      {
+        "label": "B",
+        "text": "Hızlan"
+      },
+      {
+        "label": "C",
+        "text": "Yavaşla"
+      },
+      {
+        "label": "D",
+        "text": "Sağa yanaş ve dur"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.767Z",
+    "id": "ehliyet_soru_1749141550768_21"
+  },
+  {
+    "questionNumber": "40",
+    "category": "trafik",
+    "questionText": "Şekildeki trafik işareti görülünce ne yapılır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hız sabit tutulur."
+      },
+      {
+        "label": "B",
+        "text": "Hız azaltılır, sola sinyal verilir."
+      },
+      {
+        "label": "C",
+        "text": "Hız artırılır, sağa sinyal verilir."
+      },
+      {
+        "label": "D",
+        "text": "Hız azaltılır, varsa geçme yasağına uyulur."
+      }
+    ],
+    "explanation": "#ilkyardım",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.767Z",
+    "id": "ehliyet_soru_1749141550768_22"
+  },
+  {
+    "questionNumber": "42",
+    "category": "trafik",
+    "questionText": "Emniyet Genel Müdürlüğünün yetki alanı dışındaki yerlerde, trafiğin düzenlenmesi ve denetlenmesini hangi kuruluş yerine getirir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "İl Özel İdareleri"
+      },
+      {
+        "label": "B",
+        "text": "Afet İşleri Genel Müdürlüğü"
+      },
+      {
+        "label": "C",
+        "text": "Jandarma Genel Komutanlığı"
+      },
+      {
+        "label": "D",
+        "text": "Sivil Savunma Genel Müdürlüğü"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.767Z",
+    "id": "ehliyet_soru_1749141550768_23"
+  },
+  {
+    "questionNumber": "43",
+    "category": "trafik",
+    "questionText": "Kara yolunda, ticari olarak tescil edilmiş bir motorlu taşıtı süren kişiye ne ad verilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Şoför"
+      },
+      {
+        "label": "B",
+        "text": "Sürücü"
+      },
+      {
+        "label": "C",
+        "text": "İşleten"
+      },
+      {
+        "label": "D",
+        "text": "Araç sahibi"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.767Z",
+    "id": "ehliyet_soru_1749141550768_24"
+  },
+  {
+    "questionNumber": "44",
+    "category": "motorbilgisi",
+    "questionText": "Araçta yakıt ekonomisi için aşağıdakilerden hangisinin bakımı düzenli aralıklarla yapılmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sinyal ampulü"
+      },
+      {
+        "label": "B",
+        "text": "Hava filtresi"
+      },
+      {
+        "label": "C",
+        "text": "Hız göstergesi"
+      },
+      {
+        "label": "D",
+        "text": "Yakıt göstergesi"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.767Z",
+    "id": "ehliyet_soru_1749141550768_25"
+  },
+  {
+    "questionNumber": "45",
+    "category": "trafik",
+    "questionText": "Yerleşim birimleri dışındaki kara yollarında kavşak, tünel ve köprülere 100 metre mesa­fede, sürücünün aşağıdakilerden hangisini yapması uygundur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hızını artırması"
+      },
+      {
+        "label": "B",
+        "text": "Hızını azaltması"
+      },
+      {
+        "label": "C",
+        "text": "Şerit değiştirmesi"
+      },
+      {
+        "label": "D",
+        "text": "Taşıt yolu üzerinde duraklaması"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.767Z",
+    "id": "ehliyet_soru_1749141550768_26"
+  },
+  {
+    "questionNumber": "46",
+    "category": "trafik",
+    "questionText": "Yapısı itibariyle, sürücüsü dahil en fazla dokuz oturma yeri olan ve insan taşımak için imal edilmiş bulunan motorlu taşıta ne ad verilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Otobüs"
+      },
+      {
+        "label": "B",
+        "text": "Otomobil"
+      },
+      {
+        "label": "C",
+        "text": "Kamyon"
+      },
+      {
+        "label": "D",
+        "text": "Kamyonet"
+      }
+    ],
+    "explanation": "#ilkyardım",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.767Z",
+    "id": "ehliyet_soru_1749141550768_27"
+  },
+  {
+    "questionNumber": "49",
+    "category": "trafik",
+    "questionText": "Hangisi trafik kaza oranını etkileyen etmenlerden biri değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aracın yük durumu"
+      },
+      {
+        "label": "B",
+        "text": "Kural ihlalleri"
+      },
+      {
+        "label": "C",
+        "text": "Araç bakımları"
+      },
+      {
+        "label": "D",
+        "text": "Aracın beygir gücü"
+      }
+    ],
+    "explanation": "Aracın yükü belirtilen sınırın üzerindeyse kaza ihtimali artar.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.767Z",
+    "id": "ehliyet_soru_1749141550768_28"
+  },
+  {
+    "questionNumber": "50",
+    "category": "motorbilgisi",
+    "questionText": "Hangi parçanın düzgün çalışmaması, şarj ikaz lambasının yanmasına sebep olur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "V kayışının"
+      },
+      {
+        "label": "B",
+        "text": "Triger kayışının"
+      },
+      {
+        "label": "C",
+        "text": "Marş motorunun"
+      },
+      {
+        "label": "D",
+        "text": "Radyatörün"
+      }
+    ],
+    "explanation": "1 Mayıs 2025 Ehliyet Sınav Soruları Çöz",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.767Z",
+    "id": "ehliyet_soru_1749141550768_29"
+  },
+  {
+    "questionNumber": "1",
+    "category": "trafik",
+    "questionText": "Kara yollarında araç kullanan bir sürücünün aşağıdakilerden hangisini yapması yasaktır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aksine bir işaret yoksa daralan yol kesimlerinde yüklü araçlara geçiş kolaylığı sağlaması"
+      },
+      {
+        "label": "B",
+        "text": "Kavşaklarda, demir yolu geçitlerinde ve buralara yaklaşırken öndeki aracı geçmesi"
+      },
+      {
+        "label": "C",
+        "text": "Kavşağa geldiğinde varsa kurallara uygun olarak karşıya geçen yayalara geçiş hakkını vermesi"
+      },
+      {
+        "label": "D",
+        "text": "Geçiş üstünlüğü bulunan bir aracın duyulur veya görülür işaretini aldığında, bu araçların kolayca ilerlemelerini sağlamak için taşıt yolu üzerinde yer açması"
+      }
+    ],
+    "explanation": "Kavşak, demir yolu vb. yerlere yaklaşırken yavaşlamak gerekir. Öndeki aracı geçmek tehlikeye neden olacaktır. Bu gibi yerlerde geçiş yapmak yasaktır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_0"
+  },
+  {
+    "questionNumber": "3",
+    "category": "trafik",
+    "questionText": "Bir kavşakta sağa dönecek olan sürücünün aşağıdakilerden hangisini yapması yanlıştır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hızını azaltması"
+      },
+      {
+        "label": "B",
+        "text": "Dönüş işareti vermesi"
+      },
+      {
+        "label": "C",
+        "text": "Geniş bir kavisle dönmesi"
+      },
+      {
+        "label": "D",
+        "text": "Sağ şeride veya işaretlerle dönüş izni verilen şeride girmesi"
+      }
+    ],
+    "explanation": "Sola ve sağa dönüşlerde karşıdan gelen araçla çarpışmamak için aşağıdaki basit kurala dikkat edilmelidir:",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_1"
+  },
+  {
+    "questionNumber": "6",
+    "category": "trafik",
+    "questionText": "Sürücüler; yaya ve okul geçitlerine yaklaşırken, görüş yetersizliği olan tepe üstü ve dönemeçlerde aşağıdakilerden hangisini yapmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hızını azaltmalı"
+      },
+      {
+        "label": "B",
+        "text": "Öndeki aracı geçmeli"
+      },
+      {
+        "label": "C",
+        "text": "En sol şeritten gitmeli"
+      },
+      {
+        "label": "D",
+        "text": "Dörtlü ikaz ışıklarını yakmalı"
+      }
+    ],
+    "explanation": "Sürücüler; yaya ve okul geçitlerine yaklaşırken, görüş yetersizliği olan tepe üstü ve dönemeçlerde hızını azaltmalıdır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_2"
+  },
+  {
+    "questionNumber": "7",
+    "category": "motorbilgisi",
+    "questionText": "Aracın gösterge panelinde şekildeki uyarı lambasının yanıyor olması neyi bildirir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lastik basıncının düşük olduğunu"
+      },
+      {
+        "label": "B",
+        "text": "El freninin çekili olduğunu"
+      },
+      {
+        "label": "C",
+        "text": "Sis lambalarının yandığını"
+      },
+      {
+        "label": "D",
+        "text": "Fren balatalarının bittiğini"
+      }
+    ],
+    "explanation": "Bu gösterge (çemberin sağında ve solunda kesik çizgiler) fren balata sensörlü araçlarda karşımıza çıkar ve \"Fren balataları aşınmış\" anlamına gelir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_3"
+  },
+  {
+    "questionNumber": "9",
+    "category": "motorbilgisi",
+    "questionText": "Ani hızlanmalar yapılması Araç lastiklerinin eskimesi Hava filtresinin değiştirilmesi Yukarıdakilerden hangileri yakıt tüketiminin artmasına neden olur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "label": "B",
+        "text": "I ve II"
+      },
+      {
+        "label": "C",
+        "text": "II ve III"
+      },
+      {
+        "label": "D",
+        "text": "I, II ve III"
+      }
+    ],
+    "explanation": "Ani hızlanmalar, motorun daha fazla güç üretmesini gerektirir ve bu da daha fazla yakıt tüketimine neden olabilir. Ayrıca, eskimiş lastikler, aracın yuvarlanma direncini artırabilir ve bu da daha fazla yakıt tüketimine yol açabilir. Kirli hava filtresinin değiştirilmesi ise yakıt tüketimini olumlu yönde etkiler.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_4"
+  },
+  {
+    "questionNumber": "10",
+    "category": "trafik",
+    "questionText": "Şekildeki trafik işaretinin anlamı nedir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Taşıt giremez"
+      },
+      {
+        "label": "B",
+        "text": "Motosiklet giremez"
+      },
+      {
+        "label": "C",
+        "text": "Taşıt trafiğine kapalı yol"
+      },
+      {
+        "label": "D",
+        "text": "Motosiklet hariç motorlu taşıt trafiğine kapalı yol"
+      }
+    ],
+    "explanation": "Kırmızı çember işaretleri yasak bildirir. Çemberin içinde otomobil olduğu için araç yasağını belirtir. Ancak motosiklet girebilir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_5"
+  },
+  {
+    "questionNumber": "11",
+    "category": "trafik",
+    "questionText": "Şekildeki kavşakta sola dönüş yapacak olan 2 numaralı araç sürücüsü nasıl davranmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dar bir kavisle dönmeli"
+      },
+      {
+        "label": "B",
+        "text": "Hızını azaltmadan kavşağa girmeli"
+      },
+      {
+        "label": "C",
+        "text": "Karşıya geçen yayaya yol vermeli"
+      },
+      {
+        "label": "D",
+        "text": "İlk geçiş hakkını kendisi kullanmalı"
+      }
+    ],
+    "explanation": "A-Yanlış: Sola dönüşler \"geniş\" kavisle olmalıdır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_6"
+  },
+  {
+    "questionNumber": "12",
+    "category": "motorbilgisi",
+    "questionText": "Aşağıdakilerden hangisinin, normalin çok altında eksilmesi veya özelliğini kaybetmesi durumunda motor aşırı ısınarak zarar görür?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Antifriz"
+      },
+      {
+        "label": "B",
+        "text": "Fren hidroliği"
+      },
+      {
+        "label": "C",
+        "text": "Motor yağı"
+      },
+      {
+        "label": "D",
+        "text": "Akü elektroliti"
+      }
+    ],
+    "explanation": "Motor yağı, motorun içindeki parçaların sürtünmesini azaltır, aşınmayı engeller ve motorun soğumasına yardımcı olur. Motor yağı düzgün bir şekilde çalışmazsa, sürtünme artar ve motor aşırı ısınabilir, bu da motor parçalarının zarar görmesine ve motorun hasar görmesine neden olabilir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_7"
+  },
+  {
+    "questionNumber": "13",
+    "category": "motorbilgisi",
+    "questionText": "Süspansiyon sisteminde bulunan ve yay salınım süresini kısaltan, şekilde soru işareti (?) ile gösterilmiş parça aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Şaft"
+      },
+      {
+        "label": "B",
+        "text": "Volan"
+      },
+      {
+        "label": "C",
+        "text": "Kavrama"
+      },
+      {
+        "label": "D",
+        "text": "Amortisör"
+      }
+    ],
+    "explanation": "Amortisörler, aracın sürüş konforunu artırmak için tekerleklerin yol yüzeyindeki düzensizlikleri emerken aynı zamanda biraz \"yay\" görevi de görerek aracın stabilize olmasını sağlarlar.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_8"
+  },
+  {
+    "questionNumber": "14",
+    "category": "trafik",
+    "questionText": "Bir sürücünün kara yollarında  aşağıdakilerden hangisini yapması yasaktır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "İki şeridi birden kullanması"
+      },
+      {
+        "label": "B",
+        "text": "Aracını gidiş yönüne göre yolun en sağından sürmesi"
+      },
+      {
+        "label": "C",
+        "text": "Gidişe ayrılan yol bölümünün en sol şeridini sürekli işgal etmekten kaçınması"
+      },
+      {
+        "label": "D",
+        "text": "Şerit değiştirmeden önce, gireceği şeritte sürülen araçların güvenle geçişlerini beklemesi"
+      }
+    ],
+    "explanation": "Bir sürücünün iki şeridi birden kullanması yasaktır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_9"
+  },
+  {
+    "questionNumber": "15",
+    "category": "trafik",
+    "questionText": "Bir kavşak yakınında kara yolu taşıt yollarının birbirine bağlanmasını sağlayan, kavşak alanı dışında kalan ve bir yönlü trafiğe ayrılmış olan kara yolu kısmına ne ad verilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Banket"
+      },
+      {
+        "label": "B",
+        "text": "Ana yol"
+      },
+      {
+        "label": "C",
+        "text": "Geçiş yolu"
+      },
+      {
+        "label": "D",
+        "text": "Bağlantı yolu"
+      }
+    ],
+    "explanation": "Bağlantı Yolu: Bir kavşak yakınında karayolu taşıt yollarının birbirine bağlanmasını sağlayan, kavşak alanı dışında kalan ve bir yönlü trafiğe ayrılmış olan karayolu kısmıdır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_10"
+  },
+  {
+    "questionNumber": "18",
+    "category": "trafik",
+    "questionText": "İtfaiye araçları Organ ve doku nakil araçları Afet ve acil durum hâllerinde afet ve acil durum hizmetlerinde görevli bulunan araçlar Sanık veya suçluları takip eden veya genel güvenlik ve asayiş için olay yerine giden zabıta araçları Verilen araçların görev hâli durumunda birbirleriyle karşılaşmalarında, geçiş üstünlüğü ile kavşaklarda ilk geçiş hakkı sıralaması nasıl olmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "I - II - III - IV"
+      },
+      {
+        "label": "B",
+        "text": "I - II - IV - III"
+      },
+      {
+        "label": "C",
+        "text": "II - I - IV - III"
+      },
+      {
+        "label": "D",
+        "text": "II - III - I - IV"
+      }
+    ],
+    "explanation": "Geçiş üstünlüğü sıralaması:",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_11"
+  },
+  {
+    "questionNumber": "22",
+    "category": "trafik",
+    "questionText": "Aşağıdakilerden hangisi araç sahiplik belgesidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sürücü belgesi"
+      },
+      {
+        "label": "B",
+        "text": "Araç tescil belgesi"
+      },
+      {
+        "label": "C",
+        "text": "Araç imalat belgesi"
+      },
+      {
+        "label": "D",
+        "text": "Servis bakım belgesi"
+      }
+    ],
+    "explanation": "Araç tescil belgesi, bir aracın yasal olarak kime ait olduğunu gösteren resmi bir belgedir. Bu belge, aracın kayıtlı olduğu tescil kurumundan alınır ve araç sahibine verilir. Araç tescil belgesi, araç alım-satım işlemleri ve trafikte yasal olarak kullanımı için gereklidir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_12"
+  },
+  {
+    "questionNumber": "23",
+    "category": "motorbilgisi",
+    "questionText": "Dizel motorlar hangi prensibe göre çalışır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sıkıştırılmış hava üzerine mazot püskürtme"
+      },
+      {
+        "label": "B",
+        "text": "Sıkıştırılmış hava üzerine benzin püskürtme"
+      },
+      {
+        "label": "C",
+        "text": "Sıkıştırılmış mazot-hava karışımını bujiyle ateşleme"
+      },
+      {
+        "label": "D",
+        "text": "Sıkıştırılmış benzin-hava karışımını bujiyle ateşleme"
+      }
+    ],
+    "explanation": "Dizel motorlar, sıkıştırma ile ateşleme prensibine dayanır. Motorun içinde hava yüksek basınçla sıkıştırılır ve bu sıkıştırma sırasında hava sıcaklığı oldukça yükselir. Daha sonra bu sıcak hava üzerine mazot (dizel yakıt) püskürtülür. Sıcak hava, mazotu tutuşturarak yanma sürecini başlatır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_13"
+  },
+  {
+    "questionNumber": "24",
+    "category": "trafik",
+    "questionText": "Ülkemizde, her yıl yaklaşık olarak beş bin kişinin hayatını kaybettiği ve bu rakamın iki katı kadar da yaralanma olayının ger­çekleştiği trafik kazalarının önünün kesilmesindeki en büyük etken aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Otomotiv sanayisindeki gelişmelerin takip edilmesi"
+      },
+      {
+        "label": "B",
+        "text": "Bireylerde trafik kültürü ve bilincinin oluşturulması"
+      },
+      {
+        "label": "C",
+        "text": "Trafik suçlarına uygulanan cezaların artırılması"
+      },
+      {
+        "label": "D",
+        "text": "Taşıt bakımlarının zamanında yaptırılması"
+      }
+    ],
+    "explanation": "Trafik kazalarının önlenmesindeki en büyük etken, bireylerde trafik kültürü ve bilincinin oluşturulmasıdır. İnsanların trafik kurallarına uyması, dikkatli ve saygılı bir şekilde araç kullanması, kazaların azaltılmasında en önemli faktördür. Bu, toplumsal bir bilinç ve eğitimle sağlanabilir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_14"
+  },
+  {
+    "questionNumber": "25",
+    "category": "trafik",
+    "questionText": "Araçlarda ilk yardım çantası bulundurulması konusunda aşağıdakilerden hangisi doğrudur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sadece şehir içi taşımacılık yapan araçlar­da zorunludur."
+      },
+      {
+        "label": "B",
+        "text": "Sadece şehirler arası taşımacılık yapan araçlarda zorunludur."
+      },
+      {
+        "label": "C",
+        "text": "Motorlu araçlarda (motorlu bisiklet, motosik­let ve traktör hariç) zorunludur."
+      },
+      {
+        "label": "D",
+        "text": "Sadece A1, A2 ve F sınıfı belge ile kullanı­lan araçlarda zorunludur."
+      }
+    ],
+    "explanation": "Araçlarda ilk yardım çantası bulundurulması zorunludur, ancak motorlu bisiklet, motosiklet ve traktörler bu zorunluluktan hariçtir. Diğer tüm motorlu taşıtlar, ister şehir içi ister şehirler arası taşımacılık yapsın, ilk yardım çantası bulundurmak zorundadır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_15"
+  },
+  {
+    "questionNumber": "26",
+    "category": "motorbilgisi",
+    "questionText": "Akünün bakımında, elektrolit seviyesinin düşük olduğu gözlemlendiğinde aşağıdakilerden hangisi yapılmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Asit ilave edilmeli"
+      },
+      {
+        "label": "B",
+        "text": "Saf su ilave edilmeli"
+      },
+      {
+        "label": "C",
+        "text": "Hava filtresi değiştirilmeli"
+      },
+      {
+        "label": "D",
+        "text": "Kutup başları gevşetilmeli"
+      }
+    ],
+    "explanation": "Aküdeki elektrolit seviyesi düşük olduğunda, saf su eklenmesi gereklidir. Aküdeki elektrolit, genellikle sulandırılmış sülfürik asit çözeltisidir, ancak saf su eklenmesi, asidik seviyeyi bozmaz ve akünün doğru çalışmasını sağlar. Asit eklemek tehlikeli olabilir çünkü aküdeki asidik çözeltinin oranını arttırarak akünün ömrünü kısaltabilir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_16"
+  },
+  {
+    "questionNumber": "27",
+    "category": "trafik",
+    "questionText": "Alkolün beyindeki karar verme ve frenleme yeteneğini bozması, özellikle vücudumuz­daki hangi sistem üzerinde etkili olduğunu gösterir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hareket sistemi"
+      },
+      {
+        "label": "B",
+        "text": "Sindirim sistemi"
+      },
+      {
+        "label": "C",
+        "text": "Dolaşım sistemi"
+      },
+      {
+        "label": "D",
+        "text": "Merkezi sinir sistemi"
+      }
+    ],
+    "explanation": "Alkol, merkezi sinir sistemi üzerinde etkili olarak beynin karar verme, muhakeme ve frenleme gibi işlevlerini bozar. Bu durum, reflekslerin yavaşlamasına, dikkat dağınıklığına ve motor becerilerde bozulmaya neden olur. Merkezi sinir sistemindeki bu etkiler, özellikle trafik ortamında ciddi riskler oluşturur.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_17"
+  },
+  {
+    "questionNumber": "29",
+    "category": "trafik",
+    "questionText": "Kara yolunun genel olarak taşıt trafiğince kullanılan kısmına ne ad verilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Banket"
+      },
+      {
+        "label": "B",
+        "text": "Terminal"
+      },
+      {
+        "label": "C",
+        "text": "Hemzemin geçit"
+      },
+      {
+        "label": "D",
+        "text": "Taşıt yolu"
+      }
+    ],
+    "explanation": "Taşıt yolu, karayolunun araç trafiğine ayrılmış kısmıdır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_18"
+  },
+  {
+    "questionNumber": "30",
+    "category": "motorbilgisi",
+    "questionText": "Dört zamanlı motorlarda, zamanların olu­şum sırası aşağıdakilerin hangisindeki gibi olur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Emme - Ateşleme (İş) - Egzoz - Sıkıştırma"
+      },
+      {
+        "label": "B",
+        "text": "Egzoz - Emme - Ateşleme (İş) - Sıkıştırma"
+      },
+      {
+        "label": "C",
+        "text": "Ateşleme (İş) - Emme - Sıkıştırma - Egzoz"
+      },
+      {
+        "label": "D",
+        "text": "Emme - Sıkıştırma - Ateşleme (İş) - Egzoz"
+      }
+    ],
+    "explanation": "Dört zamanlı motorlarda çalışma sırası şu şekildedir:",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_19"
+  },
+  {
+    "questionNumber": "32",
+    "category": "trafik",
+    "questionText": "Bir aracın yolcu indirmek amacıyla kısa süreli durdurulmasına ne denir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Durma"
+      },
+      {
+        "label": "B",
+        "text": "Bekleme"
+      },
+      {
+        "label": "C",
+        "text": "Duraklama"
+      },
+      {
+        "label": "D",
+        "text": "Park etme"
+      }
+    ],
+    "explanation": "Doğru cevap: C) Duraklama ✔",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_20"
+  },
+  {
+    "questionNumber": "37",
+    "category": "trafik",
+    "questionText": "Bölünmüş kara yollarında geçilen araç sürücüleri, geçmek isteyen aracın geçiş işaretini aldığında ne yapmak zorundadır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sağ şeride geçmek"
+      },
+      {
+        "label": "B",
+        "text": "Sığınma cebine girmek"
+      },
+      {
+        "label": "C",
+        "text": "Önündeki aracı geçmek"
+      },
+      {
+        "label": "D",
+        "text": "Bulunduğu şeridi izlemek ve hızını artırmama"
+      }
+    ],
+    "explanation": "Trafik kurallarına göre geçilen araç sürücüsü, geçişi kolaylaştırmakla yükümlüdür;",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_21"
+  },
+  {
+    "questionNumber": "38",
+    "category": "trafik",
+    "questionText": "Haritaların üst kenar çizgisi hangi ana yönü gösterir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Batı"
+      },
+      {
+        "label": "B",
+        "text": "Doğu"
+      },
+      {
+        "label": "C",
+        "text": "Kuzey"
+      },
+      {
+        "label": "D",
+        "text": "Güney"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_22"
+  },
+  {
+    "questionNumber": "39",
+    "category": "trafik",
+    "questionText": "Aşağıdakilerden hangisi, araçların tescil işlemlerini yaparak belge ve plakalarını vermekle görevlidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sağlık Bakanlığı"
+      },
+      {
+        "label": "B",
+        "text": "Milli Eğitim Bakanlığı"
+      },
+      {
+        "label": "C",
+        "text": "Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü"
+      },
+      {
+        "label": "D",
+        "text": "Karayolları Genel Müdürlüğü"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_23"
+  },
+  {
+    "questionNumber": "40",
+    "category": "trafik",
+    "questionText": "Şekle göre kontrolsüz kavşakta karşılaşan araçlardan hangisi ilk geçiş hakkını kullanmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1 numaralı araç"
+      },
+      {
+        "label": "B",
+        "text": "2 numaralı araç"
+      },
+      {
+        "label": "C",
+        "text": "Hızı az olan araç"
+      },
+      {
+        "label": "D",
+        "text": "Hızı fazla olan araç"
+      }
+    ],
+    "explanation": "#ilkyardım",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_24"
+  },
+  {
+    "questionNumber": "43",
+    "category": "trafik",
+    "questionText": "Trafik görevlisinin geceleyin ışıklı işaret çubuğunu şekildeki gibi hareket ettirmesinin sürücüler için anlamı nedir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dur işareti"
+      },
+      {
+        "label": "B",
+        "text": "Dönüş işareti"
+      },
+      {
+        "label": "C",
+        "text": "Yavaşlatma işareti"
+      },
+      {
+        "label": "D",
+        "text": "Hızlandırma işareti"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_25"
+  },
+  {
+    "questionNumber": "44",
+    "category": "trafik",
+    "questionText": "\"İkiden fazla şeritli taşıt yollarında karşı yönden gelen trafiğin kullandığı şerit veya yol bölümüne girme\" trafik kazalarında________ sayılan hâllerdendir. Verilen ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "tali kusur"
+      },
+      {
+        "label": "B",
+        "text": "asli kusur"
+      },
+      {
+        "label": "C",
+        "text": "yol kusuru"
+      },
+      {
+        "label": "D",
+        "text": "kusuru paylaştırma"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_26"
+  },
+  {
+    "questionNumber": "45",
+    "category": "trafik",
+    "questionText": "Hızlarını artırmaları Virajı dar bir kavisle almaları Öndeki aracı geçmeleri Görseldeki gibi bir karayolu bölümünde seyreden sürücülerin, numaralanmış davranışlardan hangilerini yapmaları tehlikeli durumların oluşmasına neden olur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "A) I ve II"
+      },
+      {
+        "label": "B",
+        "text": "I ve III"
+      },
+      {
+        "label": "C",
+        "text": "II ve III"
+      },
+      {
+        "label": "D",
+        "text": "I, II ve III"
+      }
+    ],
+    "explanation": "Yoldaki trafik işareti sola keskin viraj olacağını belirtmektedir. Devamlı yol çizgisi ise geçme yasağını belirtmektedir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_27"
+  },
+  {
+    "questionNumber": "46",
+    "category": "trafik",
+    "questionText": "Hangisi trafik kaza oranını etkileyen etmenlerden biri değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aracın yük durumu"
+      },
+      {
+        "label": "B",
+        "text": "Kural ihlalleri"
+      },
+      {
+        "label": "C",
+        "text": "Araç bakımları"
+      },
+      {
+        "label": "D",
+        "text": "Aracın beygir gücü"
+      }
+    ],
+    "explanation": "Aracın yükü belirtilen sınırın üzerindeyse kaza ihtimali artar.",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_28"
+  },
+  {
+    "questionNumber": "47",
+    "category": "motorbilgisi",
+    "questionText": "Görseldeki ikaz ışığı hangi durumda yanmaz?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Lastik basıncı azaldığında"
+      },
+      {
+        "label": "B",
+        "text": "Lastik ısındığında"
+      },
+      {
+        "label": "C",
+        "text": "Lastik patladığında"
+      },
+      {
+        "label": "D",
+        "text": "Sensör arızalandığında"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.322Z",
+    "id": "ehliyet_soru_1749141555325_29"
+  },
+  {
+    "questionNumber": "48",
+    "category": "motorbilgisi",
+    "questionText": "Mümkün olduğunca az fren yapmak Vitese göre daha düşük devirde araç kullanmak Araç ilk çalıştırıldığında motora tam güç vermek Vitese göre yüksek devirde araç kullanmak Numaralanmış ifadelerden hangilerinin yapılması, yakıt tüketiminin artmasına sebep olur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "I ve II"
+      },
+      {
+        "label": "B",
+        "text": "I ve IV"
+      },
+      {
+        "label": "C",
+        "text": "I, II ve III"
+      },
+      {
+        "label": "D",
+        "text": "II, III ve IV"
+      }
+    ],
+    "explanation": "#trafikadabı",
+    "sourceUrl": "https://ehliyet-soru.com/test-2-mayis-2025-ehliyet-deneme-sinavi-938",
+    "scrapedAt": "2025-06-05T16:39:15.323Z",
+    "id": "ehliyet_soru_1749141555325_30"
+  },
+  {
+    "questionNumber": "1",
+    "category": "trafik",
+    "questionText": "Park hâlindeki araca çarpan sürücünün aşağıdakilerden hangisini yapması yanlıştır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aracın sahibini bulamazsa yazılı bilgi bırakması"
+      },
+      {
+        "label": "B",
+        "text": "Zarar fazla değilse olay yerinden uzaklaşması"
+      },
+      {
+        "label": "C",
+        "text": "Zarar verdiği aracın sahibini bulması"
+      },
+      {
+        "label": "D",
+        "text": "Trafik görevlisine haber vermesi"
+      }
+    ],
+    "explanation": "Park halindeki araca zarar veren kişinin araç sahibine bilgi vermesi gerekmektedir. Diğer tüm durumlar vurup kaçmak olarak değerlendirilerek yasal işlem yolunu açar.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.863Z",
+    "id": "ehliyet_soru_1749141558865_0"
+  },
+  {
+    "questionNumber": "2",
+    "category": "trafik",
+    "questionText": "Aşağıdakilerden hangisi Karayolları Trafik Kanunu’na göre sürücü olabilmenin şartlarından biri değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bir meslek sahibi olmak"
+      },
+      {
+        "label": "B",
+        "text": "Belirli bir eğitim seviyesine sahip olmak"
+      },
+      {
+        "label": "C",
+        "text": "Kullanacağı araca göre belirli bir yaşın üzerinde olmak"
+      },
+      {
+        "label": "D",
+        "text": "Sürücülük yapmaya uygun olduğunu gösterir sağlık raporu almak"
+      }
+    ],
+    "explanation": "Sürücü olabilmek için hangi mesleği yaptığınızın bir önemi yoktur. Bu yüzden doğru cevap A şıkkıdır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.863Z",
+    "id": "ehliyet_soru_1749141558865_1"
+  },
+  {
+    "questionNumber": "4",
+    "category": "motorbilgisi",
+    "questionText": "Lastiklerin hava basıncı dengesizse frenleme anında aşağıdakilerden hangisi olur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Araç bir tarafa çeker."
+      },
+      {
+        "label": "B",
+        "text": "Fren pedalı sertleşir."
+      },
+      {
+        "label": "C",
+        "text": "Frenlerden ses gelir."
+      },
+      {
+        "label": "D",
+        "text": "Fren hidroliği azalır."
+      }
+    ],
+    "explanation": "Lastiklerin basıncı dengesiz olunca fren anında lastiklerin sürtünme dirençleri de farklı olacaktır. Bu nedenle frenleme anında araç bir tarafa çeker.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.863Z",
+    "id": "ehliyet_soru_1749141558865_2"
+  },
+  {
+    "questionNumber": "7",
+    "category": "trafik",
+    "questionText": "Bir aracın güvenle taşıyabileceği en çok yük ağırlığına veya yolcu ve hizmetli sayısına ne denir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Gabari"
+      },
+      {
+        "label": "B",
+        "text": "Taşıma sınırı"
+      },
+      {
+        "label": "C",
+        "text": "Dingil ağırlığı"
+      },
+      {
+        "label": "D",
+        "text": "Azami ağırlık"
+      }
+    ],
+    "explanation": "Bir aracın güvenle taşıyabileceği en çok yük ağırlığına veya yolcu ve hizmetli sayısına \"Taşıma kapasitesi\" veya \"Taşıma sınırı\" denir. Bu terim, bir aracın tasarımına, yapısal özelliklerine ve üretici tarafından belirlenen güvenlik standartlarına dayanarak belirlenir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.863Z",
+    "id": "ehliyet_soru_1749141558865_3"
+  },
+  {
+    "questionNumber": "8",
+    "category": "trafik",
+    "questionText": "Araç sürücülerinin duraklanan veya park edilen yerden çıkarken; Işıkla veya kolla çıkış işareti vermeleri, Araçlarını ve araçların etrafını kontrol etmeleri, Yoldan geçen araçları ikaz ederek durdurmaları, Görüş alanları dışında kalan yerler varsa gözcü bulundurmaları mecburidir. Verilen bilgilerden hangileri doğrudur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "I ve III."
+      },
+      {
+        "label": "B",
+        "text": "I, II ve IV."
+      },
+      {
+        "label": "C",
+        "text": "II, III ve IV."
+      },
+      {
+        "label": "D",
+        "text": "I, II, III ve IV."
+      }
+    ],
+    "explanation": "II. maddede yer alan, araç sürücülerinin park edilen yerden çıkarken yoldan geçen araçları ikaz ederek durdurmaları doğru bir davranış değildir. Trafik kurallarına uyarak araçların geçişini beklemeli ve uygun olduğunda yola çıkmalıdırlar.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.863Z",
+    "id": "ehliyet_soru_1749141558865_4"
+  },
+  {
+    "questionNumber": "11",
+    "category": "trafik",
+    "questionText": "Şekildeki bölünmüş kara yolunda, 3 numaralı araç sürücüsünün azami (en yüksek) hızı saatte kaç kilometredir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30"
+      },
+      {
+        "label": "B",
+        "text": "50"
+      },
+      {
+        "label": "C",
+        "text": "70"
+      },
+      {
+        "label": "D",
+        "text": "90"
+      }
+    ],
+    "explanation": "3 numaralı aracın seyrettiği şeritteki yer işaretinde azami hızın 70km/h olduğu belirtilmektedir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.863Z",
+    "id": "ehliyet_soru_1749141558865_5"
+  },
+  {
+    "questionNumber": "13",
+    "category": "trafik",
+    "questionText": "Aşağıdakilerden hangisi, trafik denetim görevlilerinin istemesi hâlinde sürücülerin beyan etmek zorunda olduğu belgelerden biri değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sürücü belgesi"
+      },
+      {
+        "label": "B",
+        "text": "Araç bakım kartı"
+      },
+      {
+        "label": "C",
+        "text": "Araç tescil belgesi"
+      },
+      {
+        "label": "D",
+        "text": "Nüfus hüviyet cüzdanı"
+      }
+    ],
+    "explanation": "Trafik denetim görevlileri, sürücülerden sürücü belgesi, araç tescil belgesi ve nüfus hüviyet cüzdanı gibi belgeleri isteyebilir. Ancak, araç bakım kartı sürücülerin beyan etmek zorunda olduğu belgelerden biri değildir. Araç bakım kartı, aracın bakım ve onarım geçmişini gösteren bir belgedir ve sürücülerin araçlarının bakımını ve onarımını yaptırdıklarını kanıtlar. Ancak, bu belgeyi trafik denetim görevlilerine beyan etmek zorunda değildirler.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.863Z",
+    "id": "ehliyet_soru_1749141558865_6"
+  },
+  {
+    "questionNumber": "15",
+    "category": "trafik",
+    "questionText": "İkaz mahiyetinde olup yanış sırasına göre yolun trafiğe kapanmak veya açılmak üzere olduğunu gösterir. Bu ışık yandığında, emniyetle durulamayacak kadar yaklaşılmış ise normal geçiş yapılır, aksi hâlde yaya geçidi işgal edilmeden durulur. Yukarıda verilenler, ışıklı trafik işaret cihazında yanan hangi ışığın anlamını içerir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sarı"
+      },
+      {
+        "label": "B",
+        "text": "Yeşil"
+      },
+      {
+        "label": "C",
+        "text": "Kırmızı"
+      },
+      {
+        "label": "D",
+        "text": "Kırmızı oklu"
+      }
+    ],
+    "explanation": "Sarı ışık, sürücülere dikkatli olmaları ve durmaları gerektiğini belirtir. Bu durumda, sürücüler emniyetle duramayacak kadar yaklaşmışlarsa, normal geçiş yapılabilir; ancak, emniyetle durulabilecek mesafede ise, yaya geçidinin işgal edilmemesi için durulması gerekmektedir. Sarı ışık, trafik ışıklarında durma veya harekete geçme için bir uyarı işlevi görür.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.863Z",
+    "id": "ehliyet_soru_1749141558865_7"
+  },
+  {
+    "questionNumber": "16",
+    "category": "trafik",
+    "questionText": "Trafik uygun olsa bile şekildeki kavşakta, hangi numaralı araçların ok yönündeki hareketi kesinlikle yasaktır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yalnız 1"
+      },
+      {
+        "label": "B",
+        "text": "Yalnız 2"
+      },
+      {
+        "label": "C",
+        "text": "Yalnız 3"
+      },
+      {
+        "label": "D",
+        "text": "1, 2 ve 3"
+      }
+    ],
+    "explanation": "3 numaralı aracın önünde yer alan tabela \"U Dönüşü Yasaktır\" işaretidir. Bu işarete rağmen aracın u dönüşü yapmak istemesi yasaktır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.863Z",
+    "id": "ehliyet_soru_1749141558865_8"
+  },
+  {
+    "questionNumber": "17",
+    "category": "trafik",
+    "questionText": "Motosikletlerde ilk 3 yaş sonunda kaç yılda bir muayene yaptırılması zorunludur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "4"
+      },
+      {
+        "label": "B",
+        "text": "3"
+      },
+      {
+        "label": "C",
+        "text": "2"
+      },
+      {
+        "label": "D",
+        "text": "1"
+      }
+    ],
+    "explanation": "İki veya Üç Tekerlekli Araçlar (L kategori motosiklet ve motorlu bisikletler) İlk üç yaş ve sonrası her iki yılda bir muayene edilmelidir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.863Z",
+    "id": "ehliyet_soru_1749141558865_9"
+  },
+  {
+    "questionNumber": "18",
+    "category": "trafik",
+    "questionText": "Aksine bir işaret yoksa aşağıdaki taşıtlardan hangisinin, yerleşim yeri dışındaki kara yollarında \"azami hız sınırı\" diğerlerine göre daha fazladır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Otomobil"
+      },
+      {
+        "label": "B",
+        "text": "Otobüs"
+      },
+      {
+        "label": "C",
+        "text": "Motosiklet"
+      },
+      {
+        "label": "D",
+        "text": "Kamyon"
+      }
+    ],
+    "explanation": "Genellikle yerleşim yeri dışındaki yollarda, otomobiller için daha yüksek hız limitleri belirlenir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.863Z",
+    "id": "ehliyet_soru_1749141558865_10"
+  },
+  {
+    "questionNumber": "19",
+    "category": "motorbilgisi",
+    "questionText": "Motor çalışır durumda iken aracın gösterge panelinde yağ basıncı ikaz ışığı yanıyorsa aşağıdakilerden hangisi yapılır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Motor devri düşürülür."
+      },
+      {
+        "label": "B",
+        "text": "Motor devri yükseltilir."
+      },
+      {
+        "label": "C",
+        "text": "Motor hemen durdurulur."
+      },
+      {
+        "label": "D",
+        "text": "Motor rölantide çalıştırılır."
+      }
+    ],
+    "explanation": "Yağ basıncı ışığı yandığında en doğru hareket, motoru hemen durdurmaktır. Bu, motorun daha fazla hasar görmesini önlemek için atılabilecek en önemli adımdır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.863Z",
+    "id": "ehliyet_soru_1749141558865_11"
+  },
+  {
+    "questionNumber": "22",
+    "category": "trafik",
+    "questionText": "Trafik görevlisinin, geceleyin ışıklı işaret çubuğunu şekildeki gibi hareket ettirmesinin sürücüler için anlamı nedir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dur işareti"
+      },
+      {
+        "label": "B",
+        "text": "Geç işareti"
+      },
+      {
+        "label": "C",
+        "text": "Yavaşlatma işareti"
+      },
+      {
+        "label": "D",
+        "text": "Hızlandırma işareti"
+      }
+    ],
+    "explanation": "Trafik görevlisinin yaptığı bu işaret \"DUR\" anlamına gelmektedir. Trafik polisi, dur işareti yapmak için işaret çubuğunu 45 derecelik bir açıyla sağdan sola doğru hareket ettirir. Çubuğun ışıklı ucu yere dik şekilde tutulur ve ucu yukarıya bakacak şekilde konumlandırılır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.863Z",
+    "id": "ehliyet_soru_1749141558865_12"
+  },
+  {
+    "questionNumber": "24",
+    "category": "motorbilgisi",
+    "questionText": "Marşa basılıp motor çalıştığında aşağıdakilerden hangisinin sönmesi gerekir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Park lambası"
+      },
+      {
+        "label": "B",
+        "text": "Sinyal lambası"
+      },
+      {
+        "label": "C",
+        "text": "Şarj lambası"
+      },
+      {
+        "label": "D",
+        "text": "El fren lambası"
+      }
+    ],
+    "explanation": "Marşa basılıp motor çalıştığında şarj lambasının sönmesi, aracın şarj sisteminin düzgün çalıştığının bir göstergesidir. Eğer motor çalıştıktan sonra şarj lambası yanmaya devam ediyorsa, şarj sisteminde bir sorun var demektir (örneğin, alternatör arızası, kayış kopması, kablo bağlantı sorunları).",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.863Z",
+    "id": "ehliyet_soru_1749141558865_13"
+  },
+  {
+    "questionNumber": "25",
+    "category": "trafik",
+    "questionText": "Sivas`tan hareket eden bir araç, haritada görüldüğü gibi önce Konya`ya oradan da Uşak`a gitmiştir. Bu durumda araç hangi yönlerde hareket etmiş olur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Batı-Doğu"
+      },
+      {
+        "label": "B",
+        "text": "Kuzey-Güney"
+      },
+      {
+        "label": "C",
+        "text": "Güneybatı-Kuzeybatı"
+      },
+      {
+        "label": "D",
+        "text": "Kuzeybatı-Güneydoğu"
+      }
+    ],
+    "explanation": "Haritayı karşımıza aldığımızda;",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.864Z",
+    "id": "ehliyet_soru_1749141558865_14"
+  },
+  {
+    "questionNumber": "28",
+    "category": "motorbilgisi",
+    "questionText": "Araçta yakıt tasarrufu sağlamak için aşağıdakilerden hangisinin yapılması doğrudur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Fazla süratten kaçınılması"
+      },
+      {
+        "label": "B",
+        "text": "Ani duruş ve kalkış yapılması"
+      },
+      {
+        "label": "C",
+        "text": "Sürekli sert ve ani fren yapılması"
+      },
+      {
+        "label": "D",
+        "text": "Araç üstü tavan bagajı kullanılması"
+      }
+    ],
+    "explanation": "Doğru cevap A) Fazla süratten kaçınılması olmalıdır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.864Z",
+    "id": "ehliyet_soru_1749141558865_15"
+  },
+  {
+    "questionNumber": "31",
+    "category": "trafik",
+    "questionText": "Aşağıdakilerden hangisi tedbirsiz ve saygısız araç sürmeye örnek değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yayalara su sıçratılması"
+      },
+      {
+        "label": "B",
+        "text": "Hız kurallarına uyulması"
+      },
+      {
+        "label": "C",
+        "text": "Diğer sürücülerin korkutulması"
+      },
+      {
+        "label": "D",
+        "text": "Seyir hâlinde iken sürücünün elindeki cep telefonunu kullanması"
+      }
+    ],
+    "explanation": "A) Yayalara su sıçratılması:",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.864Z",
+    "id": "ehliyet_soru_1749141558865_16"
+  },
+  {
+    "questionNumber": "33",
+    "category": "motorbilgisi",
+    "questionText": "Karlı veya buzlu yollarda aracın hangi lastiklerine zincir takılması uygundur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ön lastiklerin birine"
+      },
+      {
+        "label": "B",
+        "text": "Arka lastiklerin birine"
+      },
+      {
+        "label": "C",
+        "text": "Çekici lastiklerin ikisine"
+      },
+      {
+        "label": "D",
+        "text": "Çekici olmayan lastiklerin ikisine"
+      }
+    ],
+    "explanation": "* Zincirler, lastiklerin yola tutunma yeteneğini önemli ölçüde artırır. Çekici lastikler, motorun gücünü yola aktaran ve aracı hareket ettiren lastiklerdir. Bu nedenle, bu lastiklere zincir takmak, aracın kaymasını ve patinaj yapmasını önleyerek daha iyi bir kontrol ve güvenlik sağlar.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.864Z",
+    "id": "ehliyet_soru_1749141558865_17"
+  },
+  {
+    "questionNumber": "34",
+    "category": "trafik",
+    "questionText": "Aksine bir işaret bulunmadıkça yerleşim yeri dışındaki bölünmüş yollarda otomobiller için azami hız saatte kaç kilometredir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "130"
+      },
+      {
+        "label": "B",
+        "text": "110"
+      },
+      {
+        "label": "C",
+        "text": "100"
+      },
+      {
+        "label": "D",
+        "text": "90"
+      }
+    ],
+    "explanation": "Asine işaret yoksa, otomobiller için hız sınırı şu şekildedir;",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.864Z",
+    "id": "ehliyet_soru_1749141558865_18"
+  },
+  {
+    "questionNumber": "35",
+    "category": "motorbilgisi",
+    "questionText": "Güç aktarma organlarından hangisi araca geri hareket yeteneği kazandırır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Şaft"
+      },
+      {
+        "label": "B",
+        "text": "Amortisör"
+      },
+      {
+        "label": "C",
+        "text": "Vites Kutusu"
+      },
+      {
+        "label": "D",
+        "text": "Diferansiyel"
+      }
+    ],
+    "explanation": "Araçlarda geri vites yani geri hareket yeteneği, vites kutusu sayesinde sağlanır. Vites kutusu (diğer adıyla şanzıman), motorun ürettiği dönme hareketini ve gücü tekerleklere iletirken aynı zamanda hız ve tork ayarlaması yapar. Ayrıca geri vites dişlisi, diğer viteslerden farklı olarak hareket yönünü tersine çevirerek aracın geriye doğru hareket etmesini sağlar. Sonuç olarak doğru cevap \"C) Vites Kutusu\"dur.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.864Z",
+    "id": "ehliyet_soru_1749141558865_19"
+  },
+  {
+    "questionNumber": "36",
+    "category": "trafik",
+    "questionText": "Geceleri araçların karşılaşmaları esnasında hangi ışıkların yakılması zorunludur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Dönüş ışıklarının"
+      },
+      {
+        "label": "B",
+        "text": "Sis veya park ışıklarının"
+      },
+      {
+        "label": "C",
+        "text": "Uzağı gösteren ışıkların"
+      },
+      {
+        "label": "D",
+        "text": "Yakını gösteren ışıkların"
+      }
+    ],
+    "explanation": "Geceleri araçların karşılaşmaları sırasında, karşı tarafın sürücüsünü rahatsız etmemek ve güvenli sürüş sağlamak için yakını gösteren (kısa huzmeli) farların kullanılması zorunludur.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.864Z",
+    "id": "ehliyet_soru_1749141558865_20"
+  },
+  {
+    "questionNumber": "37",
+    "category": "trafik",
+    "questionText": "Bir sürücünün, emniyet kemeri kullanmaya özen göstermesinin esas nedeni ne olmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Trafik kazalarında koruyucu önlem olarak görmek"
+      },
+      {
+        "label": "B",
+        "text": "Araçta bulunan uyarı sistemini susturmak"
+      },
+      {
+        "label": "C",
+        "text": "Denetimlerde problem yaşamamak"
+      },
+      {
+        "label": "D",
+        "text": "Ceza almaktan çekinmek"
+      }
+    ],
+    "explanation": "Emniyet kemeri, trafik kazalarında sürücüyü araç içinde sabit tutarak yaralanma ve ölüm riskini azaltan en önemli koruyucu önlemdir. Bu yüzden kullanılması esas olarak can güvenliği içindir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.864Z",
+    "id": "ehliyet_soru_1749141558865_21"
+  },
+  {
+    "questionNumber": "38",
+    "category": "trafik",
+    "questionText": "Tabloda, kandaki alkol miktarına bağlı olarak sürücülerin kaza yapma riskindeki artışlar verilmiştir. Tabloya göre aşağıdakilerden hangisi kesinlikle söylenir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Alkolün her sürücüde aynı etkiyi göstermediği"
+      },
+      {
+        "label": "B",
+        "text": "Ülkemizde alkol tüketiminin gittikçe artmakta olduğu"
+      },
+      {
+        "label": "C",
+        "text": "Kaza riskinin kandaki alkol miktarına bağlı olarak arttığı"
+      },
+      {
+        "label": "D",
+        "text": "Az miktarda alınan alkolün sürücünün refleksini güçlendirdiği"
+      }
+    ],
+    "explanation": "Tabloya bakıldığında kandaki alkol miktarı arttıkça kaza riski de artmaktadır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.864Z",
+    "id": "ehliyet_soru_1749141558865_22"
+  },
+  {
+    "questionNumber": "40",
+    "category": "trafik",
+    "questionText": "Aşağıdakilerden hangisinin temel işlevi, çarpma anında oluşabilecek etkileri vücudun daha güçlü bölgelerine yönlendirerek ölüm ve yaralanma riskini azaltmaktır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kriko"
+      },
+      {
+        "label": "B",
+        "text": "Reflektör"
+      },
+      {
+        "label": "C",
+        "text": "Emniyet kemeri"
+      },
+      {
+        "label": "D",
+        "text": "Çekme halatı"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.864Z",
+    "id": "ehliyet_soru_1749141558865_23"
+  },
+  {
+    "questionNumber": "41",
+    "category": "motorbilgisi",
+    "questionText": "Araç, flaşörleri yanık olarak uzun bir süre park hâlinde bırakılırsa aşağıdakilerden hangisinin olması beklenir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jantın eğilmesi"
+      },
+      {
+        "label": "B",
+        "text": "Akünün boşalması"
+      },
+      {
+        "label": "C",
+        "text": "Fren balatalarının aşınması"
+      },
+      {
+        "label": "D",
+        "text": "Lastik hava basıncının düşmesi"
+      }
+    ],
+    "explanation": "#ilkyardım",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.864Z",
+    "id": "ehliyet_soru_1749141558865_24"
+  },
+  {
+    "questionNumber": "43",
+    "category": "trafik",
+    "questionText": "Şekildeki trafik işareti görülünce ne yapılır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hız sabit tutulur."
+      },
+      {
+        "label": "B",
+        "text": "Hız azaltılır, sola sinyal verilir."
+      },
+      {
+        "label": "C",
+        "text": "Hız artırılır, sağa sinyal verilir."
+      },
+      {
+        "label": "D",
+        "text": "Hız azaltılır, varsa geçme yasağına uyulur."
+      }
+    ],
+    "explanation": "#ilkyardım",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.864Z",
+    "id": "ehliyet_soru_1749141558865_25"
+  },
+  {
+    "questionNumber": "46",
+    "category": "trafik",
+    "questionText": "Videodaki sürücünün hangisini yapması doğrudur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hızını azaltıp şeridinde devam etmesi"
+      },
+      {
+        "label": "B",
+        "text": "Korna çalarak bisiklet sürücüsünü uyarması"
+      },
+      {
+        "label": "C",
+        "text": "Bisikletin sağından yoluna devam etmesi"
+      },
+      {
+        "label": "D",
+        "text": "Uyarı ışıklarını yakarak durması"
+      }
+    ],
+    "explanation": "Sürücü bisikletli sürücüye dikkat etmeli ve hızını azaltarak şeridinde kalmaya devam etmelidir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.864Z",
+    "id": "ehliyet_soru_1749141558865_26"
+  },
+  {
+    "questionNumber": "48",
+    "category": "trafik",
+    "questionText": "Muayene süresi dolmasa bile aracın özel teknik muayenesi hangi durumda zorunludur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Araç sahibinin değişmesi"
+      },
+      {
+        "label": "B",
+        "text": "Maddi hasarlı kazaya karışması"
+      },
+      {
+        "label": "C",
+        "text": "Trafik zabıtalarının gerekli görmesi"
+      },
+      {
+        "label": "D",
+        "text": "Aracın periyodik bakımının yapılmaması"
+      }
+    ],
+    "explanation": "Karayoluna çıkmış olan her türlü motorlu aracın, teknik şartlara uyup uymadığı trafik zabıtasınca kontrol edilerek, uygunsuzluğu tespit edilenler, haklarında Uygunsuzluk Tespit Tutanağı düzenlenmek suretiyle muayene istasyonlarına sevk edilir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-3-mayis-2025-ehliyet-deneme-sinavi-939",
+    "scrapedAt": "2025-06-05T16:39:18.864Z",
+    "id": "ehliyet_soru_1749141558865_27"
+  },
+  {
+    "questionNumber": "1",
+    "category": "motorbilgisi",
+    "questionText": "Aşağıdakilerden hangisi aracı kullanmaya başlamadan önce yapılması gereken hazırlıklardan biri değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Klimanın açılması"
+      },
+      {
+        "label": "B",
+        "text": "Koltuğun ayarlanması"
+      },
+      {
+        "label": "C",
+        "text": "Aynaların ayarlanması"
+      },
+      {
+        "label": "D",
+        "text": "Emniyet kemerinin takılması"
+      }
+    ],
+    "explanation": "Aracı çalıştırmadan önce araç içinde koltuk, ayaklarımız pedallara rahat ulaşabilecek ve önümüzü rahat görecek şekilde ayarlanmalı, sağ, sol ve dikiz aynası sağlıklı bir görüş verecek şekilde ayarlanmalı ve emniyet kemeri kesinlikle takılmalıdır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.320Z",
+    "id": "ehliyet_soru_1749141562322_0"
+  },
+  {
+    "questionNumber": "4",
+    "category": "trafik",
+    "questionText": "Motosiklet Elektrikli bisiklet Lastik tekerlekli traktör Üç tekerlekli yük motosikleti Yukarıdaki taşıtlardan hangilerinin sürülmesi sırasında koruma başlığı takılması mecburidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "I ve II."
+      },
+      {
+        "label": "B",
+        "text": "I, III ve IV."
+      },
+      {
+        "label": "C",
+        "text": "II, III ve IV."
+      },
+      {
+        "label": "D",
+        "text": "I, II, III ve IV."
+      }
+    ],
+    "explanation": "İki tekerlekli motorlu araç kullanan sürücülerin trafikte koruma başlığı (kask) takması zorunludur.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.320Z",
+    "id": "ehliyet_soru_1749141562322_1"
+  },
+  {
+    "questionNumber": "5",
+    "category": "trafik",
+    "questionText": "Maddi hasar tespiti yapmak. Olayı en yakın zabıta veya sağlık kuruluşuna bildirmek. Kaza yerinde usulüne uygun ilk yardım tedbirlerini almak. Yetkililerin isteği hâlinde yaralıları en yakın sağlık kuruluşuna götürmek. Kazaya karışan veya olay yerinden geçmekte olan kişiler yukarıdakilerden hangilerini yapmakla yükümlüdürler?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yalnız III"
+      },
+      {
+        "label": "B",
+        "text": "I, II ve IV."
+      },
+      {
+        "label": "C",
+        "text": "I, III ve IV."
+      },
+      {
+        "label": "D",
+        "text": "II, III ve IV."
+      }
+    ],
+    "explanation": "Kazaya karışan veya olay yerinden geçmekte olan kişilerin maddi hasar tespiti yapmak gibi bir yükümlülükleri yoktur. Bu yükümlülük, genellikle trafik polisi ve ilgili yetkililer tarafından yerine getirilir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.320Z",
+    "id": "ehliyet_soru_1749141562322_2"
+  },
+  {
+    "questionNumber": "6",
+    "category": "trafik",
+    "questionText": "Kara Yolları Trafik Kanununa göre “M,A1, A2, A, B1, B, BE, F ve G” sınıfı sürücü belgeleri kaç yıl süreyle geçerlidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "10"
+      },
+      {
+        "label": "B",
+        "text": "15"
+      },
+      {
+        "label": "C",
+        "text": "20"
+      },
+      {
+        "label": "D",
+        "text": "25"
+      }
+    ],
+    "explanation": "Kara Yolları Trafik Kanunu`na göre, \"M, A1, A2, A, B1, B, BE, F ve G\" sınıfı sürücü belgeleri 10 yıl süreyle geçerlidir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.320Z",
+    "id": "ehliyet_soru_1749141562322_3"
+  },
+  {
+    "questionNumber": "11",
+    "category": "trafik",
+    "questionText": "Aşağıdaki yerlerden hangisinde duraklama yapılması yasak değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sol şeritte"
+      },
+      {
+        "label": "B",
+        "text": "Dönemeçlerde"
+      },
+      {
+        "label": "C",
+        "text": "Yaya ve okul geçitlerinde"
+      },
+      {
+        "label": "D",
+        "text": "Duraklara 30 metre mesafede"
+      }
+    ],
+    "explanation": "Durakların giriş ve çıkış tarafında 5 metre mesafe içinde duraklamak yasaktır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.320Z",
+    "id": "ehliyet_soru_1749141562322_4"
+  },
+  {
+    "questionNumber": "13",
+    "category": "trafik",
+    "questionText": "Egzoz emisyon ölçümünün yapılması, araçların çevreye verdiği zararlardan hangisini önlemeye yönelik bir uygulamadır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Görüntü kirliliğini"
+      },
+      {
+        "label": "B",
+        "text": "Gürültü kirliliğini"
+      },
+      {
+        "label": "C",
+        "text": "Hava kirliliğini"
+      },
+      {
+        "label": "D",
+        "text": "Su kirliliğini"
+      }
+    ],
+    "explanation": "Egzoztan çıkan zararlı gazlar hava kirliliğine neden olur.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.320Z",
+    "id": "ehliyet_soru_1749141562322_5"
+  },
+  {
+    "questionNumber": "15",
+    "category": "motorbilgisi",
+    "questionText": "Fren pedalına basıldığında fren lambaları yanmıyorsa sebebi aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Flaşör arızalıdır."
+      },
+      {
+        "label": "B",
+        "text": "Distribütör arızalıdır."
+      },
+      {
+        "label": "C",
+        "text": "Fren müşiri arızalıdır."
+      },
+      {
+        "label": "D",
+        "text": "Geri vites müşiri arızalıdır."
+      }
+    ],
+    "explanation": "Fren pedalına basıldığında fren lambalarının yanmaması durumunda, muhtemel sebep fren müşürünün arızalı olmasıdır. Fren müşürü, fren pedalı hareket ettiğinde fren lambalarını çalıştıran bir sensördür. Eğer bu sensör arızalıysa, fren lambaları yanmayabilir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_6"
+  },
+  {
+    "questionNumber": "16",
+    "category": "motorbilgisi",
+    "questionText": "Aşağıdakilerden hangisi, motordaki basınçlı yanmış gazların çıkarken oluşturacağı sesi azaltır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Emme susturucusu"
+      },
+      {
+        "label": "B",
+        "text": "Egzoz susturucusu"
+      },
+      {
+        "label": "C",
+        "text": "Emme manifoldu"
+      },
+      {
+        "label": "D",
+        "text": "Egzoz supabı"
+      }
+    ],
+    "explanation": "Motordaki basınçlı yanmış gazların çıkarken oluşturduğu sesi azaltan parça egzoz susturucusudur. Egzoz susturucusu, egzoz gazlarının akışını kontrol ederek sesin azaltılmasına yardımcı olur.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_7"
+  },
+  {
+    "questionNumber": "19",
+    "category": "motorbilgisi",
+    "questionText": "Dört zamanlı benzinli motorlarda, zamanların oluşum sırası şekildeki gibidir. Buna göre, hangi zamanda emme supabı açılır ve silindirlere yakıt-hava karışımı girer?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Emme zamanı"
+      },
+      {
+        "label": "B",
+        "text": "Sıkıştırma zamanı"
+      },
+      {
+        "label": "C",
+        "text": "Ateşleme (İş) zamanı"
+      },
+      {
+        "label": "D",
+        "text": "Egzoz zamanı"
+      }
+    ],
+    "explanation": "Emme zamanı: Piston aşağı inerken emme supabı açılır, silindire yakıt-hava karışımı dolar.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_8"
+  },
+  {
+    "questionNumber": "21",
+    "category": "trafik",
+    "questionText": "Araçların durma ve duraklama halleri dışında, genelde uzun süreli olarak bekletilmek üzere bırakılmasına ne ad verilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Park etme"
+      },
+      {
+        "label": "B",
+        "text": "İşaretleme"
+      },
+      {
+        "label": "C",
+        "text": "Trafik kazası"
+      },
+      {
+        "label": "D",
+        "text": "Trafikten men"
+      }
+    ],
+    "explanation": "Araçların durma ve duraklama halleri dışında, genelde uzun süreli olarak bekletilmek üzere bırakılmasına \"Park etme\" denir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_9"
+  },
+  {
+    "questionNumber": "23",
+    "category": "trafik",
+    "questionText": "Geçiş yollarının önü ve üzeri Kamu hizmeti yapan yolcu taşıtlarının durakları Görüşün yeterli olmadığı tepe üstlerine yakın yerler ve dönemeçler Yukarıdakilerden hangileri park etmenin yasak olduğu yerlerdendir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "label": "B",
+        "text": "I ve II"
+      },
+      {
+        "label": "C",
+        "text": "II ve III"
+      },
+      {
+        "label": "D",
+        "text": "I, II ve III"
+      }
+    ],
+    "explanation": "Verilen tüm seçenekler trafik güvenliği ve düzeni açısından park etmenin yasak olduğu yerlerdir. Bu kurallara uymak, hem kendi güvenliğimiz hem de diğer yol kullanıcılarının güvenliği için büyük önem taşır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_10"
+  },
+  {
+    "questionNumber": "25",
+    "category": "trafik",
+    "questionText": "Aşağıdakilerden hangisi, tescil işlemleri tamamlanmış araçların trafiğe çıkarılmasına müsaade eden ve muayene sürelerini belirleyen bir belgedir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sürücü belgesi"
+      },
+      {
+        "label": "B",
+        "text": "Araç imalat belgesi"
+      },
+      {
+        "label": "C",
+        "text": "Mali sorumluluk sigortası"
+      },
+      {
+        "label": "D",
+        "text": "Motorlu araç trafik belgesi"
+      }
+    ],
+    "explanation": "Motorlu araç trafik belgesi (ruhsat olarak da bilinir), bir aracın tescil işlemlerinin tamamlandığını gösteren ve o aracın trafiğe çıkmasına izin veren resmi bir belgedir. Bu belge aynı zamanda aracın teknik bilgilerini, sahibini ve muayene sürelerini de içerir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_11"
+  },
+  {
+    "questionNumber": "26",
+    "category": "trafik",
+    "questionText": "Aşağıdakilerden hangisi, kara yollarında meydana gelen trafik kazaları ile ilgili ilk ve acil yardım hizmetlerini planlamak ve uygu­lamakla görevlidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sağlık Bakanlığı"
+      },
+      {
+        "label": "B",
+        "text": "Adalet Bakanlığı"
+      },
+      {
+        "label": "C",
+        "text": "Karayolları Genel Müdürlüğü"
+      },
+      {
+        "label": "D",
+        "text": "Bilim Sanayi ve Teknoloji Bakanlığı"
+      }
+    ],
+    "explanation": "Karayollarında meydana gelen trafik kazaları ile ilgili ilk ve acil yardım hizmetlerini planlamak ve uygulamakla görevli tek kurum Sağlık Bakanlığı`dır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_12"
+  },
+  {
+    "questionNumber": "27",
+    "category": "motorbilgisi",
+    "questionText": "Düz yolda normal hızla seyrederken, araç bir tarafa çekme yapıyorsa sebebi aşağıdakilerden hangisi olabilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Ön lastiklerin hava basıncının eşit olmaması"
+      },
+      {
+        "label": "B",
+        "text": "Aracın yükünün fazla olması"
+      },
+      {
+        "label": "C",
+        "text": "Hava filtresinin kirli olması"
+      },
+      {
+        "label": "D",
+        "text": "Motorun yağ yakması"
+      }
+    ],
+    "explanation": "Ön lastiklerin hava basıncının eşit olmaması, aracın bir tarafa çekmesine neden olan en yaygın sebeplerden biridir. Düzgün olmayan basınç dağılımı, direksiyon dengesini bozarak aracın bir yöne doğru kaymasına yol açar.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_13"
+  },
+  {
+    "questionNumber": "28",
+    "category": "trafik",
+    "questionText": "Aksine bir işaret yoksa, şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30"
+      },
+      {
+        "label": "B",
+        "text": "50"
+      },
+      {
+        "label": "C",
+        "text": "70"
+      },
+      {
+        "label": "D",
+        "text": "80"
+      }
+    ],
+    "explanation": "Şekildeki kamyonun yerleşim yeri içindeki hız sınırı 50km/saattir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_14"
+  },
+  {
+    "questionNumber": "29",
+    "category": "trafik",
+    "questionText": "Dönüş ışıklarının \"geç\" anlamında kulla­nılması yasaktır. Sadece park veya sis ışıkları yakılarak da araç sürülebilir. Bu bilgiler için aşağıdakilerden hangisi söylenebilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "I. doğru II. yanlıştır."
+      },
+      {
+        "label": "B",
+        "text": "Her ikisi de yanlıştır."
+      },
+      {
+        "label": "C",
+        "text": "I. yanlış II. doğrudur."
+      },
+      {
+        "label": "D",
+        "text": "Her ikisi de doğrudur"
+      }
+    ],
+    "explanation": "Dönüş sinyalleri sadece yön değiştirmeyi belirtmek için kullanılır, \"geç\" anlamında kullanılması yasaktır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_15"
+  },
+  {
+    "questionNumber": "31",
+    "category": "trafik",
+    "questionText": "Aksine bir durum yoksa, saatte 120 kilo­metre hızla seyreden bir sürücü, önündeki araca en fazla kaç metre yaklaşabilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "20"
+      },
+      {
+        "label": "B",
+        "text": "30"
+      },
+      {
+        "label": "C",
+        "text": "40"
+      },
+      {
+        "label": "D",
+        "text": "60"
+      }
+    ],
+    "explanation": "Trafik kurallarına göre, takip mesafesi aracın hızının yarısı kadar (km cinsinden) olmalıdır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_16"
+  },
+  {
+    "questionNumber": "33",
+    "category": "trafik",
+    "questionText": "Aşağıdakilerden hangisi, kaza anında ölüm ve yaralanmaları en aza indirmek amacıyla sürücü ve yolcular tarafından kullanılır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Polen filtresi"
+      },
+      {
+        "label": "B",
+        "text": "Park sensörü"
+      },
+      {
+        "label": "C",
+        "text": "Emniyet kemeri"
+      },
+      {
+        "label": "D",
+        "text": "Açılabilir tavan"
+      }
+    ],
+    "explanation": "A) Polen filtresi:",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_17"
+  },
+  {
+    "questionNumber": "34",
+    "category": "trafik",
+    "questionText": "Araç kornalarının kullanımı ile ilgili olarak aşağıdakilerden hangisi yanlıştır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Korkutmadan uyarması"
+      },
+      {
+        "label": "B",
+        "text": "Ses tonunun sabit olması"
+      },
+      {
+        "label": "C",
+        "text": "Uyarı amacı dışında kullanılması"
+      },
+      {
+        "label": "D",
+        "text": "Rahatsız etmeyecek şekilde kullanılması"
+      }
+    ],
+    "explanation": "Doğru cevap: C) Uyarı amacı dışında kullanılması.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_18"
+  },
+  {
+    "questionNumber": "36",
+    "category": "motorbilgisi",
+    "questionText": "Donmayı önlemek için radyatöre ne konulur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yağ"
+      },
+      {
+        "label": "B",
+        "text": "Asit"
+      },
+      {
+        "label": "C",
+        "text": "Antifriz"
+      },
+      {
+        "label": "D",
+        "text": "Saf su"
+      }
+    ],
+    "explanation": "Antifriz, suyun donma noktasını düşürür ve radyatör sisteminde donmayı önler. Ayrıca pas ve korozyona karşı da koruma sağlar.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_19"
+  },
+  {
+    "questionNumber": "37",
+    "category": "motorbilgisi",
+    "questionText": "Araçlardaki egzoz susturucusu için aşağıdaki ifadelerden hangisi doğrudur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kış aylarında yakıttan tasarruf sağlar."
+      },
+      {
+        "label": "B",
+        "text": "Gürültü kirliliğini azaltmaya yardımcı olur."
+      },
+      {
+        "label": "C",
+        "text": "Yaz aylarında kullanılması motora zarar verir."
+      },
+      {
+        "label": "D",
+        "text": "Motor hararet yaptığında çıkarılması uygundur."
+      }
+    ],
+    "explanation": "Egzoz susturucusunun temel görevi, motorun egzoz gazlarının çıkışında oluşan yüksek sesi azaltarak gürültü kirliliğini önlemektir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_20"
+  },
+  {
+    "questionNumber": "38",
+    "category": "trafik",
+    "questionText": "E sınıfı sürücü belgesine sahip olanlar aşa­ğıdaki araçlardan hangisini süremez?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Otobüs"
+      },
+      {
+        "label": "B",
+        "text": "Kamyon"
+      },
+      {
+        "label": "C",
+        "text": "Minibüs"
+      },
+      {
+        "label": "D",
+        "text": "Motosiklet"
+      }
+    ],
+    "explanation": "E sınıfı sürücü belgesi, otobüs ve kamyon gibi ağır motorlu araçların kullanılmasını kapsar ancak motosiklet kullanma yetkisi vermez. Motosiklet kullanmak için A sınıfı sürücü belgesi gereklidir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_21"
+  },
+  {
+    "questionNumber": "40",
+    "category": "motorbilgisi",
+    "questionText": "Aşağıdakilerden hangisi araçta yakıt tasarrufu sağlar?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Düşük kaliteli yakıt kullanmak"
+      },
+      {
+        "label": "B",
+        "text": "Devamlı düşük vites ile gitmek"
+      },
+      {
+        "label": "C",
+        "text": "Devamlı büyük vites ile gitmek"
+      },
+      {
+        "label": "D",
+        "text": "Ani duruş ve kalkışlardan kaçınmak"
+      }
+    ],
+    "explanation": "Yakıt tasarrufu için araç kullanımında ani hızlanma ve ani fren yapmaktan kaçınmak önemlidir. Uygun viteste düzgün ve kontrollü sürüş, yakıt tüketimini azaltır. Düşük kaliteli yakıt motor verimini düşürür, tasarruf sağlamaz.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_22"
+  },
+  {
+    "questionNumber": "42",
+    "category": "trafik",
+    "questionText": "Şekildeki trafik işareti neyi bildirir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Geçme yasağının sona erdiğini"
+      },
+      {
+        "label": "B",
+        "text": "Kamyonlar için geçme yasağının sona erdiğini"
+      },
+      {
+        "label": "C",
+        "text": "Tehlikeli madde taşıyan taşıtın giremeyeceğini"
+      },
+      {
+        "label": "D",
+        "text": "Kamyonların öndeki taşıtı geçmesinin ya­sak olduğunu"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_23"
+  },
+  {
+    "questionNumber": "43",
+    "category": "motorbilgisi",
+    "questionText": "Araç, flaşörleri yanık olarak uzun bir süre park hâlinde bırakılırsa aşağıdakilerden hangisinin olması beklenir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Jantın eğilmesi"
+      },
+      {
+        "label": "B",
+        "text": "Akünün boşalması"
+      },
+      {
+        "label": "C",
+        "text": "Fren balatalarının aşınması"
+      },
+      {
+        "label": "D",
+        "text": "Lastik hava basıncının düşmesi"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_24"
+  },
+  {
+    "questionNumber": "44",
+    "category": "trafik",
+    "questionText": "Alkollü olarak araç kullanma nedeniyle sürücü belgesi geri alınan kişinin, son ihlalin gerçekleştiği tarihten itibaren geriye doğru 5 yıl içinde, ikinci defa tespit edilmesi durumunda sürücü belgesi ne kadar süre ile geri alınır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "30 gün"
+      },
+      {
+        "label": "B",
+        "text": "3 ay"
+      },
+      {
+        "label": "C",
+        "text": "6 ay"
+      },
+      {
+        "label": "D",
+        "text": "2 yıl"
+      }
+    ],
+    "explanation": "#ilkyardım",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_25"
+  },
+  {
+    "questionNumber": "47",
+    "category": "trafik",
+    "questionText": "Her durumda trafik ışıklarına yaklaşınca hızını azaltmalı ve dikkatli geçiş yapmalıdır. \"Yeşilden sarıya\" dönen trafik işaretini gördüğünde \"kırmızı ışığın\" yanması için beklemelidir. Güvenle duramayacak mesafedeyse geçişini tamamlamalıdır. Araç sürücüsü trafik ışığı \"yeşilden-sarıya\" döndüğü esnada devam etmiştir. Durum ile ilgili seçeneklerden hangileri söylenebilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "label": "B",
+        "text": "I ve II"
+      },
+      {
+        "label": "C",
+        "text": "I ve III"
+      },
+      {
+        "label": "D",
+        "text": "I, II ve III"
+      }
+    ],
+    "explanation": "Sürücü ışığa yaklaşınca hızını azaltmalıdır, yeşilden sarıya dönen trafik işaretini gördüğünde kırmızı ışığın yanması için beklemelidir, güvenle duramayacak mesafedeyse geçişini tamamlamalıdır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_26"
+  },
+  {
+    "questionNumber": "50",
+    "category": "trafik",
+    "questionText": "Görsele göre, numaralı araçlardan hangileri hatalı geçme yapmaktadır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yalnız 2"
+      },
+      {
+        "label": "B",
+        "text": "Yalnız 3"
+      },
+      {
+        "label": "C",
+        "text": "2 ve 3"
+      },
+      {
+        "label": "D",
+        "text": "1, 2 ve 3"
+      }
+    ],
+    "explanation": "Trafik işaretinde sağdaki iki şeridin gidiş, soldaki şeridin ise geliş olduğu belirtilmektedir. Yol üzerindeki devamlı çizgi, işarette de belirtildiği gibi bu yolu gidiş-geliş olarak bölmüştür. 3 numaralı aracın devamlı çizginin soluna geçerek sollamaya çıkması hatalı davranıştır. Devamlı çizgi, sollama yapılamayacağını belirtir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-4-mayis-2025-ehliyet-deneme-sinavi-940",
+    "scrapedAt": "2025-06-05T16:39:22.321Z",
+    "id": "ehliyet_soru_1749141562322_27"
+  },
+  {
+    "questionNumber": "4",
+    "category": "trafik",
+    "questionText": "Şekildeki trafik işaretinin anlamı nedir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Hemzemin geçit"
+      },
+      {
+        "label": "B",
+        "text": "Kontrollü demir yolu geçidi"
+      },
+      {
+        "label": "C",
+        "text": "Kontrolsüz demir yolu geçidi"
+      },
+      {
+        "label": "D",
+        "text": "Tramvay hattı ile oluşan kavşak"
+      }
+    ],
+    "explanation": "Sürücüleri yoldaki tehlikelere karşı uyaran kırmızı çerçeveli üçgen levha içinde yer alan \"Tramvay\" görselinden de anlaşılacağı üzere. Bu işaretin adı \"Tramvay hattı ile oluşan kavşak\" tır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_0"
+  },
+  {
+    "questionNumber": "6",
+    "category": "motorbilgisi",
+    "questionText": "Şekildeki araç güç aktarma organlarının adları hangi seçenekte doğru olarak verilmiştir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "I. Şaft - II. Diferansiyel - III. Aks"
+      },
+      {
+        "label": "B",
+        "text": "I. Şaft - II. Aks - III. Diferansiyel"
+      },
+      {
+        "label": "C",
+        "text": "I. Aks - II. Diferansiyel - III. Şaft"
+      },
+      {
+        "label": "D",
+        "text": "I. Diferansiyel - II. Aks - III. Şaft"
+      }
+    ],
+    "explanation": "Şaft: Motor gücünü tekerleklere iletir, aracın hareketini sağlar.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_1"
+  },
+  {
+    "questionNumber": "7",
+    "category": "motorbilgisi",
+    "questionText": "Marşa basıldığında motor dönüyor ancak çalışmıyorsa ilk olarak aşağıdakilerden hangisi kontrol edilmelidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Bujiler"
+      },
+      {
+        "label": "B",
+        "text": "Akü suyu"
+      },
+      {
+        "label": "C",
+        "text": "Motor yağ seviyesi"
+      },
+      {
+        "label": "D",
+        "text": "Depodaki yakıt seviyesi"
+      }
+    ],
+    "explanation": "Marşa basıldığında motor dönüyor ancak çalışmıyorsa, bu durumda öncelikle depodaki yakıt seviyesi kontrol edilmelidir. Motorun çalışabilmesi için yeterli miktarda yakıta ihtiyaç vardır. Eğer depodaki yakıt seviyesi çok düşük veya yakıt bitmişse, motor çalışmayacaktır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_2"
+  },
+  {
+    "questionNumber": "8",
+    "category": "trafik",
+    "questionText": "Trafik işaretiyle yasaklanmış olan yerlerde Belirlenmiş yangın musluklarına her iki yönden 5 metre mesafe içinde Yerleşim yeri içinde kavşaklara ve bağlantı yollarına 5 metre mesafe içinde Belirtilen yerlerde aşağıdakilerden hangisi yasaktır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Durmak"
+      },
+      {
+        "label": "B",
+        "text": "Duraklamak"
+      },
+      {
+        "label": "C",
+        "text": "Hızı azaltmak"
+      },
+      {
+        "label": "D",
+        "text": "Vites değiştirmek"
+      }
+    ],
+    "explanation": "Kısa süreli durmaya duraklama denir. Duraklamanın yasak olduğu yerlerde \"durmak\" yani park etmek zaten yasaktır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_3"
+  },
+  {
+    "questionNumber": "11",
+    "category": "trafik",
+    "questionText": "Sürücü ve yolcuları araçta tutarak vücudun ileri-sağa-sola veya yukarı vurmasını önler. Kaza anında ölüm ve yaralanmaları en aza indirmek amacıyla sürücü ve yolcular tarafından kullanılır. Yerleşim yeri içinde ticari amaçla yolcu taşımacılığı yapan minibüs ile dolmuş otomobillerindeki yolcuların emniyet kemeri takması zorunlu değildir. Emniyet kemeri ve kullanımıyla ilgili olarak yukarıda verilenlerden hangileri doğrudur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "I ve II."
+      },
+      {
+        "label": "B",
+        "text": "I ve III."
+      },
+      {
+        "label": "C",
+        "text": "II ve III."
+      },
+      {
+        "label": "D",
+        "text": "I, II ve III."
+      }
+    ],
+    "explanation": "I- Doğru. Emniyet kemeri kaza anında sürücü ve yolcuların araç koltuğundan fırlamasını önler.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_4"
+  },
+  {
+    "questionNumber": "12",
+    "category": "trafik",
+    "questionText": "Haritada yeri gösterilen illerden hangisi daha güneydedir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Uşak"
+      },
+      {
+        "label": "B",
+        "text": "Sivas"
+      },
+      {
+        "label": "C",
+        "text": "Trabzon"
+      },
+      {
+        "label": "D",
+        "text": "Konya"
+      }
+    ],
+    "explanation": "Haritaya karşıdan baktığımızda",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_5"
+  },
+  {
+    "questionNumber": "13",
+    "category": "trafik",
+    "questionText": "Konvoy hâlinde yavaş seyreden araçların arasındaki mesafe ne kadar olmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Araç uzunluğunun üç katı kadar"
+      },
+      {
+        "label": "B",
+        "text": "Trafik ve yol durumuna göre istenildiği kadar"
+      },
+      {
+        "label": "C",
+        "text": "Aracın cinsi ve teknik özelliklerinin gerektirdiği kadar"
+      },
+      {
+        "label": "D",
+        "text": "Kendilerini geçmek isteyen araçların güvenle girebilecekleri kadar"
+      }
+    ],
+    "explanation": "Konvoy halinde ilerlerken araçların birbirlerine yakın olmaları durumunda, bir aracın diğerini geçmesi zor olur. Bu nedenle, araçlar arasındaki mesafe, güvenli bir geçiş için yeterli olmalıdır. Geçmek isteyen araçların güvenle girebileceği kadar boşluk bırakılmalıdır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_6"
+  },
+  {
+    "questionNumber": "14",
+    "category": "trafik",
+    "questionText": "Egzoz emisyon ölçümünün yapılması, araçların çevreye verdiği zararlardan hangisini önlemeye yönelik bir uygulamadır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Görüntü kirliliğini"
+      },
+      {
+        "label": "B",
+        "text": "Gürültü kirliliğini"
+      },
+      {
+        "label": "C",
+        "text": "Hava kirliliğini"
+      },
+      {
+        "label": "D",
+        "text": "Su kirliliğini"
+      }
+    ],
+    "explanation": "Egzoztan çıkan zararlı gazlar hava kirliliğine neden olur.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_7"
+  },
+  {
+    "questionNumber": "15",
+    "category": "trafik",
+    "questionText": "Aşağıdakilerden hangisi araçlar için durmaya örnektir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Park etmek"
+      },
+      {
+        "label": "B",
+        "text": "Kırmızı ışıkta beklemek"
+      },
+      {
+        "label": "C",
+        "text": "Yolcu indirmek ve bindirmek"
+      },
+      {
+        "label": "D",
+        "text": "Yük boşaltmak için beklemek"
+      }
+    ],
+    "explanation": "Durma: Bir aracın tamamen durması ve hareket etmemesi anlamına gelir. Durma genellikle trafik ışıklarında, stop levhalarında veya trafik işaretlerinde talimat verildiğinde gerçekleşir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_8"
+  },
+  {
+    "questionNumber": "16",
+    "category": "motorbilgisi",
+    "questionText": "Aşağıdakilerden hangisi motor rölanti devrinin yüksek olmasına bağlı olarak meydana gelir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yakıt tüketiminin artması"
+      },
+      {
+        "label": "B",
+        "text": "Yakıt tüketiminin düşmesi"
+      },
+      {
+        "label": "C",
+        "text": "Motorun sarsıntılı çalışması"
+      },
+      {
+        "label": "D",
+        "text": "Motorda yağlamanın olmaması"
+      }
+    ],
+    "explanation": "Motor rölanti devrinin yüksek olması durumunda, yakıt tüketiminin artması beklenir. Bu yüksek devirde, motor sürekli olarak daha fazla yakıt tüketir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_9"
+  },
+  {
+    "questionNumber": "19",
+    "category": "trafik",
+    "questionText": "Trafik uygun olsa bile şekildeki kavşakta, hangi numaralı araçların ok yönündeki hareketi kesinlikle yasaktır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yalnız 1"
+      },
+      {
+        "label": "B",
+        "text": "Yalnız 2"
+      },
+      {
+        "label": "C",
+        "text": "Yalnız 3"
+      },
+      {
+        "label": "D",
+        "text": "1, 2 ve 3"
+      }
+    ],
+    "explanation": "3 numaralı aracın önünde yer alan tabela \"U Dönüşü Yasaktır\" işaretidir. Bu işarete rağmen aracın u dönüşü yapmak istemesi yasaktır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_10"
+  },
+  {
+    "questionNumber": "23",
+    "category": "motorbilgisi",
+    "questionText": "Marş yapıldığında marş motoru yavaş dönüyorsa sebebi aşağıdakilerden hangisi olabilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Far kablo bağlantılarının oksitlenmesi"
+      },
+      {
+        "label": "B",
+        "text": "Akü şarj durumunun yeterli olmaması"
+      },
+      {
+        "label": "C",
+        "text": "Hava filtresinin kirlenmesi"
+      },
+      {
+        "label": "D",
+        "text": "Bujilerin eskimesi"
+      }
+    ],
+    "explanation": "Marş motorunun yavaş dönmesinin en yaygın sebebi, akü şarj durumunun yetersiz olmasıdır. Aküde yeterli enerji olmadığında, marş motoru çalışması için gereken gücü sağlayamaz. Bu durumda akünün şarj edilmesi veya gerekirse değiştirilmesi gerekir. Diğer seçenekler, marş motorunun dönme hızını doğrudan etkilemez.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_11"
+  },
+  {
+    "questionNumber": "26",
+    "category": "motorbilgisi",
+    "questionText": "Marşa basılıp motor çalıştığında, aracın gösterge panelinde bulunan aşağıdaki ikaz ışıklarından hangisinin sönmesi gerekir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Kısa farlar ikaz ışığı"
+      },
+      {
+        "label": "B",
+        "text": "Yağ basıncı ikaz ışığı"
+      },
+      {
+        "label": "C",
+        "text": "El freni çekili ikaz ışığı"
+      },
+      {
+        "label": "D",
+        "text": "Sinyal lambası ikaz ışığı"
+      }
+    ],
+    "explanation": "Motor çalıştırıldığında yağ basıncı ikaz ışığı kısa süre içinde sönmelidir. Bu ışığın yanık kalması, motorun yeterli yağ basıncı üretemediğini ve ciddi bir mekanik soruna işaret edebileceğini gösterir. Eğer ışık sönmezse motoru kapatıp yağı kontrol etmek ve gerekirse profesyonel bir yardım almak gerekir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_12"
+  },
+  {
+    "questionNumber": "28",
+    "category": "motorbilgisi",
+    "questionText": "Aracın gösterge panelinde şekildeki uyarı lambasının yanıyor olması neyi bildirir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Araçta elektrikli koltuk sisteminin bulunduğunu"
+      },
+      {
+        "label": "B",
+        "text": "Yakıt deposu kapağının doğru kapatılmadığını"
+      },
+      {
+        "label": "C",
+        "text": "Emniyet kemerinin takılı olmadığını"
+      },
+      {
+        "label": "D",
+        "text": "Hava yastığı sisteminde bir arıza olduğunu"
+      }
+    ],
+    "explanation": "Bu lamba, emniyet kemerinin takılı olmadığını veya doğru şekilde takılmadığını gösterir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_13"
+  },
+  {
+    "questionNumber": "29",
+    "category": "trafik",
+    "questionText": "Şekildeki 1 numaralı araç sürücüsünün, önündeki aracı geçmesi sırasında aşağıda­kilerden hangisini yapması yasaktır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Uygun zaman ve mesafede dönüş ışıklarını yakması"
+      },
+      {
+        "label": "B",
+        "text": "İşaret vermeden önce iç ve dış aynalardan trafiği kontrol etmesi"
+      },
+      {
+        "label": "C",
+        "text": "Geçiş yapacağı araç sürücüsünü korna veya selektör yaparak uyarması"
+      },
+      {
+        "label": "D",
+        "text": "Önündeki aracı, sağından veya banketten yararlanmak suretiyle geçmesi"
+      }
+    ],
+    "explanation": "Doğru cevap: D) Önündeki aracı, sağından veya banketten yararlanmak suretiyle geçmesi",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_14"
+  },
+  {
+    "questionNumber": "30",
+    "category": "trafik",
+    "questionText": "Şekle göre sola dönüş yapmak isteyen 1 numaralı motosiklet sürücüsü ne yapmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "3 numaralı araca yol verip, 2 numaralı araç­tan önce dönmeli"
+      },
+      {
+        "label": "B",
+        "text": "2 ve 3 numaralı araçların geçmesini beklemeli"
+      },
+      {
+        "label": "C",
+        "text": "Diğer araçların durmasını sağlamalı"
+      },
+      {
+        "label": "D",
+        "text": "Geçiş hakkını kendisi kullanmalı"
+      }
+    ],
+    "explanation": "Şekilde bir kontrolsüz kavşak görülmektedir. Kontrolsüz kavşakta önce düz gidenlere, sonra da sağımızdakilere yol vermeliyiz.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_15"
+  },
+  {
+    "questionNumber": "31",
+    "category": "motorbilgisi",
+    "questionText": "Araçta yakıt tasarrufu sağlamak için aşağıdakilerden hangisi yapılır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Aracın yükü ve ağırlığı artırılır."
+      },
+      {
+        "label": "B",
+        "text": "Trafiğin yoğun olduğu yollar seçilir."
+      },
+      {
+        "label": "C",
+        "text": "Motor daima yüksek devirde çalıştırılır."
+      },
+      {
+        "label": "D",
+        "text": "Lastiklerin hava basıncının normal değerde olmasına dikkat edilir."
+      }
+    ],
+    "explanation": "Doğru cevap: D) Lastiklerin hava basıncının normal değerde olmasına dikkat edilir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_16"
+  },
+  {
+    "questionNumber": "32",
+    "category": "trafik",
+    "questionText": "Aksine bir durum yoksa, şekildeki gibi ışıklı trafik işaret cihazında kırmızı ışık ve yeşil oklu ışığın birlikte yandığını gören sürücü, aşağıdakilerden hangisini yapabilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sola dönebilir."
+      },
+      {
+        "label": "B",
+        "text": "Sağa dönebilir."
+      },
+      {
+        "label": "C",
+        "text": "İleri yönde devam edebilir."
+      },
+      {
+        "label": "D",
+        "text": "Sağ şeridi kapatacak şekilde durabilir."
+      }
+    ],
+    "explanation": "Işıklı trafik işaret cihazında kırmızı ışık ve yeşil ok işareti birlikte yanarsa, bu genellikle sağa dönüş için bir izin anlamına gelir. Kırmızı ışık, düz devam etmenin yasak olduğunu gösterirken, yeşil ok sadece sağa dönüşü onaylar. Bu durumda, sürücü sağa dönebilir ancak düz gitmesi yasaktır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_17"
+  },
+  {
+    "questionNumber": "33",
+    "category": "trafik",
+    "questionText": "Koruma başlığı ve koruma gözlüğünün hangi araç sürücüsü tarafından kullanılması zorunludur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Otobüs"
+      },
+      {
+        "label": "B",
+        "text": "Traktör"
+      },
+      {
+        "label": "C",
+        "text": "Motosiklet"
+      },
+      {
+        "label": "D",
+        "text": "Kamyon"
+      }
+    ],
+    "explanation": "Motosiklet sürücülerinin, güvenlik amacıyla koruma başlığı (kask) ve koruma gözlüğü kullanması zorunludur. Bu kurallar, motosiklet sürücüsünün başını ve gözlerini korumak için uygulanmaktadır. Kask, özellikle kaza durumlarında ciddi yaralanmaların önlenmesine yardımcı olurken, gözlükler rüzgar, toz ve yabancı cisimlerden korunmayı sağlar.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_18"
+  },
+  {
+    "questionNumber": "34",
+    "category": "trafik",
+    "questionText": "1 numaralı şerit sadece sola dönüş içindir. 2 numaralı şerit sadece ileri yönde seyir içindir. 3 numaralı şerit sadece sağa dönüş içindir. Şekle göre, aşağıdaki ifadelerden hangileri doğrudur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "label": "B",
+        "text": "I ve II"
+      },
+      {
+        "label": "C",
+        "text": "II ve III"
+      },
+      {
+        "label": "D",
+        "text": "I, II ve III"
+      }
+    ],
+    "explanation": "#ilkyardım",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_19"
+  },
+  {
+    "questionNumber": "38",
+    "category": "trafik",
+    "questionText": "Yerleşim birimleri dışındaki kara yollarında geceleri araç ışıklarının kullanılması ile ilgili verilen bilgilerden hangisi doğrudur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yeterince aydınlatılmamış tünellere girer­ken uzağı gösteren ışıkları yakmak"
+      },
+      {
+        "label": "B",
+        "text": "Dönüş ışıklarını geç anlamında kullanmak"
+      },
+      {
+        "label": "C",
+        "text": "Karşılaşmalarda ışıkları söndürmek"
+      },
+      {
+        "label": "D",
+        "text": "Park veya sis ışıkları ile seyretmek"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_20"
+  },
+  {
+    "questionNumber": "39",
+    "category": "trafik",
+    "questionText": "Şehir merkezinde araç kullanan bir sürücü aşağıdaki tespitleri yapıyor. Kavşaklarda ışıklı ve sesli işaret cihazları yok Taşıt yolu üzerinde yapılan çalışmalarda tedbir alınmıyor. Yolun yapısı, trafik düzeni ve güvenliğini sağlayacak durumda değil. Bu durumda aşağıdakilerden hangisinin görevini yerine getirmediği kesinlikle söylenir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Belediye"
+      },
+      {
+        "label": "B",
+        "text": "Mahalle muhtarları"
+      },
+      {
+        "label": "C",
+        "text": "Tarım İl Müdürlüğü"
+      },
+      {
+        "label": "D",
+        "text": "Millî Eğitim Müdürlüğü"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_21"
+  },
+  {
+    "questionNumber": "40",
+    "category": "trafik",
+    "questionText": "Motosikletinde aşınmış lastik kullanması Seyir hâlinde iken koruma başlığı ve koruma gözlüğü kullanması Motosikletine aldığı yolcuya koruma başlığı takması Yukarıdakilerden hangileri güvenilir motosiklet sürücüsünün özelliklerindendir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "label": "B",
+        "text": "I ve II"
+      },
+      {
+        "label": "C",
+        "text": "II ve III"
+      },
+      {
+        "label": "D",
+        "text": "I, II ve III"
+      }
+    ],
+    "explanation": "#ilkyardım",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_22"
+  },
+  {
+    "questionNumber": "43",
+    "category": "trafik",
+    "questionText": "Aşağıdakilerden hangisi, bir kaza anında sürücü ve yolcuları araçta tutacak, vücudun ileri-sağa-sola veya yukarı vurmasını önleyecek teçhizattır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Açılabilir tavan"
+      },
+      {
+        "label": "B",
+        "text": "Emniyet kemeri"
+      },
+      {
+        "label": "C",
+        "text": "Panoramik cam"
+      },
+      {
+        "label": "D",
+        "text": "Hidrolik direksiyon"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_23"
+  },
+  {
+    "questionNumber": "44",
+    "category": "trafik",
+    "questionText": "\"İkiden fazla şeritli taşıt yollarında karşı yönden gelen trafiğin kullandığı şerit veya yol bölümüne girme\" trafik kazalarında________ sayılan hâllerdendir. Verilen ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "tali kusur"
+      },
+      {
+        "label": "B",
+        "text": "asli kusur"
+      },
+      {
+        "label": "C",
+        "text": "yol kusuru"
+      },
+      {
+        "label": "D",
+        "text": "kusuru paylaştırma"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_24"
+  },
+  {
+    "questionNumber": "45",
+    "category": "trafik",
+    "questionText": "Yapısı itibariyle, sürücüsü dahil en fazla dokuz oturma yeri olan ve insan taşımak için imal edilmiş bulunan motorlu taşıta ne ad verilir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Otobüs"
+      },
+      {
+        "label": "B",
+        "text": "Otomobil"
+      },
+      {
+        "label": "C",
+        "text": "Kamyon"
+      },
+      {
+        "label": "D",
+        "text": "Kamyonet"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_25"
+  },
+  {
+    "questionNumber": "46",
+    "category": "trafik",
+    "questionText": "Uyuşturucu veya uyarıcı madde aldığı tespit edilen sürücü hakkında aşağıdaki işlemlerden hangisi yapılır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Sadece para cezası verilir."
+      },
+      {
+        "label": "B",
+        "text": "Sürücü belgesi 6 ay süreyle geri alınır."
+      },
+      {
+        "label": "C",
+        "text": "En sağ şeritten gitmek koşuluyla araç kullanmasına izin verilir."
+      },
+      {
+        "label": "D",
+        "text": "İdari para cezasının yanısıra sürücü belgesi 5 yıl süreyle geri alınır ve Türk Ceza Kanunu hükümleri uygulanır."
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_26"
+  },
+  {
+    "questionNumber": "47",
+    "category": "motorbilgisi",
+    "questionText": "Aşağıdakilerden hangisi, araçta sürüş konforunu iyileştirmek amacıyla yol yüzeyinin yapısından kaynaklanan titreşimleri, salınımları ve ani şokları sönümleyerek yumuşatır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Şarj sistemi"
+      },
+      {
+        "label": "B",
+        "text": "Soğutma sistemi"
+      },
+      {
+        "label": "C",
+        "text": "Süspansiyon sistemi"
+      },
+      {
+        "label": "D",
+        "text": "Direksiyon sistemi"
+      }
+    ],
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_27"
+  },
+  {
+    "questionNumber": "48",
+    "category": "trafik",
+    "questionText": "Videodaki kazayla ilgili hangisi kesinlikle söylenir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yeşil araç sürücüsünün ani firen yapması kazaya sebep olmuştur."
+      },
+      {
+        "label": "B",
+        "text": "Mavi araç sürücüsünün hatalı geçme yapması kazaya sebep olmuştur."
+      },
+      {
+        "label": "C",
+        "text": "Araç sürücüleri takip mesafesine uymaktadır."
+      },
+      {
+        "label": "D",
+        "text": "Kaza, iklim şartlarına bağlı olarak meydana gelmiştir."
+      }
+    ],
+    "explanation": "Video dikkatli izlendiğinde mavi araç sürücüsünün sağdan geçiş yapmasının kazaya sebebiyet verdiği görülmektedir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_28"
+  },
+  {
+    "questionNumber": "50",
+    "category": "motorbilgisi",
+    "questionText": "Motor soğutma suyu sıcaklığını sürücüye bildiren gösterge aşağıdakilerden hangisidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Şarj göstergesi"
+      },
+      {
+        "label": "B",
+        "text": "Yakıt göstergesi"
+      },
+      {
+        "label": "C",
+        "text": "Hararet göstergesi"
+      },
+      {
+        "label": "D",
+        "text": "Fren hidroliği göstergesi"
+      }
+    ],
+    "explanation": "5 Mayıs 2025 Ehliyet Sınav Soruları Çöz",
+    "sourceUrl": "https://ehliyet-soru.com/test-5-mayis-2025-ehliyet-deneme-sinavi-941",
+    "scrapedAt": "2025-06-05T16:39:26.413Z",
+    "id": "ehliyet_soru_1749141566415_29"
+  }
+]

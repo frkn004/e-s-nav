@@ -1,0 +1,20 @@
+{
+  "extraction_session": {
+    "completed_at": "2025-06-06T08:27:43.160Z",
+    "method": "enhanced_navigation",
+    "total_questions": 6,
+    "target_goal": 50,
+    "success_rate": "12.0%",
+    "images_downloaded": 18
+  },
+  "question_breakdown": {
+    "by_category": {
+      "trafik": 3,
+      "ilkyard": 1,
+      "trafikadab": 2
+    },
+    "with_images": 6,
+    "with_explanations": 0,
+    "average_options": "4.0"
+  }
+}

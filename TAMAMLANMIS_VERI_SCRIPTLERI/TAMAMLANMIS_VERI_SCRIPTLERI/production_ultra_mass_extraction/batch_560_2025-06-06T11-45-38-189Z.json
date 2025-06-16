@@ -1,0 +1,28 @@
+{
+  "batchInfo": {
+    "batchNumber": 560,
+    "startIndex": 1677,
+    "urlCount": 3,
+    "timestamp": "2025-06-06T11-45-38-189Z"
+  },
+  "results": [
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-ehliyet-sinavi-4.html",
+      "error": "AI processing failed: API Error: 401 Unauthorized",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-ehliyet-sinavi-19.html",
+      "error": "AI processing failed: API Error: 429 Too Many Requests",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-ehliyet-sinavi-5.html",
+      "error": "AI processing failed: API Error: 429 Too Many Requests",
+      "cost": 0
+    }
+  ]
+}

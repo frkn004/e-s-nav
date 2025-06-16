@@ -1,0 +1,114 @@
+{
+  "kartlar": [
+    {
+      "id": "acil_001",
+      "kategori": "ACIL_CEVAPLAR",
+      "alt_kategori": "Temel Bilgiler",
+      "baslik": "2025 Yılında B Sınıfı Ehliyet Toplam Maliyeti",
+      "ozet": "2025 yılında B sınıfı ehliyet almak için ödenecek toplam tutarın detaylı dökümü",
+      "icerik": "2025 yılında B sınıfı ehliyet almanın toplam maliyeti yaklaşık 28.000-30.000 TL arasındadır. Bu tutar sürücü kursu ücreti, sınav ücretleri, harç, değerli kağıt ve vakıf payından oluşur.",
+      "onemli_noktalar": [
+        "Ortalama sürücü kursu ücreti: 18.700 TL",
+        "Teorik + Direksiyon sınav ücreti: 2.250 TL",
+        "Harç + Değerli kağıt + Vakıf payı: 7.438 TL",
+        "Sınavda kalma durumunda ek ücretler olabilir"
+      ],
+      "guncel_bilgiler": [
+        "2025 yılında %43.93 oranında zam yapılmıştır",
+        "Direksiyon sınavı tekrar ücreti 4.000 TL'ye kadar çıkabilir",
+        "Fiyatlar şehre ve kursa göre değişiklik gösterebilir"
+      ],
+      "maliyet_ucret": "28.000-30.000 TL",
+      "maliyet_aciklama": "İlk denemede başarılı olma durumunda",
+      "zorluk_seviyesi": "KOLAY",
+      "siralama": 1,
+      "etiketler": ["maliyet", "2025", "b-sinifi", "toplam-fiyat"],
+      "kaynak": "MEB 2025 Tarifeleri",
+      "soru_cevap": [
+        {
+          "soru": "2025 yılında B sınıfı ehliyet almak ne kadar tutar?",
+          "cevap": "2025 yılında B sınıfı ehliyet almanın toplam maliyeti yaklaşık 28.000-30.000 TL arasındadır. Bu tutar sürücü kursu (18.700 TL), sınavlar (2.250 TL) ve devlet harçları (7.438 TL) toplamından oluşur.",
+          "kisa_cevap": "28.000-30.000 TL arası"
+        },
+        {
+          "soru": "Bu fiyat nelerden oluşuyor?",
+          "cevap": "B sınıfı ehliyet maliyeti üç ana kalemden oluşur: 1) Sürücü kursu ücreti (ortalama 18.700 TL), 2) Sınav ücretleri (teorik 900 TL + direksiyon 1.350 TL = 2.250 TL), 3) Devlet harçları (harç 5.678 TL + değerli kağıt 1.420 TL + vakıf payı 340 TL = 7.438 TL)",
+          "kisa_cevap": "Kurs ücreti + sınav ücretleri + devlet harçları"
+        },
+        {
+          "soru": "Sınavda kalırsam ne kadar ekstra para öderim?",
+          "cevap": "Teorik sınavda kalırsanız tekrar 900 TL ödemeniz gerekir. Direksiyon sınavında kalırsanız ise tekrar sınav ücreti 4.000 TL'ye kadar çıkabilir. Ayrıca ekstra direksiyon dersi almanız da zorunludur.",
+          "kisa_cevap": "Teorik: 900 TL, Direksiyon: 4.000 TL'ye kadar"
+        }
+      ]
+    },
+    {
+      "id": "acil_002", 
+      "kategori": "ACIL_CEVAPLAR",
+      "alt_kategori": "Başlangıç Adımları",
+      "baslik": "Ehliyet Alma Sürecine Nereden Başlamalıyım?",
+      "ozet": "Ehliyet alma sürecinin ilk adımları ve doğru başlangıç rehberi",
+      "icerik": "Ehliyet alma sürecine başlamak için öncelikle gerekli belgelerinizi hazırlayın ve bir sürücü kursuna kayıt olun. İlk adım sağlık raporu almaktır.",
+      "onemli_noktalar": [
+        "İlk adım: Sağlık raporu ('Sürücü Olur' ibareli)",
+        "Yaş kontrolü: B sınıfı için minimum 18 yaş",
+        "Eğitim belgesi: En az ilkokul mezunu olmak",
+        "Adli sicil kaydı almak (e-Devlet'ten ücretsiz)"
+      ],
+      "guncel_bilgiler": [
+        "Sağlık raporu aile hekiminden alınabilir",
+        "Adli sicil e-Devlet'ten anında alınabilir",
+        "6 adet biyometrik fotoğraf gerekli"
+      ],
+      "zorluk_seviyesi": "KOLAY", 
+      "siralama": 2,
+      "etiketler": ["başlangıç", "ilk-adım", "belgeler"],
+      "soru_cevap": [
+        {
+          "soru": "Ehliyet almak için ilk ne yapmalıyım?",
+          "cevap": "Ehliyet alma sürecinin ilk adımı sağlık raporu almaktır. 'Sürücü Olur' ibareli sağlık raporunu aile hekiminizden veya hastaneden alabilirsiniz. Ardından diğer belgeleri (kimlik, öğrenim belgesi, adli sicil kaydı, fotoğraflar) hazırlayıp bir sürücü kursuna kayıt olursunuz.",
+          "kisa_cevap": "İlk adım sağlık raporu almak"
+        },
+        {
+          "soru": "Hangi belgelere ihtiyacım var?",
+          "cevap": "Sürücü kursu kaydı için gerekli belgeler: 1) Kimlik kartı, 2) Öğrenim belgesi (en az ilkokul), 3) Sağlık raporu ('Sürücü Olur'), 4) Adli sicil kaydı, 5) 6 adet biyometrik fotoğraf, 6) Kan grubu kartı veya beyanı",
+          "kisa_cevap": "Kimlik, öğrenim belgesi, sağlık raporu, adli sicil, fotoğraf"
+        }
+      ]
+    },
+    {
+      "id": "acil_003",
+      "kategori": "ACIL_CEVAPLAR", 
+      "alt_kategori": "Süre",
+      "baslik": "Ehliyet Alma Süreci Ne Kadar Sürer?",
+      "ozet": "Baştan sona ehliyet alma sürecinin toplam süresi ve aşamaların zamanlaması",
+      "icerik": "Ehliyet alma süreci ortalama 2-4 ay sürer. Bu süre teorik dersler (34 saat), direksiyon eğitimi (14 saat), sınavlar ve bürokratik işlemlerden oluşur.",
+      "onemli_noktalar": [
+        "Teorik dersler: 34 saat (yaklaşık 1-2 hafta)",
+        "E-Sınav bekleme süresi: 2-3 hafta",
+        "Direksiyon eğitimi: 14 saat (1-2 hafta)",
+        "NVI işlemleri: 1-2 hafta"
+      ],
+      "guncel_bilgiler": [
+        "E-Sınav randevuları aylık ilk 10 gün alınır",
+        "Ehliyet PTT ile 5-15 iş günü içinde gelir",
+        "Yogun dönemlerde bekleme süreleri uzayabilir"
+      ],
+      "zorluk_seviyesi": "KOLAY",
+      "siralama": 3,
+      "etiketler": ["süre", "zaman", "takvim"],
+      "soru_cevap": [
+        {
+          "soru": "Ehliyet alma süreci toplam ne kadar sürer?",
+          "cevap": "Ehliyet alma süreci baştan sona ortalama 2-4 ay sürer. Bu süre belge hazırlığı, sürücü kursu eğitimi (teorik + direksiyon), sınavlar ve NVI işlemlerini kapsar. Sınav randevularının yoğunluğuna göre bu süre değişebilir.",
+          "kisa_cevap": "Ortalama 2-4 ay"
+        },
+        {
+          "soru": "En hızlı ne kadar sürede ehliyet alabilirim?",
+          "cevap": "İdeal koşullarda ve tüm sınavları ilk denemede geçerseniz, minimum 6-8 hafta içinde ehliyet alabilirsiniz. Bu süre: teorik dersler (1 hafta) + sınav bekleme (2 hafta) + direksiyon eğitimi (1 hafta) + sınav ve NVI işlemleri (2-3 hafta) toplamından oluşur.",
+          "kisa_cevap": "En hızlı 6-8 hafta"
+        }
+      ]
+    }
+  ]
+} 

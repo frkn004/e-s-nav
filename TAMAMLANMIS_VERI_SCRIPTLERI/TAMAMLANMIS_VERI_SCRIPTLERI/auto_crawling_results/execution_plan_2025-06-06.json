@@ -1,0 +1,3071 @@
+{
+  "timestamp": "2025-06-06T09:05:36.382Z",
+  "crawling_summary": {
+    "total_links_found": 214,
+    "categorized_links": {
+      "single_page_multi_question": [
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ilk-yardim-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/trafik-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/motor-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/#",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/trafik-adabi.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/elektronik-ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/animasyonlu-ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-haziran-2025.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-mayis-2025.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-nisan-2025.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-mart-2025.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-subat-2025.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-ocak-2025.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-aralik-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-kasim-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-ekim-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-eylul-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-agustos-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-temmuz-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-haziran-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-mayis-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-nisan-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-mart-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-subat-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-ocak-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-aralik-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-kasim-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-ekim-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-eylul-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-agustos-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-temmuz-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-haziran-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-mayis-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-nisan-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-mart-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-subat-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-ocak-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/aralik-ehliyet-sinavi-sorulari-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinavi-sorulari-kasim-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ekim-2022-ehliyet-sinavi-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/eylul-2022-ehliyet-sinavi-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sorulari-agustos-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sorulari-temmuz-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sorulari-haziran-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sorulari-mayis-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sorulari-nisan-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sorulari-mart-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-subat-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-ocak-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/aralik-2021-ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/kasim-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ekim-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/eylul-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/agustos-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/temmuz-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/Haziran-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/mayis-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/nisan-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/mart-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/subat-2021-ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ocak-2021-ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/aralik-2020-ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/kasim-2020-ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-ekim-2020.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/eylul-2020-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/agustos-2020-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-temmuz-ayi-2020.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-haziran-ayi-2020.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-mayis-ayi-2020.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-nisan-ayi-2020.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/mart-2020-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/subat-2020-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ocak-2020-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/aralik-2019-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/4-agustos-2018-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/21-nisan-2018-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/10-subat-2018-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/23-aralik-2017-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/7-ekim-2017-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/29-temmuz-2017-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/20-mayis-2017-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/11-subat-2017-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/17-aralik-2016-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/8-ekim-2016-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/27-agustos-2016-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/14-mayis-2016-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/13-subat-2016-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/12-aralik-2015-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/10-ekim-2015-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/29-agustos-2015-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/27-haziran-2015-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/22-mart-2015-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/10-ocak-2015-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/13-aralik-2014-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/18-ekim-2014-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/6-eylul-2014-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/9-agustos-2014-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/12-temmuz-2014-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/14-haziran-2014-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/8-mart-2014-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/8-subat-2014-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/12-ocak-2014-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/8-aralik-2013-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/2-kasim-2013-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/24-agustos-2013-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/29-haziran2013-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-deneme-sinavi-sorulari-1.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-deneme-sinavi-sorulari-2.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-deneme-sinavi-sorulari-3.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-deneme-sinavi-sorulari-4.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-deneme-sinavi-sorulari-5.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-deneme-sinavi-sorulari-6.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-tarihleri-2021.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-randevu-ve-harc-ucretleri.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/surucu-kursu.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-alma-yasi-hesaplama.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/direksiyon-sinav-sonuclari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/direksiyon-sinav-ucretleri.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-ve-direksiyon-sinavina-kac-defa-girebilirim.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinavinda-kac-soru-sorulur.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinavindan-gecmek.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/stajyer-ehliyet.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/meb-ehliyet-sinavi-giris-yeri-sorgulama.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/cikmis-ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinav-elektronik-ehliyet-sinavi.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/src-belgesi-nasil-alinir.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-harc-ucretleri.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sonuclari-sorgulama.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/blog/47-trafik-isaretleri.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/trafik-cezalari/",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        }
+      ],
+      "navigation_based_single_question": [
+        {
+          "url": "https://ehliyet-soru.com/",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/sss",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/sss-surucu-belgesi-ehliyet-basvurusu-ile-ilgili-bilgiler-10",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/sss-yazili-sinav-e-sinav-ile-ilgili-merak-edilenler-11",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/sss-ucretler-ile-ilgili-bilgiler-9",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/sss-verimli-calisma-ve-test-teknigi-tuyolari-12",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/sss-ehliyet-siniflari-ile-ilgili-sorular-13",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/sss-diger-6",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-2025-yeni-ehliyet-sorulari-9",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-haziran-2025-ehliyet-sinavlari-40",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-mayis-2025-ehliyet-sinavlari-39",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-nisan-2025-ehliyet-sinavlari-38",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-mart-2025-ehliyet-sinavlari-37",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-gecmis-meb-ehliyet-sinavlari-5",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-videolu-animasyonlu-ehliyet-sorulari-6",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-hizli-konu-testleri-8",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-trafik-ve-cevre-bilgisi-testleri-2",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-trafik-adabi-testleri-4",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-motor-bilgisi-testleri-1",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-ilkyardim-bilgisi-testleri-3",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-trafik-isaretleri-sorulari-18",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-trafik-polisi-sorulari-19",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-kavsak-ve-karsilasma-sorulari-20",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-gosterge-paneli-ve-arac-isaretleri-sorulari-21",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-ilkyardim-kanama-sorulari-22",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/isaret-trafik-tanzim-isaretleri-1-1",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/isaret-trafik-tanzim-isaretleri-2-4",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/isaret-trafik-tanzim-isaretleri-3-5",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/isaret-tehlike-uyari-isaretleri-1-2",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/isaret-tehlike-uyari-isaretleri-2-3",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/isaret-arac-ikaz-lambalari-6",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/isaret",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        }
+      ],
+      "unknown": [
+        {
+          "url": "https://facebook.com/ehliyetsorusite",
+          "site": "facebook.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://pinterest.com/ehliyetsoru",
+          "site": "pinterest.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://instagram.com/ehliyet_soru",
+          "site": "instagram.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://x.com/ehliyet_sorucom",
+          "site": "x.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://tiktok.com/@ehliyetsoru",
+          "site": "tiktok.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://telegram.me/ehliyet_soru",
+          "site": "telegram.me",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/2019-ehliyet-sinav-sorulari.html",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/ilk-yardim-cikmis-sorular",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/trafik-cikmis-sorular",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/motor-cikmis-sorular",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/trafik-adabi-cikmis-sorular",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/ehliyet-deneme-sinavi",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/faydali-bilgiler",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/diger-sinavlar",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/trafik-cezalari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/src-belgesi",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/ehliyet-sinavi-konu-anlatimi",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/ehliyet-yas-hesaplama",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/gunluk-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/a-sinifi-ehliyet-sinav-sorulari.html",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/almanya-ehliyet-sinavi-cikmis-sorular",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/hakkimizda",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/gizlilik-politikasi",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/iletisim",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/haziran-2025-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/mayis-2025-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/aylik-sorular/nisan-2025-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/aylik-sorular/mart-2025-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/subat-2025-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/ocak-2025-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/aralik-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/kasim-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/ekim-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/eylul-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/agustos-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/temmuz-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/haziran-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/mayis-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/nisan-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/mart-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/aylik-sorular/subat-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/ocak-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/aralik-2023-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/kasim-2023-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/en-cok-cikan-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/animasyonlu-ehliyet-sinav-sorulari.html",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/cikmis-sorular",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/#",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        }
+      ]
+    },
+    "recommended_approach": "Batch processing by category"
+  },
+  "execution_phases": [
+    {
+      "phase": 1,
+      "name": "High Success Rate Sites",
+      "links": [
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ilk-yardim-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/trafik-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/motor-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/#",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/trafik-adabi.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/elektronik-ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/animasyonlu-ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-haziran-2025.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-mayis-2025.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-nisan-2025.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-mart-2025.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-subat-2025.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-ocak-2025.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-aralik-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-kasim-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-ekim-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-eylul-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-agustos-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-temmuz-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-haziran-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-mayis-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-nisan-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-mart-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-subat-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-ocak-2024.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-aralik-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-kasim-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-ekim-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-eylul-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-agustos-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-temmuz-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-haziran-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-mayis-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-nisan-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-mart-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-subat-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-ocak-2023.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/aralik-ehliyet-sinavi-sorulari-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinavi-sorulari-kasim-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ekim-2022-ehliyet-sinavi-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/eylul-2022-ehliyet-sinavi-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sorulari-agustos-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sorulari-temmuz-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sorulari-haziran-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sorulari-mayis-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sorulari-nisan-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sorulari-mart-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-subat-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-ocak-2022.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/aralik-2021-ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/kasim-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ekim-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/eylul-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/agustos-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/temmuz-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/Haziran-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/mayis-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/nisan-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/mart-2021-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/subat-2021-ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ocak-2021-ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/aralik-2020-ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/kasim-2020-ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-ekim-2020.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/eylul-2020-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/agustos-2020-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-temmuz-ayi-2020.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-haziran-ayi-2020.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-mayis-ayi-2020.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sorulari-nisan-ayi-2020.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/mart-2020-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/subat-2020-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ocak-2020-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/aralik-2019-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/4-agustos-2018-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/21-nisan-2018-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/10-subat-2018-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/23-aralik-2017-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/7-ekim-2017-ehliyet-sinav-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/29-temmuz-2017-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/20-mayis-2017-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/11-subat-2017-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/17-aralik-2016-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/8-ekim-2016-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/27-agustos-2016-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/14-mayis-2016-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/13-subat-2016-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/12-aralik-2015-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/10-ekim-2015-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/29-agustos-2015-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/27-haziran-2015-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/22-mart-2015-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/10-ocak-2015-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/13-aralik-2014-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/18-ekim-2014-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/6-eylul-2014-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/9-agustos-2014-ehliyet-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/12-temmuz-2014-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/14-haziran-2014-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/8-mart-2014-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/8-subat-2014-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/12-ocak-2014-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/8-aralik-2013-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/2-kasim-2013-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/24-agustos-2013-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/29-haziran2013-ehliyet-sorulari-coz.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-deneme-sinavi-sorulari-1.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-deneme-sinavi-sorulari-2.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-deneme-sinavi-sorulari-3.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-deneme-sinavi-sorulari-4.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-deneme-sinavi-sorulari-5.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-deneme-sinavi-sorulari-6.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-tarihleri-2021.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-randevu-ve-harc-ucretleri.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/surucu-kursu.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-alma-yasi-hesaplama.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/direksiyon-sinav-sonuclari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/direksiyon-sinav-ucretleri.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-ve-direksiyon-sinavina-kac-defa-girebilirim.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinavinda-kac-soru-sorulur.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinavindan-gecmek.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/stajyer-ehliyet.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/meb-ehliyet-sinavi-giris-yeri-sorgulama.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/cikmis-ehliyet-sinav-sorulari.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinav-elektronik-ehliyet-sinavi.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/src-belgesi-nasil-alinir.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-harc-ucretleri.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/ehliyet-sinav-sonuclari-sorgulama.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/index.php/blog/47-trafik-isaretleri.html",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        },
+        {
+          "url": "https://ehliyetsinavihazirlik.com/trafik-cezalari/",
+          "site": "ehliyetsinavihazirlik.com",
+          "confidence": "high",
+          "estimated_questions": 50,
+          "scraper": "ehliyetsinavihazirlik-scraper.js"
+        }
+      ],
+      "scraper": "ehliyetsinavihazirlik-scraper.js",
+      "expected_success": "90-100%",
+      "priority": "immediate"
+    },
+    {
+      "phase": 2,
+      "name": "Medium Success Rate Sites",
+      "links": [
+        {
+          "url": "https://ehliyet-soru.com/",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/sss",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/sss-surucu-belgesi-ehliyet-basvurusu-ile-ilgili-bilgiler-10",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/sss-yazili-sinav-e-sinav-ile-ilgili-merak-edilenler-11",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/sss-ucretler-ile-ilgili-bilgiler-9",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/sss-verimli-calisma-ve-test-teknigi-tuyolari-12",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/sss-ehliyet-siniflari-ile-ilgili-sorular-13",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/sss-diger-6",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-2025-yeni-ehliyet-sorulari-9",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-haziran-2025-ehliyet-sinavlari-40",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-mayis-2025-ehliyet-sinavlari-39",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-nisan-2025-ehliyet-sinavlari-38",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-mart-2025-ehliyet-sinavlari-37",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-gecmis-meb-ehliyet-sinavlari-5",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-videolu-animasyonlu-ehliyet-sorulari-6",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-hizli-konu-testleri-8",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-trafik-ve-cevre-bilgisi-testleri-2",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-trafik-adabi-testleri-4",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-motor-bilgisi-testleri-1",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-ilkyardim-bilgisi-testleri-3",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-trafik-isaretleri-sorulari-18",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-trafik-polisi-sorulari-19",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-kavsak-ve-karsilasma-sorulari-20",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-gosterge-paneli-ve-arac-isaretleri-sorulari-21",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/testlist-ilkyardim-kanama-sorulari-22",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/isaret-trafik-tanzim-isaretleri-1-1",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/isaret-trafik-tanzim-isaretleri-2-4",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/isaret-trafik-tanzim-isaretleri-3-5",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/isaret-tehlike-uyari-isaretleri-1-2",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/isaret-tehlike-uyari-isaretleri-2-3",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/isaret-arac-ikaz-lambalari-6",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        },
+        {
+          "url": "https://ehliyet-soru.com/isaret",
+          "site": "ehliyet-soru.com",
+          "confidence": "medium",
+          "estimated_questions": 50,
+          "scraper": "enhanced-navigation-scraper.js"
+        }
+      ],
+      "scraper": "enhanced-navigation-scraper.js",
+      "expected_success": "10-30%",
+      "priority": "test_first"
+    },
+    {
+      "phase": 3,
+      "name": "Unknown Sites",
+      "links": [
+        {
+          "url": "https://facebook.com/ehliyetsorusite",
+          "site": "facebook.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://pinterest.com/ehliyetsoru",
+          "site": "pinterest.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://instagram.com/ehliyet_soru",
+          "site": "instagram.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://x.com/ehliyet_sorucom",
+          "site": "x.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://tiktok.com/@ehliyetsoru",
+          "site": "tiktok.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://telegram.me/ehliyet_soru",
+          "site": "telegram.me",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/2019-ehliyet-sinav-sorulari.html",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/ilk-yardim-cikmis-sorular",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/trafik-cikmis-sorular",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/motor-cikmis-sorular",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/trafik-adabi-cikmis-sorular",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/ehliyet-deneme-sinavi",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/faydali-bilgiler",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/diger-sinavlar",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/trafik-cezalari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/src-belgesi",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/ehliyet-sinavi-konu-anlatimi",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/ehliyet-yas-hesaplama",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/gunluk-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/a-sinifi-ehliyet-sinav-sorulari.html",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/almanya-ehliyet-sinavi-cikmis-sorular",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/hakkimizda",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/gizlilik-politikasi",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/iletisim",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/haziran-2025-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/mayis-2025-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/aylik-sorular/nisan-2025-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/aylik-sorular/mart-2025-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/subat-2025-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/ocak-2025-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/aralik-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/kasim-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/ekim-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/eylul-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/agustos-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/temmuz-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/haziran-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/mayis-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/nisan-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/mart-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/aylik-sorular/subat-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/ocak-2024-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/aralik-2023-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/kasim-2023-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/en-cok-cikan-ehliyet-sinav-sorulari",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/animasyonlu-ehliyet-sinav-sorulari.html",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/cikmis-sorular",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        },
+        {
+          "url": "https://www.mebehliyetsinavsorulari.com/#",
+          "site": "www.mebehliyetsinavsorulari.com",
+          "confidence": "low",
+          "estimated_questions": 30,
+          "scraper": "pattern-detector.js"
+        }
+      ],
+      "scraper": "pattern-detector.js",
+      "expected_success": "unknown",
+      "priority": "investigate"
+    }
+  ],
+  "ai_analysis": {
+    "totalQuestions": 9720,
+    "totalTokens": 4374000,
+    "costs": {
+      "deepseek": {
+        "input": 6.1236,
+        "output": 3.67416,
+        "total": 9.79776,
+        "per_question": 0.001008
+      },
+      "openai_gpt4": {
+        "input": 131.22,
+        "output": 78.732,
+        "total": 209.952,
+        "per_question": 0.0216
+      },
+      "claude": {
+        "input": 34.992,
+        "output": 31.492800000000003,
+        "total": 66.4848,
+        "per_question": 0.006840000000000001
+      }
+    }
+  },
+  "recommendations": {
+    "best_ai_provider": "deepseek",
+    "cost_per_question": "$0.000084",
+    "batch_size": 50,
+    "parallel_processing": true,
+    "quality_check": "mandatory"
+  }
+}

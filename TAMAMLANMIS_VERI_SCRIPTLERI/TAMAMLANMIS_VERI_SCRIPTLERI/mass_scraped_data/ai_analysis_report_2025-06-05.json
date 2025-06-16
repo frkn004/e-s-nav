@@ -1,0 +1,94 @@
+{
+  "analysis_session": {
+    "completed_at": "2025-06-05T21:26:29.188Z",
+    "total_questions_analyzed": 58,
+    "successful_analyses": 57,
+    "failed_analyses": 1,
+    "success_rate": "98.3%",
+    "total_cost": "$0.057",
+    "average_cost_per_question": "$0.00100"
+  },
+  "category_distribution": {
+    "motor_bilgisi": 1,
+    "motor_fren_sistemi": 28,
+    "motor_bakim_periyodik": 1,
+    "lastik_bakim": 1,
+    "motor_elektrik_sistemi": 5,
+    "arac_guvenlik_sistemleri": 1,
+    "arac_teknigi_aydınlatma_sistemi": 1,
+    "arac_gosterge_uyari_lambalari": 1,
+    "arac_bakimi_lastik": 1,
+    "trafik_genel": 1,
+    "trafik_arac_techizat": 1,
+    "trafik_gecis_ustunlugu": 2,
+    "trafik_kaza_müdahale": 1,
+    "trafik_kavşak": 3,
+    "trafik_hiz_limitleri": 1,
+    "trafik_isaretleri_ve_yol_cizgileri": 1,
+    "trafik_yonetmelik": 1,
+    "trafik_isaretleri": 2,
+    "trafik_isaret_ve_cihazlar": 1,
+    "trafik_arac_teknik": 1,
+    "sürücü_belgeleri_yaş_şartı": 1,
+    "trafik_isaretleri_park": 1
+  },
+  "difficulty_distribution": {
+    "kolay": 49,
+    "orta": 8
+  },
+  "quality_metrics": {
+    "average_quality_score": "7.9",
+    "high_quality_questions": 28,
+    "medium_quality_questions": 29,
+    "low_quality_questions": 0
+  },
+  "top_categories": [
+    {
+      "category": "motor_fren_sistemi",
+      "count": 28
+    },
+    {
+      "category": "motor_elektrik_sistemi",
+      "count": 5
+    },
+    {
+      "category": "trafik_kavşak",
+      "count": 3
+    },
+    {
+      "category": "trafik_gecis_ustunlugu",
+      "count": 2
+    },
+    {
+      "category": "trafik_isaretleri",
+      "count": 2
+    },
+    {
+      "category": "motor_bilgisi",
+      "count": 1
+    },
+    {
+      "category": "motor_bakim_periyodik",
+      "count": 1
+    },
+    {
+      "category": "lastik_bakim",
+      "count": 1
+    },
+    {
+      "category": "arac_guvenlik_sistemleri",
+      "count": 1
+    },
+    {
+      "category": "arac_teknigi_aydınlatma_sistemi",
+      "count": 1
+    }
+  ],
+  "recommendations": {
+    "ready_for_production": false,
+    "suggested_improvements": [
+      "Daha fazla soru verisi gerekli (min 1000 soru öneriliyor)"
+    ],
+    "estimated_exam_coverage": "1.1%"
+  }
+}

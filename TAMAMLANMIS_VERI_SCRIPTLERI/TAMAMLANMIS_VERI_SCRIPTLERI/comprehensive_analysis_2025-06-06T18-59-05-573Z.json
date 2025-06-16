@@ -1,0 +1,2971 @@
+{
+  "pageAnalysis": {
+    "totalQuestions": 115,
+    "totalOptions": 200,
+    "totalImages": 19,
+    "questions": [
+      {
+        "number": 1,
+        "text": "Soru 1. Görsele göre, Adana istikametine gitmek isteyen 1 numaralı araç sürücüsü hakkında hangisi söylenemez?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 1.</span> <strong>Görsele göre, Adana istikametine gitmek isteyen 1 numaralı araç sürücüsü hakkında hangisi <span style=\"text-decoration: underline;\">söylenemez</span>?</strong>",
+        "tagName": "P",
+        "index": 110
+      },
+      {
+        "number": 1,
+        "text": "Soru 1.",
+        "html": "Soru 1.",
+        "tagName": "SPAN",
+        "index": 111
+      },
+      {
+        "number": 2,
+        "text": "Soru 2. Aşağıdakilerden hangisi kazazedenin taşınmasında uyulması gereken genel kurallardandır?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 2.</span> <strong>Aşağıdakilerden hangisi kazazedenin taşınmasında uyulması gereken genel kurallardandır? </strong>",
+        "tagName": "P",
+        "index": 126
+      },
+      {
+        "number": 2,
+        "text": "Soru 2.",
+        "html": "Soru 2.",
+        "tagName": "SPAN",
+        "index": 127
+      },
+      {
+        "number": 3,
+        "text": "Soru 3. Görseldeki gibi emisyon değeri yüksek egzoz dumanı çıkaran araçların kullanılması, hak ihlallerinden hangisinin kapsamına girmez?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 3.</span> <strong>Görseldeki gibi emisyon değeri yüksek egzoz dumanı çıkaran araçların kullanılması, hak ihlallerinden hangisinin kapsamına <span style=\"text-decoration: underline;\">girmez</span>?</strong>",
+        "tagName": "P",
+        "index": 139
+      },
+      {
+        "number": 3,
+        "text": "Soru 3.",
+        "html": "Soru 3.",
+        "tagName": "SPAN",
+        "index": 140
+      },
+      {
+        "number": 4,
+        "text": "Soru 4. Motorlu bisiklet, motosiklet ve sürücüleri ile ilgili olarak aşağıdakilerden hangisinin yapılması yasaktır?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 4.</span> <strong>Motorlu bisiklet, motosiklet ve sürücüleri ile ilgili olarak aşağıdakilerden hangisinin yapılması yasaktır?</strong>",
+        "tagName": "P",
+        "index": 155
+      },
+      {
+        "number": 4,
+        "text": "Soru 4.",
+        "html": "Soru 4.",
+        "tagName": "SPAN",
+        "index": 156
+      },
+      {
+        "number": 5,
+        "text": "Soru 5. Geçiş üstünlüğü hakkı hangi hâllerde kullanılamaz?\nA) Yolların buzlu ve kaygan olması hâlinde\nB) Görev hâli dışında\nC) Trafiğin yoğun olduğu karayollarında\nD) Şehirler arası karayollarında",
+        "html": "<p><span class=\"simplequiz_question_count\">Soru 5.</span> <strong>Geçiş üstünlüğü hakkı hangi hâllerde kullanılamaz?</strong></p>\n<label for=\"radio_2294_139011_A\" class=\"sq_label full_tag\"><input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139011\" id=\"radio_2294_13",
+        "tagName": "DIV",
+        "index": 167
+      },
+      {
+        "number": 5,
+        "text": "Soru 5. Geçiş üstünlüğü hakkı hangi hâllerde kullanılamaz?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 5.</span> <strong>Geçiş üstünlüğü hakkı hangi hâllerde kullanılamaz?</strong>",
+        "tagName": "P",
+        "index": 168
+      },
+      {
+        "number": 5,
+        "text": "Soru 5.",
+        "html": "Soru 5.",
+        "tagName": "SPAN",
+        "index": 169
+      },
+      {
+        "number": 6,
+        "text": "Soru 6. Suçun işlendiği tarihten itibaren geriye doğru 5 yıl içinde; 0,50 promilin üzerinde alkollü olduğu ikinci defa tespit edilen sürücünün, sürücü belgesi ne kadar süre ile geri alınır?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 6.</span> <strong>Suçun işlendiği tarihten itibaren geriye doğru 5 yıl içinde; 0,50 promilin üzerinde alkollü olduğu ikinci defa tespit edilen sürücünün, sürücü belgesi ne kadar süre ile geri alınır?</strong>",
+        "tagName": "P",
+        "index": 181
+      },
+      {
+        "number": 6,
+        "text": "Soru 6.",
+        "html": "Soru 6.",
+        "tagName": "SPAN",
+        "index": 182
+      },
+      {
+        "number": 7,
+        "text": "Soru 7. Aşağıdakilerden hangisi \"şok\" belirtilerindendir?\nA) Deride kızarıklık olması\nB) Bilinç seviyesinin artması\nC) Vücut sıcaklığının artması\nD) Nabzın hızlı ve zayıf olması",
+        "html": "<p><span class=\"simplequiz_question_count\">Soru 7.</span> <strong>Aşağıdakilerden hangisi \"şok\" belirtilerindendir?</strong></p>\n<label for=\"radio_2294_139013_A\" class=\"sq_label full_tag\"><input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139013\" id=\"radio_2294_139",
+        "tagName": "DIV",
+        "index": 193
+      },
+      {
+        "number": 7,
+        "text": "Soru 7. Aşağıdakilerden hangisi \"şok\" belirtilerindendir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 7.</span> <strong>Aşağıdakilerden hangisi \"şok\" belirtilerindendir?</strong>",
+        "tagName": "P",
+        "index": 194
+      },
+      {
+        "number": 7,
+        "text": "Soru 7.",
+        "html": "Soru 7.",
+        "tagName": "SPAN",
+        "index": 195
+      },
+      {
+        "number": 8,
+        "text": "Soru 8. Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?\n\nA) 50\nB) 70\nC) 80\nD) 90",
+        "html": "<p><span class=\"simplequiz_question_count\">Soru 8.</span> <strong>Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?</strong></p>\n<p><img src=\"/images/sorular/29haziran2013ehliyetsorulari/soru34.jpg\" border=\"0\" width=\"242\" height=\"155\"></p>\n<label for",
+        "tagName": "DIV",
+        "index": 206
+      },
+      {
+        "number": 8,
+        "text": "Soru 8. Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 8.</span> <strong>Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?</strong>",
+        "tagName": "P",
+        "index": 207
+      },
+      {
+        "number": 8,
+        "text": "Soru 8.",
+        "html": "Soru 8.",
+        "tagName": "SPAN",
+        "index": 208
+      },
+      {
+        "number": 9,
+        "text": "Soru 9. Şekilde soru işareti (?) ile gösterilen motor soğutma sistemi parçasının adı nedir?\n\nA) Radyatör\nB) Vantilatör\nC) Kompresör\nD) Hararet müşiri",
+        "html": "<p><span class=\"simplequiz_question_count\">Soru 9.</span> <strong>Şekilde soru işareti (?) ile gösterilen motor soğutma sistemi parçasının adı nedir?</strong></p>\n<p><img src=\"/images/10sinav10/soru104.gif\" border=\"0\" alt=\"\"></p>\n<label for=\"radio_2294_139015_A\" class=\"sq_label full_tag\"><input type",
+        "tagName": "DIV",
+        "index": 221
+      },
+      {
+        "number": 9,
+        "text": "Soru 9. Şekilde soru işareti (?) ile gösterilen motor soğutma sistemi parçasının adı nedir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 9.</span> <strong>Şekilde soru işareti (?) ile gösterilen motor soğutma sistemi parçasının adı nedir?</strong>",
+        "tagName": "P",
+        "index": 222
+      },
+      {
+        "number": 9,
+        "text": "Soru 9.",
+        "html": "Soru 9.",
+        "tagName": "SPAN",
+        "index": 223
+      },
+      {
+        "number": 10,
+        "text": "Soru 10. Aşağıdakilerden hangisi araçtaki ilk yardım çantasında bulundurulmalıdır?\nA) Ağrı kesici ilaç\nB) Yara merhemi\nC) Üçgen sargı bezi\nD) Serum",
+        "html": "<p><span class=\"simplequiz_question_count\">Soru 10.</span> <strong>Aşağıdakilerden hangisi araçtaki ilk yardım çantasında bulundurulmalıdır?</strong></p>\n<label for=\"radio_2294_139016_A\" class=\"sq_label full_tag\"><input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_1",
+        "tagName": "DIV",
+        "index": 236
+      },
+      {
+        "number": 10,
+        "text": "Soru 10. Aşağıdakilerden hangisi araçtaki ilk yardım çantasında bulundurulmalıdır?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 10.</span> <strong>Aşağıdakilerden hangisi araçtaki ilk yardım çantasında bulundurulmalıdır?</strong>",
+        "tagName": "P",
+        "index": 237
+      },
+      {
+        "number": 10,
+        "text": "Soru 10.",
+        "html": "Soru 10.",
+        "tagName": "SPAN",
+        "index": 238
+      },
+      {
+        "number": 11,
+        "text": "Soru 11. I. Yolun, iki şeritli ve iki yönlü olduğunu",
+        "html": "<span class=\"simplequiz_question_count\">Soru 11.</span> I. Yolun, iki şeritli ve iki yönlü olduğunu",
+        "tagName": "P",
+        "index": 250
+      },
+      {
+        "number": 11,
+        "text": "Soru 11.",
+        "html": "Soru 11.",
+        "tagName": "SPAN",
+        "index": 251
+      },
+      {
+        "number": 12,
+        "text": "Soru 12. Şekildeki resme göre hangi aracın ilk geçiş hakkı vardır?\n\nA) At arabası\nB) Motosiklet\nC) Otomobil\nD) Kamyonet",
+        "html": "<p><span class=\"simplequiz_question_count\">Soru 12.</span> <strong>Şekildeki resme göre hangi aracın ilk geçiş hakkı vardır?</strong></p>\n<p><img src=\"/images/deneme/kural.jpg\" border=\"0\" alt=\"\"></p>\n<label for=\"radio_2294_139018_A\" class=\"sq_label full_tag\"><input type=\"radio\" class=\"simplequiz rad",
+        "tagName": "DIV",
+        "index": 267
+      },
+      {
+        "number": 12,
+        "text": "Soru 12. Şekildeki resme göre hangi aracın ilk geçiş hakkı vardır?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 12.</span> <strong>Şekildeki resme göre hangi aracın ilk geçiş hakkı vardır?</strong>",
+        "tagName": "P",
+        "index": 268
+      },
+      {
+        "number": 12,
+        "text": "Soru 12.",
+        "html": "Soru 12.",
+        "tagName": "SPAN",
+        "index": 269
+      },
+      {
+        "number": 13,
+        "text": "Soru 13. I. Kırmızı ışıkta geçmektedir. II. Sağdan gelen yeşil araca ilk geçiş hakkını vermemektedir.III. Girişi olmayan yol bölümüne girmektedir.",
+        "html": "<span class=\"simplequiz_question_count\">Soru 13.</span> I. Kırmızı ışıkta geçmektedir.<br> II. Sağdan gelen yeşil araca ilk geçiş hakkını vermemektedir.<br>III. Girişi olmayan yol bölümüne girmektedir.",
+        "tagName": "P",
+        "index": 283
+      },
+      {
+        "number": 13,
+        "text": "Soru 13.",
+        "html": "Soru 13.",
+        "tagName": "SPAN",
+        "index": 284
+      },
+      {
+        "number": 14,
+        "text": "Soru 14.",
+        "html": "Soru 14.",
+        "tagName": "SPAN",
+        "index": 304
+      },
+      {
+        "number": 15,
+        "text": "Soru 15. Haritaların üst kenar çizgisi hangi ana yönü gösterir?\nA) Batı \nB) Doğu\nC) Kuzey \nD) Güney",
+        "html": "<p><span class=\"simplequiz_question_count\">Soru 15.</span> <strong>Haritaların üst kenar çizgisi hangi ana yönü gösterir?</strong></p>\n<label for=\"radio_2294_139021_A\" class=\"sq_label full_tag\"><input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139021\" id=\"radio_22",
+        "tagName": "DIV",
+        "index": 316
+      },
+      {
+        "number": 15,
+        "text": "Soru 15. Haritaların üst kenar çizgisi hangi ana yönü gösterir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 15.</span> <strong>Haritaların üst kenar çizgisi hangi ana yönü gösterir?</strong>",
+        "tagName": "P",
+        "index": 317
+      },
+      {
+        "number": 15,
+        "text": "Soru 15.",
+        "html": "Soru 15.",
+        "tagName": "SPAN",
+        "index": 318
+      },
+      {
+        "number": 16,
+        "text": "Soru 16. Şekildeki gibi bir kavşakta karşılaşan araçların geçiş hakkı sıralaması nasıl olmalıdır?\n\nA) 1 - 2 - 3 - 4\nB) 1 - 2 - 4 - 3\nC) 2 - 1 - 4 - 3\nD) 4 - 1 - 2 - 3",
+        "html": "<p><span class=\"simplequiz_question_count\">Soru 16.</span> <strong>Şekildeki gibi bir kavşakta karşılaşan araçların geçiş hakkı sıralaması nasıl olmalıdır?</strong></p>\n<p><strong><img src=\"/images/23araliksorulari/27.png\" border=\"0\" width=\"300\"></strong></p>\n<label for=\"radio_2294_139022_A\" class=\"",
+        "tagName": "DIV",
+        "index": 329
+      },
+      {
+        "number": 16,
+        "text": "Soru 16. Şekildeki gibi bir kavşakta karşılaşan araçların geçiş hakkı sıralaması nasıl olmalıdır?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 16.</span> <strong>Şekildeki gibi bir kavşakta karşılaşan araçların geçiş hakkı sıralaması nasıl olmalıdır?</strong>",
+        "tagName": "P",
+        "index": 330
+      },
+      {
+        "number": 16,
+        "text": "Soru 16.",
+        "html": "Soru 16.",
+        "tagName": "SPAN",
+        "index": 331
+      },
+      {
+        "number": 17,
+        "text": "Soru 17. Şekildeki taşıt yolu üzerinde bulunan yazı neyi bildirmektedir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 17.</span> <strong>Şekildeki taşıt yolu üzerinde bulunan yazı neyi bildirmektedir?</strong>",
+        "tagName": "P",
+        "index": 346
+      },
+      {
+        "number": 17,
+        "text": "Soru 17.",
+        "html": "Soru 17.",
+        "tagName": "SPAN",
+        "index": 347
+      },
+      {
+        "number": 18,
+        "text": "Soru 18. Olay yerindeki ilk yardımcının, bilinçleri kapalı ve solunumu olmayan dört farklı kazazedeye ilişkin tespitleri tabloda verilmiştir.",
+        "html": "<span class=\"simplequiz_question_count\">Soru 18.</span> <strong>Olay yerindeki ilk yardımcının, bilinçleri kapalı ve solunumu olmayan dört farklı kazazedeye ilişkin tespitleri tabloda verilmiştir.</strong>",
+        "tagName": "P",
+        "index": 361
+      },
+      {
+        "number": 18,
+        "text": "Soru 18.",
+        "html": "Soru 18.",
+        "tagName": "SPAN",
+        "index": 362
+      },
+      {
+        "number": 19,
+        "text": "Soru 19. Aşağıdakilerden hangisi egzoz gazından zehirlenen kişiye uygulanmaz?\nA) Solunumu durmuşsa suni solunum yapmak\nB) Kusmasını sağlamak\nC) Temiz havaya çıkarmak\nD) Sıcak tutmak",
+        "html": "<p><span class=\"simplequiz_question_count\">Soru 19.</span> <strong>Aşağıdakilerden hangisi egzoz gazından zehirlenen kişiye uygulanmaz?</strong></p>\n<label for=\"radio_2294_139025_A\" class=\"sq_label full_tag\"><input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139025",
+        "tagName": "DIV",
+        "index": 377
+      },
+      {
+        "number": 19,
+        "text": "Soru 19. Aşağıdakilerden hangisi egzoz gazından zehirlenen kişiye uygulanmaz?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 19.</span> <strong>Aşağıdakilerden hangisi egzoz gazından zehirlenen kişiye uygulanmaz?</strong>",
+        "tagName": "P",
+        "index": 378
+      },
+      {
+        "number": 19,
+        "text": "Soru 19.",
+        "html": "Soru 19.",
+        "tagName": "SPAN",
+        "index": 379
+      },
+      {
+        "number": 20,
+        "text": "Soru 20. Aşağıdakilerden hangisi diferansiyelin görevlerindendir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 20.</span> <strong>Aşağıdakilerden hangisi diferansiyelin görevlerindendir?</strong>",
+        "tagName": "P",
+        "index": 391
+      },
+      {
+        "number": 20,
+        "text": "Soru 20.",
+        "html": "Soru 20.",
+        "tagName": "SPAN",
+        "index": 392
+      },
+      {
+        "number": 21,
+        "text": "Soru 21. Yapısı itibariyle, sürücüsü dahil en fazla dokuz oturma yeri olan ve insan taşımak için imal edilmiş bulunan motorlu taşıta ne ad verilir?\nA) Otobüs \nB) Otomobil\nC) Kamyon \nD) Kamyonet",
+        "html": "<p><span class=\"simplequiz_question_count\">Soru 21.</span> <strong>Yapısı itibariyle, sürücüsü dahil en fazla dokuz oturma yeri olan ve insan taşımak için imal edilmiş bulunan motorlu taşıta ne ad verilir?</strong></p>\n<label for=\"radio_2294_139027_A\" class=\"sq_label full_tag\"><input type=\"radio\" cl",
+        "tagName": "DIV",
+        "index": 403
+      },
+      {
+        "number": 21,
+        "text": "Soru 21. Yapısı itibariyle, sürücüsü dahil en fazla dokuz oturma yeri olan ve insan taşımak için imal edilmiş bulunan motorlu taşıta ne ad verilir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 21.</span> <strong>Yapısı itibariyle, sürücüsü dahil en fazla dokuz oturma yeri olan ve insan taşımak için imal edilmiş bulunan motorlu taşıta ne ad verilir?</strong>",
+        "tagName": "P",
+        "index": 404
+      },
+      {
+        "number": 21,
+        "text": "Soru 21.",
+        "html": "Soru 21.",
+        "tagName": "SPAN",
+        "index": 405
+      },
+      {
+        "number": 22,
+        "text": "Soru 22. Aşağıdakilerden hangisi Emniyet Genel Müdürlüğünün görev ve yetkilerindendir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 22.</span> <strong>Aşağıdakilerden hangisi Emniyet Genel Müdürlüğünün görev ve yetkilerindendir?</strong>",
+        "tagName": "P",
+        "index": 417
+      },
+      {
+        "number": 22,
+        "text": "Soru 22.",
+        "html": "Soru 22.",
+        "tagName": "SPAN",
+        "index": 418
+      },
+      {
+        "number": 23,
+        "text": "Soru 23. Sürücüler, yolcu indirip bindirirken aşağıdaki kurallardan hangisine uymak zorundadırlar?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 23.</span> <strong>Sürücüler, yolcu indirip bindirirken aşağıdaki kurallardan hangisine uymak zorundadırlar?</strong>",
+        "tagName": "P",
+        "index": 430
+      },
+      {
+        "number": 23,
+        "text": "Soru 23.",
+        "html": "Soru 23.",
+        "tagName": "SPAN",
+        "index": 431
+      },
+      {
+        "number": 24,
+        "text": "Soru 24. Yağmurlu bir günde araç sürerken kaldırımdaki yayalara su sıçratmamaya özen gösterilmesi durumu, trafikte hangi temel değere sahip olunduğuna örnektir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 24.</span> <strong>Yağmurlu bir günde araç sürerken kaldırımdaki yayalara su sıçratmamaya özen gösterilmesi durumu, trafikte hangi temel değere sahip olunduğuna örnektir?</strong>",
+        "tagName": "P",
+        "index": 443
+      },
+      {
+        "number": 24,
+        "text": "Soru 24.",
+        "html": "Soru 24.",
+        "tagName": "SPAN",
+        "index": 444
+      },
+      {
+        "number": 25,
+        "text": "Soru 25. Araçta, aşağıdakilerden hangisinin kullanılması yağışlı havalarda kaza riskini artırır?\nA) Tam şarjlı akü\nB) Uzun yakıt boruları\nC) Antifrizli soğutma suyu\nD) Eski ve aşınmış lastikler",
+        "html": "<p><span class=\"simplequiz_question_count\">Soru 25.</span> <strong>Araçta, aşağıdakilerden hangisinin kullanılması yağışlı havalarda kaza riskini artırır?</strong></p>\n<label for=\"radio_2294_139031_A\" class=\"sq_label full_tag\"><input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name",
+        "tagName": "DIV",
+        "index": 455
+      },
+      {
+        "number": 25,
+        "text": "Soru 25. Araçta, aşağıdakilerden hangisinin kullanılması yağışlı havalarda kaza riskini artırır?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 25.</span> <strong>Araçta, aşağıdakilerden hangisinin kullanılması yağışlı havalarda kaza riskini artırır?</strong>",
+        "tagName": "P",
+        "index": 456
+      },
+      {
+        "number": 25,
+        "text": "Soru 25.",
+        "html": "Soru 25.",
+        "tagName": "SPAN",
+        "index": 457
+      },
+      {
+        "number": 26,
+        "text": "Soru 26. Kollarında üç yuvarlaklı sarı bant bulunan ve beyaz baston taşıyan yayayı taşıt yolunda gören sürücü nasıl hareket etmelidir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 26.</span> <strong>Kollarında üç yuvarlaklı sarı bant bulunan ve beyaz baston taşıyan yayayı taşıt yolunda gören sürücü nasıl hareket etmelidir?</strong>",
+        "tagName": "P",
+        "index": 469
+      },
+      {
+        "number": 26,
+        "text": "Soru 26.",
+        "html": "Soru 26.",
+        "tagName": "SPAN",
+        "index": 470
+      },
+      {
+        "number": 27,
+        "text": "Soru 27. Taşıtlarla ilgili aşağıdaki hallerden hangisi \"durma\" örneğidir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 27.</span> <strong>Taşıtlarla ilgili aşağıdaki hallerden hangisi \"durma\" örneğidir?</strong>",
+        "tagName": "P",
+        "index": 482
+      },
+      {
+        "number": 27,
+        "text": "Soru 27.",
+        "html": "Soru 27.",
+        "tagName": "SPAN",
+        "index": 483
+      },
+      {
+        "number": 28,
+        "text": "Soru 28. Normal yetişkin bir insan, kanama sonucu vücudundaki kanın % kaçını kaybederse hayati tehlike oluşur?\nA) 5\nB) 10\nC) 15\nD) 20",
+        "html": "<p><span class=\"simplequiz_question_count\">Soru 28.</span> <strong>Normal yetişkin bir insan, kanama sonucu vücudundaki kanın % kaçını kaybederse hayati tehlike oluşur?</strong></p>\n<label for=\"radio_2294_139034_A\" class=\"sq_label full_tag\"><input type=\"radio\" class=\"simplequiz radiobutton inputbox ",
+        "tagName": "DIV",
+        "index": 494
+      },
+      {
+        "number": 28,
+        "text": "Soru 28. Normal yetişkin bir insan, kanama sonucu vücudundaki kanın % kaçını kaybederse hayati tehlike oluşur?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 28.</span> <strong>Normal yetişkin bir insan, kanama sonucu vücudundaki kanın % kaçını kaybederse hayati tehlike oluşur?</strong>",
+        "tagName": "P",
+        "index": 495
+      },
+      {
+        "number": 28,
+        "text": "Soru 28.",
+        "html": "Soru 28.",
+        "tagName": "SPAN",
+        "index": 496
+      },
+      {
+        "number": 29,
+        "text": "Soru 29. Çocuklarda temel yaşam desteği uygulamasıyla ilgili verilenlerden hangisi doğrudur?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 29.</span> <strong>Çocuklarda temel yaşam desteği uygulamasıyla ilgili verilenlerden hangisi doğrudur?</strong>",
+        "tagName": "P",
+        "index": 508
+      },
+      {
+        "number": 29,
+        "text": "Soru 29.",
+        "html": "Soru 29.",
+        "tagName": "SPAN",
+        "index": 509
+      },
+      {
+        "number": 30,
+        "text": "Soru 30. Trafikte güvenle seyahat etmek yüksek seviyede konsantrasyon gerektirir.",
+        "html": "<span class=\"simplequiz_question_count\">Soru 30.</span> Trafikte güvenle seyahat etmek yüksek seviyede konsantrasyon gerektirir.",
+        "tagName": "P",
+        "index": 521
+      },
+      {
+        "number": 30,
+        "text": "Soru 30.",
+        "html": "Soru 30.",
+        "tagName": "SPAN",
+        "index": 522
+      },
+      {
+        "number": 31,
+        "text": "Soru 31. Şekildeki gibi dönel kavşağa gelen 1 numaralı aracın sürücüsü ne yapmalıdır?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 31.</span> <strong>Şekildeki gibi dönel kavşağa gelen 1 numaralı aracın sürücüsü ne yapmalıdır?</strong>",
+        "tagName": "P",
+        "index": 535
+      },
+      {
+        "number": 31,
+        "text": "Soru 31.",
+        "html": "Soru 31.",
+        "tagName": "SPAN",
+        "index": 536
+      },
+      {
+        "number": 32,
+        "text": "Soru 32. Araçlarda emniyet kemeri kullanılmasının yararı aşağıdakilerden hangisidir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 32.</span> <strong>Araçlarda emniyet kemeri kullanılmasının yararı aşağıdakilerden hangisidir?</strong>",
+        "tagName": "P",
+        "index": 550
+      },
+      {
+        "number": 32,
+        "text": "Soru 32.",
+        "html": "Soru 32.",
+        "tagName": "SPAN",
+        "index": 551
+      },
+      {
+        "number": 33,
+        "text": "Soru 33. Göz muayenesine ilişkin esaslara göre hangi rahatsızlığı olanlar, herhangi bir koşul aranmadan sürücü belgesi alabilirler?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 33.</span> <strong>Göz muayenesine ilişkin esaslara göre hangi rahatsızlığı olanlar, herhangi bir koşul aranmadan sürücü belgesi alabilirler?</strong>",
+        "tagName": "P",
+        "index": 563
+      },
+      {
+        "number": 33,
+        "text": "Soru 33.",
+        "html": "Soru 33.",
+        "tagName": "SPAN",
+        "index": 564
+      },
+      {
+        "number": 34,
+        "text": "Soru 34. Yetişkinlere yapılan dış kalp masajı uygulamasıyla ilgili olarak verilenlerden hangisi doğrudur?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 34.</span> <strong>Yetişkinlere yapılan dış kalp masajı uygulamasıyla ilgili olarak verilenlerden hangisi doğrudur?</strong>",
+        "tagName": "P",
+        "index": 576
+      },
+      {
+        "number": 34,
+        "text": "Soru 34.",
+        "html": "Soru 34.",
+        "tagName": "SPAN",
+        "index": 577
+      },
+      {
+        "number": 35,
+        "text": "Soru 35. Yaralıyı araçtan çıkarırken aşağıdakilerden hangisine dikkat edilmelidir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 35.</span> <strong>Yaralıyı araçtan çıkarırken aşağıdakilerden hangisine dikkat edilmelidir?</strong>",
+        "tagName": "P",
+        "index": 589
+      },
+      {
+        "number": 35,
+        "text": "Soru 35.",
+        "html": "Soru 35.",
+        "tagName": "SPAN",
+        "index": 590
+      },
+      {
+        "number": 36,
+        "text": "Soru 36. Araç lastiği değiştirilirken, aracın kriko ile kaldırılması durumunda aşağıdakilerden hangisi yapılır?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 36.</span> <strong>Araç lastiği değiştirilirken, aracın kriko ile kaldırılması durumunda aşağıdakilerden hangisi yapılır?</strong>",
+        "tagName": "P",
+        "index": 602
+      },
+      {
+        "number": 36,
+        "text": "Soru 36.",
+        "html": "Soru 36.",
+        "tagName": "SPAN",
+        "index": 603
+      },
+      {
+        "number": 37,
+        "text": "Soru 37. Motoru çalıştırırken uzun süre ve sıkça marş yapılması aşağıdakilerden hangisinin ömrünü kısaltır?\nA) Alternatörün\nB) Far ampülünün\nC) Marş motorunun\nD) Endüksiyon bobininin",
+        "html": "<p><span class=\"simplequiz_question_count\">Soru 37.</span> <strong>Motoru çalıştırırken uzun süre ve sıkça marş yapılması aşağıdakilerden hangisinin ömrünü kısaltır?</strong></p>\n<label for=\"radio_2294_139044_A\" class=\"sq_label full_tag\"><input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_",
+        "tagName": "DIV",
+        "index": 614
+      },
+      {
+        "number": 37,
+        "text": "Soru 37. Motoru çalıştırırken uzun süre ve sıkça marş yapılması aşağıdakilerden hangisinin ömrünü kısaltır?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 37.</span> <strong>Motoru çalıştırırken uzun süre ve sıkça marş yapılması aşağıdakilerden hangisinin ömrünü kısaltır?</strong>",
+        "tagName": "P",
+        "index": 615
+      },
+      {
+        "number": 37,
+        "text": "Soru 37.",
+        "html": "Soru 37.",
+        "tagName": "SPAN",
+        "index": 616
+      },
+      {
+        "number": 38,
+        "text": "Soru 38. Trafik işaretlerinden hangisi, aracın yük taşıma kapasitesine sınırlama getirir?\nA)\nB)\nC)\nD)",
+        "html": "<p><span class=\"simplequiz_question_count\">Soru 38.</span> <strong>Trafik işaretlerinden hangisi, aracın yük taşıma kapasitesine sınırlama getirir?</strong></p>\n<label for=\"radio_2294_139045_A\" class=\"sq_label full_tag\"><input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio",
+        "tagName": "DIV",
+        "index": 627
+      },
+      {
+        "number": 38,
+        "text": "Soru 38. Trafik işaretlerinden hangisi, aracın yük taşıma kapasitesine sınırlama getirir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 38.</span> <strong>Trafik işaretlerinden hangisi, aracın yük taşıma kapasitesine sınırlama getirir?</strong>",
+        "tagName": "P",
+        "index": 628
+      },
+      {
+        "number": 38,
+        "text": "Soru 38.",
+        "html": "Soru 38.",
+        "tagName": "SPAN",
+        "index": 629
+      },
+      {
+        "number": 39,
+        "text": "Soru 39. Otobüs, kamyon, minibüs, kamyonet ve çekicilere bir yaş sonunda ve devamında kaç yılda bir muayene yaptırılması zorunludur?\nA) 4\nB) 3\nC) 2\nD) 1",
+        "html": "<p><span class=\"simplequiz_question_count\">Soru 39.</span> <strong>Otobüs, kamyon, minibüs, kamyonet ve çekicilere bir yaş sonunda ve devamında kaç yılda bir muayene yaptırılması zorunludur?</strong></p>\n<label for=\"radio_2294_139046_A\" class=\"sq_label full_tag\"><input type=\"radio\" class=\"simplequiz",
+        "tagName": "DIV",
+        "index": 644
+      },
+      {
+        "number": 39,
+        "text": "Soru 39. Otobüs, kamyon, minibüs, kamyonet ve çekicilere bir yaş sonunda ve devamında kaç yılda bir muayene yaptırılması zorunludur?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 39.</span> <strong>Otobüs, kamyon, minibüs, kamyonet ve çekicilere bir yaş sonunda ve devamında kaç yılda bir muayene yaptırılması zorunludur?</strong>",
+        "tagName": "P",
+        "index": 645
+      },
+      {
+        "number": 39,
+        "text": "Soru 39.",
+        "html": "Soru 39.",
+        "tagName": "SPAN",
+        "index": 646
+      },
+      {
+        "number": 40,
+        "text": "Soru 40. Araçların orijinal sistemlerinde yer alan egzoz borusu ve susturucunun korunması ile aşağıdakilerden hangisi amaçlanır?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 40.</span> <strong>Araçların orijinal sistemlerinde yer alan egzoz borusu ve susturucunun korunması ile aşağıdakilerden hangisi amaçlanır?</strong>",
+        "tagName": "P",
+        "index": 658
+      },
+      {
+        "number": 40,
+        "text": "Soru 40.",
+        "html": "Soru 40.",
+        "tagName": "SPAN",
+        "index": 659
+      },
+      {
+        "number": 41,
+        "text": "Soru 41. Hususi otomobillere 3 yaş sonunda kaç yılda bir muayene yaptırılması zorunludur?\nA) 1\nB) 2\nC) 3\nD) 4",
+        "html": "<p><span class=\"simplequiz_question_count\">Soru 41.</span> <strong>Hususi otomobillere 3 yaş sonunda kaç yılda bir muayene yaptırılması zorunludur?</strong></p>\n<label for=\"radio_2294_139048_A\" class=\"sq_label full_tag\"><input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio",
+        "tagName": "DIV",
+        "index": 670
+      },
+      {
+        "number": 41,
+        "text": "Soru 41. Hususi otomobillere 3 yaş sonunda kaç yılda bir muayene yaptırılması zorunludur?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 41.</span> <strong>Hususi otomobillere 3 yaş sonunda kaç yılda bir muayene yaptırılması zorunludur?</strong>",
+        "tagName": "P",
+        "index": 671
+      },
+      {
+        "number": 41,
+        "text": "Soru 41.",
+        "html": "Soru 41.",
+        "tagName": "SPAN",
+        "index": 672
+      },
+      {
+        "number": 42,
+        "text": "Soru 42. I- Merkezi sinir sisteminde uyuşturucu etkiII- Beyindeki frenleme ve karar verme yeteneğinin bozulmasıIII- Alkol miktarının artması ile doğru orantılı olarak duyarlılığın artması",
+        "html": "<span class=\"simplequiz_question_count\">Soru 42.</span> I- Merkezi sinir sisteminde uyuşturucu etki<br>II- Beyindeki frenleme ve karar verme yeteneğinin bozulması<br>III- Alkol miktarının artması ile doğru orantılı olarak duyarlılığın artması",
+        "tagName": "P",
+        "index": 684
+      },
+      {
+        "number": 42,
+        "text": "Soru 42.",
+        "html": "Soru 42.",
+        "tagName": "SPAN",
+        "index": 685
+      },
+      {
+        "number": 43,
+        "text": "Soru 43. Videoya göre, kırmızı otomobil sürücüsü nasıl davranmalıdır?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 43.</span> <strong>Videoya göre, kırmızı otomobil sürücüsü nasıl davranmalıdır?</strong>",
+        "tagName": "P",
+        "index": 700
+      },
+      {
+        "number": 43,
+        "text": "Soru 43.",
+        "html": "Soru 43.",
+        "tagName": "SPAN",
+        "index": 701
+      },
+      {
+        "number": 44,
+        "text": "Soru 44. Deprem, sel gibi doğal afetlerden etkilenenlere yardım götürmeye çalışan araçlara kolaylık sağlayan sürücünün hangisine önem verdiği söylenemez?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 44.</span> <strong>Deprem, sel gibi doğal afetlerden etkilenenlere yardım götürmeye çalışan araçlara kolaylık sağlayan sürücünün hangisine önem verdiği <span style=\"text-decoration: underline;\">söylenemez</span>?</strong>",
+        "tagName": "P",
+        "index": 717
+      },
+      {
+        "number": 44,
+        "text": "Soru 44.",
+        "html": "Soru 44.",
+        "tagName": "SPAN",
+        "index": 718
+      },
+      {
+        "number": 45,
+        "text": "Soru 45.",
+        "html": "Soru 45.",
+        "tagName": "SPAN",
+        "index": 732
+      },
+      {
+        "number": 46,
+        "text": "Soru 46. Taşıt yolu üzerine çizilen aşağıdaki yatay işaretlemelerden hangisi, şeridin sadece sağa dönüş için olduğunu bildirir?\nA) \nB) \nC) \nD)",
+        "html": "<p><span class=\"simplequiz_question_count\">Soru 46.</span> <strong>Taşıt yolu üzerine çizilen aşağıdaki yatay işaretlemelerden hangisi, şeridin sadece sağa dönüş için olduğunu bildirir?</strong></p>\n<label for=\"radio_2294_139003_A\" class=\"sq_label full_tag\"><input type=\"radio\" class=\"simplequiz radi",
+        "tagName": "DIV",
+        "index": 744
+      },
+      {
+        "number": 46,
+        "text": "Soru 46. Taşıt yolu üzerine çizilen aşağıdaki yatay işaretlemelerden hangisi, şeridin sadece sağa dönüş için olduğunu bildirir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 46.</span> <strong>Taşıt yolu üzerine çizilen aşağıdaki yatay işaretlemelerden hangisi, şeridin sadece sağa dönüş için olduğunu bildirir?</strong>",
+        "tagName": "P",
+        "index": 745
+      },
+      {
+        "number": 46,
+        "text": "Soru 46.",
+        "html": "Soru 46.",
+        "tagName": "SPAN",
+        "index": 746
+      },
+      {
+        "number": 47,
+        "text": "Soru 47. Aşağıdakilerden hangisi sürücülerden beklenen olumlu davranış özelliklerindendir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 47.</span> <strong>Aşağıdakilerden hangisi sürücülerden beklenen olumlu davranış özelliklerindendir?</strong>",
+        "tagName": "P",
+        "index": 762
+      },
+      {
+        "number": 47,
+        "text": "Soru 47.",
+        "html": "Soru 47.",
+        "tagName": "SPAN",
+        "index": 763
+      },
+      {
+        "number": 48,
+        "text": "Soru 48. Koşulların uygun olması hâlinde sürücü kesik yol çizgileri boyunca aşağıdakilerden hangisini yapabilir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 48.</span> <strong>Koşulların uygun olması hâlinde sürücü kesik yol çizgileri boyunca aşağıdakilerden hangisini yapabilir?</strong>",
+        "tagName": "P",
+        "index": 775
+      },
+      {
+        "number": 48,
+        "text": "Soru 48.",
+        "html": "Soru 48.",
+        "tagName": "SPAN",
+        "index": 776
+      },
+      {
+        "number": 49,
+        "text": "Soru 49. Aşağıdakilerden hangisi motorla vites kutusu arasındaki irtibatı keserek, vites değiştirme imkânı sağlayan güç aktarma organıdır?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 49.</span> <strong>Aşağıdakilerden hangisi motorla vites kutusu arasındaki irtibatı keserek, vites değiştirme imkânı sağlayan güç aktarma organıdır?</strong>",
+        "tagName": "P",
+        "index": 788
+      },
+      {
+        "number": 49,
+        "text": "Soru 49.",
+        "html": "Soru 49.",
+        "tagName": "SPAN",
+        "index": 789
+      },
+      {
+        "number": 50,
+        "text": "Soru 50. Omurga zedelenmesi olan yaralıyı oturtmadan ve hareket ettirmeden sağlık kuruluşuna ulaştırmaktaki amaç aşağıdakilerden hangisidir?",
+        "html": "<span class=\"simplequiz_question_count\">Soru 50.</span> <strong>Omurga zedelenmesi olan yaralıyı oturtmadan ve hareket ettirmeden sağlık kuruluşuna ulaştırmaktaki amaç aşağıdakilerden hangisidir?</strong>",
+        "tagName": "P",
+        "index": 801
+      },
+      {
+        "number": 50,
+        "text": "Soru 50.",
+        "html": "Soru 50.",
+        "tagName": "SPAN",
+        "index": 802
+      }
+    ],
+    "options": [
+      {
+        "option": "A",
+        "text": "A)Araç ışıklarını doğru yerde kullanmadığı",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139038\" id=\"radio_2294_139038_A\" value=\"A\">A)Araç ışıklarını doğru yerde kullanmadığı",
+        "tagName": "LABEL",
+        "index": 116
+      },
+      {
+        "option": "B",
+        "text": "B)Dönüş öncesi doğru şeride girmediği",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139038\" id=\"radio_2294_139038_B\" value=\"B\">B)Dönüş öncesi doğru şeride girmediği",
+        "tagName": "LABEL",
+        "index": 118
+      },
+      {
+        "option": "C",
+        "text": "C)Kamyon sürücüsünü zor durumda bırakmadığı",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139038\" id=\"radio_2294_139038_C\" value=\"C\">C)Kamyon sürücüsünü zor durumda bırakmadığı",
+        "tagName": "LABEL",
+        "index": 120
+      },
+      {
+        "option": "D",
+        "text": "D)Geçme kurallarına uymadığı",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139038\" id=\"radio_2294_139038_D\" value=\"D\">D)Geçme kurallarına uymadığı",
+        "tagName": "LABEL",
+        "index": 122
+      },
+      {
+        "option": "A",
+        "text": "A) İlk yardımcının kendi sağlığını riske sokması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139008\" id=\"radio_2294_139008_A\" value=\"A\">A) İlk yardımcının kendi sağlığını riske sokması",
+        "tagName": "LABEL",
+        "index": 129
+      },
+      {
+        "option": "B",
+        "text": "B) İlk yardımcının kalkarken ağırlığı karın kaslarına vermesi",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139008\" id=\"radio_2294_139008_B\" value=\"B\">B) İlk yardımcının kalkarken ağırlığı karın kaslarına vermesi",
+        "tagName": "LABEL",
+        "index": 131
+      },
+      {
+        "option": "C",
+        "text": "C) Kazazedenin mümkün olduğunca çok hareket ettirilmesi",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139008\" id=\"radio_2294_139008_C\" value=\"C\">C) Kazazedenin mümkün olduğunca çok hareket ettirilmesi",
+        "tagName": "LABEL",
+        "index": 133
+      },
+      {
+        "option": "D",
+        "text": "D) Kazazedenin baş-boyun-gövde ekseni esas alınarak en az 6 destek noktasından kavranması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139008\" id=\"radio_2294_139008_D\" value=\"D\">D) Kazazedenin baş-boyun-gövde ekseni esas alınarak en az 6 destek nokt",
+        "tagName": "LABEL",
+        "index": 135
+      },
+      {
+        "option": "A",
+        "text": "A)Doğa ve Çevreye Karşı Yapılan Hak İhlalleri",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139009\" id=\"radio_2294_139009_A\" value=\"A\">A)Doğa ve Çevreye Karşı Yapılan Hak İhlalleri",
+        "tagName": "LABEL",
+        "index": 145
+      },
+      {
+        "option": "B",
+        "text": "B)Kamu Hak İhlalleri",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139009\" id=\"radio_2294_139009_B\" value=\"B\">B)Kamu Hak İhlalleri",
+        "tagName": "LABEL",
+        "index": 147
+      },
+      {
+        "option": "C",
+        "text": "C)Diğer Canlılara Karşı Yapılan Hak İhlalleri",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139009\" id=\"radio_2294_139009_C\" value=\"C\">C)Diğer Canlılara Karşı Yapılan Hak İhlalleri",
+        "tagName": "LABEL",
+        "index": 149
+      },
+      {
+        "option": "D",
+        "text": "D)Bireylere Karşı Yapılan Hak İhlalleri",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139009\" id=\"radio_2294_139009_D\" value=\"D\">D)Bireylere Karşı Yapılan Hak İhlalleri",
+        "tagName": "LABEL",
+        "index": 151
+      },
+      {
+        "option": "A",
+        "text": "A) Geçme yaparken sinyal verilmesi",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139010\" id=\"radio_2294_139010_A\" value=\"A\">A) Geçme yaparken sinyal verilmesi",
+        "tagName": "LABEL",
+        "index": 158
+      },
+      {
+        "option": "B",
+        "text": "B) Yaya yolunda sürülmesi",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139010\" id=\"radio_2294_139010_B\" value=\"B\">B) Yaya yolunda sürülmesi",
+        "tagName": "LABEL",
+        "index": 160
+      },
+      {
+        "option": "C",
+        "text": "C) Tehlikeli madde taşıyan araçların geçilmesi",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139010\" id=\"radio_2294_139010_C\" value=\"C\">C) Tehlikeli madde taşıyan araçların geçilmesi",
+        "tagName": "LABEL",
+        "index": 162
+      },
+      {
+        "option": "D",
+        "text": "D) Gidiş yönüne göre yolun en sağından seyredilmesi",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139010\" id=\"radio_2294_139010_D\" value=\"D\">D) Gidiş yönüne göre yolun en sağından seyredilmesi",
+        "tagName": "LABEL",
+        "index": 164
+      },
+      {
+        "option": "A",
+        "text": "A) Yolların buzlu ve kaygan olması hâlinde",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139011\" id=\"radio_2294_139011_A\" value=\"A\">A) Yolların buzlu ve kaygan olması hâlinde",
+        "tagName": "LABEL",
+        "index": 171
+      },
+      {
+        "option": "B",
+        "text": "B) Görev hâli dışında",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139011\" id=\"radio_2294_139011_B\" value=\"B\">B) Görev hâli dışında",
+        "tagName": "LABEL",
+        "index": 173
+      },
+      {
+        "option": "C",
+        "text": "C) Trafiğin yoğun olduğu karayollarında",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139011\" id=\"radio_2294_139011_C\" value=\"C\">C) Trafiğin yoğun olduğu karayollarında",
+        "tagName": "LABEL",
+        "index": 175
+      },
+      {
+        "option": "D",
+        "text": "D) Şehirler arası karayollarında",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139011\" id=\"radio_2294_139011_D\" value=\"D\">D) Şehirler arası karayollarında",
+        "tagName": "LABEL",
+        "index": 177
+      },
+      {
+        "option": "A",
+        "text": "A) 30 gün",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139012\" id=\"radio_2294_139012_A\" value=\"A\">A) 30 gün",
+        "tagName": "LABEL",
+        "index": 184
+      },
+      {
+        "option": "B",
+        "text": "B) 3 ay",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139012\" id=\"radio_2294_139012_B\" value=\"B\">B) 3 ay",
+        "tagName": "LABEL",
+        "index": 186
+      },
+      {
+        "option": "C",
+        "text": "C) 6 ay",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139012\" id=\"radio_2294_139012_C\" value=\"C\">C) 6 ay",
+        "tagName": "LABEL",
+        "index": 188
+      },
+      {
+        "option": "D",
+        "text": "D) 2 yıl",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139012\" id=\"radio_2294_139012_D\" value=\"D\">D) 2 yıl",
+        "tagName": "LABEL",
+        "index": 190
+      },
+      {
+        "option": "A",
+        "text": "A) Deride kızarıklık olması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139013\" id=\"radio_2294_139013_A\" value=\"A\">A) Deride kızarıklık olması",
+        "tagName": "LABEL",
+        "index": 197
+      },
+      {
+        "option": "B",
+        "text": "B) Bilinç seviyesinin artması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139013\" id=\"radio_2294_139013_B\" value=\"B\">B) Bilinç seviyesinin artması",
+        "tagName": "LABEL",
+        "index": 199
+      },
+      {
+        "option": "C",
+        "text": "C) Vücut sıcaklığının artması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139013\" id=\"radio_2294_139013_C\" value=\"C\">C) Vücut sıcaklığının artması",
+        "tagName": "LABEL",
+        "index": 201
+      },
+      {
+        "option": "D",
+        "text": "D) Nabzın hızlı ve zayıf olması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139013\" id=\"radio_2294_139013_D\" value=\"D\">D) Nabzın hızlı ve zayıf olması",
+        "tagName": "LABEL",
+        "index": 203
+      },
+      {
+        "option": "A",
+        "text": "A) 50",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139014\" id=\"radio_2294_139014_A\" value=\"A\">A) 50",
+        "tagName": "LABEL",
+        "index": 212
+      },
+      {
+        "option": "B",
+        "text": "B) 70",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139014\" id=\"radio_2294_139014_B\" value=\"B\">B) 70",
+        "tagName": "LABEL",
+        "index": 214
+      },
+      {
+        "option": "C",
+        "text": "C) 80",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139014\" id=\"radio_2294_139014_C\" value=\"C\">C) 80",
+        "tagName": "LABEL",
+        "index": 216
+      },
+      {
+        "option": "D",
+        "text": "D) 90",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139014\" id=\"radio_2294_139014_D\" value=\"D\">D) 90",
+        "tagName": "LABEL",
+        "index": 218
+      },
+      {
+        "option": "A",
+        "text": "A) Radyatör",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139015\" id=\"radio_2294_139015_A\" value=\"A\">A) Radyatör",
+        "tagName": "LABEL",
+        "index": 227
+      },
+      {
+        "option": "B",
+        "text": "B) Vantilatör",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139015\" id=\"radio_2294_139015_B\" value=\"B\">B) Vantilatör",
+        "tagName": "LABEL",
+        "index": 229
+      },
+      {
+        "option": "C",
+        "text": "C) Kompresör",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139015\" id=\"radio_2294_139015_C\" value=\"C\">C) Kompresör",
+        "tagName": "LABEL",
+        "index": 231
+      },
+      {
+        "option": "D",
+        "text": "D) Hararet müşiri",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139015\" id=\"radio_2294_139015_D\" value=\"D\">D) Hararet müşiri",
+        "tagName": "LABEL",
+        "index": 233
+      },
+      {
+        "option": "A",
+        "text": "A) Ağrı kesici ilaç",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139016\" id=\"radio_2294_139016_A\" value=\"A\">A) Ağrı kesici ilaç",
+        "tagName": "LABEL",
+        "index": 240
+      },
+      {
+        "option": "B",
+        "text": "B) Yara merhemi",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139016\" id=\"radio_2294_139016_B\" value=\"B\">B) Yara merhemi",
+        "tagName": "LABEL",
+        "index": 242
+      },
+      {
+        "option": "C",
+        "text": "C) Üçgen sargı bezi",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139016\" id=\"radio_2294_139016_C\" value=\"C\">C) Üçgen sargı bezi",
+        "tagName": "LABEL",
+        "index": 244
+      },
+      {
+        "option": "D",
+        "text": "D) Serum",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139016\" id=\"radio_2294_139016_D\" value=\"D\">D) Serum",
+        "tagName": "LABEL",
+        "index": 246
+      },
+      {
+        "option": "A",
+        "text": "A)I ve II",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139017\" id=\"radio_2294_139017_A\" value=\"A\">A)I ve II",
+        "tagName": "LABEL",
+        "index": 258
+      },
+      {
+        "option": "B",
+        "text": "B)I ve III",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139017\" id=\"radio_2294_139017_B\" value=\"B\">B)I ve III",
+        "tagName": "LABEL",
+        "index": 260
+      },
+      {
+        "option": "C",
+        "text": "C)II ve III",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139017\" id=\"radio_2294_139017_C\" value=\"C\">C)II ve III",
+        "tagName": "LABEL",
+        "index": 262
+      },
+      {
+        "option": "D",
+        "text": "D)I, II ve III",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139017\" id=\"radio_2294_139017_D\" value=\"D\">D)I, II ve III",
+        "tagName": "LABEL",
+        "index": 264
+      },
+      {
+        "option": "A",
+        "text": "A) At arabası",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139018\" id=\"radio_2294_139018_A\" value=\"A\">A) At arabası",
+        "tagName": "LABEL",
+        "index": 273
+      },
+      {
+        "option": "B",
+        "text": "B) Motosiklet",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139018\" id=\"radio_2294_139018_B\" value=\"B\">B) Motosiklet",
+        "tagName": "LABEL",
+        "index": 275
+      },
+      {
+        "option": "C",
+        "text": "C) Otomobil",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139018\" id=\"radio_2294_139018_C\" value=\"C\">C) Otomobil",
+        "tagName": "LABEL",
+        "index": 277
+      },
+      {
+        "option": "D",
+        "text": "D) Kamyonet",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139018\" id=\"radio_2294_139018_D\" value=\"D\">D) Kamyonet",
+        "tagName": "LABEL",
+        "index": 279
+      },
+      {
+        "option": "A",
+        "text": "A)I ve II",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139019\" id=\"radio_2294_139019_A\" value=\"A\">A)I ve II",
+        "tagName": "LABEL",
+        "index": 293
+      },
+      {
+        "option": "B",
+        "text": "B)I ve III",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139019\" id=\"radio_2294_139019_B\" value=\"B\">B)I ve III",
+        "tagName": "LABEL",
+        "index": 295
+      },
+      {
+        "option": "C",
+        "text": "C)II ve III",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139019\" id=\"radio_2294_139019_C\" value=\"C\">C)II ve III",
+        "tagName": "LABEL",
+        "index": 297
+      },
+      {
+        "option": "D",
+        "text": "D)I, II ve III",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139019\" id=\"radio_2294_139019_D\" value=\"D\">D)I, II ve III",
+        "tagName": "LABEL",
+        "index": 299
+      },
+      {
+        "option": "A",
+        "text": "A) Sabır",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139020\" id=\"radio_2294_139020_A\" value=\"A\">A) Sabır",
+        "tagName": "LABEL",
+        "index": 307
+      },
+      {
+        "option": "B",
+        "text": "B) Öfke",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139020\" id=\"radio_2294_139020_B\" value=\"B\">B) Öfke",
+        "tagName": "LABEL",
+        "index": 309
+      },
+      {
+        "option": "C",
+        "text": "C) Bencillik",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139020\" id=\"radio_2294_139020_C\" value=\"C\">C) Bencillik",
+        "tagName": "LABEL",
+        "index": 311
+      },
+      {
+        "option": "D",
+        "text": "D) İnatlaşma",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139020\" id=\"radio_2294_139020_D\" value=\"D\">D) İnatlaşma",
+        "tagName": "LABEL",
+        "index": 313
+      },
+      {
+        "option": "A",
+        "text": "A) Batı",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139021\" id=\"radio_2294_139021_A\" value=\"A\">A) Batı ",
+        "tagName": "LABEL",
+        "index": 320
+      },
+      {
+        "option": "B",
+        "text": "B) Doğu",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139021\" id=\"radio_2294_139021_B\" value=\"B\">B) Doğu",
+        "tagName": "LABEL",
+        "index": 322
+      },
+      {
+        "option": "C",
+        "text": "C) Kuzey",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139021\" id=\"radio_2294_139021_C\" value=\"C\">C) Kuzey ",
+        "tagName": "LABEL",
+        "index": 324
+      },
+      {
+        "option": "D",
+        "text": "D) Güney",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139021\" id=\"radio_2294_139021_D\" value=\"D\">D) Güney",
+        "tagName": "LABEL",
+        "index": 326
+      },
+      {
+        "option": "A",
+        "text": "A) 1 - 2 - 3 - 4",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139022\" id=\"radio_2294_139022_A\" value=\"A\">A) 1 - 2 - 3 - 4",
+        "tagName": "LABEL",
+        "index": 336
+      },
+      {
+        "option": "B",
+        "text": "B) 1 - 2 - 4 - 3",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139022\" id=\"radio_2294_139022_B\" value=\"B\">B) 1 - 2 - 4 - 3",
+        "tagName": "LABEL",
+        "index": 338
+      },
+      {
+        "option": "C",
+        "text": "C) 2 - 1 - 4 - 3",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139022\" id=\"radio_2294_139022_C\" value=\"C\">C) 2 - 1 - 4 - 3",
+        "tagName": "LABEL",
+        "index": 340
+      },
+      {
+        "option": "D",
+        "text": "D) 4 - 1 - 2 - 3",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139022\" id=\"radio_2294_139022_D\" value=\"D\">D) 4 - 1 - 2 - 3",
+        "tagName": "LABEL",
+        "index": 342
+      },
+      {
+        "option": "A",
+        "text": "A) Işıklara 50 m kaldığını",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139023\" id=\"radio_2294_139023_A\" value=\"A\">A) Işıklara 50 m kaldığını",
+        "tagName": "LABEL",
+        "index": 351
+      },
+      {
+        "option": "B",
+        "text": "B) Asgari (en az) hız sınırını",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139023\" id=\"radio_2294_139023_B\" value=\"B\">B) Asgari (en az) hız sınırını",
+        "tagName": "LABEL",
+        "index": 353
+      },
+      {
+        "option": "C",
+        "text": "C) Azami (en yüksek) hız sınırını",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139023\" id=\"radio_2294_139023_C\" value=\"C\">C) Azami (en yüksek) hız sınırını",
+        "tagName": "LABEL",
+        "index": 355
+      },
+      {
+        "option": "D",
+        "text": "D) Öndeki araca 50 m´den fazla yaklaşılmamasını",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139023\" id=\"radio_2294_139023_D\" value=\"D\">D) Öndeki araca 50 m´den fazla yaklaşılmamasını",
+        "tagName": "LABEL",
+        "index": 357
+      },
+      {
+        "option": "A",
+        "text": "A)Yalnız I",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139024\" id=\"radio_2294_139024_A\" value=\"A\">A)Yalnız I",
+        "tagName": "LABEL",
+        "index": 368
+      },
+      {
+        "option": "B",
+        "text": "B)Yalnız IV",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139024\" id=\"radio_2294_139024_B\" value=\"B\">B)Yalnız IV",
+        "tagName": "LABEL",
+        "index": 370
+      },
+      {
+        "option": "C",
+        "text": "C)II ve III",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139024\" id=\"radio_2294_139024_c\" value=\"c\">C)II ve III",
+        "tagName": "LABEL",
+        "index": 372
+      },
+      {
+        "option": "D",
+        "text": "D)III ve IV",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139024\" id=\"radio_2294_139024_d\" value=\"d\">D)III ve IV",
+        "tagName": "LABEL",
+        "index": 374
+      },
+      {
+        "option": "A",
+        "text": "A) Solunumu durmuşsa suni solunum yapmak",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139025\" id=\"radio_2294_139025_A\" value=\"A\">A) Solunumu durmuşsa suni solunum yapmak",
+        "tagName": "LABEL",
+        "index": 381
+      },
+      {
+        "option": "B",
+        "text": "B) Kusmasını sağlamak",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139025\" id=\"radio_2294_139025_B\" value=\"B\">B) Kusmasını sağlamak",
+        "tagName": "LABEL",
+        "index": 383
+      },
+      {
+        "option": "C",
+        "text": "C) Temiz havaya çıkarmak",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139025\" id=\"radio_2294_139025_C\" value=\"C\">C) Temiz havaya çıkarmak",
+        "tagName": "LABEL",
+        "index": 385
+      },
+      {
+        "option": "D",
+        "text": "D) Sıcak tutmak",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139025\" id=\"radio_2294_139025_D\" value=\"D\">D) Sıcak tutmak",
+        "tagName": "LABEL",
+        "index": 387
+      },
+      {
+        "option": "A",
+        "text": "A) Motora ilk hareketi vermek",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139026\" id=\"radio_2294_139026_A\" value=\"A\">A) Motora ilk hareketi vermek",
+        "tagName": "LABEL",
+        "index": 394
+      },
+      {
+        "option": "B",
+        "text": "B) Motorun durmasını sağlamak",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139026\" id=\"radio_2294_139026_B\" value=\"B\">B) Motorun durmasını sağlamak",
+        "tagName": "LABEL",
+        "index": 396
+      },
+      {
+        "option": "C",
+        "text": "C) Motorun rölantide çalışmasını sağlamak",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139026\" id=\"radio_2294_139026_C\" value=\"C\">C) Motorun rölantide çalışmasını sağlamak",
+        "tagName": "LABEL",
+        "index": 398
+      },
+      {
+        "option": "D",
+        "text": "D) Vites kutusundan gelen hareketi akslara iletmek",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139026\" id=\"radio_2294_139026_D\" value=\"D\">D) Vites kutusundan gelen hareketi akslara iletmek",
+        "tagName": "LABEL",
+        "index": 400
+      },
+      {
+        "option": "A",
+        "text": "A) Otobüs",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139027\" id=\"radio_2294_139027_A\" value=\"A\">A) Otobüs ",
+        "tagName": "LABEL",
+        "index": 407
+      },
+      {
+        "option": "B",
+        "text": "B) Otomobil",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139027\" id=\"radio_2294_139027_B\" value=\"B\">B) Otomobil",
+        "tagName": "LABEL",
+        "index": 409
+      },
+      {
+        "option": "C",
+        "text": "C) Kamyon",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139027\" id=\"radio_2294_139027_C\" value=\"C\">C) Kamyon ",
+        "tagName": "LABEL",
+        "index": 411
+      },
+      {
+        "option": "D",
+        "text": "D) Kamyonet",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139027\" id=\"radio_2294_139027_D\" value=\"D\">D) Kamyonet",
+        "tagName": "LABEL",
+        "index": 413
+      },
+      {
+        "option": "A",
+        "text": "A) Araçların tescil işlemlerini yapmak",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139028\" id=\"radio_2294_139028_A\" value=\"A\">A) Araçların tescil işlemlerini yapmak",
+        "tagName": "LABEL",
+        "index": 420
+      },
+      {
+        "option": "B",
+        "text": "B) Motorlu taşıt sürücü sertifikası vermek",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139028\" id=\"radio_2294_139028_B\" value=\"B\">B) Motorlu taşıt sürücü sertifikası vermek",
+        "tagName": "LABEL",
+        "index": 422
+      },
+      {
+        "option": "C",
+        "text": "C) Kara yollarında gerekli işaretlemeleri yapmak",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139028\" id=\"radio_2294_139028_C\" value=\"C\">C) Kara yollarında gerekli işaretlemeleri yapmak",
+        "tagName": "LABEL",
+        "index": 424
+      },
+      {
+        "option": "D",
+        "text": "D) Sürücü kursunda eğitilenlerin sınavını yapmak",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139028\" id=\"radio_2294_139028_D\" value=\"D\">D) Sürücü kursunda eğitilenlerin sınavını yapmak",
+        "tagName": "LABEL",
+        "index": 426
+      },
+      {
+        "option": "A",
+        "text": "A) Yolcuları soldan indirip bindirmek",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139029\" id=\"radio_2294_139029_A\" value=\"A\">A) Yolcuları soldan indirip bindirmek",
+        "tagName": "LABEL",
+        "index": 433
+      },
+      {
+        "option": "B",
+        "text": "B) Kapıların kapanmasını beklemeden hareket etmek",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139029\" id=\"radio_2294_139029_B\" value=\"B\">B) Kapıların kapanmasını beklemeden hareket etmek",
+        "tagName": "LABEL",
+        "index": 435
+      },
+      {
+        "option": "C",
+        "text": "C) Yol ve trafik müsait ise aracın her iki tarafından yolcu indirip bindirmek",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139029\" id=\"radio_2294_139029_C\" value=\"C\">C) Yol ve trafik müsait ise aracın her iki tarafından yolcu indirip bin",
+        "tagName": "LABEL",
+        "index": 437
+      },
+      {
+        "option": "D",
+        "text": "D) Yolcuları sağdan indirip bindirmek",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139029\" id=\"radio_2294_139029_D\" value=\"D\">D) Yolcuları sağdan indirip bindirmek",
+        "tagName": "LABEL",
+        "index": 439
+      },
+      {
+        "option": "A",
+        "text": "A) İnatlaşmaya",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139030\" id=\"radio_2294_139030_A\" value=\"A\">A) İnatlaşmaya",
+        "tagName": "LABEL",
+        "index": 446
+      },
+      {
+        "option": "B",
+        "text": "B) Yardımlaşmaya",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139030\" id=\"radio_2294_139030_B\" value=\"B\">B) Yardımlaşmaya",
+        "tagName": "LABEL",
+        "index": 448
+      },
+      {
+        "option": "C",
+        "text": "C) Nezaket ve saygıya",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139030\" id=\"radio_2294_139030_C\" value=\"C\">C) Nezaket ve saygıya",
+        "tagName": "LABEL",
+        "index": 450
+      },
+      {
+        "option": "D",
+        "text": "D) Konuşma üslubuna",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139030\" id=\"radio_2294_139030_D\" value=\"D\">D) Konuşma üslubuna",
+        "tagName": "LABEL",
+        "index": 452
+      },
+      {
+        "option": "A",
+        "text": "A) Tam şarjlı akü",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139031\" id=\"radio_2294_139031_A\" value=\"A\">A) Tam şarjlı akü",
+        "tagName": "LABEL",
+        "index": 459
+      },
+      {
+        "option": "B",
+        "text": "B) Uzun yakıt boruları",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139031\" id=\"radio_2294_139031_B\" value=\"B\">B) Uzun yakıt boruları",
+        "tagName": "LABEL",
+        "index": 461
+      },
+      {
+        "option": "C",
+        "text": "C) Antifrizli soğutma suyu",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139031\" id=\"radio_2294_139031_C\" value=\"C\">C) Antifrizli soğutma suyu",
+        "tagName": "LABEL",
+        "index": 463
+      },
+      {
+        "option": "D",
+        "text": "D) Eski ve aşınmış lastikler",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139031\" id=\"radio_2294_139031_D\" value=\"D\">D) Eski ve aşınmış lastikler",
+        "tagName": "LABEL",
+        "index": 465
+      },
+      {
+        "option": "A",
+        "text": "A) Etkili şekilde korna çalmalı",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139032\" id=\"radio_2294_139032_A\" value=\"A\">A) Etkili şekilde korna çalmalı",
+        "tagName": "LABEL",
+        "index": 472
+      },
+      {
+        "option": "B",
+        "text": "B) Etkili fren yapıp, yayanın dikkatini çekmeli",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139032\" id=\"radio_2294_139032_B\" value=\"B\">B) Etkili fren yapıp, yayanın dikkatini çekmeli",
+        "tagName": "LABEL",
+        "index": 474
+      },
+      {
+        "option": "C",
+        "text": "C) Yayayı korkutmadan yanından hızla geçmeli",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139032\" id=\"radio_2294_139032_C\" value=\"C\">C) Yayayı korkutmadan yanından hızla geçmeli",
+        "tagName": "LABEL",
+        "index": 476
+      },
+      {
+        "option": "D",
+        "text": "D) Yavaşlamalı, gerektiğinde durup yayaya yardımcı olmalı",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139032\" id=\"radio_2294_139032_D\" value=\"D\">D) Yavaşlamalı, gerektiğinde durup yayaya yardımcı olmalı",
+        "tagName": "LABEL",
+        "index": 478
+      },
+      {
+        "option": "A",
+        "text": "A) 5 dakikadan fazla beklemek",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139033\" id=\"radio_2294_139033_A\" value=\"A\">A) 5 dakikadan fazla beklemek",
+        "tagName": "LABEL",
+        "index": 485
+      },
+      {
+        "option": "B",
+        "text": "B) 5 dakikadan az beklemek",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139033\" id=\"radio_2294_139033_B\" value=\"B\">B) 5 dakikadan az beklemek",
+        "tagName": "LABEL",
+        "index": 487
+      },
+      {
+        "option": "C",
+        "text": "C) Yük yüklemek veya boşaltmak",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139033\" id=\"radio_2294_139033_C\" value=\"C\">C) Yük yüklemek veya boşaltmak",
+        "tagName": "LABEL",
+        "index": 489
+      },
+      {
+        "option": "D",
+        "text": "D) Yolun kapalı olması durumunda beklemek",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139033\" id=\"radio_2294_139033_D\" value=\"D\">D) Yolun kapalı olması durumunda beklemek",
+        "tagName": "LABEL",
+        "index": 491
+      },
+      {
+        "option": "A",
+        "text": "A) 5",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139034\" id=\"radio_2294_139034_A\" value=\"A\">A) 5",
+        "tagName": "LABEL",
+        "index": 498
+      },
+      {
+        "option": "B",
+        "text": "B) 10",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139034\" id=\"radio_2294_139034_B\" value=\"B\">B) 10",
+        "tagName": "LABEL",
+        "index": 500
+      },
+      {
+        "option": "C",
+        "text": "C) 15",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139034\" id=\"radio_2294_139034_C\" value=\"C\">C) 15",
+        "tagName": "LABEL",
+        "index": 502
+      },
+      {
+        "option": "D",
+        "text": "D) 20",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139034\" id=\"radio_2294_139034_D\" value=\"D\">D) 20",
+        "tagName": "LABEL",
+        "index": 504
+      },
+      {
+        "option": "A",
+        "text": "A) Solunum yapıp yapmadığı Heimlich manevrası ile kontrol edilir.",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139035\" id=\"radio_2294_139035_A\" value=\"A\">A) Solunum yapıp yapmadığı Heimlich manevrası ile kontrol edilir.",
+        "tagName": "LABEL",
+        "index": 511
+      },
+      {
+        "option": "B",
+        "text": "B) Kalp masajı uygulamasının hızı, dakikada 50 bası olacak şekilde ayarlanır.",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139035\" id=\"radio_2294_139035_B\" value=\"B\">B) Kalp masajı uygulamasının hızı, dakikada 50 bası olacak şekilde ayar",
+        "tagName": "LABEL",
+        "index": 513
+      },
+      {
+        "option": "C",
+        "text": "C) Göğüs kemiğine yandan bakıldığında göğüs yüksekliğinin ½’si kadar kalp basısı uygulanır.",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139035\" id=\"radio_2294_139035_C\" value=\"C\">C) Göğüs kemiğine yandan bakıldığında göğüs yüksekliğinin ½’si kadar ka",
+        "tagName": "LABEL",
+        "index": 515
+      },
+      {
+        "option": "D",
+        "text": "D) Kalp basısı uygulamak için göğüs kemiğinin alt ve üst ucu tespit edilerek alt yarısına bir elin topuğu yerleştirilir.",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139035\" id=\"radio_2294_139035_D\" value=\"D\">D) Kalp basısı uygulamak için göğüs kemiğinin alt ve üst ucu tespit edi",
+        "tagName": "LABEL",
+        "index": 517
+      },
+      {
+        "option": "A",
+        "text": "A) Elde cep telefonu ile konuşulması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139036\" id=\"radio_2294_139036_A\" value=\"A\">A) Elde cep telefonu ile konuşulması",
+        "tagName": "LABEL",
+        "index": 525
+      },
+      {
+        "option": "B",
+        "text": "B) Temiz hava için araç camlarının kısa süreliğine açılması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139036\" id=\"radio_2294_139036_B\" value=\"B\">B) Temiz hava için araç camlarının kısa süreliğine açılması",
+        "tagName": "LABEL",
+        "index": 527
+      },
+      {
+        "option": "C",
+        "text": "C) Yol şartlarına göre kontrol edilebilecek hızda araç kullanılması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139036\" id=\"radio_2294_139036_C\" value=\"C\">C) Yol şartlarına göre kontrol edilebilecek hızda araç kullanılması",
+        "tagName": "LABEL",
+        "index": 529
+      },
+      {
+        "option": "D",
+        "text": "D) Trafik yoğunluğu düşük olan alternatif güzergâhların seçilmesi",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139036\" id=\"radio_2294_139036_D\" value=\"D\">D) Trafik yoğunluğu düşük olan alternatif güzergâhların seçilmesi",
+        "tagName": "LABEL",
+        "index": 531
+      },
+      {
+        "option": "A",
+        "text": "A) Korna çalıp 2 numaralı aracı durdurmalı",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139037\" id=\"radio_2294_139037_A\" value=\"A\">A) Korna çalıp 2 numaralı aracı durdurmalı",
+        "tagName": "LABEL",
+        "index": 540
+      },
+      {
+        "option": "B",
+        "text": "B) 2 numaralı aracın geçmesini beklemeli",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139037\" id=\"radio_2294_139037_B\" value=\"B\">B) 2 numaralı aracın geçmesini beklemeli",
+        "tagName": "LABEL",
+        "index": 542
+      },
+      {
+        "option": "C",
+        "text": "C) Hızlanarak yoluna devam etmeli",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139037\" id=\"radio_2294_139037_C\" value=\"C\">C) Hızlanarak yoluna devam etmeli",
+        "tagName": "LABEL",
+        "index": 544
+      },
+      {
+        "option": "D",
+        "text": "D) Geçiş hakkını kendi kullanmalı",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139037\" id=\"radio_2294_139037_D\" value=\"D\">D) Geçiş hakkını kendi kullanmalı",
+        "tagName": "LABEL",
+        "index": 546
+      },
+      {
+        "option": "A",
+        "text": "A) Otomobilin daha iyi sürülmesini sağlar.",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139039\" id=\"radio_2294_139039_A\" value=\"A\">A) Otomobilin daha iyi sürülmesini sağlar.",
+        "tagName": "LABEL",
+        "index": 553
+      },
+      {
+        "option": "B",
+        "text": "B) Kazalarda ölüm ve yaralanma riskinin azalmasını sağlar.",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139039\" id=\"radio_2294_139039_B\" value=\"B\">B) Kazalarda ölüm ve yaralanma riskinin azalmasını sağlar.",
+        "tagName": "LABEL",
+        "index": 555
+      },
+      {
+        "option": "C",
+        "text": "C) Sürücünün araç içinde daha rahat hareket etmesini sağlar.",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139039\" id=\"radio_2294_139039_C\" value=\"C\">C) Sürücünün araç içinde daha rahat hareket etmesini sağlar.",
+        "tagName": "LABEL",
+        "index": 557
+      },
+      {
+        "option": "D",
+        "text": "D) Araç kullanırken sürücünün direksiyon hakimiyetini sağlar.",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139039\" id=\"radio_2294_139039_D\" value=\"D\">D) Araç kullanırken sürücünün direksiyon hakimiyetini sağlar.",
+        "tagName": "LABEL",
+        "index": 559
+      },
+      {
+        "option": "A",
+        "text": "A) Gece körlüğü",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139040\" id=\"radio_2294_139040_A\" value=\"A\">A) Gece körlüğü",
+        "tagName": "LABEL",
+        "index": 566
+      },
+      {
+        "option": "B",
+        "text": "B) Renk körlüğü",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139040\" id=\"radio_2294_139040_B\" value=\"B\">B) Renk körlüğü",
+        "tagName": "LABEL",
+        "index": 568
+      },
+      {
+        "option": "C",
+        "text": "C) İki gözü görmeyen",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139040\" id=\"radio_2294_139040_C\" value=\"C\">C) İki gözü görmeyen",
+        "tagName": "LABEL",
+        "index": 570
+      },
+      {
+        "option": "D",
+        "text": "D) Monoküler (tek gözü gören)",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139040\" id=\"radio_2294_139040_D\" value=\"D\">D) Monoküler (tek gözü gören)",
+        "tagName": "LABEL",
+        "index": 572
+      },
+      {
+        "option": "A",
+        "text": "A) Ellerin parmakları göğüs kafesiyle temas ettirilmeden, dirsekler bükülmeden ve göğüs kemiği üzerine vücuda dik olacak şekilde tutulması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139041\" id=\"radio_2294_139041_A\" value=\"A\">A) Ellerin parmakları göğüs kafesiyle temas ettirilmeden, dirsekler bük",
+        "tagName": "LABEL",
+        "index": 579
+      },
+      {
+        "option": "B",
+        "text": "B) Göğüs kemiğinin alt ve üst ucunun tespit edilerek üst yarısına, orta ve yüzük parmağının dik olarak yerleştirilmesi",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139041\" id=\"radio_2294_139041_B\" value=\"B\">B) Göğüs kemiğinin alt ve üst ucunun tespit edilerek üst yarısına, orta",
+        "tagName": "LABEL",
+        "index": 581
+      },
+      {
+        "option": "C",
+        "text": "C) Uygulama hızının dakikada 30 bası olacakşekilde ayarlanması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139041\" id=\"radio_2294_139041_C\" value=\"C\">C) Uygulama hızının dakikada 30 bası olacakşekilde ayarlanması",
+        "tagName": "LABEL",
+        "index": 583
+      },
+      {
+        "option": "D",
+        "text": "D) Göğüs kemiği 3 cm aşağı inecek şekildebası uygulanması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139041\" id=\"radio_2294_139041_D\" value=\"D\">D) Göğüs kemiği 3 cm aşağı inecek şekildebası uygulanması",
+        "tagName": "LABEL",
+        "index": 585
+      },
+      {
+        "option": "A",
+        "text": "A) Baş tarafından çekilerek çıkarılmasına",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139042\" id=\"radio_2294_139042_A\" value=\"A\">A) Baş tarafından çekilerek çıkarılmasına",
+        "tagName": "LABEL",
+        "index": 592
+      },
+      {
+        "option": "B",
+        "text": "B) Baş - boyun - gövde hizasının bozulmamasına",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139042\" id=\"radio_2294_139042_B\" value=\"B\">B) Baş - boyun - gövde hizasının bozulmamasına",
+        "tagName": "LABEL",
+        "index": 594
+      },
+      {
+        "option": "C",
+        "text": "C) Kollarının baş hizasında durmasına",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139042\" id=\"radio_2294_139042_C\" value=\"C\">C) Kollarının baş hizasında durmasına",
+        "tagName": "LABEL",
+        "index": 596
+      },
+      {
+        "option": "D",
+        "text": "D) Ayak tarafından çekilerek çıkarılmasına",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139042\" id=\"radio_2294_139042_D\" value=\"D\">D) Ayak tarafından çekilerek çıkarılmasına",
+        "tagName": "LABEL",
+        "index": 598
+      },
+      {
+        "option": "A",
+        "text": "A) El freni bırakılır.",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139043\" id=\"radio_2294_139043_A\" value=\"A\">A) El freni bırakılır.",
+        "tagName": "LABEL",
+        "index": 605
+      },
+      {
+        "option": "B",
+        "text": "B) Vites boşa alınır.",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139043\" id=\"radio_2294_139043_B\" value=\"B\">B) Vites boşa alınır.",
+        "tagName": "LABEL",
+        "index": 607
+      },
+      {
+        "option": "C",
+        "text": "C) Debriyaja basılır.",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139043\" id=\"radio_2294_139043_C\" value=\"C\">C) Debriyaja basılır.",
+        "tagName": "LABEL",
+        "index": 609
+      },
+      {
+        "option": "D",
+        "text": "D) Tekerleklere takoz konulur.",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139043\" id=\"radio_2294_139043_D\" value=\"D\">D) Tekerleklere takoz konulur.",
+        "tagName": "LABEL",
+        "index": 611
+      },
+      {
+        "option": "A",
+        "text": "A) Alternatörün",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139044\" id=\"radio_2294_139044_A\" value=\"A\">A) Alternatörün",
+        "tagName": "LABEL",
+        "index": 618
+      },
+      {
+        "option": "B",
+        "text": "B) Far ampülünün",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139044\" id=\"radio_2294_139044_B\" value=\"B\">B) Far ampülünün",
+        "tagName": "LABEL",
+        "index": 620
+      },
+      {
+        "option": "C",
+        "text": "C) Marş motorunun",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139044\" id=\"radio_2294_139044_C\" value=\"C\">C) Marş motorunun",
+        "tagName": "LABEL",
+        "index": 622
+      },
+      {
+        "option": "D",
+        "text": "D) Endüksiyon bobininin",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139044\" id=\"radio_2294_139044_D\" value=\"D\">D) Endüksiyon bobininin",
+        "tagName": "LABEL",
+        "index": 624
+      },
+      {
+        "option": "A",
+        "text": "A)",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139045\" id=\"radio_2294_139045_A\" value=\"A\">A)<img src=\"/images/animasyonlu_sorular/17_a.JPG\" alt=\"\" width=\"200\">",
+        "tagName": "LABEL",
+        "index": 631
+      },
+      {
+        "option": "B",
+        "text": "B)",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139045\" id=\"radio_2294_139045_B\" value=\"B\">B)<img src=\"/images/animasyonlu_sorular/17_b.JPG\" alt=\"\" width=\"200\">",
+        "tagName": "LABEL",
+        "index": 634
+      },
+      {
+        "option": "C",
+        "text": "C)",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139045\" id=\"radio_2294_139045_C\" value=\"C\">C)<img src=\"/images/animasyonlu_sorular/17_c.JPG\" alt=\"\" width=\"200\">",
+        "tagName": "LABEL",
+        "index": 637
+      },
+      {
+        "option": "D",
+        "text": "D)",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139045\" id=\"radio_2294_139045_D\" value=\"D\">D)<img src=\"/images/animasyonlu_sorular/17_d.JPG\" alt=\"\" width=\"200\">",
+        "tagName": "LABEL",
+        "index": 640
+      },
+      {
+        "option": "A",
+        "text": "A) 4",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139046\" id=\"radio_2294_139046_A\" value=\"A\">A) 4",
+        "tagName": "LABEL",
+        "index": 648
+      },
+      {
+        "option": "B",
+        "text": "B) 3",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139046\" id=\"radio_2294_139046_B\" value=\"B\">B) 3",
+        "tagName": "LABEL",
+        "index": 650
+      },
+      {
+        "option": "C",
+        "text": "C) 2",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139046\" id=\"radio_2294_139046_C\" value=\"C\">C) 2",
+        "tagName": "LABEL",
+        "index": 652
+      },
+      {
+        "option": "D",
+        "text": "D) 1",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139046\" id=\"radio_2294_139046_D\" value=\"D\">D) 1",
+        "tagName": "LABEL",
+        "index": 654
+      },
+      {
+        "option": "A",
+        "text": "A) Gürültü kirliliğinin azaltılması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139047\" id=\"radio_2294_139047_A\" value=\"A\">A) Gürültü kirliliğinin azaltılması",
+        "tagName": "LABEL",
+        "index": 661
+      },
+      {
+        "option": "B",
+        "text": "B) Trafik yoğunluğunun azaltılması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139047\" id=\"radio_2294_139047_B\" value=\"B\">B) Trafik yoğunluğunun azaltılması",
+        "tagName": "LABEL",
+        "index": 663
+      },
+      {
+        "option": "C",
+        "text": "C) Temiz olmayan yakıt kullanılması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139047\" id=\"radio_2294_139047_C\" value=\"C\">C) Temiz olmayan yakıt kullanılması",
+        "tagName": "LABEL",
+        "index": 665
+      },
+      {
+        "option": "D",
+        "text": "D) Kazalara karşı güvenliğin artırılması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139047\" id=\"radio_2294_139047_D\" value=\"D\">D) Kazalara karşı güvenliğin artırılması",
+        "tagName": "LABEL",
+        "index": 667
+      },
+      {
+        "option": "A",
+        "text": "A) 1",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139048\" id=\"radio_2294_139048_A\" value=\"A\">A) 1",
+        "tagName": "LABEL",
+        "index": 674
+      },
+      {
+        "option": "B",
+        "text": "B) 2",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139048\" id=\"radio_2294_139048_B\" value=\"B\">B) 2",
+        "tagName": "LABEL",
+        "index": 676
+      },
+      {
+        "option": "C",
+        "text": "C) 3",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139048\" id=\"radio_2294_139048_C\" value=\"C\">C) 3",
+        "tagName": "LABEL",
+        "index": 678
+      },
+      {
+        "option": "D",
+        "text": "D) 4",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139048\" id=\"radio_2294_139048_D\" value=\"D\">D) 4",
+        "tagName": "LABEL",
+        "index": 680
+      },
+      {
+        "option": "A",
+        "text": "A) I ve II",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139049\" id=\"radio_2294_139049_A\" value=\"A\">A) I ve II",
+        "tagName": "LABEL",
+        "index": 690
+      },
+      {
+        "option": "B",
+        "text": "B) I ve III",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139049\" id=\"radio_2294_139049_B\" value=\"B\">B) I ve III",
+        "tagName": "LABEL",
+        "index": 692
+      },
+      {
+        "option": "C",
+        "text": "C) II ve III",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139049\" id=\"radio_2294_139049_C\" value=\"C\">C) II ve III",
+        "tagName": "LABEL",
+        "index": 694
+      },
+      {
+        "option": "D",
+        "text": "D) I, II ve III",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139049\" id=\"radio_2294_139049_D\" value=\"D\">D) I, II ve III",
+        "tagName": "LABEL",
+        "index": 696
+      },
+      {
+        "option": "A",
+        "text": "A)Önündeki aracın sağından yoluna devam etmeli",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139000\" id=\"radio_2294_139000_A\" value=\"A\">A)Önündeki aracın sağından yoluna devam etmeli",
+        "tagName": "LABEL",
+        "index": 707
+      },
+      {
+        "option": "B",
+        "text": "B)Solundaki şeride geçmeli",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139000\" id=\"radio_2294_139000_B\" value=\"B\">B)Solundaki şeride geçmeli",
+        "tagName": "LABEL",
+        "index": 709
+      },
+      {
+        "option": "C",
+        "text": "C)Yavaşlamalı ve önündeki aracın arkasından yoluna devam etmeli",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139000\" id=\"radio_2294_139000_C\" value=\"C\">C)Yavaşlamalı ve önündeki aracın arkasından yoluna devam etmeli",
+        "tagName": "LABEL",
+        "index": 711
+      },
+      {
+        "option": "D",
+        "text": "D)Korna çalarak önündeki aracın hızlanmasını istemeli",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139000\" id=\"radio_2294_139000_D\" value=\"D\">D)Korna çalarak önündeki aracın hızlanmasını istemeli",
+        "tagName": "LABEL",
+        "index": 713
+      },
+      {
+        "option": "A",
+        "text": "A)Feragata",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139001\" id=\"radio_2294_139001_A\" value=\"A\">A)Feragata",
+        "tagName": "LABEL",
+        "index": 721
+      },
+      {
+        "option": "B",
+        "text": "B)Diğerkâmlığa",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139001\" id=\"radio_2294_139001_B\" value=\"B\">B)Diğerkâmlığa",
+        "tagName": "LABEL",
+        "index": 723
+      },
+      {
+        "option": "C",
+        "text": "C)Empatiye",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139001\" id=\"radio_2294_139001_C\" value=\"C\">C)Empatiye",
+        "tagName": "LABEL",
+        "index": 725
+      },
+      {
+        "option": "D",
+        "text": "D)Aceleciliğe",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139001\" id=\"radio_2294_139001_D\" value=\"D\">D)Aceleciliğe",
+        "tagName": "LABEL",
+        "index": 727
+      },
+      {
+        "option": "A",
+        "text": "A)Ağızdan sıcak içecekler vermesi",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139002\" id=\"radio_2294_139002_A\" value=\"A\">A)Ağızdan sıcak içecekler vermesi",
+        "tagName": "LABEL",
+        "index": 735
+      },
+      {
+        "option": "B",
+        "text": "B)Başını 30 cm olacak şekilde yukarı kaldırması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139002\" id=\"radio_2294_139002_B\" value=\"B\">B)Başını 30 cm olacak şekilde yukarı kaldırması",
+        "tagName": "LABEL",
+        "index": 737
+      },
+      {
+        "option": "C",
+        "text": "C)Vücut sıcaklığını korumak için üzerini örtmesi",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139002\" id=\"radio_2294_139002_C\" value=\"C\">C)Vücut sıcaklığını korumak için üzerini örtmesi",
+        "tagName": "LABEL",
+        "index": 739
+      },
+      {
+        "option": "D",
+        "text": "D)Hareket ettirmeye çalışması",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139002\" id=\"radio_2294_139002_D\" value=\"D\">D)Hareket ettirmeye çalışması",
+        "tagName": "LABEL",
+        "index": 741
+      },
+      {
+        "option": "A",
+        "text": "A)",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139003\" id=\"radio_2294_139003_A\" value=\"A\">A)&nbsp;<img src=\"/images/sorular/27haziran/soru24cevapa.jpg\" border=\"0",
+        "tagName": "LABEL",
+        "index": 748
+      },
+      {
+        "option": "B",
+        "text": "B)",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139003\" id=\"radio_2294_139003_B\" value=\"B\">B)&nbsp;<img src=\"/images/sorular/27haziran/soru24cevapb.jpg\" border=\"0",
+        "tagName": "LABEL",
+        "index": 751
+      },
+      {
+        "option": "C",
+        "text": "C)",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139003\" id=\"radio_2294_139003_C\" value=\"C\">C)&nbsp;<img src=\"/images/sorular/27haziran/soru24cevapc.jpg\" border=\"0",
+        "tagName": "LABEL",
+        "index": 754
+      },
+      {
+        "option": "D",
+        "text": "D)",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139003\" id=\"radio_2294_139003_D\" value=\"D\">D)&nbsp;<img src=\"/images/sorular/27haziran/soru24cevapd.jpg\" border=\"0",
+        "tagName": "LABEL",
+        "index": 757
+      },
+      {
+        "option": "A",
+        "text": "A) Yolcuların isteğine göre araç kullanmak",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139004\" id=\"radio_2294_139004_A\" value=\"A\">A) Yolcuların isteğine göre araç kullanmak",
+        "tagName": "LABEL",
+        "index": 765
+      },
+      {
+        "option": "B",
+        "text": "B) Karşılaştığı trafik kazasında yaralılara ilk yardım uygulamak",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139004\" id=\"radio_2294_139004_B\" value=\"B\">B) Karşılaştığı trafik kazasında yaralılara ilk yardım uygulamak",
+        "tagName": "LABEL",
+        "index": 767
+      },
+      {
+        "option": "C",
+        "text": "C) Her durumda geçiş üstünlüğüne sahip olduğunu düşünmek",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139004\" id=\"radio_2294_139004_C\" value=\"C\">C) Her durumda geçiş üstünlüğüne sahip olduğunu düşünmek",
+        "tagName": "LABEL",
+        "index": 769
+      },
+      {
+        "option": "D",
+        "text": "D) Emniyet görevlisinin olmadığı yerlerde kendi koyduğu kuralları uygulamak",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139004\" id=\"radio_2294_139004_D\" value=\"D\">D) Emniyet görevlisinin olmadığı yerlerde kendi koyduğu kuralları uygul",
+        "tagName": "LABEL",
+        "index": 771
+      },
+      {
+        "option": "A",
+        "text": "A) Diğer şeride geçemez.",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139005\" id=\"radio_2294_139005_A\" value=\"A\">A) Diğer şeride geçemez.",
+        "tagName": "LABEL",
+        "index": 778
+      },
+      {
+        "option": "B",
+        "text": "B) Önündeki aracı geçebilir.",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139005\" id=\"radio_2294_139005_B\" value=\"B\">B) Önündeki aracı geçebilir.",
+        "tagName": "LABEL",
+        "index": 780
+      },
+      {
+        "option": "C",
+        "text": "C) Takip mesafesini azaltabilir.",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139005\" id=\"radio_2294_139005_C\" value=\"C\">C) Takip mesafesini azaltabilir.",
+        "tagName": "LABEL",
+        "index": 782
+      },
+      {
+        "option": "D",
+        "text": "D) Sol şeritte sürekli seyredebilir.",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139005\" id=\"radio_2294_139005_D\" value=\"D\">D) Sol şeritte sürekli seyredebilir.",
+        "tagName": "LABEL",
+        "index": 784
+      },
+      {
+        "option": "A",
+        "text": "A) Amortisör",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139006\" id=\"radio_2294_139006_A\" value=\"A\">A) Amortisör",
+        "tagName": "LABEL",
+        "index": 791
+      },
+      {
+        "option": "B",
+        "text": "B) Helezon yay",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139006\" id=\"radio_2294_139006_B\" value=\"B\">B) Helezon yay",
+        "tagName": "LABEL",
+        "index": 793
+      },
+      {
+        "option": "C",
+        "text": "C) Fren balatası",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139006\" id=\"radio_2294_139006_C\" value=\"C\">C) Fren balatası",
+        "tagName": "LABEL",
+        "index": 795
+      },
+      {
+        "option": "D",
+        "text": "D) Kavrama (Debriyaj)",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139006\" id=\"radio_2294_139006_D\" value=\"D\">D) Kavrama (Debriyaj)",
+        "tagName": "LABEL",
+        "index": 797
+      },
+      {
+        "option": "A",
+        "text": "A) Solunum sıkıntısını azaltmak",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139007\" id=\"radio_2294_139007_A\" value=\"A\">A) Solunum sıkıntısını azaltmak",
+        "tagName": "LABEL",
+        "index": 804
+      },
+      {
+        "option": "B",
+        "text": "B) Kan dolaşımını yavaşlatmak",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139007\" id=\"radio_2294_139007_B\" value=\"B\">B) Kan dolaşımını yavaşlatmak",
+        "tagName": "LABEL",
+        "index": 806
+      },
+      {
+        "option": "C",
+        "text": "C) Sindirim işlevinin rahat olmasını sağlamak",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139007\" id=\"radio_2294_139007_C\" value=\"C\">C) Sindirim işlevinin rahat olmasını sağlamak",
+        "tagName": "LABEL",
+        "index": 808
+      },
+      {
+        "option": "D",
+        "text": "D) Sinir zedelenmesine bağlı oluşabilecek felci önlemek",
+        "html": "<input type=\"radio\" class=\"simplequiz radiobutton inputbox sq_field\" name=\"radio_2294_139007\" id=\"radio_2294_139007_D\" value=\"D\">D) Sinir zedelenmesine bağlı oluşabilecek felci önlemek",
+        "tagName": "LABEL",
+        "index": 810
+      }
+    ],
+    "images": [
+      {
+        "src": "https://ehliyetsinavihazirlik.com/templates/ehliyetsinavihazirl/images/designer/ehliyetlogo.webp",
+        "alt": "Ehliyet Sınavı Hazırlık",
+        "width": 280,
+        "height": 74,
+        "index": 0,
+        "context": "\n        \n\n\n\t\n\t\t            \n        \n                        \n                \n                \n   "
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/24.JPG",
+        "alt": "",
+        "width": 320,
+        "height": 254,
+        "index": 1,
+        "context": "Soru 1. Görsele göre, Adana istikametine gitmek isteyen 1 numaralı araç sürücüsü hakkında hangisi sö"
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/50.JPG",
+        "alt": "",
+        "width": 320,
+        "height": 200,
+        "index": 2,
+        "context": "Soru 3. Görseldeki gibi emisyon değeri yüksek egzoz dumanı çıkaran araçların kullanılması, hak ihlal"
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/sorular/29haziran2013ehliyetsorulari/soru34.jpg",
+        "alt": "",
+        "width": 242,
+        "height": 155,
+        "index": 3,
+        "context": "Soru 8. Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilome"
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/10sinav10/soru104.gif",
+        "alt": "",
+        "width": 300,
+        "height": 190,
+        "index": 4,
+        "context": "Soru 9. Şekilde soru işareti (?) ile gösterilen motor soğutma sistemi parçasının adı nedir?\n\nA) Rady"
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/16.JPG",
+        "alt": "",
+        "width": 320,
+        "height": 177,
+        "index": 5,
+        "context": "Soru 11. I. Yolun, iki şeritli ve iki yönlü olduğunu\nII. 1 numaralı aracın gerektiğinde geçme yapabi"
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/deneme/kural.jpg",
+        "alt": "",
+        "width": 304,
+        "height": 226,
+        "index": 6,
+        "context": "Soru 12. Şekildeki resme göre hangi aracın ilk geçiş hakkı vardır?\n\nA) At arabası\nB) Motosiklet\nC) O"
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/23araliksorulari/27.png",
+        "alt": "",
+        "width": 300,
+        "height": 224,
+        "index": 7,
+        "context": "Soru 16. Şekildeki gibi bir kavşakta karşılaşan araçların geçiş hakkı sıralaması nasıl olmalıdır?\n\nA"
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/sorular/2kasim2013ehliyetsorulari/soru28.jpg",
+        "alt": "",
+        "width": 300,
+        "height": 221,
+        "index": 8,
+        "context": "Soru 17. Şekildeki taşıt yolu üzerinde bulunan yazı neyi bildirmektedir?\n\nA) Işıklara 50 m kaldığını"
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/soru_3.png",
+        "alt": "",
+        "width": 320,
+        "height": 130,
+        "index": 9,
+        "context": "Soru 18. Olay yerindeki ilk yardımcının, bilinçleri kapalı ve solunumu olmayan dört farklı kazazedey"
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/14may2016/s29.gif",
+        "alt": "",
+        "width": 321,
+        "height": 231,
+        "index": 10,
+        "context": "Soru 31. Şekildeki gibi dönel kavşağa gelen 1 numaralı aracın sürücüsü ne yapmalıdır?\n\nA) Korna çalı"
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/17_a.JPG",
+        "alt": "",
+        "width": 200,
+        "height": 154,
+        "index": 11,
+        "context": "Soru 38. Trafik işaretlerinden hangisi, aracın yük taşıma kapasitesine sınırlama getirir?\nA)\nB)\nC)\nD"
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/17_b.JPG",
+        "alt": "",
+        "width": 200,
+        "height": 153,
+        "index": 12,
+        "context": "Soru 38. Trafik işaretlerinden hangisi, aracın yük taşıma kapasitesine sınırlama getirir?\nA)\nB)\nC)\nD"
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/17_c.JPG",
+        "alt": "",
+        "width": 200,
+        "height": 154,
+        "index": 13,
+        "context": "Soru 38. Trafik işaretlerinden hangisi, aracın yük taşıma kapasitesine sınırlama getirir?\nA)\nB)\nC)\nD"
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/17_d.JPG",
+        "alt": "",
+        "width": 200,
+        "height": 153,
+        "index": 14,
+        "context": "Soru 38. Trafik işaretlerinden hangisi, aracın yük taşıma kapasitesine sınırlama getirir?\nA)\nB)\nC)\nD"
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/sorular/27haziran/soru24cevapa.jpg",
+        "alt": "",
+        "width": 62,
+        "height": 135,
+        "index": 15,
+        "context": "Soru 46. Taşıt yolu üzerine çizilen aşağıdaki yatay işaretlemelerden hangisi, şeridin sadece sağa dö"
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/sorular/27haziran/soru24cevapb.jpg",
+        "alt": "",
+        "width": 62,
+        "height": 135,
+        "index": 16,
+        "context": "Soru 46. Taşıt yolu üzerine çizilen aşağıdaki yatay işaretlemelerden hangisi, şeridin sadece sağa dö"
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/sorular/27haziran/soru24cevapc.jpg",
+        "alt": "",
+        "width": 62,
+        "height": 135,
+        "index": 17,
+        "context": "Soru 46. Taşıt yolu üzerine çizilen aşağıdaki yatay işaretlemelerden hangisi, şeridin sadece sağa dö"
+      },
+      {
+        "src": "https://ehliyetsinavihazirlik.com/images/sorular/27haziran/soru24cevapd.jpg",
+        "alt": "",
+        "width": 62,
+        "height": 135,
+        "index": 18,
+        "context": "Soru 46. Taşıt yolu üzerine çizilen aşağıdaki yatay işaretlemelerden hangisi, şeridin sadece sağa dö"
+      }
+    ],
+    "pageTitle": "1 Mayıs 2025 Ehliyet Sınavı Hazırlık Soruları",
+    "contentLength": 15917
+  },
+  "chunkResults": [
+    {
+      "chunk": 1,
+      "success": true,
+      "questions": [],
+      "cost": 0.0009032800000000001,
+      "rawResponse": "```json\n{\n  \"chunk\": 1,\n  \"questions\": []\n}\n```"
+    },
+    {
+      "chunk": 2,
+      "success": true,
+      "questions": [
+        {
+          "id": 1,
+          "text": "Görsele göre, Adana istikametine gitmek isteyen 1 numaralı araç sürücüsü hakkında hangisi söylenemez?",
+          "options": {
+            "A": "Araç ışıklarını doğru yerde kullanmadığı",
+            "B": "Dönüş öncesi doğru şeride girmediği",
+            "C": "Kamyon sürücüsünü zor durumda bırakmadığı",
+            "D": "Geçme kurallarına uymadığı"
+          },
+          "images": [
+            "/images/animasyonlu_sorular/24.JPG"
+          ]
+        },
+        {
+          "id": 2,
+          "text": "Aşağıdakilerden hangisi kazazedenin taşınmasında uyulması gereken genel kurallardandır?",
+          "options": {
+            "A": "İlk yardımcının kendi sağlığını riske sokması",
+            "B": "İlk yardımcının kalkarken ağırlığı karın kaslarına vermesi",
+            "C": "Kazazedenin mümkün olduğunca çok hareket ettirilmesi",
+            "D": "Kazazedenin baş-boyun-gövde ekseni esas alınarak en az 6 destek noktasından kavranması"
+          },
+          "images": []
+        },
+        {
+          "id": 3,
+          "text": "Görseldeki gibi emisyon değeri yüksek egzoz dumanı çıkaran araçların kullanılması, hak ihlallerinden hangisinin kapsamına girmez?",
+          "options": {
+            "A": "Doğa ve Çevreye Karşı Yapılan Hak İhlalleri",
+            "B": "Kamu Hak İhlalleri",
+            "C": "Diğer Canlılara Karşı Yapılan Hak İhlalleri",
+            "D": "Bireylere Karşı Yapılan Hak İhlalleri"
+          },
+          "images": [
+            "/images/animasyonlu_sorular/50.JPG"
+          ]
+        },
+        {
+          "id": 4,
+          "text": "Motorlu bisiklet, motosiklet ve sürücüleri ile ilgili olarak aşağıdakilerden hangisinin yapılması yasaktır?",
+          "options": {
+            "A": "Geçme yaparken sinyal verilmesi",
+            "B": "Yaya yolunda sürülmesi",
+            "C": "Tehlikeli madde taşıyan araçların geçilmesi",
+            "D": "Gidiş yönüne göre yolun en sağından seyredilmesi"
+          },
+          "images": []
+        },
+        {
+          "id": 5,
+          "text": "Geçiş üstünlüğü hakkı hangi hâllerde kullanılamaz?",
+          "options": {
+            "A": "Yolların buzlu ve kaygan olması hâlinde",
+            "B": "Görev hâli dışında",
+            "C": "Trafiğin yoğun olduğu karayollarında",
+            "D": "Şehirler arası karayollarında"
+          },
+          "images": []
+        },
+        {
+          "id": 6,
+          "text": "Suçun işlendiği tarihten itibaren geriye doğru 5 yıl içinde; 0,50 promilin üzerinde alkollü olduğu ikinci defa tespit edilen sürücünün, sürücü belgesi ne kadar süre ile geri alınır?",
+          "options": {
+            "A": "30 gün",
+            "B": "3 ay",
+            "C": "6 ay",
+            "D": "2 yıl"
+          },
+          "images": []
+        },
+        {
+          "id": 7,
+          "text": "Aşağıdakilerden hangisi \"şok\" belirtilerindendir?",
+          "options": {
+            "A": "Deride kızarıklık olması",
+            "B": "Bilinç seviyesinin artması",
+            "C": "Vücut sıcaklığının artması",
+            "D": "Nabzın hızlı ve zayıf olması"
+          },
+          "images": []
+        },
+        {
+          "id": 8,
+          "text": "Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?",
+          "options": {
+            "A": "50",
+            "B": "70",
+            "C": "80",
+            "D": "90"
+          },
+          "images": [
+            "/images/sorular/29haziran2013ehliyetsorulari/soru34.jpg"
+          ]
+        },
+        {
+          "id": 9,
+          "text": "Şekilde soru işareti (?) ile gösterilen motor soğutma sistemi parçasının adı nedir?",
+          "options": {
+            "A": "Radyatör",
+            "B": "Vantilatör",
+            "C": "Kompresör",
+            "D": "Hararet müşiri"
+          },
+          "images": [
+            "/images/10sinav10/soru104.gif"
+          ]
+        },
+        {
+          "id": 10,
+          "text": "Aşağıdakilerden hangisi araçtaki ilk yardım çantasında bulundurulmalıdır?",
+          "options": {
+            "A": "Ağrı kesici ilaç",
+            "B": "Yara merhemi",
+            "C": "Üçgen sargı bezi",
+            "D": "Serum"
+          },
+          "images": []
+        },
+        {
+          "id": 11,
+          "text": "Görseldeki yol çizgileri ve yer işaretlemeleri, numaralanmış ifadelerden hangilerini belirtir?",
+          "options": {
+            "A": "I ve II",
+            "B": "I ve III",
+            "C": "II ve III",
+            "D": "I, II ve III"
+          },
+          "images": [
+            "/images/animasyonlu_sorular/16.JPG"
+          ]
+        },
+        {
+          "id": 12,
+          "text": "Şekildeki resme göre hangi aracın ilk geçiş hakkı vardır?",
+          "options": {
+            "A": "At arabası",
+            "B": "Motosiklet",
+            "C": "Otomobil",
+            "D": "Kamyonet"
+          },
+          "images": [
+            "/images/deneme/kural.jpg"
+          ]
+        }
+      ],
+      "cost": 0.00122192,
+      "rawResponse": "```json\n{\n  \"chunk\": 2,\n  \"questions\": [\n    {\n      \"id\": 1,\n      \"text\": \"Görsele göre, Adana istikametine gitmek isteyen 1 numaralı araç sürücüsü hakkında hangisi söylenemez?\",\n      \"options\": {\n        \"A\": \"Araç ışıklarını doğru yerde kullanmadığı\",\n        \"B\": \"Dönüş öncesi doğru şeride girmediği\",\n        \"C\": \"Kamyon sürücüsünü zor durumda bırakmadığı\",\n        \"D\": \"Geçme kurallarına uymadığı\"\n      },\n      \"images\": [\"/images/animasyonlu_sorular/24.JPG\"]\n    },\n    {\n      \"id\": 2,\n      \"text\": \"Aşağıdakilerden hangisi kazazedenin taşınmasında uyulması gereken genel kurallardandır?\",\n      \"options\": {\n        \"A\": \"İlk yardımcının kendi sağlığını riske sokması\",\n        \"B\": \"İlk yardımcının kalkarken ağırlığı karın kaslarına vermesi\",\n        \"C\": \"Kazazedenin mümkün olduğunca çok hareket ettirilmesi\",\n        \"D\": \"Kazazedenin baş-boyun-gövde ekseni esas alınarak en az 6 destek noktasından kavranması\"\n      },\n      \"images\": []\n    },\n    {\n      \"id\": 3,\n      \"text\": \"Görseldeki gibi emisyon değeri yüksek egzoz dumanı çıkaran araçların kullanılması, hak ihlallerinden hangisinin kapsamına girmez?\",\n      \"options\": {\n        \"A\": \"Doğa ve Çevreye Karşı Yapılan Hak İhlalleri\",\n        \"B\": \"Kamu Hak İhlalleri\",\n        \"C\": \"Diğer Canlılara Karşı Yapılan Hak İhlalleri\",\n        \"D\": \"Bireylere Karşı Yapılan Hak İhlalleri\"\n      },\n      \"images\": [\"/images/animasyonlu_sorular/50.JPG\"]\n    },\n    {\n      \"id\": 4,\n      \"text\": \"Motorlu bisiklet, motosiklet ve sürücüleri ile ilgili olarak aşağıdakilerden hangisinin yapılması yasaktır?\",\n      \"options\": {\n        \"A\": \"Geçme yaparken sinyal verilmesi\",\n        \"B\": \"Yaya yolunda sürülmesi\",\n        \"C\": \"Tehlikeli madde taşıyan araçların geçilmesi\",\n        \"D\": \"Gidiş yönüne göre yolun en sağından seyredilmesi\"\n      },\n      \"images\": []\n    },\n    {\n      \"id\": 5,\n      \"text\": \"Geçiş üstünlüğü hakkı hangi hâllerde kullanılamaz?\",\n      \"options\": {\n        \"A\": \"Yolların buzlu ve kaygan olması hâlinde\",\n        \"B\": \"Görev hâli dışında\",\n        \"C\": \"Trafiğin yoğun olduğu karayollarında\",\n        \"D\": \"Şehirler arası karayollarında\"\n      },\n      \"images\": []\n    },\n    {\n      \"id\": 6,\n      \"text\": \"Suçun işlendiği tarihten itibaren geriye doğru 5 yıl içinde; 0,50 promilin üzerinde alkollü olduğu ikinci defa tespit edilen sürücünün, sürücü belgesi ne kadar süre ile geri alınır?\",\n      \"options\": {\n        \"A\": \"30 gün\",\n        \"B\": \"3 ay\",\n        \"C\": \"6 ay\",\n        \"D\": \"2 yıl\"\n      },\n      \"images\": []\n    },\n    {\n      \"id\": 7,\n      \"text\": \"Aşağıdakilerden hangisi \\\"şok\\\" belirtilerindendir?\",\n      \"options\": {\n        \"A\": \"Deride kızarıklık olması\",\n        \"B\": \"Bilinç seviyesinin artması\",\n        \"C\": \"Vücut sıcaklığının artması\",\n        \"D\": \"Nabzın hızlı ve zayıf olması\"\n      },\n      \"images\": []\n    },\n    {\n      \"id\": 8,\n      \"text\": \"Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?\",\n      \"options\": {\n        \"A\": \"50\",\n        \"B\": \"70\",\n        \"C\": \"80\",\n        \"D\": \"90\"\n      },\n      \"images\": [\"/images/sorular/29haziran2013ehliyetsorulari/soru34.jpg\"]\n    },\n    {\n      \"id\": 9,\n      \"text\": \"Şekilde soru işareti (?) ile gösterilen motor soğutma sistemi parçasının adı nedir?\",\n      \"options\": {\n        \"A\": \"Radyatör\",\n        \"B\": \"Vantilatör\",\n        \"C\": \"Kompresör\",\n        \"D\": \"Hararet müşiri\"\n      },\n      \"images\": [\"/images/10sinav10/soru104.gif\"]\n    },\n    {\n      \"id\": 10,\n      \"text\": \"Aşağıdakilerden hangisi araçtaki ilk yardım çantasında bulundurulmalıdır?\",\n      \"options\": {\n        \"A\": \"Ağrı kesici ilaç\",\n        \"B\": \"Yara merhemi\",\n        \"C\": \"Üçgen sargı bezi\",\n        \"D\": \"Serum\"\n      },\n      \"images\": []\n    },\n    {\n      \"id\": 11,\n      \"text\": \"Görseldeki yol çizgileri ve yer işaretlemeleri, numaralanmış ifadelerden hangilerini belirtir?\",\n      \"options\": {\n        \"A\": \"I ve II\",\n        \"B\": \"I ve III\",\n        \"C\": \"II ve III\",\n        \"D\": \"I, II ve III\"\n      },\n      \"images\": [\"/images/animasyonlu_sorular/16.JPG\"]\n    },\n    {\n      \"id\": 12,\n      \"text\": \"Şekildeki resme göre hangi aracın ilk geçiş hakkı vardır?\",\n      \"options\": {\n        \"A\": \"At arabası\",\n        \"B\": \"Motosiklet\",\n        \"C\": \"Otomobil\",\n        \"D\": \"Kamyonet\"\n      },\n      \"images\": [\"/images/deneme/kural.jpg\"]\n    }\n  ]\n}\n```"
+    },
+    {
+      "chunk": 3,
+      "success": true,
+      "questions": [
+        {
+          "id": 13,
+          "text": "I. Kırmızı ışıkta geçmektedir.\nII. Sağdan gelen yeşil araca ilk geçiş hakkını vermemektedir.\nIII. Girişi olmayan yol bölümüne girmektedir.\n\nVideoya göre, kırmızı otomobil sürücüsü numaralanmış hatalardan hangilerini yapmaktadır?",
+          "options": {
+            "A": "I ve II",
+            "B": "I ve III",
+            "C": "II ve III",
+            "D": "I, II ve III"
+          },
+          "images": [
+            "https://player.vimeo.com/video/1024686115?h=8aeedd3677&badge=0&autopause=0&player_id=0&app_id=58479"
+          ]
+        },
+        {
+          "id": 14,
+          "text": "Trafik psikologları, yaşam tarzı ile araç kullanmanın ilişkili olduğunu belirtmektedirler. Diğer bir deyişle, insan nasıl yaşarsa öyle araç kullanır. Trafik adabı açısından değerlendirmek gerekirse bir toplumdaki kişiler birbirlerine nasıl davranıyorlarsa birlikte yaşama, yol yordamları ne ise trafik ortamında da aynı adap içinde davranırlar.\n\nBuna göre stresle olumlu baş etme konusunda sorun yaşayan sürücülerin, genel olarak trafikte hangi temel değere sahip olmadığı bilinir?",
+          "options": {
+            "A": "Sabır",
+            "B": "Öfke",
+            "C": "Bencillik",
+            "D": "İnatlaşma"
+          },
+          "images": []
+        },
+        {
+          "id": 15,
+          "text": "Haritaların üst kenar çizgisi hangi ana yönü gösterir?",
+          "options": {
+            "A": "Batı",
+            "B": "Doğu",
+            "C": "Kuzey",
+            "D": "Güney"
+          },
+          "images": []
+        },
+        {
+          "id": 16,
+          "text": "Şekildeki gibi bir kavşakta karşılaşan araçların geçiş hakkı sıralaması nasıl olmalıdır?",
+          "options": {
+            "A": "1 - 2 - 3 - 4",
+            "B": "1 - 2 - 4 - 3",
+            "C": "2 - 1 - 4 - 3",
+            "D": "4 - 1 - 2 - 3"
+          },
+          "images": [
+            "/images/23araliksorulari/27.png"
+          ]
+        },
+        {
+          "id": 17,
+          "text": "Şekildeki taşıt yolu üzerinde bulunan yazı neyi bildirmektedir?",
+          "options": {
+            "A": "Işıklara 50 m kaldığını",
+            "B": "Asgari (en az) hız sınırını",
+            "C": "Azami (en yüksek) hız sınırını",
+            "D": "Öndeki araca 50 m´den fazla yaklaşılmamasını"
+          },
+          "images": [
+            "/images/sorular/2kasim2013ehliyetsorulari/soru28.jpg"
+          ]
+        },
+        {
+          "id": 18,
+          "text": "Olay yerindeki ilk yardımcının, bilinçleri kapalı ve solunumu olmayan dört farklı kazazedeye ilişkin tespitleri tabloda verilmiştir.\n\nBuna göre ilk yardımcı, numaralanmış kazazedelerden hangilerine “ağızdan buruna” suni solunum yapmalıdır?",
+          "options": {
+            "A": "Yalnız I",
+            "B": "Yalnız IV",
+            "C": "II ve III",
+            "D": "III ve IV"
+          },
+          "images": [
+            "/images/animasyonlu_sorular/soru_3.png"
+          ]
+        },
+        {
+          "id": 19,
+          "text": "Aşağıdakilerden hangisi egzoz gazından zehirlenen kişiye uygulanmaz?",
+          "options": {
+            "A": "Solunumu durmuşsa suni solunum yapmak",
+            "B": "Kusmasını sağlamak",
+            "C": "Temiz havaya çıkarmak",
+            "D": "Sıcak tutmak"
+          },
+          "images": []
+        },
+        {
+          "id": 20,
+          "text": "Aşağıdakilerden hangisi diferansiyelin görevlerindendir?",
+          "options": {
+            "A": "Motora ilk hareketi vermek",
+            "B": "Motorun durmasını sağlamak",
+            "C": "Motorun rölantide çalışmasını sağlamak",
+            "D": "Vites kutusundan gelen hareketi akslara iletmek"
+          },
+          "images": []
+        },
+        {
+          "id": 21,
+          "text": "Yapısı itibariyle, sürücüsü dahil en fazla dokuz oturma yeri olan ve insan taşımak için imal edilmiş bulunan motorlu taşıta ne ad verilir?",
+          "options": {
+            "A": "Otobüs",
+            "B": "Otomobil",
+            "C": "Kamyon",
+            "D": "Kamyonet"
+          },
+          "images": []
+        },
+        {
+          "id": 22,
+          "text": "Aşağıdakilerden hangisi Emniyet Genel Müdürlüğünün görev ve yetkilerindendir?",
+          "options": {
+            "A": "Araçların tescil işlemlerini yapmak",
+            "B": "Motorlu taşıt sürücü sertifikası vermek",
+            "C": "Kara yollarında gerekli işaretlemeleri yapmak",
+            "D": "Sürücü kursunda eğitilenlerin sınavını yapmak"
+          },
+          "images": []
+        },
+        {
+          "id": 23,
+          "text": "Sürücüler, yolcu indirip bindirirken aşağıdaki kurallardan hangisine uymak zorundadırlar?",
+          "options": {
+            "A": "Yolcuları soldan indirip bindirmek",
+            "B": "Kapıların kapanmasını beklemeden hareket etmek",
+            "C": "Yol ve trafik müsait ise aracın her iki tarafından yolcu indirip bindirmek",
+            "D": "Yolcuları sağdan indirip bindirmek"
+          },
+          "images": []
+        },
+        {
+          "id": 24,
+          "text": "Yağmurlu bir günde araç sürerken kaldırımdaki yayalara su sıçratmamaya özen gösterilmesi durumu, trafikte hangi temel değere sahip olunduğuna örnektir?",
+          "options": {
+            "A": "İnatlaşmaya",
+            "B": "Yardımlaşmaya",
+            "C": "Nezaket ve saygıya",
+            "D": "Konuşma üslubuna"
+          },
+          "images": []
+        }
+      ],
+      "cost": 0.0012873000000000001,
+      "rawResponse": "```json\n{\n  \"chunk\": 3,\n  \"questions\": [\n    {\n      \"id\": 13,\n      \"text\": \"I. Kırmızı ışıkta geçmektedir.\\nII. Sağdan gelen yeşil araca ilk geçiş hakkını vermemektedir.\\nIII. Girişi olmayan yol bölümüne girmektedir.\\n\\nVideoya göre, kırmızı otomobil sürücüsü numaralanmış hatalardan hangilerini yapmaktadır?\",\n      \"options\": {\n        \"A\": \"I ve II\",\n        \"B\": \"I ve III\",\n        \"C\": \"II ve III\",\n        \"D\": \"I, II ve III\"\n      },\n      \"images\": [\"https://player.vimeo.com/video/1024686115?h=8aeedd3677&badge=0&autopause=0&player_id=0&app_id=58479\"]\n    },\n    {\n      \"id\": 14,\n      \"text\": \"Trafik psikologları, yaşam tarzı ile araç kullanmanın ilişkili olduğunu belirtmektedirler. Diğer bir deyişle, insan nasıl yaşarsa öyle araç kullanır. Trafik adabı açısından değerlendirmek gerekirse bir toplumdaki kişiler birbirlerine nasıl davranıyorlarsa birlikte yaşama, yol yordamları ne ise trafik ortamında da aynı adap içinde davranırlar.\\n\\nBuna göre stresle olumlu baş etme konusunda sorun yaşayan sürücülerin, genel olarak trafikte hangi temel değere sahip olmadığı bilinir?\",\n      \"options\": {\n        \"A\": \"Sabır\",\n        \"B\": \"Öfke\",\n        \"C\": \"Bencillik\",\n        \"D\": \"İnatlaşma\"\n      },\n      \"images\": []\n    },\n    {\n      \"id\": 15,\n      \"text\": \"Haritaların üst kenar çizgisi hangi ana yönü gösterir?\",\n      \"options\": {\n        \"A\": \"Batı\",\n        \"B\": \"Doğu\",\n        \"C\": \"Kuzey\",\n        \"D\": \"Güney\"\n      },\n      \"images\": []\n    },\n    {\n      \"id\": 16,\n      \"text\": \"Şekildeki gibi bir kavşakta karşılaşan araçların geçiş hakkı sıralaması nasıl olmalıdır?\",\n      \"options\": {\n        \"A\": \"1 - 2 - 3 - 4\",\n        \"B\": \"1 - 2 - 4 - 3\",\n        \"C\": \"2 - 1 - 4 - 3\",\n        \"D\": \"4 - 1 - 2 - 3\"\n      },\n      \"images\": [\"/images/23araliksorulari/27.png\"]\n    },\n    {\n      \"id\": 17,\n      \"text\": \"Şekildeki taşıt yolu üzerinde bulunan yazı neyi bildirmektedir?\",\n      \"options\": {\n        \"A\": \"Işıklara 50 m kaldığını\",\n        \"B\": \"Asgari (en az) hız sınırını\",\n        \"C\": \"Azami (en yüksek) hız sınırını\",\n        \"D\": \"Öndeki araca 50 m´den fazla yaklaşılmamasını\"\n      },\n      \"images\": [\"/images/sorular/2kasim2013ehliyetsorulari/soru28.jpg\"]\n    },\n    {\n      \"id\": 18,\n      \"text\": \"Olay yerindeki ilk yardımcının, bilinçleri kapalı ve solunumu olmayan dört farklı kazazedeye ilişkin tespitleri tabloda verilmiştir.\\n\\nBuna göre ilk yardımcı, numaralanmış kazazedelerden hangilerine “ağızdan buruna” suni solunum yapmalıdır?\",\n      \"options\": {\n        \"A\": \"Yalnız I\",\n        \"B\": \"Yalnız IV\",\n        \"C\": \"II ve III\",\n        \"D\": \"III ve IV\"\n      },\n      \"images\": [\"/images/animasyonlu_sorular/soru_3.png\"]\n    },\n    {\n      \"id\": 19,\n      \"text\": \"Aşağıdakilerden hangisi egzoz gazından zehirlenen kişiye uygulanmaz?\",\n      \"options\": {\n        \"A\": \"Solunumu durmuşsa suni solunum yapmak\",\n        \"B\": \"Kusmasını sağlamak\",\n        \"C\": \"Temiz havaya çıkarmak\",\n        \"D\": \"Sıcak tutmak\"\n      },\n      \"images\": []\n    },\n    {\n      \"id\": 20,\n      \"text\": \"Aşağıdakilerden hangisi diferansiyelin görevlerindendir?\",\n      \"options\": {\n        \"A\": \"Motora ilk hareketi vermek\",\n        \"B\": \"Motorun durmasını sağlamak\",\n        \"C\": \"Motorun rölantide çalışmasını sağlamak\",\n        \"D\": \"Vites kutusundan gelen hareketi akslara iletmek\"\n      },\n      \"images\": []\n    },\n    {\n      \"id\": 21,\n      \"text\": \"Yapısı itibariyle, sürücüsü dahil en fazla dokuz oturma yeri olan ve insan taşımak için imal edilmiş bulunan motorlu taşıta ne ad verilir?\",\n      \"options\": {\n        \"A\": \"Otobüs\",\n        \"B\": \"Otomobil\",\n        \"C\": \"Kamyon\",\n        \"D\": \"Kamyonet\"\n      },\n      \"images\": []\n    },\n    {\n      \"id\": 22,\n      \"text\": \"Aşağıdakilerden hangisi Emniyet Genel Müdürlüğünün görev ve yetkilerindendir?\",\n      \"options\": {\n        \"A\": \"Araçların tescil işlemlerini yapmak\",\n        \"B\": \"Motorlu taşıt sürücü sertifikası vermek\",\n        \"C\": \"Kara yollarında gerekli işaretlemeleri yapmak\",\n        \"D\": \"Sürücü kursunda eğitilenlerin sınavını yapmak\"\n      },\n      \"images\": []\n    },\n    {\n      \"id\": 23,\n      \"text\": \"Sürücüler, yolcu indirip bindirirken aşağıdaki kurallardan hangisine uymak zorundadırlar?\",\n      \"options\": {\n        \"A\": \"Yolcuları soldan indirip bindirmek\",\n        \"B\": \"Kapıların kapanmasını beklemeden hareket etmek\",\n        \"C\": \"Yol ve trafik müsait ise aracın her iki tarafından yolcu indirip bindirmek\",\n        \"D\": \"Yolcuları sağdan indirip bindirmek\"\n      },\n      \"images\": []\n    },\n    {\n      \"id\": 24,\n      \"text\": \"Yağmurlu bir günde araç sürerken kaldırımdaki yayalara su sıçratmamaya özen gösterilmesi durumu, trafikte hangi temel değere sahip olunduğuna örnektir?\",\n      \"options\": {\n        \"A\": \"İnatlaşmaya\",\n        \"B\": \"Yardımlaşmaya\",\n        \"C\": \"Nezaket ve saygıya\",\n        \"D\": \"Konuşma üslubuna\"\n      },\n      \"images\": []\n    }\n  ]\n}\n```"
+    }
+  ],
+  "finalQuestions": [
+    {
+      "id": 1,
+      "text": "Görsele göre, Adana istikametine gitmek isteyen 1 numaralı araç sürücüsü hakkında hangisi söylenemez?",
+      "options": {
+        "A": "Araç ışıklarını doğru yerde kullanmadığı",
+        "B": "Dönüş öncesi doğru şeride girmediği",
+        "C": "Kamyon sürücüsünü zor durumda bırakmadığı",
+        "D": "Geçme kurallarına uymadığı"
+      },
+      "images": [
+        "/images/animasyonlu_sorular/24.JPG"
+      ]
+    },
+    {
+      "id": 2,
+      "text": "Aşağıdakilerden hangisi kazazedenin taşınmasında uyulması gereken genel kurallardandır?",
+      "options": {
+        "A": "İlk yardımcının kendi sağlığını riske sokması",
+        "B": "İlk yardımcının kalkarken ağırlığı karın kaslarına vermesi",
+        "C": "Kazazedenin mümkün olduğunca çok hareket ettirilmesi",
+        "D": "Kazazedenin baş-boyun-gövde ekseni esas alınarak en az 6 destek noktasından kavranması"
+      },
+      "images": []
+    },
+    {
+      "id": 3,
+      "text": "Görseldeki gibi emisyon değeri yüksek egzoz dumanı çıkaran araçların kullanılması, hak ihlallerinden hangisinin kapsamına girmez?",
+      "options": {
+        "A": "Doğa ve Çevreye Karşı Yapılan Hak İhlalleri",
+        "B": "Kamu Hak İhlalleri",
+        "C": "Diğer Canlılara Karşı Yapılan Hak İhlalleri",
+        "D": "Bireylere Karşı Yapılan Hak İhlalleri"
+      },
+      "images": [
+        "/images/animasyonlu_sorular/50.JPG"
+      ]
+    },
+    {
+      "id": 4,
+      "text": "Motorlu bisiklet, motosiklet ve sürücüleri ile ilgili olarak aşağıdakilerden hangisinin yapılması yasaktır?",
+      "options": {
+        "A": "Geçme yaparken sinyal verilmesi",
+        "B": "Yaya yolunda sürülmesi",
+        "C": "Tehlikeli madde taşıyan araçların geçilmesi",
+        "D": "Gidiş yönüne göre yolun en sağından seyredilmesi"
+      },
+      "images": []
+    },
+    {
+      "id": 5,
+      "text": "Geçiş üstünlüğü hakkı hangi hâllerde kullanılamaz?",
+      "options": {
+        "A": "Yolların buzlu ve kaygan olması hâlinde",
+        "B": "Görev hâli dışında",
+        "C": "Trafiğin yoğun olduğu karayollarında",
+        "D": "Şehirler arası karayollarında"
+      },
+      "images": []
+    },
+    {
+      "id": 6,
+      "text": "Suçun işlendiği tarihten itibaren geriye doğru 5 yıl içinde; 0,50 promilin üzerinde alkollü olduğu ikinci defa tespit edilen sürücünün, sürücü belgesi ne kadar süre ile geri alınır?",
+      "options": {
+        "A": "30 gün",
+        "B": "3 ay",
+        "C": "6 ay",
+        "D": "2 yıl"
+      },
+      "images": []
+    },
+    {
+      "id": 7,
+      "text": "Aşağıdakilerden hangisi \"şok\" belirtilerindendir?",
+      "options": {
+        "A": "Deride kızarıklık olması",
+        "B": "Bilinç seviyesinin artması",
+        "C": "Vücut sıcaklığının artması",
+        "D": "Nabzın hızlı ve zayıf olması"
+      },
+      "images": []
+    },
+    {
+      "id": 8,
+      "text": "Aksine bir işaret yoksa şekildeki aracın yerleşim yeri içindeki azami hızı saatte kaç kilometredir?",
+      "options": {
+        "A": "50",
+        "B": "70",
+        "C": "80",
+        "D": "90"
+      },
+      "images": [
+        "/images/sorular/29haziran2013ehliyetsorulari/soru34.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "text": "Şekilde soru işareti (?) ile gösterilen motor soğutma sistemi parçasının adı nedir?",
+      "options": {
+        "A": "Radyatör",
+        "B": "Vantilatör",
+        "C": "Kompresör",
+        "D": "Hararet müşiri"
+      },
+      "images": [
+        "/images/10sinav10/soru104.gif"
+      ]
+    },
+    {
+      "id": 10,
+      "text": "Aşağıdakilerden hangisi araçtaki ilk yardım çantasında bulundurulmalıdır?",
+      "options": {
+        "A": "Ağrı kesici ilaç",
+        "B": "Yara merhemi",
+        "C": "Üçgen sargı bezi",
+        "D": "Serum"
+      },
+      "images": []
+    },
+    {
+      "id": 11,
+      "text": "Görseldeki yol çizgileri ve yer işaretlemeleri, numaralanmış ifadelerden hangilerini belirtir?",
+      "options": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "II ve III",
+        "D": "I, II ve III"
+      },
+      "images": [
+        "/images/animasyonlu_sorular/16.JPG"
+      ]
+    },
+    {
+      "id": 12,
+      "text": "Şekildeki resme göre hangi aracın ilk geçiş hakkı vardır?",
+      "options": {
+        "A": "At arabası",
+        "B": "Motosiklet",
+        "C": "Otomobil",
+        "D": "Kamyonet"
+      },
+      "images": [
+        "/images/deneme/kural.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "text": "I. Kırmızı ışıkta geçmektedir.\nII. Sağdan gelen yeşil araca ilk geçiş hakkını vermemektedir.\nIII. Girişi olmayan yol bölümüne girmektedir.\n\nVideoya göre, kırmızı otomobil sürücüsü numaralanmış hatalardan hangilerini yapmaktadır?",
+      "options": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "II ve III",
+        "D": "I, II ve III"
+      },
+      "images": [
+        "https://player.vimeo.com/video/1024686115?h=8aeedd3677&badge=0&autopause=0&player_id=0&app_id=58479"
+      ]
+    },
+    {
+      "id": 14,
+      "text": "Trafik psikologları, yaşam tarzı ile araç kullanmanın ilişkili olduğunu belirtmektedirler. Diğer bir deyişle, insan nasıl yaşarsa öyle araç kullanır. Trafik adabı açısından değerlendirmek gerekirse bir toplumdaki kişiler birbirlerine nasıl davranıyorlarsa birlikte yaşama, yol yordamları ne ise trafik ortamında da aynı adap içinde davranırlar.\n\nBuna göre stresle olumlu baş etme konusunda sorun yaşayan sürücülerin, genel olarak trafikte hangi temel değere sahip olmadığı bilinir?",
+      "options": {
+        "A": "Sabır",
+        "B": "Öfke",
+        "C": "Bencillik",
+        "D": "İnatlaşma"
+      },
+      "images": []
+    },
+    {
+      "id": 15,
+      "text": "Haritaların üst kenar çizgisi hangi ana yönü gösterir?",
+      "options": {
+        "A": "Batı",
+        "B": "Doğu",
+        "C": "Kuzey",
+        "D": "Güney"
+      },
+      "images": []
+    },
+    {
+      "id": 16,
+      "text": "Şekildeki gibi bir kavşakta karşılaşan araçların geçiş hakkı sıralaması nasıl olmalıdır?",
+      "options": {
+        "A": "1 - 2 - 3 - 4",
+        "B": "1 - 2 - 4 - 3",
+        "C": "2 - 1 - 4 - 3",
+        "D": "4 - 1 - 2 - 3"
+      },
+      "images": [
+        "/images/23araliksorulari/27.png"
+      ]
+    },
+    {
+      "id": 17,
+      "text": "Şekildeki taşıt yolu üzerinde bulunan yazı neyi bildirmektedir?",
+      "options": {
+        "A": "Işıklara 50 m kaldığını",
+        "B": "Asgari (en az) hız sınırını",
+        "C": "Azami (en yüksek) hız sınırını",
+        "D": "Öndeki araca 50 m´den fazla yaklaşılmamasını"
+      },
+      "images": [
+        "/images/sorular/2kasim2013ehliyetsorulari/soru28.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "text": "Olay yerindeki ilk yardımcının, bilinçleri kapalı ve solunumu olmayan dört farklı kazazedeye ilişkin tespitleri tabloda verilmiştir.\n\nBuna göre ilk yardımcı, numaralanmış kazazedelerden hangilerine “ağızdan buruna” suni solunum yapmalıdır?",
+      "options": {
+        "A": "Yalnız I",
+        "B": "Yalnız IV",
+        "C": "II ve III",
+        "D": "III ve IV"
+      },
+      "images": [
+        "/images/animasyonlu_sorular/soru_3.png"
+      ]
+    },
+    {
+      "id": 19,
+      "text": "Aşağıdakilerden hangisi egzoz gazından zehirlenen kişiye uygulanmaz?",
+      "options": {
+        "A": "Solunumu durmuşsa suni solunum yapmak",
+        "B": "Kusmasını sağlamak",
+        "C": "Temiz havaya çıkarmak",
+        "D": "Sıcak tutmak"
+      },
+      "images": []
+    },
+    {
+      "id": 20,
+      "text": "Aşağıdakilerden hangisi diferansiyelin görevlerindendir?",
+      "options": {
+        "A": "Motora ilk hareketi vermek",
+        "B": "Motorun durmasını sağlamak",
+        "C": "Motorun rölantide çalışmasını sağlamak",
+        "D": "Vites kutusundan gelen hareketi akslara iletmek"
+      },
+      "images": []
+    },
+    {
+      "id": 21,
+      "text": "Yapısı itibariyle, sürücüsü dahil en fazla dokuz oturma yeri olan ve insan taşımak için imal edilmiş bulunan motorlu taşıta ne ad verilir?",
+      "options": {
+        "A": "Otobüs",
+        "B": "Otomobil",
+        "C": "Kamyon",
+        "D": "Kamyonet"
+      },
+      "images": []
+    },
+    {
+      "id": 22,
+      "text": "Aşağıdakilerden hangisi Emniyet Genel Müdürlüğünün görev ve yetkilerindendir?",
+      "options": {
+        "A": "Araçların tescil işlemlerini yapmak",
+        "B": "Motorlu taşıt sürücü sertifikası vermek",
+        "C": "Kara yollarında gerekli işaretlemeleri yapmak",
+        "D": "Sürücü kursunda eğitilenlerin sınavını yapmak"
+      },
+      "images": []
+    },
+    {
+      "id": 23,
+      "text": "Sürücüler, yolcu indirip bindirirken aşağıdaki kurallardan hangisine uymak zorundadırlar?",
+      "options": {
+        "A": "Yolcuları soldan indirip bindirmek",
+        "B": "Kapıların kapanmasını beklemeden hareket etmek",
+        "C": "Yol ve trafik müsait ise aracın her iki tarafından yolcu indirip bindirmek",
+        "D": "Yolcuları sağdan indirip bindirmek"
+      },
+      "images": []
+    },
+    {
+      "id": 24,
+      "text": "Yağmurlu bir günde araç sürerken kaldırımdaki yayalara su sıçratmamaya özen gösterilmesi durumu, trafikte hangi temel değere sahip olunduğuna örnektir?",
+      "options": {
+        "A": "İnatlaşmaya",
+        "B": "Yardımlaşmaya",
+        "C": "Nezaket ve saygıya",
+        "D": "Konuşma üslubuna"
+      },
+      "images": []
+    }
+  ],
+  "imageAnalysis": {},
+  "totalCost": 0.0034125000000000006,
+  "totalTime": 131296,
+  "success": true
+}

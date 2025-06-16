@@ -1,0 +1,123 @@
+{
+  "temel_sartlar_kartlari": [
+    {
+      "id": "temel_001",
+      "kategori": "TEMEL_SARTLAR",
+      "alt_kategori": "Yaş Sınırları",
+      "baslik": "Ehliyet Sınıflarına Göre Yaş Sınırları",
+      "ozet": "Her ehliyet sınıfı için gerekli minimum yaş sınırları ve özel koşullar",
+      "icerik": "Türkiye'de ehliyet alabilmek için yaş sınırları ehliyet sınıfına göre değişir. En yaygın B sınıfı (otomobil) için 18 yaş gereklidir.",
+      "onemli_noktalar": [
+        "M, A1, B1 sınıfları: 16 yaş",
+        "B sınıfı (otomobil): 18 yaş", 
+        "C sınıfı (kamyon): 21 yaş",
+        "D sınıfı (otobüs): 24 yaş",
+        "A sınıfı: 20 yaş (A2 deneyimi ile) veya 24 yaş"
+      ],
+      "guncel_bilgiler": [
+        "A sınıfı için 2 yıllık A2 deneyimi gerekli",
+        "Yaş hesaplaması ehliyet alındığı tarihe göre yapılır",
+        "Doğum günü beklenmesi gerekebilir"
+      ],
+      "zorluk_seviyesi": "KOLAY",
+      "siralama": 1,
+      "etiketler": ["yaş", "sınıf", "gereksinim"],
+      "soru_cevap": [
+        {
+          "soru": "B sınıfı ehliyet için kaç yaşında olmam gerekir?",
+          "cevap": "B sınıfı (otomobil) ehliyet almak için minimum 18 yaşında olmanız gerekir. 18. doğum gününüzü tamamlamış olmanız şarttır.",
+          "kisa_cevap": "18 yaş"
+        },
+        {
+          "soru": "16 yaşında hangi ehliyet sınıflarını alabilirim?",
+          "cevap": "16 yaşında M sınıfı (moped), A1 sınıfı (125cc'ye kadar motosiklet) ve B1 sınıfı (dört tekerlekli motosiklet/ATV) ehliyetlerini alabilirsiniz.",
+          "kisa_cevap": "M, A1, B1 sınıfları"
+        },
+        {
+          "soru": "Motosiklet ehliyeti için yaş sınırları nedir?",
+          "cevap": "A1 (125cc'ye kadar): 16 yaş, A2 (35kW'a kadar): 18 yaş, A sınıfı (sınırsız): 20 yaş (2 yıl A2 deneyimi ile) veya 24 yaş (deneyimsiz)",
+          "kisa_cevap": "A1: 16, A2: 18, A: 20/24 yaş"
+        }
+      ]
+    },
+    {
+      "id": "temel_002",
+      "kategori": "TEMEL_SARTLAR",
+      "alt_kategori": "Sağlık Raporu",
+      "baslik": "Sürücü Olur Sağlık Raporu Nasıl Alınır?",
+      "ozet": "Ehliyet için gerekli sağlık raporunun alınma yerleri, içeriği ve geçerlilik süresi",
+      "icerik": "Ehliyet almak için 'Sürücü Olur' ibareli geçerli bir sağlık raporu gereklidir. Bu rapor aile hekimi, devlet hastanesi veya özel tıp merkezlerinden alınabilir.",
+      "onemli_noktalar": [
+        "Raporda 'Sürücü Olur' ibaresi bulunmalı",
+        "Aile hekimi, devlet veya özel hastanelerden alınabilir",
+        "Görme ve işitme testleri yapılır",
+        "Genel sağlık durumu değerlendirilir",
+        "Engelli bireyler için özel prosedür var"
+      ],
+      "guncel_bilgiler": [
+        "Rapor geçerlilik süresi genellikle 1 yıldır",
+        "Aile hekiminden almak en ekonomik seçenektir",
+        "Özel hastanelerde daha hızlı alınabilir"
+      ],
+      "zorluk_seviyesi": "KOLAY",
+      "siralama": 2,
+      "etiketler": ["sağlık", "rapor", "belge"],
+      "soru_cevap": [
+        {
+          "soru": "Sağlık raporunu nereden alabilirim?",
+          "cevap": "Sürücü belgesi için sağlık raporunu aile hekiminizden, devlet hastanelerinden, özel tıp merkezlerinden veya bu konuda yetkili diğer sağlık kuruluşlarından alabilirsiniz. Raporda mutlaka 'Sürücü Olur' ibaresi bulunmalıdır.",
+          "kisa_cevap": "Aile hekimi, devlet/özel hastanelerden"
+        },
+        {
+          "soru": "Sağlık raporunda hangi testler yapılır?",
+          "cevap": "Sağlık raporu kapsamında genel sağlık muayenesi, görme testi, işitme testi ve sürücülüğe engel olabilecek hastalıkların kontrolü yapılır. Özellikle görme keskinliği ve renk körlüğü testleri önemlidir.",
+          "kisa_cevap": "Genel muayene, görme ve işitme testleri"
+        },
+        {
+          "soru": "Engelliyim, özel bir rapor gerekir mi?",
+          "cevap": "Evet, engelli bireyler için özel prosedür uygulanır. 'B Sınıfı Engelli Sürücü Olabilir' gibi özel ibareler içeren sağlık kurulu raporu gereklidir. Bu rapor yetkili sağlık kuruluşlarından alınmalıdır.",
+          "kisa_cevap": "Evet, özel sağlık kurulu raporu gerekli"
+        }
+      ]
+    },
+    {
+      "id": "temel_003",
+      "kategori": "TEMEL_SARTLAR", 
+      "alt_kategori": "Eğitim Düzeyi",
+      "baslik": "Ehliyet İçin Gerekli Eğitim Düzeyi",
+      "ozet": "Sürücü belgesi alabilmek için gerekli minimum eğitim seviyesi ve kabul edilen belgeler",
+      "icerik": "Türkiye'de ehliyet alabilmek için en az ilkokul mezunu olmak gerekmektedir. Bu durumu belgeleyen diploma veya öğrenci belgesi sürücü kursuna kayıt sırasında ibraz edilmelidir.",
+      "onemli_noktalar": [
+        "Minimum ilkokul mezunu olmak gerekli",
+        "Diploma veya öğrenci belgesi kabul edilir",
+        "Yabancı diploma sahibi için denklik belgesi",
+        "Okur-yazar belgesi kabul edilmez"
+      ],
+      "guncel_bilgiler": [
+        "E-okul sisteminden çıktı alınabilir",
+        "Diploma kaybında okul müdürlüğünden yazı alınabilir",
+        "Öğrenci belgesi devam eden eğitim için geçerli"
+      ],
+      "zorluk_seviyesi": "KOLAY",
+      "siralama": 3,
+      "etiketler": ["eğitim", "diploma", "belge"],
+      "soru_cevap": [
+        {
+          "soru": "Ehliyet almak için hangi eğitim düzeyine sahip olmalıyım?",
+          "cevap": "Ehliyet alabilmek için en az ilkokul mezunu olmanız gerekmektedir. Bu durumu ilkokul diploması, lise diploması, üniversite diploması veya öğrenci belgesi ile belgeleyebilirsiniz.",
+          "kisa_cevap": "En az ilkokul mezunu"
+        },
+        {
+          "soru": "Diplomam kayıp, ne yapmalıyım?",
+          "cevap": "Diploma kaybı durumunda mezun olduğunuz okulun müdürlüğünden mezuniyet belgesi alabilir veya il/ilçe milli eğitim müdürlüğünden onaylı belge talep edebilirsiniz. E-okul sisteminden de mezuniyet belgesi çıktısı alınabilir.",
+          "kisa_cevap": "Okul müdürlüğünden belge alın"
+        },
+        {
+          "soru": "Yabancı diplomam var, kabul edilir mi?",
+          "cevap": "Yabancı ülkelerden alınan diplomalar için öncelikle denklik belgesi almanız gerekir. Bu belge YÖK (Yükseköğretim Kurulu) veya MEB'den alınabilir. Denklik belgesi ile birlikte başvuru yapabilirsiniz.",
+          "kisa_cevap": "Denklik belgesi ile kabul edilir"
+        }
+      ]
+    }
+  ]
+} 

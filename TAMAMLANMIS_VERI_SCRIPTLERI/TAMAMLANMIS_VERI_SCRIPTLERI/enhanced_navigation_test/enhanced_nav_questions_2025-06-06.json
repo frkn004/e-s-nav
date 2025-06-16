@@ -1,0 +1,272 @@
+[
+  {
+    "id": "enhanced_nav_1749198314897_1",
+    "number": 1,
+    "question": "Aşağıdakilerden hangisi yakıt içerisindeki yabancı maddeleri temizleyen elemandır?",
+    "category": "trafik",
+    "options": {
+      "C": "EVAP AÇIKLAMASI:",
+      "A": "şağıdakilerden hangisi yakıt içerisindeki yabancı maddeleri temizleyen elemandır?",
+      "D": "istribütörün arızalanması",
+      "B": "ujilerin arızalanması"
+    },
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-haziran-2025-ehliyet-deneme-sinavi-968",
+    "scrapedAt": "2025-06-06T08:25:14.897Z",
+    "scrapingMethod": "enhanced_navigation",
+    "images": [
+      {
+        "src": "https://ehliyet-soru.com/images/q/406.webp",
+        "alt": "Yolun kamyon trafiğine kapalı olduğunu, yani kamyonların bu yola girmesinin yasak olduğunu gösterir. Bu işaret genellikle belirli bir ağırlığın üzerindeki kamyonlar için geçerlidir.",
+        "width": 239,
+        "height": 239,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q1_img1.webp",
+        "fileName": "enhanced_nav_q1_img1.webp"
+      },
+      {
+        "src": "https://ehliyet-soru.com/images/q/45.webp",
+        "alt": "Taşıt trafiğine kapalı yol ve girişi olmayan yol işareti",
+        "width": 239,
+        "height": 133,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q1_img2.webp",
+        "fileName": "enhanced_nav_q1_img2.webp"
+      },
+      {
+        "src": "https://ehliyet-soru.com/images/q/146.webp",
+        "alt": "",
+        "width": 239,
+        "height": 176,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q1_img3.webp",
+        "fileName": "enhanced_nav_q1_img3.webp"
+      }
+    ]
+  },
+  {
+    "id": "enhanced_nav_1749198318073_2",
+    "number": 2,
+    "question": "Trafikte kırmızı ışıkta beklerken ışık sarıya döner dönmez önündeki araca korna çalan, ışığın yeşile dönmesi için 1 saniye bile bekleyemeyen sürücünün bu davranışı için aşağıdakilerden hangisi söylenebilir?",
+    "category": "ilkyard",
+    "options": {
+      "A": "Saygılı",
+      "B": "Telaşsız",
+      "C": "Sorumlu",
+      "D": "Sabırsız"
+    },
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-haziran-2025-ehliyet-deneme-sinavi-969",
+    "scrapedAt": "2025-06-06T08:25:18.073Z",
+    "scrapingMethod": "enhanced_navigation",
+    "images": [
+      {
+        "src": "https://ehliyet-soru.com/images/q/146.webp",
+        "alt": "",
+        "width": 239,
+        "height": 176,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q2_img1.webp",
+        "fileName": "enhanced_nav_q2_img1.webp"
+      },
+      {
+        "src": "https://ehliyet-soru.com/images/q/633.webp",
+        "alt": "Öndeki taşıtı geçmenin yasak olduğunu gösterir. Trafik güvenliğini sağlamak için genellikle dar yollar, virajlar ve tehlikeli bölgelerde kullanılır.",
+        "width": 70,
+        "height": 70,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q2_img2.webp",
+        "fileName": "enhanced_nav_q2_img2.webp"
+      },
+      {
+        "src": "https://ehliyet-soru.com/images/q/635.webp",
+        "alt": "Trafik ışığı veya işaretçi olmayan kavşakları belirtir. Sürücüleri, bu tür kavşaklarda dikkatli olmaları ve geçiş önceliği kurallarına uymaları konusunda uyarır. Dönüş yapmayıp düz giden araçlara ve sağdan gelen araçlara yol verilmesi gerektiğini hatırlatır. ",
+        "width": 80,
+        "height": 70,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q2_img3.webp",
+        "fileName": "enhanced_nav_q2_img3.webp"
+      }
+    ]
+  },
+  {
+    "id": "enhanced_nav_1749198321162_3",
+    "number": 3,
+    "question": "Buna göre trafik içinde hatalı davranış sergileyen bir sürücüye hangisinin yapılması, hem o sürücünün hem de trafikteki diğer sürücülerin kaza yapma yada olumsuz bir durum oluşturma riskini azaltır?",
+    "category": "trafik",
+    "options": {
+      "A": "Aşırı tepki gösterilmesi",
+      "B": "Kaba ve saldırgan davranılması",
+      "C": "Kızgın biçimde kornaya basılması",
+      "D": "Nezaket ve saygı çerçevesinde uyarılması"
+    },
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-haziran-2025-ehliyet-deneme-sinavi-970",
+    "scrapedAt": "2025-06-06T08:25:21.162Z",
+    "scrapingMethod": "enhanced_navigation",
+    "images": [
+      {
+        "src": "https://ehliyet-soru.com/images/q/684.webp",
+        "alt": "Okul geçidi, öğrencilerin okul çevresinde güvenli bir şekilde yol geçişi yapabilmesi için belirlenen alanı gösterir. Sürücüler, okul geçidi alanında hızlarını düşürmeli ve öğrencilere yol vermelidir.",
+        "width": 239,
+        "height": 210,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q3_img1.webp",
+        "fileName": "enhanced_nav_q3_img1.webp"
+      },
+      {
+        "src": "https://ehliyet-soru.com/images/q/121.webp",
+        "alt": "",
+        "width": 239,
+        "height": 144,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q3_img2.webp",
+        "fileName": "enhanced_nav_q3_img2.webp"
+      },
+      {
+        "src": "https://ehliyet-soru.com/images/q/225.webp",
+        "alt": "",
+        "width": 239,
+        "height": 80,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q3_img3.webp",
+        "fileName": "enhanced_nav_q3_img3.webp"
+      }
+    ]
+  },
+  {
+    "id": "enhanced_nav_1749198324305_4",
+    "number": 4,
+    "question": "Yukarıdakilerden hangileri ilk yardımı yapacak kişide bulunmalıdır?",
+    "category": "trafikadab",
+    "options": {
+      "A": "zami (en yüksek) hız sınırını",
+      "C": "EVAP AÇIKLAMASI:",
+      "D": "önüş ışıklarını geç anlamında kullanmak",
+      "B": "uji kıvılcımı ile"
+    },
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-haziran-2025-ehliyet-deneme-sinavi-971",
+    "scrapedAt": "2025-06-06T08:25:24.305Z",
+    "scrapingMethod": "enhanced_navigation",
+    "images": [
+      {
+        "src": "https://ehliyet-soru.com/images/q/70.webp",
+        "alt": "",
+        "width": 166,
+        "height": 214,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q4_img1.webp",
+        "fileName": "enhanced_nav_q4_img1.webp"
+      },
+      {
+        "src": "https://ehliyet-soru.com/images/q/538.webp",
+        "alt": "Tali yolun ileride her iki yönden ana yola bağlandığını gösterir. Bu işaret, sürücülere her iki tali yoldan gelen araçların dikkat etmeleri gerektiğini ve ana yolda önceliklerinin bulunduğunu bildirir.",
+        "width": 80,
+        "height": 70,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q4_img2.webp",
+        "fileName": "enhanced_nav_q4_img2.webp"
+      },
+      {
+        "src": "https://ehliyet-soru.com/images/q/635.webp",
+        "alt": "Trafik ışığı veya işaretçi olmayan kavşakları belirtir. Sürücüleri, bu tür kavşaklarda dikkatli olmaları ve geçiş önceliği kurallarına uymaları konusunda uyarır. Dönüş yapmayıp düz giden araçlara ve sağdan gelen araçlara yol verilmesi gerektiğini hatırlatır. ",
+        "width": 80,
+        "height": 70,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q4_img3.webp",
+        "fileName": "enhanced_nav_q4_img3.webp"
+      }
+    ]
+  },
+  {
+    "id": "enhanced_nav_1749198327399_5",
+    "number": 5,
+    "question": "Yaya yolu ayrılmamış kara yolunda, taşıt yolu kenarı ile şev başı veya hendek iç üst kenarı arasında kalan ve olağan olarak yayaların ve hayvanların kullanacağı, zorunlu hâllerde de araçların faydalanabileceği bölüme ne denir?",
+    "category": "trafikadab",
+    "options": {
+      "A": "Banket",
+      "B": "Şerit",
+      "C": "Platform",
+      "D": "Kavşak ortak alanı"
+    },
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-haziran-2025-ehliyet-deneme-sinavi-972",
+    "scrapedAt": "2025-06-06T08:25:27.399Z",
+    "scrapingMethod": "enhanced_navigation",
+    "images": [
+      {
+        "src": "https://ehliyet-soru.com/images/q/24.webp",
+        "alt": "",
+        "width": 239,
+        "height": 177,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q5_img1.webp",
+        "fileName": "enhanced_nav_q5_img1.webp"
+      },
+      {
+        "src": "https://ehliyet-soru.com/images/q/117.webp",
+        "alt": "",
+        "width": 239,
+        "height": 171,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q5_img2.webp",
+        "fileName": "enhanced_nav_q5_img2.webp"
+      },
+      {
+        "src": "https://ehliyet-soru.com/images/q/242.webp",
+        "alt": "",
+        "width": 236,
+        "height": 149,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q5_img3.webp",
+        "fileName": "enhanced_nav_q5_img3.webp"
+      }
+    ]
+  },
+  {
+    "id": "enhanced_nav_1749198330495_6",
+    "number": 6,
+    "question": "Aracın kontak anahtarı motoru çalıştırmayacak şekilde açıldığında, gösterge panelinde bulunan şekildeki akü şarj ikaz ışığının yanması gerekir. Yanmıyorsa, arıza aşağıdakilerden hangisinde olabilir?",
+    "category": "trafik",
+    "options": {
+      "A": "Marş motorunda",
+      "B": "Soğutma fanında",
+      "C": "Motor devir göstergesinde",
+      "D": "Akü şarj ikaz ışığının ampülünde"
+    },
+    "explanation": "",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-haziran-2025-ehliyet-deneme-sinavi-973",
+    "scrapedAt": "2025-06-06T08:25:30.495Z",
+    "scrapingMethod": "enhanced_navigation",
+    "images": [
+      {
+        "src": "https://ehliyet-soru.com/images/q/9.webp",
+        "alt": "",
+        "width": 239,
+        "height": 163,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q6_img1.webp",
+        "fileName": "enhanced_nav_q6_img1.webp"
+      },
+      {
+        "src": "https://ehliyet-soru.com/images/q/627.webp",
+        "alt": " Yolun üzerinde kasisler (yüksek tümsekler) bulunduğunu belirtir. Sürücüler hızlarını düşürmeli ve araçlarını sarsılmadan geçirebilmek için dikkatli olmalıdır. ",
+        "width": 80,
+        "height": 70,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q6_img2.webp",
+        "fileName": "enhanced_nav_q6_img2.webp"
+      },
+      {
+        "src": "https://ehliyet-soru.com/images/q/683.webp",
+        "alt": " Yolun kenarındaki toprak veya taş duvarların gevşek malzeme ile oluşturulduğunu belirtir. Bu tür alanlarda, şevin (yamaç, eğimli yüzey) kayma riski olduğu için sürücüler dikkatli olmalı ve yol kenarına fazla yaklaşmamalıdır. ",
+        "width": 80,
+        "height": 70,
+        "className": "soruImage",
+        "localPath": "enhanced_navigation_test/images/enhanced_nav_q6_img3.webp",
+        "fileName": "enhanced_nav_q6_img3.webp"
+      }
+    ]
+  }
+]

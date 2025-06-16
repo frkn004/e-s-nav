@@ -1,0 +1,35 @@
+{
+  "analysis_session": {
+    "completed_at": "2025-06-06T08:08:18.873Z",
+    "sites_analyzed": 2,
+    "timestamp": "2025-06-06"
+  },
+  "site_analysis": [
+    {
+      "url": "https://ehliyet-soru.com/test-1-haziran-2025-ehliyet-deneme-sinavi-968",
+      "title": "1 Haziran 2025 Ehliyet Sınav Soruları Çöz",
+      "structure_quality": "good",
+      "total_images": 375,
+      "question_images": 375,
+      "extraction_potential": 32,
+      "recommended_strategy": "hash_based"
+    },
+    {
+      "url": "https://www.mebehliyetsinavsorulari.com/1-haziran-2025-ehliyet-sinav-sorulari",
+      "title": "1 Haziran 2025 Ehliyet Sınav Soruları – Ehliyethane",
+      "structure_quality": "poor",
+      "total_images": 36,
+      "question_images": 36,
+      "extraction_potential": 22,
+      "recommended_strategy": "dom_based"
+    }
+  ],
+  "summary": {
+    "total_sites": 2,
+    "sites_with_good_structure": 1,
+    "total_images_found": 411,
+    "recommended_sites": [
+      "https://ehliyet-soru.com/test-1-haziran-2025-ehliyet-deneme-sinavi-968"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "extraction_session": {
+    "completed_at": "2025-06-06T08:10:06.817Z",
+    "source": "ehliyet-soru.com",
+    "total_questions": 0,
+    "target_goal": 50,
+    "success_rate": "0.0%",
+    "images_downloaded": 0,
+    "extraction_method": "hash_based_optimized"
+  },
+  "question_breakdown": {
+    "by_category": {},
+    "with_images": 0,
+    "without_images": 0,
+    "with_explanations": 0,
+    "average_options": 0
+  },
+  "quality_analysis": {
+    "complete_questions": 0,
+    "questions_with_4_options": 0,
+    "questions_with_explanations": 0
+  },
+  "sample_questions": []
+}

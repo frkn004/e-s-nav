@@ -1,0 +1,28 @@
+{
+  "batchInfo": {
+    "batchNumber": 2,
+    "startIndex": 3,
+    "urlCount": 3,
+    "timestamp": "2025-06-06T09-39-23-203Z"
+  },
+  "results": [
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-16.html#",
+      "error": "AI processing failed: API Error: 401 Unauthorized",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-17.html#",
+      "error": "AI processing failed: API Error: 401 Unauthorized",
+      "cost": 0
+    },
+    {
+      "success": false,
+      "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-20.html#",
+      "error": "AI processing failed: API Error: 401 Unauthorized",
+      "cost": 0
+    }
+  ]
+}

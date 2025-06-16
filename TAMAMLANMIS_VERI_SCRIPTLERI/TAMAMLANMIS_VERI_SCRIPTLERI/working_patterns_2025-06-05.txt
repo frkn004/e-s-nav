@@ -1,0 +1,3 @@
+testlist-{year}-yeni-ehliyet-sorulari-{num}
+testlist-{month}-{year}-ehliyet-sinavlari-{num}
+testlist-gecmis-meb-ehliyet-sinavlari-{num}

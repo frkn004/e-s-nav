@@ -1,0 +1,52 @@
+{
+  "scraping_session": {
+    "started_at": "2025-06-05T21:24:52.370Z",
+    "total_urls_processed": 5,
+    "success_rate": "100.0%"
+  },
+  "question_statistics": {
+    "total_questions_found": 58,
+    "unique_questions": 58,
+    "duplicates_removed": 2,
+    "duplicate_rate": "3.3%"
+  },
+  "category_analysis": {
+    "total_categories": 9,
+    "distribution": {
+      "motor_çalıştırma": 12,
+      "motorbilgisi": 17,
+      "motor_yakıt_sistemi": 5,
+      "trafik_hız_kurallari": 2,
+      "trafik_işaretler": 7,
+      "motor_lastik_jant": 2,
+      "motor_aydınlatma": 2,
+      "trafik": 10,
+      "trafik_kavşak": 1
+    },
+    "largest_category": [
+      "motorbilgisi",
+      17
+    ],
+    "smallest_category": [
+      "trafik_kavşak",
+      1
+    ]
+  },
+  "image_statistics": {
+    "total_images_downloaded": 513,
+    "images_per_question": "8.84",
+    "storage_location": "mass_scraped_data/images"
+  },
+  "quality_metrics": {
+    "questions_with_explanations": 52,
+    "questions_with_images": 58,
+    "average_options_per_question": "4.0"
+  },
+  "errors": [],
+  "files_generated": [
+    "questions_2025-06-05.json",
+    "duplicates_2025-06-05.json",
+    "final_report_2025-06-05.json",
+    "database_ready_2025-06-05.json"
+  ]
+}

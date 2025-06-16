@@ -1,0 +1,16 @@
+{
+  "extraction_session": {
+    "completed_at": "2025-06-06T08:21:04.230Z",
+    "method": "navigation_based",
+    "total_questions": 0,
+    "target_goal": 50,
+    "success_rate": "0.0%",
+    "images_downloaded": 0
+  },
+  "question_breakdown": {
+    "by_category": {},
+    "with_images": 0,
+    "with_explanations": 0,
+    "average_options": 0
+  }
+}

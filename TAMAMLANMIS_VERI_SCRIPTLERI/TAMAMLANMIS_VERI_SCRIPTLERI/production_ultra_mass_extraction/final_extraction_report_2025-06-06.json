@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "totalUrls": 1884,
+    "processedUrls": 1884,
+    "successfulUrls": 0,
+    "failedUrls": 1884,
+    "totalQuestions": 0,
+    "totalOptions": 0,
+    "totalImages": 0,
+    "totalCost": 0,
+    "errors": [],
+    "startTime": "2025-06-06T09:38:57.855Z",
+    "checkpoints": []
+  },
+  "completedTime": "2025-06-06T12:00:48.180Z",
+  "durationMinutes": 141.84
+}

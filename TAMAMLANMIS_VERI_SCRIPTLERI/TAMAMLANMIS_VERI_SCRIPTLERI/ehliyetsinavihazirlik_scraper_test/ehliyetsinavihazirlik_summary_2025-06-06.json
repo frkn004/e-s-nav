@@ -1,0 +1,21 @@
+{
+  "extraction_session": {
+    "completed_at": "2025-06-06T08:21:19.381Z",
+    "method": "multi_strategy",
+    "site": "ehliyetsinavihazirlik.com",
+    "total_questions": 50,
+    "target_goal": 50,
+    "success_rate": "100.0%",
+    "images_downloaded": 25
+  },
+  "question_breakdown": {
+    "by_category": {
+      "unknown": 50
+    },
+    "by_scraping_method": {
+      "unknown": 50
+    },
+    "with_explanations": 0,
+    "average_options": "4.0"
+  }
+}

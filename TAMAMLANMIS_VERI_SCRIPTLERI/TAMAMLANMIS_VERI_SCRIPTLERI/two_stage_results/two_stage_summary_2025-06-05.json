@@ -1,0 +1,16 @@
+{
+  "two_stage_process": {
+    "stage_1_generated_testlist_urls": 3750,
+    "stage_2_extracted_real_test_urls": 120,
+    "stage_3_questions_scraped": "See mass_scraped_data folder",
+    "extraction_rate": "3.2%"
+  },
+  "estimated_questions": 6000,
+  "year_range": "2020-2025",
+  "patterns_used": [
+    "testlist-{year}-yeni-ehliyet-sorulari-{num}",
+    "testlist-{month}-{year}-ehliyet-sinavlari-{num}",
+    "testlist-gecmis-meb-ehliyet-sinavlari-{num}"
+  ],
+  "next_step": "Stage 3 mass scraping completed automatically"
+}

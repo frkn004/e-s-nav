@@ -1,0 +1,15 @@
+{
+  "totalUrls": 1884,
+  "processedUrls": 1884,
+  "successfulUrls": 0,
+  "failedUrls": 1884,
+  "totalQuestions": 0,
+  "totalOptions": 0,
+  "totalImages": 0,
+  "totalCost": 0,
+  "errors": [],
+  "startTime": "2025-06-06T09:38:57.855Z",
+  "checkpoints": [],
+  "lastProcessedIndex": 1883,
+  "checkpointTime": "2025-06-06T12:00:45.159Z"
+}

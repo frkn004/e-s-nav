@@ -1,0 +1,21 @@
+{
+  "single_page_multi_question": {
+    "description": "Tek sayfada birden fazla soru bulunan siteler",
+    "examples": [
+      "ehliyetsinavihazirlik.com"
+    ],
+    "recommended_scraper": "ehliyetsinavihazirlik-scraper.js",
+    "success_rate": "100%",
+    "efficiency": "high"
+  },
+  "navigation_based_single_question": {
+    "description": "Her sayfada tek soru, navigation gerekli",
+    "examples": [
+      "ehliyet-soru.com"
+    ],
+    "recommended_scraper": "enhanced-navigation-scraper.js",
+    "success_rate": "12%",
+    "efficiency": "low",
+    "issues": "Sayfa yükleme sorunları"
+  }
+}

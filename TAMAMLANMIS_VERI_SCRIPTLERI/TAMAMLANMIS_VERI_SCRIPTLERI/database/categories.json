@@ -1,0 +1,138 @@
+[
+  {
+    "id": 1,
+    "name": "Trafik İşaretleri",
+    "description": "Yol işaretleri, levhalar ve trafik işaret levhaları",
+    "icon": "🚦",
+    "color": "#FF6B6B",
+    "slug": "trafi̇k-i̇şaretleri̇",
+    "questionCount": 65,
+    "stats": {
+      "total": 65,
+      "easy": 43,
+      "medium": 22,
+      "hard": 0,
+      "visual": 21,
+      "text": 44
+    }
+  },
+  {
+    "id": 2,
+    "name": "Araç Tekniği",
+    "description": "Motor, fren, vites ve diğer araç sistemleri",
+    "icon": "🔧",
+    "color": "#4ECDC4",
+    "slug": "araç-tekni̇ği̇",
+    "questionCount": 117,
+    "stats": {
+      "total": 117,
+      "easy": 49,
+      "medium": 59,
+      "hard": 9,
+      "visual": 26,
+      "text": 91
+    }
+  },
+  {
+    "id": 3,
+    "name": "Trafik Kuralları",
+    "description": "Hız limitleri, geçiş ve park kuralları",
+    "icon": "📏",
+    "color": "#45B7D1",
+    "slug": "trafi̇k-kurallari",
+    "questionCount": 95,
+    "stats": {
+      "total": 95,
+      "easy": 62,
+      "medium": 21,
+      "hard": 12,
+      "visual": 29,
+      "text": 66
+    }
+  },
+  {
+    "id": 4,
+    "name": "İlk Yardım",
+    "description": "Yaralanmalar, kırıklar ve acil durum müdahaleleri",
+    "icon": "🏥",
+    "color": "#96CEB4",
+    "slug": "i̇lk-yardim",
+    "questionCount": 86,
+    "stats": {
+      "total": 86,
+      "easy": 10,
+      "medium": 46,
+      "hard": 30,
+      "visual": 17,
+      "text": 69
+    }
+  },
+  {
+    "id": 5,
+    "name": "Araç Bakım",
+    "description": "Periyodik bakım, yağ değişimi ve araç kontrolü",
+    "icon": "🛠️",
+    "color": "#FFEAA7",
+    "slug": "araç-bakim",
+    "questionCount": 49,
+    "stats": {
+      "total": 49,
+      "easy": 9,
+      "medium": 30,
+      "hard": 10,
+      "visual": 10,
+      "text": 39
+    }
+  },
+  {
+    "id": 6,
+    "name": "Yol Bilgisi",
+    "description": "Kavşaklar, geçiş önceliği ve yol durumları",
+    "icon": "🛣️",
+    "color": "#DDA0DD",
+    "slug": "yol-bi̇lgi̇si̇",
+    "questionCount": 52,
+    "stats": {
+      "total": 52,
+      "easy": 1,
+      "medium": 31,
+      "hard": 20,
+      "visual": 15,
+      "text": 37
+    }
+  },
+  {
+    "id": 7,
+    "name": "Sürücü Psikolojisi",
+    "description": "Davranış, empati, sorumluluk ve trafik adabı",
+    "icon": "🧠",
+    "color": "#98D8C8",
+    "slug": "sürücü-psi̇koloji̇si̇",
+    "questionCount": 28,
+    "stats": {
+      "total": 28,
+      "easy": 28,
+      "medium": 0,
+      "hard": 0,
+      "visual": 5,
+      "text": 23
+    }
+  },
+  {
+    "id": 8,
+    "name": "Çevre ve Güvenlik",
+    "description": "Emisyon, çevre koruma ve güvenlik önlemleri",
+    "icon": "🌍",
+    "color": "#F7DC6F",
+    "slug": "çevre-ve-güvenli̇k",
+    "questionCount": 18,
+    "stats": {
+      "total": 18,
+      "easy": 18,
+      "medium": 0,
+      "hard": 0,
+      "visual": 3,
+      "text": 15
+    }
+  }
+]

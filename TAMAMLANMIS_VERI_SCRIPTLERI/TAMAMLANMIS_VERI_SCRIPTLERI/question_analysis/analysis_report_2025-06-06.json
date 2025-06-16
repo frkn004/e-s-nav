@@ -1,0 +1,1422 @@
+{
+  "analysis_timestamp": "2025-06-06T08:32:50.574Z",
+  "summary": {
+    "total_questions_loaded": 56,
+    "unique_questions": 47,
+    "duplicates_removed": 9,
+    "categories": 5,
+    "sources": 2
+  },
+  "categories": {
+    "trafik": {
+      "count": 12,
+      "percentage": "21.4%"
+    },
+    "motorbilgisi": {
+      "count": 11,
+      "percentage": "19.6%"
+    },
+    "ilkyard": {
+      "count": 9,
+      "percentage": "16.1%"
+    },
+    "trafikadab": {
+      "count": 0,
+      "percentage": "0.0%"
+    },
+    "unknown": {
+      "count": 24,
+      "percentage": "42.9%"
+    }
+  },
+  "sources": {
+    "ehliyetsinavihazirlik.com": {
+      "name": "ehliyetsinavihazirlik.com",
+      "type": "single_page_multi_question",
+      "questions": [
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_1",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_2",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_3",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_4",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_5",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_6",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_7",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_8",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_9",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_10",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Karşı taraf ikazda bulunmazsa uzun farla devam etmek",
+            "B": "Araç hızını, herhangi bir tehlike anında, kolayca durulabilecek hıza getirmek",
+            "C": "Yolu daha iyi görmek için art arda kısa aralıklarla selektör yapmak",
+            "D": "Yolun sağından bir tehlike gelebileceği düşünülerek iyice sola yanaşmak"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_11",
+          "question": "Taşıt yolu üzerine çizilen şekildeki yazı neyi bildirmektedir?",
+          "options": {
+            "A": "Işıklara 50 m kaldığını",
+            "B": "Asgari (en az) hız sınırını",
+            "C": "Azami (en yüksek) hız sınırını",
+            "D": "Öndeki araca 50 m’den fazla yaklaşılmamasını"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "trafik"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_13",
+          "question": "Karşıdan gelen araçla karşılaşıldığında uzağı gösteren ışıkların yerine hangisi yakılmalıdır?",
+          "options": {
+            "A": "Yakını gösteren ışıklar",
+            "B": "Acil uyarı ışıkları",
+            "C": "Dönüş ışıkları",
+            "D": "Park ışıkları"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_15",
+          "question": "Aşağıdakilerden hangisi balanssız tekerleğin araç üzerindeki etkilerinden biridir?",
+          "options": {
+            "A": "Motorun soğuması",
+            "B": "Direksiyonun titremesi",
+            "C": "Motor yakıtına yağ karışması",
+            "D": "Fren disk yüzeyinin soğuması"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_16",
+          "question": "Buna göre aşağıdakilerden hangisi arızalı araç çekilirken uyulması gereken şartlardan biri değildir?",
+          "options": {
+            "A": "Çekilen aracın ağırlığının, çeken aracın taşıma sınırından az olması",
+            "B": "Birbirine bağlanan iki araç arasındaki açıklığın 10 metre olması",
+            "C": "Çekilen aracın, sürücü yönetiminde olması",
+            "D": "Her iki aracın da boş (yüksüz) olması"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_17",
+          "question": "Şekildeki trafik işareti neyi ifade eder?",
+          "options": {
+            "A": "Geçme yasağının sonu olduğunu",
+            "B": "Öndeki taşıtın geçilmesinin yasak olduğunu",
+            "C": "Bütün yasaklama ve kısıtlamaların sona erdiğini",
+            "D": "Yük taşıtlarının öndeki taşıtları geçmelerinin yasak olduğunu"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "trafik"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_18",
+          "question": "Bu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur?",
+          "options": {
+            "A": "Sırtüstü yatış",
+            "B": "Yarı oturuş",
+            "C": "Koma",
+            "D": "Şok"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "ilkyard"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_19",
+          "question": "Şekildeki kavşakta ilk geçiş hakkı sıralaması nasıl olmalıdır?",
+          "options": {
+            "A": "1 - 2 - 3",
+            "B": "1 - 3 - 2",
+            "C": "2 - 3 - 1",
+            "D": "3 - 1 – 2"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_20",
+          "question": "Motor çok sıcak iken radyatöre soğuk su konulması aşağıdakilerden hangisine sebep olur?",
+          "options": {
+            "A": "Motorun stop etmesine",
+            "B": "Motor gücünün artmasına",
+            "C": "Motor bloğunun çatlamasına",
+            "D": "Motor sıcaklığının artmasına"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "motorbilgisi"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_21",
+          "question": "Yönetmeliğe göre işitme cihazı ile belirli bir duyma yeterliliğine ulaşan sürücü, aşağıdaki sürücü belgelerinden hangisi ile araç kullanabilir?",
+          "options": {
+            "A": "G sınıfı",
+            "B": "A1 ve A2 sınıfı",
+            "C": "C, CE ve D sınıfı",
+            "D": "B sınıfı (hususi araç)"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_22",
+          "question": "Görsele göre, hangisinin yapılması doğru olur?",
+          "options": {
+            "A": "1 numaralı aracın 2 numaralı araca geçme önceliği vermesi",
+            "B": "1 numaralı aracın, 2 numaralı araca geçiş kolaylığı sağlamak için, solundaki şeride geçmesi",
+            "C": "2 numaralı aracın, 1 numaralı araç geçtikten sonra sol şeride geçmesi",
+            "D": "2 numaralı aracın, 1 numaralı aracı uyararak yavaşlatması"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_23",
+          "question": "Şekildeki trafik işaretinin anlamı nedir?",
+          "options": {
+            "A": "Taşıt giremez",
+            "B": "Motosiklet giremez",
+            "C": "Taşıt trafiğine kapalı yol",
+            "D": "Motosiklet hariç motorlu taşıt trafiğine kapalı yol"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "trafik"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_24",
+          "question": "Aşağıdakilerden hangisi, şok durumundaki kazazedeye yapılması gereken ilk yardım uygulamalarındandır?",
+          "options": {
+            "A": "Yarı oturur pozisyon verilmesi",
+            "B": "Fiziksel hareketinin artırılması",
+            "C": "Hava yolu açıklığının sağlanması",
+            "D": "Soğuk suyla ıslatılmış çarşafla üzerinin örtülmesi"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "ilkyard"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_25",
+          "question": "Aşağıdakilerden hangisi çıkıklarda yapılan ilk yardım uygulamalarındandır?",
+          "options": {
+            "A": "Kazazedenin hareket ettirilmesi",
+            "B": "Çıkığın yerine oturtulmaya çalışılması",
+            "C": "Çıkığın alt bölgesindeki deri rengi, ısı ve nabzın kontrol edilmesi",
+            "D": "Eklemin düzeltildikten sonra tespit edilmesi"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "ilkyard"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_26",
+          "question": "Şekle göre aşağıdaki ifadelerden hangisi yanlıştır?",
+          "options": {
+            "A": "1 ve 2 numaralı taşıtlar ana yoldadır.",
+            "B": "3 ve 4 numaralı taşıtlar tali yoldadır.",
+            "C": "3 ve 4 numaralı taşıtlar bölünmüş kara yolundadır.",
+            "D": "1, 2, 3 ve 4 numaralı taşıtlar iki yönlü kara yolundadır."
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_27",
+          "question": "Aşağıdaki durumların hangisinde, sürüş esnasında refleksler zayıflamış olacağından direksiyon başındaki tepkiler çok daha yavaş gerçekleşecektir?",
+          "options": {
+            "A": "Sürüş öncesi alkollü içki içilmişse",
+            "B": "Sürüş öncesi düzenli ve yeterli uyku uyunmuşsa",
+            "C": "Molalarda kan dolaşımını artıran hareketler yapılmışsa",
+            "D": "Temiz hava için aracın camları kısa süreliğine açılmışsa"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_28",
+          "question": "Yakıtı doğrudan doğruya silindirler içersinde yakan ve üretilen ısı enerjisini pistonbiyel mekanizması ile krank miline ileten motorlara ne ad verilir?",
+          "options": {
+            "A": "Marş motoru",
+            "B": "Elektrik motoru",
+            "C": "İçten yanmalı motor",
+            "D": "Dıştan yanmalı motor"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "motorbilgisi"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_29",
+          "question": "Hangisini yapmak çevrenin temiz kalmasına katkı sağlar?",
+          "options": {
+            "A": "Gereksiz yere korna çalmak",
+            "B": "Seyahat esnasında, yiyecek atıklarını otoyol kenarlarına bırakmak",
+            "C": "Egzoz emisyon ölçümünü geciktirmek",
+            "D": "Araç bakımlarını zamanında yaptırmak"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_30",
+          "question": "Bir sürücünün, emniyet kemeri kullanmaya özen göstermesinin esas nedeni ne olmalıdır?",
+          "options": {
+            "A": "Trafik kazalarında koruyucu önlem olarak görmek",
+            "B": "Araçta bulunan uyarı sistemini susturmak",
+            "C": "Denetimlerde problem yaşamamak",
+            "D": "Ceza almaktan çekinmek"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_31",
+          "question": "Aracın periyodik bakımı yapılırken aşağıdakilerden hangisinin değiştirilmemesi araç motorunun çalışmasını olumsuz etkiler?",
+          "options": {
+            "A": "Fren balatasının",
+            "B": "Polen filtresinin",
+            "C": "Yakıt filtresinin",
+            "D": "Geri vites müşirinin"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "motorbilgisi"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_32",
+          "question": "Fan motoru çalıştığı hâlde motor suyunun soğumamasının sebebi aşağıdakilerden hangisidir?",
+          "options": {
+            "A": "Radyatör petekleri tıkanmıştır.",
+            "B": "Araç lastiklerinin havası fazladır.",
+            "C": "Soğutma suyunda antifriz vardır.",
+            "D": "Soğutma sisteminde termostat yoktur."
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "motorbilgisi"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_33",
+          "question": "Videoya göre sürücü nasıl davranmalıdır?",
+          "options": {
+            "A": "Sabit hızla aynı şeritte yoluna devam etmeli",
+            "B": "Sol şeride geçip derhal servise gitmeli",
+            "C": "Yavaşlayıp sağ şeritten yoluna devam etmeli",
+            "D": "Trafik kurallarına uygun olarak derhal durmalı"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_34",
+          "question": "Yetişkinlere yapılan dış kalp masajı uygulamasıyla ilgili olarak verilenlerden hangisi doğrudur?",
+          "options": {
+            "A": "Ellerin parmakları göğüs kafesiyle temas ettirilmeden, dirsekler bükülmeden ve göğüs kemiği üzerine vücuda dik olacak şekilde tutulması",
+            "B": "Göğüs kemiğinin alt ve üst ucunun tespit edilerek üst yarısına, orta ve yüzük parmağının dik olarak yerleştirilmesi",
+            "C": "Uygulama hızının dakikada 30 bası olacakşekilde ayarlanması",
+            "D": "Göğüs kemiği 3 cm aşağı inecek şekildebası uygulanması"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "ilkyard"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_35",
+          "question": "Aşağıdakilerden hangisi atardamar kanamalarına ait bir özelliktir?",
+          "options": {
+            "A": "Küçük kabarcıklar şeklinde kanama olması",
+            "B": "Yüzeysel bir yaradan yayılarak, yavaş akması",
+            "C": "Koyu kırmızı renkteki kanın taşar biçimde akması",
+            "D": "Açık kırmızı renkteki kanın, kalp atımı ile eş zamanlı fışkırır tarzda akması"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "ilkyard"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_36",
+          "question": "Aşağıdaki parçalardan hangisi arızalandığında motor yağında su, soğutma suyunda yağ olduğu gözlenir?",
+          "options": {
+            "A": "Piston",
+            "B": "Kam mili",
+            "C": "Krank mili",
+            "D": "Silindir kapak contası"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "motorbilgisi"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_37",
+          "question": "Hangisi, motor soğutma sisteminin elemanı değildir?",
+          "options": {
+            "A": "Balata",
+            "B": "Su pompası",
+            "C": "Radyatör",
+            "D": "Termostat"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "motorbilgisi"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_38",
+          "question": "Motordaki yağ basıncını sürücüye bildiren gösterge aşağıdakilerden hangisidir?",
+          "options": {
+            "A": "Yağ göstergesi",
+            "B": "Yakıt göstergesi",
+            "C": "Hararet göstergesi",
+            "D": "Motor devir göstergesi"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "motorbilgisi"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_39",
+          "question": "Yağ çubuğunun görevi aşağıdakilerden hangisidir?",
+          "options": {
+            "A": "Antifriz seviyesini göstermek",
+            "B": "Elektrolit seviyesini göstermek",
+            "C": "Motor yağı seviyesini göstermek",
+            "D": "Soğutma suyu seviyesini göstermek"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "motorbilgisi"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_41",
+          "question": "Aşağıdakilerden hangisi yakıt sisteminin parçası değildir?",
+          "options": {
+            "A": "Yakıt pompası",
+            "B": "Enjektörler",
+            "C": "Endüksiyon bobini",
+            "D": "Hava filtresi"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "motorbilgisi"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_42",
+          "question": "Aracın 2 saniyede gideceği yol uzunluğu, hangi mesafenin belirlenmesinde kullanılır?",
+          "options": {
+            "A": "Takip mesafesi",
+            "B": "Geçiş mesafesi",
+            "C": "İntikal mesafesi",
+            "D": "Görüş mesafesi"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "trafik"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_44",
+          "question": "Demir yolu (hemzemin) geçidinde aşağıdakilerden hangisinin yapılması yasaktır?",
+          "options": {
+            "A": "Bariyer açık ise dikkatli geçilmesi",
+            "B": "Bariyer kapalı ise durulması",
+            "C": "Öndeki aracın geçilmesi",
+            "D": "Hızın azaltılması"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "trafik"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_45",
+          "question": "Araç park edildikten sonra aşağıdakilerden hangisini yapmak gerekir?",
+          "options": {
+            "A": "Vitesi boşa almak",
+            "B": "El frenini çekmek",
+            "C": "Fren pedalına basmak",
+            "D": "Debriyaj pedalına basmak"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "trafik"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_46",
+          "question": "Aracın kullanma kılavuzuna göre, belirli kilometre dolunca aşağıdaki parçalardan hangisi değiştirilir?",
+          "options": {
+            "A": "Buji",
+            "B": "Manifold",
+            "C": "Karbüratör",
+            "D": "Teker jantı"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_47",
+          "question": "Aşağıdakilerden hangisi solunum durmasına bağlı olarak dokuların oksijensiz kaldığını gösteren bir belirtidir?",
+          "options": {
+            "A": "Göz bebeklerinin küçülmesi",
+            "B": "Kişinin aktif ve huzursuz olması",
+            "C": "Yüzde kızarma ve vücut sıcaklığının artması",
+            "D": "Parmak uçları ve dudaklardan başlayıp yayılan morarma olması"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "ilkyard"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_48",
+          "question": "Araç motorunun ilk çalıştırılması esnasında vites hangi konumda olmalıdır?",
+          "options": {
+            "A": "Boş",
+            "B": "1. vites",
+            "C": "2. vites",
+            "D": "3. vites"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "motorbilgisi"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_49",
+          "question": "Aşağıdakilerden hangisi motorun harareti yükseldiğinde yapılması gereken işlemlerdendir?",
+          "options": {
+            "A": "Motorun üzerine su dökülmesi",
+            "B": "Klimanın, çalışıyorsa kapatılması",
+            "C": "Motorun stop edilerek soğuk su ilave edilmesi",
+            "D": "Motorun stop edilerek soğuk antifriz ilave edilmesi"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "motorbilgisi"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_50",
+          "question": "Bebeklerde (0-12 ay) tek ilk yardımcı ile yapılan dış kalp masajı uygulanması ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+          "options": {
+            "A": "Göğüs ve sırt kısmının iki elin arasına alınarak sıkıştırılması",
+            "B": "Sağ elin yumruk hâline getirilerek göğüs merkezine vurulması",
+            "C": "Göğüs kemiği 6 cm aşağıya inecek şekilde basınç uygulanması",
+            "D": "Bir elin orta ve yüzük parmağı ile göğüs kemiği 4 cm aşağıya inecek şekilde basınç uygulanması"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "ilkyard"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_51",
+          "question": "Verilenlerden hangileri trafik psikolojisinin hedeflerindendir?",
+          "options": {
+            "A": "Yalnız I",
+            "B": "I ve II",
+            "C": "II ve III",
+            "D": "I, II ve III"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "trafik"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_52",
+          "question": "Araçların güvenli bir şekilde yavaşlamasını, durmasını ve sabitlenmesini sağlayan sistem aşağıdakilerden hangisidir?",
+          "options": {
+            "A": "Fren sistemi",
+            "B": "Marş sistemi",
+            "C": "Ateşleme sistemi",
+            "D": "Süspansiyon sistemi"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_53",
+          "question": "Görseldeki gibi bir karşılaşmada, 2 numaralı araç sürücüsü ne yapmalıdır?",
+          "options": {
+            "A": "Geçiş önceliğini kendisi kullanmalı",
+            "B": "Hızlanıp köprüye 1 numaralı araçtan önce girmeli",
+            "C": "Geçiş önceliğini 1 numaralı araca vermeli",
+            "D": "1 numaralı aracın daralan yol bölümüne girmemesi için selektör yaparak uyarmalı"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question"
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_54",
+          "question": "Aşağıdaki kanama türlerinden hangisinde, kan kaybı diğerlerine nazaran fazla olduğu için daha kısa sürede hayati tehlike meydana gelir?",
+          "options": {
+            "A": "Burun kanamaları",
+            "B": "Atardamar kanamaları",
+            "C": "Kılcal damar kanamaları",
+            "D": "Toplardamar kanamaları"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "autoCategory": "ilkyard"
+        }
+      ],
+      "categories": {
+        "unknown": 50
+      },
+      "totalQuestions": 50,
+      "successRate": 50,
+      "avgOptionsPerQuestion": 4
+    },
+    "ehliyet-soru.com": {
+      "name": "ehliyet-soru.com",
+      "type": "navigation_based_single_question",
+      "questions": [
+        {
+          "id": "enhanced_nav_1749198314897_1",
+          "number": 1,
+          "question": "Aşağıdakilerden hangisi yakıt içerisindeki yabancı maddeleri temizleyen elemandır?",
+          "category": "trafik",
+          "options": {
+            "C": "EVAP AÇIKLAMASI:",
+            "A": "şağıdakilerden hangisi yakıt içerisindeki yabancı maddeleri temizleyen elemandır?",
+            "D": "istribütörün arızalanması",
+            "B": "ujilerin arızalanması"
+          },
+          "explanation": "",
+          "sourceUrl": "https://ehliyet-soru.com/test-1-haziran-2025-ehliyet-deneme-sinavi-968",
+          "scrapedAt": "2025-06-06T08:25:14.897Z",
+          "scrapingMethod": "enhanced_navigation",
+          "images": [
+            {
+              "src": "https://ehliyet-soru.com/images/q/406.webp",
+              "alt": "Yolun kamyon trafiğine kapalı olduğunu, yani kamyonların bu yola girmesinin yasak olduğunu gösterir. Bu işaret genellikle belirli bir ağırlığın üzerindeki kamyonlar için geçerlidir.",
+              "width": 239,
+              "height": 239,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q1_img1.webp",
+              "fileName": "enhanced_nav_q1_img1.webp"
+            },
+            {
+              "src": "https://ehliyet-soru.com/images/q/45.webp",
+              "alt": "Taşıt trafiğine kapalı yol ve girişi olmayan yol işareti",
+              "width": 239,
+              "height": 133,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q1_img2.webp",
+              "fileName": "enhanced_nav_q1_img2.webp"
+            },
+            {
+              "src": "https://ehliyet-soru.com/images/q/146.webp",
+              "alt": "",
+              "width": 239,
+              "height": 176,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q1_img3.webp",
+              "fileName": "enhanced_nav_q1_img3.webp"
+            }
+          ],
+          "sourceFile": "enhanced_navigation_test/enhanced_nav_questions_2025-06-06.json",
+          "siteName": "ehliyet-soru.com",
+          "siteType": "navigation_based_single_question"
+        },
+        {
+          "id": "enhanced_nav_1749198318073_2",
+          "number": 2,
+          "question": "Trafikte kırmızı ışıkta beklerken ışık sarıya döner dönmez önündeki araca korna çalan, ışığın yeşile dönmesi için 1 saniye bile bekleyemeyen sürücünün bu davranışı için aşağıdakilerden hangisi söylenebilir?",
+          "category": "ilkyard",
+          "options": {
+            "A": "Saygılı",
+            "B": "Telaşsız",
+            "C": "Sorumlu",
+            "D": "Sabırsız"
+          },
+          "explanation": "",
+          "sourceUrl": "https://ehliyet-soru.com/test-1-haziran-2025-ehliyet-deneme-sinavi-969",
+          "scrapedAt": "2025-06-06T08:25:18.073Z",
+          "scrapingMethod": "enhanced_navigation",
+          "images": [
+            {
+              "src": "https://ehliyet-soru.com/images/q/146.webp",
+              "alt": "",
+              "width": 239,
+              "height": 176,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q2_img1.webp",
+              "fileName": "enhanced_nav_q2_img1.webp"
+            },
+            {
+              "src": "https://ehliyet-soru.com/images/q/633.webp",
+              "alt": "Öndeki taşıtı geçmenin yasak olduğunu gösterir. Trafik güvenliğini sağlamak için genellikle dar yollar, virajlar ve tehlikeli bölgelerde kullanılır.",
+              "width": 70,
+              "height": 70,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q2_img2.webp",
+              "fileName": "enhanced_nav_q2_img2.webp"
+            },
+            {
+              "src": "https://ehliyet-soru.com/images/q/635.webp",
+              "alt": "Trafik ışığı veya işaretçi olmayan kavşakları belirtir. Sürücüleri, bu tür kavşaklarda dikkatli olmaları ve geçiş önceliği kurallarına uymaları konusunda uyarır. Dönüş yapmayıp düz giden araçlara ve sağdan gelen araçlara yol verilmesi gerektiğini hatırlatır. ",
+              "width": 80,
+              "height": 70,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q2_img3.webp",
+              "fileName": "enhanced_nav_q2_img3.webp"
+            }
+          ],
+          "sourceFile": "enhanced_navigation_test/enhanced_nav_questions_2025-06-06.json",
+          "siteName": "ehliyet-soru.com",
+          "siteType": "navigation_based_single_question"
+        },
+        {
+          "id": "enhanced_nav_1749198321162_3",
+          "number": 3,
+          "question": "Buna göre trafik içinde hatalı davranış sergileyen bir sürücüye hangisinin yapılması, hem o sürücünün hem de trafikteki diğer sürücülerin kaza yapma yada olumsuz bir durum oluşturma riskini azaltır?",
+          "category": "trafik",
+          "options": {
+            "A": "Aşırı tepki gösterilmesi",
+            "B": "Kaba ve saldırgan davranılması",
+            "C": "Kızgın biçimde kornaya basılması",
+            "D": "Nezaket ve saygı çerçevesinde uyarılması"
+          },
+          "explanation": "",
+          "sourceUrl": "https://ehliyet-soru.com/test-1-haziran-2025-ehliyet-deneme-sinavi-970",
+          "scrapedAt": "2025-06-06T08:25:21.162Z",
+          "scrapingMethod": "enhanced_navigation",
+          "images": [
+            {
+              "src": "https://ehliyet-soru.com/images/q/684.webp",
+              "alt": "Okul geçidi, öğrencilerin okul çevresinde güvenli bir şekilde yol geçişi yapabilmesi için belirlenen alanı gösterir. Sürücüler, okul geçidi alanında hızlarını düşürmeli ve öğrencilere yol vermelidir.",
+              "width": 239,
+              "height": 210,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q3_img1.webp",
+              "fileName": "enhanced_nav_q3_img1.webp"
+            },
+            {
+              "src": "https://ehliyet-soru.com/images/q/121.webp",
+              "alt": "",
+              "width": 239,
+              "height": 144,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q3_img2.webp",
+              "fileName": "enhanced_nav_q3_img2.webp"
+            },
+            {
+              "src": "https://ehliyet-soru.com/images/q/225.webp",
+              "alt": "",
+              "width": 239,
+              "height": 80,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q3_img3.webp",
+              "fileName": "enhanced_nav_q3_img3.webp"
+            }
+          ],
+          "sourceFile": "enhanced_navigation_test/enhanced_nav_questions_2025-06-06.json",
+          "siteName": "ehliyet-soru.com",
+          "siteType": "navigation_based_single_question"
+        },
+        {
+          "id": "enhanced_nav_1749198324305_4",
+          "number": 4,
+          "question": "Yukarıdakilerden hangileri ilk yardımı yapacak kişide bulunmalıdır?",
+          "category": "trafikadab",
+          "options": {
+            "A": "zami (en yüksek) hız sınırını",
+            "C": "EVAP AÇIKLAMASI:",
+            "D": "önüş ışıklarını geç anlamında kullanmak",
+            "B": "uji kıvılcımı ile"
+          },
+          "explanation": "",
+          "sourceUrl": "https://ehliyet-soru.com/test-1-haziran-2025-ehliyet-deneme-sinavi-971",
+          "scrapedAt": "2025-06-06T08:25:24.305Z",
+          "scrapingMethod": "enhanced_navigation",
+          "images": [
+            {
+              "src": "https://ehliyet-soru.com/images/q/70.webp",
+              "alt": "",
+              "width": 166,
+              "height": 214,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q4_img1.webp",
+              "fileName": "enhanced_nav_q4_img1.webp"
+            },
+            {
+              "src": "https://ehliyet-soru.com/images/q/538.webp",
+              "alt": "Tali yolun ileride her iki yönden ana yola bağlandığını gösterir. Bu işaret, sürücülere her iki tali yoldan gelen araçların dikkat etmeleri gerektiğini ve ana yolda önceliklerinin bulunduğunu bildirir.",
+              "width": 80,
+              "height": 70,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q4_img2.webp",
+              "fileName": "enhanced_nav_q4_img2.webp"
+            },
+            {
+              "src": "https://ehliyet-soru.com/images/q/635.webp",
+              "alt": "Trafik ışığı veya işaretçi olmayan kavşakları belirtir. Sürücüleri, bu tür kavşaklarda dikkatli olmaları ve geçiş önceliği kurallarına uymaları konusunda uyarır. Dönüş yapmayıp düz giden araçlara ve sağdan gelen araçlara yol verilmesi gerektiğini hatırlatır. ",
+              "width": 80,
+              "height": 70,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q4_img3.webp",
+              "fileName": "enhanced_nav_q4_img3.webp"
+            }
+          ],
+          "sourceFile": "enhanced_navigation_test/enhanced_nav_questions_2025-06-06.json",
+          "siteName": "ehliyet-soru.com",
+          "siteType": "navigation_based_single_question"
+        },
+        {
+          "id": "enhanced_nav_1749198327399_5",
+          "number": 5,
+          "question": "Yaya yolu ayrılmamış kara yolunda, taşıt yolu kenarı ile şev başı veya hendek iç üst kenarı arasında kalan ve olağan olarak yayaların ve hayvanların kullanacağı, zorunlu hâllerde de araçların faydalanabileceği bölüme ne denir?",
+          "category": "trafikadab",
+          "options": {
+            "A": "Banket",
+            "B": "Şerit",
+            "C": "Platform",
+            "D": "Kavşak ortak alanı"
+          },
+          "explanation": "",
+          "sourceUrl": "https://ehliyet-soru.com/test-1-haziran-2025-ehliyet-deneme-sinavi-972",
+          "scrapedAt": "2025-06-06T08:25:27.399Z",
+          "scrapingMethod": "enhanced_navigation",
+          "images": [
+            {
+              "src": "https://ehliyet-soru.com/images/q/24.webp",
+              "alt": "",
+              "width": 239,
+              "height": 177,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q5_img1.webp",
+              "fileName": "enhanced_nav_q5_img1.webp"
+            },
+            {
+              "src": "https://ehliyet-soru.com/images/q/117.webp",
+              "alt": "",
+              "width": 239,
+              "height": 171,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q5_img2.webp",
+              "fileName": "enhanced_nav_q5_img2.webp"
+            },
+            {
+              "src": "https://ehliyet-soru.com/images/q/242.webp",
+              "alt": "",
+              "width": 236,
+              "height": 149,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q5_img3.webp",
+              "fileName": "enhanced_nav_q5_img3.webp"
+            }
+          ],
+          "sourceFile": "enhanced_navigation_test/enhanced_nav_questions_2025-06-06.json",
+          "siteName": "ehliyet-soru.com",
+          "siteType": "navigation_based_single_question"
+        },
+        {
+          "id": "enhanced_nav_1749198330495_6",
+          "number": 6,
+          "question": "Aracın kontak anahtarı motoru çalıştırmayacak şekilde açıldığında, gösterge panelinde bulunan şekildeki akü şarj ikaz ışığının yanması gerekir. Yanmıyorsa, arıza aşağıdakilerden hangisinde olabilir?",
+          "category": "trafik",
+          "options": {
+            "A": "Marş motorunda",
+            "B": "Soğutma fanında",
+            "C": "Motor devir göstergesinde",
+            "D": "Akü şarj ikaz ışığının ampülünde"
+          },
+          "explanation": "",
+          "sourceUrl": "https://ehliyet-soru.com/test-1-haziran-2025-ehliyet-deneme-sinavi-973",
+          "scrapedAt": "2025-06-06T08:25:30.495Z",
+          "scrapingMethod": "enhanced_navigation",
+          "images": [
+            {
+              "src": "https://ehliyet-soru.com/images/q/9.webp",
+              "alt": "",
+              "width": 239,
+              "height": 163,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q6_img1.webp",
+              "fileName": "enhanced_nav_q6_img1.webp"
+            },
+            {
+              "src": "https://ehliyet-soru.com/images/q/627.webp",
+              "alt": " Yolun üzerinde kasisler (yüksek tümsekler) bulunduğunu belirtir. Sürücüler hızlarını düşürmeli ve araçlarını sarsılmadan geçirebilmek için dikkatli olmalıdır. ",
+              "width": 80,
+              "height": 70,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q6_img2.webp",
+              "fileName": "enhanced_nav_q6_img2.webp"
+            },
+            {
+              "src": "https://ehliyet-soru.com/images/q/683.webp",
+              "alt": " Yolun kenarındaki toprak veya taş duvarların gevşek malzeme ile oluşturulduğunu belirtir. Bu tür alanlarda, şevin (yamaç, eğimli yüzey) kayma riski olduğu için sürücüler dikkatli olmalı ve yol kenarına fazla yaklaşmamalıdır. ",
+              "width": 80,
+              "height": 70,
+              "className": "soruImage",
+              "localPath": "enhanced_navigation_test/images/enhanced_nav_q6_img3.webp",
+              "fileName": "enhanced_nav_q6_img3.webp"
+            }
+          ],
+          "sourceFile": "enhanced_navigation_test/enhanced_nav_questions_2025-06-06.json",
+          "siteName": "ehliyet-soru.com",
+          "siteType": "navigation_based_single_question"
+        }
+      ],
+      "categories": {
+        "trafik": 3,
+        "ilkyard": 1,
+        "trafikadab": 2
+      },
+      "totalQuestions": 6,
+      "successRate": 6,
+      "avgOptionsPerQuestion": 4
+    }
+  },
+  "duplicates": [
+    {
+      "signature": "bu bilgiye göre kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur_4",
+      "count": 10,
+      "questions": [
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_1",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "originalIndex": 0
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_2",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "originalIndex": 1
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_3",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "originalIndex": 2
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_4",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "originalIndex": 3
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_5",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "originalIndex": 4
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_6",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "originalIndex": 5
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_7",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "originalIndex": 6
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_8",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "originalIndex": 7
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_9",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Tarım araçları",
+            "B": "Toplu taşıma araçları",
+            "C": "Gümrük muhafaza araçları",
+            "D": "Yaralı ve acil hasta taşıyan araçlar"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "originalIndex": 8
+        },
+        {
+          "id": "ehliyetsinavihazirlik_1749198077834_10",
+          "question": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+          "options": {
+            "A": "Karşı taraf ikazda bulunmazsa uzun farla devam etmek",
+            "B": "Araç hızını, herhangi bir tehlike anında, kolayca durulabilecek hıza getirmek",
+            "C": "Yolu daha iyi görmek için art arda kısa aralıklarla selektör yapmak",
+            "D": "Yolun sağından bir tehlike gelebileceği düşünülerek iyice sola yanaşmak"
+          },
+          "category": "unknown",
+          "explanation": "",
+          "sourceUrl": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-haziran-sorulari-1.html",
+          "scrapedAt": "2025-06-06T08:21:17.834Z",
+          "sourceFile": "ehliyetsinavihazirlik_scraper_test/ehliyetsinavihazirlik_questions_2025-06-06.json",
+          "siteName": "ehliyetsinavihazirlik.com",
+          "siteType": "single_page_multi_question",
+          "originalIndex": 9
+        }
+      ]
+    }
+  ],
+  "quality_metrics": {
+    "avg_question_length": 94.25531914893617,
+    "avg_options_per_question": 4,
+    "questions_with_images": 6,
+    "difficulty_distribution": {
+      "easy": 36,
+      "medium": 9,
+      "hard": 2
+    }
+  }
+}

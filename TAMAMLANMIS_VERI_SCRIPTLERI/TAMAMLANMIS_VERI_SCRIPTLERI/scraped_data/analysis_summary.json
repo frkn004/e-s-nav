@@ -1,0 +1,57 @@
+{
+  "total_analyzed": 10,
+  "total_cost": "$0.0090",
+  "difficulty_distribution": {
+    "kolay": 10
+  },
+  "quality_distribution": {
+    "low (1-5)": 0,
+    "medium (6-7)": 4,
+    "high (8-10)": 6
+  },
+  "top_quality_questions": [
+    {
+      "category": "motorbilgisi",
+      "question": "Ani hızlanmalar yapılması Araç lastiklerinin eskimesi Hava filtresinin değiştirilmesi Yukarıdakilerd...",
+      "score": 9,
+      "correct_answer": "B"
+    },
+    {
+      "category": "trafik",
+      "question": "Şekildeki trafik işaretinin anlamı nedir?...",
+      "score": 9,
+      "correct_answer": "D"
+    },
+    {
+      "category": "trafik",
+      "question": "Yerleşim birimleri dışındaki kara yollarında geceleri seyrederken aşağıdaki durumların hangisinde uz...",
+      "score": 9,
+      "correct_answer": "D"
+    },
+    {
+      "category": "motorbilgisi",
+      "question": "Motoru çalıştırmak için uzun süre ve sıkça marş yapılması aşağıdakilerden hangisinin ömrünü kısaltır...",
+      "score": 9,
+      "correct_answer": "C"
+    },
+    {
+      "category": "motorbilgisi",
+      "question": "Motor çalışır durumda iken, aracın gösterge panelinde bulunan şekildeki uyarı lambasının yanıyor olm...",
+      "score": 9,
+      "correct_answer": "A"
+    }
+  ],
+  "improvement_suggestions": [
+    "Açıklamada 'sağdan gelen' ve 'soldan gelen' ifadeleri eklenmeli",
+    "Kavşak şeklinin tarif edilmesi faydalı olurdu",
+    "Geçiş hakkı kurallarının genel mantığı kısaca açıklanabilirdi",
+    "Açıklamada III. maddenin neden yanlış olduğu detaylandırılmalı",
+    "Yasal dayanak (Madde 78) belirtilmeli",
+    "İstisnai durumlara örnek verilebilir",
+    "Hava filtresinin temiz vs kirli görsel karşılaştırması eklenebilir",
+    "Lastik diş derinliği ölçümüne dair teknik detay verilebilir",
+    "Açıklamada işaretin resmi tanımına (TSE standartlarına) atıf yapılabilir.",
+    "Alternatif olarak 'Motosiklet Giremez' işaretiyle karıştırılabileceği uyarısı eklenebilir."
+  ],
+  "generated_at": "2025-06-05T16:43:57.197Z"
+}

@@ -1,0 +1,37 @@
+{
+  "extraction_session": {
+    "completed_at": "2025-06-06T08:00:50.192Z",
+    "total_questions": 27,
+    "target_goal": 50,
+    "success_rate": "54.0%",
+    "images_downloaded": 8503
+  },
+  "question_breakdown": {
+    "with_images": 27,
+    "without_images": 0,
+    "average_options": "4.0"
+  },
+  "sample_questions": [
+    {
+      "number": "3",
+      "question": "Aşağıdakilerden hangisinin otoyolda sürülmesi yasaktır?...",
+      "options_count": 4,
+      "has_images": true,
+      "source": "text_pattern"
+    },
+    {
+      "number": "5",
+      "question": "Aşağıdakilerden hangisi taşıt giremez işaretidir?...",
+      "options_count": 4,
+      "has_images": true,
+      "source": "text_pattern"
+    },
+    {
+      "number": "9",
+      "question": "İlk yardımcı, baş bölgesinden şiddetli darbe alan kazazedenin;\n\nsesli ve ağrılı uyarılara yanıt verm...",
+      "options_count": 4,
+      "has_images": true,
+      "source": "text_pattern"
+    }
+  ]
+}

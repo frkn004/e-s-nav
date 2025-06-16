@@ -1,0 +1,32 @@
+{
+  "pageId": "1.2",
+  "url": "https://ehliyetsinavihazirlik.com/index.php/ilk-yardim-sorulari.html",
+  "processed": true,
+  "timestamp": "2025-06-06T09:22:51.747Z",
+  "questionCount": 1,
+  "imageCount": 1,
+  "hasContent": true,
+  "title": "Çıkmış Ehliyet Sınavı İlk Yardım Soruları Çöz",
+  "data": {
+    "title": "Çıkmış Ehliyet Sınavı İlk Yardım Soruları Çöz",
+    "url": "https://ehliyetsinavihazirlik.com/index.php/ilk-yardim-sorulari.html",
+    "questions": [],
+    "images": [
+      {
+        "src": "https://ehliyetsinavihazirlik.com/templates/ehliyetsinavihazirl/images/designer/ehliyetlogo.webp",
+        "alt": "Ehliyet Sınavı Hazırlık",
+        "index": 1
+      }
+    ],
+    "metadata": {
+      "questionCount": 1,
+      "optionCount": 7,
+      "imageCount": 1,
+      "hasContent": true,
+      "contentLength": 5173,
+      "soruPatternCount": 0,
+      "questionMarkCount": 0,
+      "calculationMethod": "options_divided_by_4"
+    }
+  }
+}

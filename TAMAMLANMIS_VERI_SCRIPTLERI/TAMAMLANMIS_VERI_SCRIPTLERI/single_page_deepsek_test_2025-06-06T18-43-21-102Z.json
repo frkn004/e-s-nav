@@ -1,0 +1,57 @@
+{
+  "url": "https://ehliyetsinavihazirlik.com/index.php/e-sinavlar-mayis-sorulari-1.html",
+  "pageInfo": {
+    "questionCount": 50,
+    "optionCount": 200,
+    "imageCount": 19,
+    "images": [
+      "https://ehliyetsinavihazirlik.com/templates/ehliyetsinavihazirl/images/designer/ehliyetlogo.webp",
+      "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/24.JPG",
+      "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/50.JPG",
+      "https://ehliyetsinavihazirlik.com/images/sorular/29haziran2013ehliyetsorulari/soru34.jpg",
+      "https://ehliyetsinavihazirlik.com/images/10sinav10/soru104.gif",
+      "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/16.JPG",
+      "https://ehliyetsinavihazirlik.com/images/deneme/kural.jpg",
+      "https://ehliyetsinavihazirlik.com/images/23araliksorulari/27.png",
+      "https://ehliyetsinavihazirlik.com/images/sorular/2kasim2013ehliyetsorulari/soru28.jpg",
+      "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/soru_3.png",
+      "https://ehliyetsinavihazirlik.com/images/14may2016/s29.gif",
+      "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/17_a.JPG",
+      "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/17_b.JPG",
+      "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/17_c.JPG",
+      "https://ehliyetsinavihazirlik.com/images/animasyonlu_sorular/17_d.JPG",
+      "https://ehliyetsinavihazirlik.com/images/sorular/27haziran/soru24cevapa.jpg",
+      "https://ehliyetsinavihazirlik.com/images/sorular/27haziran/soru24cevapb.jpg",
+      "https://ehliyetsinavihazirlik.com/images/sorular/27haziran/soru24cevapc.jpg",
+      "https://ehliyetsinavihazirlik.com/images/sorular/27haziran/soru24cevapd.jpg"
+    ],
+    "pageTitle": "1 Mayıs 2025 Ehliyet Sınavı Hazırlık Soruları",
+    "contentLength": 15917
+  },
+  "extractedQuestions": [
+    {
+      "id": 1,
+      "text": "Görsele göre, Adana istikametine gitmek isteyen 1 numaralı araç sürücüsü hakkında hangisi söylenemez?",
+      "options": {
+        "A": "A şıkkı",
+        "B": "B şıkkı",
+        "C": "C şıkkı",
+        "D": "D şıkkı"
+      },
+      "correctAnswer": "A",
+      "hasImage": true,
+      "imageUrls": [
+        "https://ehliyetsinavihazirlik.com/templates/ehliyetsinavihazirl/images/designer/ehliyetlogo.webp"
+      ]
+    }
+  ],
+  "cost": 0.0009172800000000001,
+  "tokens": {
+    "input": 6184,
+    "output": 184,
+    "total": 6368
+  },
+  "processingTime": 13232,
+  "success": true,
+  "error": null
+}

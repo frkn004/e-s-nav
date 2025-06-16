@@ -1,0 +1,66 @@
+{
+  "TRAFİK KURALLARI": {
+    "total": 95,
+    "easy": 62,
+    "medium": 21,
+    "hard": 12,
+    "visual": 29,
+    "text": 66
+  },
+  "TRAFİK İŞARETLERİ": {
+    "total": 65,
+    "easy": 43,
+    "medium": 22,
+    "hard": 0,
+    "visual": 21,
+    "text": 44
+  },
+  "ARAÇ TEKNİĞİ": {
+    "total": 117,
+    "easy": 49,
+    "medium": 59,
+    "hard": 9,
+    "visual": 26,
+    "text": 91
+  },
+  "ARAÇ BAKIM": {
+    "total": 49,
+    "easy": 9,
+    "medium": 30,
+    "hard": 10,
+    "visual": 10,
+    "text": 39
+  },
+  "İLK YARDIM": {
+    "total": 86,
+    "easy": 10,
+    "medium": 46,
+    "hard": 30,
+    "visual": 17,
+    "text": 69
+  },
+  "YOL BİLGİSİ": {
+    "total": 52,
+    "easy": 1,
+    "medium": 31,
+    "hard": 20,
+    "visual": 15,
+    "text": 37
+  },
+  "SÜRÜCÜ PSİKOLOJİSİ": {
+    "total": 28,
+    "easy": 28,
+    "medium": 0,
+    "hard": 0,
+    "visual": 5,
+    "text": 23
+  },
+  "ÇEVRE VE GÜVENLİK": {
+    "total": 18,
+    "easy": 18,
+    "medium": 0,
+    "hard": 0,
+    "visual": 3,
+    "text": 15
+  }
+}

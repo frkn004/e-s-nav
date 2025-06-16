@@ -1,0 +1,625 @@
+[
+  {
+    "questionNumber": "4",
+    "category": "trafik",
+    "questionText": "Şekildeki kavşakta ilk geçiş hakkı sıralaması nasıl olmalıdır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "1 - 2 - 3"
+      },
+      {
+        "label": "B",
+        "text": "1 - 3 - 2"
+      },
+      {
+        "label": "C",
+        "text": "2 - 3 - 1"
+      },
+      {
+        "label": "D",
+        "text": "3 - 1 – 2"
+      }
+    ],
+    "explanation": "Kavşak içindeki araç öncelikli olduğu için ilk geçiş hakkı 2 numaralı aracındır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_0",
+    "ai_analysis": {
+      "difficulty": "kolay",
+      "quality_score": 7,
+      "sub_topics": [
+        "kavşak kuralları",
+        "geçiş hakkı",
+        "trafik önceliği"
+      ],
+      "correct_answer": "C",
+      "reasoning": "Doğru cevap C (2 - 3 - 1) çünkü kavşakta geçiş hakkı kurallarına göre; 1) Kavşak içindeki araç (2 numaralı) önceliklidir. 2) Sağdan gelen araç (3 numaralı) ikinci sıradadır. 3) Soldan gelen araç (1 numaralı) son geçiş hakkına sahiptir.",
+      "explanation_quality": "yeterli",
+      "study_tips": [
+        "Kavşaklarda geçiş hakkı sıralamasını ezberlemek yerine mantığını anlamaya çalışın",
+        "Kavşak içindeki aracın her zaman öncelikli olduğunu unutmayın",
+        "Sağdan gelen aracın soldakine göre önceliği olduğunu hatırlayın",
+        "Bu tür sorularda zihninizde kavşağı canlandırmaya çalışın"
+      ],
+      "improvements": [
+        "Açıklamada 'sağdan gelen' ve 'soldan gelen' ifadeleri eklenmeli",
+        "Kavşak şeklinin tarif edilmesi faydalı olurdu",
+        "Geçiş hakkı kurallarının genel mantığı kısaca açıklanabilirdi"
+      ]
+    },
+    "analysis_metadata": {
+      "analyzed_at": "2025-06-05T16:41:11.649Z",
+      "model": "deepseek-chat",
+      "cost": {
+        "prompt_tokens": 441,
+        "completion_tokens": 426,
+        "total_tokens": 867,
+        "prompt_tokens_details": {
+          "cached_tokens": 0
+        },
+        "prompt_cache_hit_tokens": 0,
+        "prompt_cache_miss_tokens": 441
+      }
+    }
+  },
+  {
+    "questionNumber": "5",
+    "category": "trafik",
+    "questionText": "Sürücü ve yolcuları araçta tutarak vücudun ileri-sağa-sola veya yukarı vurmasını önler. Kaza anında ölüm ve yaralanmaları en aza indirmek amacıyla sürücü ve yolcular tarafından kullanılır. Yerleşim yeri içinde ticari amaçla yolcu taşımacılığı yapan minibüs ile dolmuş otomobillerindeki yolcuların emniyet kemeri takması zorunlu değildir. Emniyet kemeri ve kullanımıyla ilgili olarak yukarıda verilenlerden hangileri doğrudur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "I ve II."
+      },
+      {
+        "label": "B",
+        "text": "I ve III."
+      },
+      {
+        "label": "C",
+        "text": "II ve III."
+      },
+      {
+        "label": "D",
+        "text": "I, II ve III."
+      }
+    ],
+    "explanation": "I- Doğru. Emniyet kemeri kaza anında sürücü ve yolcuların araç koltuğundan fırlamasını önler.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_1",
+    "ai_analysis": {
+      "difficulty": "kolay",
+      "quality_score": 7,
+      "sub_topics": [
+        "emniyet kemeri kullanımı",
+        "yolcu güvenliği",
+        "trafik kuralları"
+      ],
+      "correct_answer": "A",
+      "reasoning": "Doğru cevap A'dır (I ve II). Çünkü: I. ifade doğrudur (emniyet kemeri vücut hareketini önler), II. ifade de doğrudur (ölüm/yaralanmayı azaltma amacı vardır). III. ifade ise YANLIŞTIR, çünkü 2918 sayılı Karayolları Trafik Kanunu'na göre tüm araçlarda emniyet kemeri takma zorunluluğu vardır (istisnalar hariç).",
+      "explanation_quality": "orta",
+      "study_tips": [
+        "Emniyet kemeri mevzuatını (Kanun Madde 78) tekrar okuyun",
+        "Kaza anında emniyet kemerinin nasıl koruma sağladığını araştırın",
+        "İstisna durumları (hamileler, özel araçlar vb.) öğrenin"
+      ],
+      "improvements": [
+        "Açıklamada III. maddenin neden yanlış olduğu detaylandırılmalı",
+        "Yasal dayanak (Madde 78) belirtilmeli",
+        "İstisnai durumlara örnek verilebilir"
+      ]
+    },
+    "analysis_metadata": {
+      "analyzed_at": "2025-06-05T16:41:30.162Z",
+      "model": "deepseek-chat",
+      "cost": {
+        "prompt_tokens": 563,
+        "completion_tokens": 382,
+        "total_tokens": 945,
+        "prompt_tokens_details": {
+          "cached_tokens": 64
+        },
+        "prompt_cache_hit_tokens": 64,
+        "prompt_cache_miss_tokens": 499
+      }
+    }
+  },
+  {
+    "questionNumber": "6",
+    "category": "motorbilgisi",
+    "questionText": "Ani hızlanmalar yapılması Araç lastiklerinin eskimesi Hava filtresinin değiştirilmesi Yukarıdakilerden hangileri yakıt tüketiminin artmasına neden olur?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yalnız I"
+      },
+      {
+        "label": "B",
+        "text": "I ve II"
+      },
+      {
+        "label": "C",
+        "text": "II ve III"
+      },
+      {
+        "label": "D",
+        "text": "I, II ve III"
+      }
+    ],
+    "explanation": "Ani hızlanmalar, motorun daha fazla güç üretmesini gerektirir ve bu da daha fazla yakıt tüketimine neden olabilir. Ayrıca, eskimiş lastikler, aracın yuvarlanma direncini artırabilir ve bu da daha fazla yakıt tüketimine yol açabilir. Kirli hava filtresinin değiştirilmesi ise yakıt tüketimini olumlu yönde etkiler.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_2",
+    "ai_analysis": {
+      "difficulty": "kolay",
+      "quality_score": 9,
+      "sub_topics": [
+        "yakıt tüketimi faktörleri",
+        "araç bakımı",
+        "sürüş teknikleri"
+      ],
+      "correct_answer": "B",
+      "reasoning": "Doğru cevap B (I ve II) çünkü:\n1. Ani hızlanmalar (I) motorun daha fazla yakıt tüketmesine neden olur.\n2. Eskimiş lastikler (II) yol sürtünmesini artırarak yakıt tüketimini yükseltir.\n3. Hava filtresi değişimi (III) ise motor verimliliğini artıran bir bakım işlemidir, yakıt tüketimini azaltır.",
+      "explanation_quality": "çok iyi",
+      "study_tips": [
+        "Yakıt tasarrufu sağlayan sürüş tekniklerini öğrenin (ör: ani hızlanmalardan kaçınma)",
+        "Lastik basıncı ve diş derinliği kontrolünün önemini kavrayın",
+        "Periyodik bakımların yakıt verimine etkisini araştırın"
+      ],
+      "improvements": [
+        "Hava filtresinin temiz vs kirli görsel karşılaştırması eklenebilir",
+        "Lastik diş derinliği ölçümüne dair teknik detay verilebilir"
+      ]
+    },
+    "analysis_metadata": {
+      "analyzed_at": "2025-06-05T16:41:48.289Z",
+      "model": "deepseek-chat",
+      "cost": {
+        "prompt_tokens": 542,
+        "completion_tokens": 378,
+        "total_tokens": 920,
+        "prompt_tokens_details": {
+          "cached_tokens": 64
+        },
+        "prompt_cache_hit_tokens": 64,
+        "prompt_cache_miss_tokens": 478
+      }
+    }
+  },
+  {
+    "questionNumber": "12",
+    "category": "trafik",
+    "questionText": "Şekildeki trafik işaretinin anlamı nedir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Yaya giremez."
+      },
+      {
+        "label": "B",
+        "text": "Bisiklet giremez."
+      },
+      {
+        "label": "C",
+        "text": "At arabası giremez."
+      },
+      {
+        "label": "D",
+        "text": "Motorlu taşıt giremez."
+      }
+    ],
+    "explanation": "Şekildeki işaret yasağı bildirmektedir. Üzerinde yer alan otomobil ve motosiklet ise motorlu taşıt yasağını bildirir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_3",
+    "ai_analysis": {
+      "difficulty": "kolay",
+      "quality_score": 9,
+      "sub_topics": [
+        "trafik işaretleri",
+        "yol yasakları",
+        "trafik levhaları"
+      ],
+      "correct_answer": "D",
+      "reasoning": "Doğru cevap D çünkü şekildeki işaret, kırmızı daire içinde siyah bir otomobil ve motosiklet figürü bulunan 'Motorlu Taşıt Giremez' anlamına gelen trafik işaretidir. Bu işaret, motorlu taşıtların bu yola girmesinin yasak olduğunu belirtir.",
+      "explanation_quality": "çok iyi",
+      "study_tips": [
+        "Trafik işaretlerinin anlamlarını gruplayarak öğrenin (yasak, uyarı, bilgi işaretleri gibi).",
+        "Görsel hafızayı güçlendirmek için işaretleri çizimleriyle birlikte çalışın.",
+        "Benzer işaretleri karşılaştırarak (örneğin 'Bisiklet Giremez' vs 'Motorlu Taşıt Giremez') farkları pekiştirin."
+      ],
+      "improvements": [
+        "Açıklamada işaretin resmi tanımına (TSE standartlarına) atıf yapılabilir.",
+        "Alternatif olarak 'Motosiklet Giremez' işaretiyle karıştırılabileceği uyarısı eklenebilir."
+      ]
+    },
+    "analysis_metadata": {
+      "analyzed_at": "2025-06-05T16:42:07.340Z",
+      "model": "deepseek-chat",
+      "cost": {
+        "prompt_tokens": 425,
+        "completion_tokens": 393,
+        "total_tokens": 818,
+        "prompt_tokens_details": {
+          "cached_tokens": 64
+        },
+        "prompt_cache_hit_tokens": 64,
+        "prompt_cache_miss_tokens": 361
+      }
+    }
+  },
+  {
+    "questionNumber": "13",
+    "category": "trafik",
+    "questionText": "Araç sürücüleri, taşıt yolunun dar olduğu yerlerdeki karşılaşmalarda, aksini gösteren bir trafik işareti yoksa aşağıdakilerden hangisine geçiş hakkı vermek suretiyle geçiş kolaylığı sağlamak zorundadır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Otomobili süren otobüse"
+      },
+      {
+        "label": "B",
+        "text": "Motorsuz aracı süren motorlu araca"
+      },
+      {
+        "label": "C",
+        "text": "Motorlu aracı süren motorsuz araca"
+      },
+      {
+        "label": "D",
+        "text": "Minibüsü süren lastik tekerlekli traktöre"
+      }
+    ],
+    "explanation": "Araç sürücüleri, taşıt yolunun dar olduğu yerlerde karşılaşmalarda, aksini gösteren bir trafik işareti yoksa motorsuz aracı süren motorlu araca geçiş hakkı vermek zorundadır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_4",
+    "ai_analysis": {
+      "difficulty": "kolay",
+      "quality_score": 7,
+      "sub_topics": [
+        "geçiş hakkı kuralları",
+        "trafikte öncelik",
+        "dar yollarda karşılaşma"
+      ],
+      "correct_answer": "B",
+      "reasoning": "Doğru cevap B çünkü trafik kurallarına göre, dar yollarda karşılaşan araçlardan motorsuz aracı süren kişiye (bisiklet, at arabası gibi) motorlu araç sürücüsü geçiş hakkı vermelidir. Bu, güvenlik ve trafik akışı için temel bir kuraldır.",
+      "explanation_quality": "yeterli",
+      "study_tips": [
+        "Geçiş hakkı kurallarını tekrar edin",
+        "Motorsuz ve motorlu araç ayrımını iyi öğrenin",
+        "Dar yollarda geçiş önceliği senaryoları çalışın"
+      ],
+      "improvements": [
+        "Açıklamada 'motorsuz araç' örnekleri verilebilir",
+        "Karşılaşma durumunu görselle desteklemek faydalı olur"
+      ]
+    },
+    "analysis_metadata": {
+      "analyzed_at": "2025-06-05T16:42:25.156Z",
+      "model": "deepseek-chat",
+      "cost": {
+        "prompt_tokens": 551,
+        "completion_tokens": 316,
+        "total_tokens": 867,
+        "prompt_tokens_details": {
+          "cached_tokens": 64
+        },
+        "prompt_cache_hit_tokens": 64,
+        "prompt_cache_miss_tokens": 487
+      }
+    }
+  },
+  {
+    "questionNumber": "14",
+    "category": "trafik",
+    "questionText": "Yerleşim birimleri dışındaki kara yollarında geceleri seyrederken aşağıdaki durumların hangisinde uzağı gösteren ışıkların yakılması mecburidir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Karşılaşmalarda"
+      },
+      {
+        "label": "B",
+        "text": "Öndeki araç yakından izlenirken"
+      },
+      {
+        "label": "C",
+        "text": "Aydınlatmanın yeterli olduğu kesimlerde"
+      },
+      {
+        "label": "D",
+        "text": "Yeterince aydınlatılmamış tünellere girerken"
+      }
+    ],
+    "explanation": "Yerleşim birimleri dışındaki kara yollarında geceleri seyrederken, yeterince aydınlatılmamış tünellere girerken (D) uzağı gösteren farların yakılması mecburidir. Diğer seçeneklerde ise farklı kurallar geçerlidir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_5",
+    "ai_analysis": {
+      "difficulty": "kolay",
+      "quality_score": 9,
+      "sub_topics": [
+        "gece sürüş kuralları",
+        "far kullanımı",
+        "tünel giriş kuralları"
+      ],
+      "correct_answer": "D",
+      "reasoning": "Doğru cevap D'dir çünkü Karayolları Trafik Yönetmeliği'nin 98. maddesine göre, yeterince aydınlatılmamış tünellere girerken uzağı gösteren ışıkların (uzun far) yakılması zorunludur. Bu, sürücünün görüş mesafesini artırmak ve güvenliği sağlamak içindir. Diğer seçeneklerde ise; A) Karşılaşmalarda kısa far kullanılır, B) Öndeki araç takip edilirken kısa far kullanılır, C) Aydınlatmanın yeterli olduğu yerlerde uzun far kullanılmaz.",
+      "explanation_quality": "çok iyi",
+      "study_tips": [
+        "Gece sürüşü ve far kullanım kurallarını tekrar edin",
+        "Tünel giriş/çıkış kurallarını öğrenin",
+        "Uzun far ve kısa far kullanım senaryolarını karşılaştırın"
+      ],
+      "improvements": [
+        "Madde numarası belirtilerek referans güçlendirilebilir",
+        "Tünel girişinde far kullanımının önemini vurgulayan bir görsel eklenebilir"
+      ]
+    },
+    "analysis_metadata": {
+      "analyzed_at": "2025-06-05T16:42:45.446Z",
+      "model": "deepseek-chat",
+      "cost": {
+        "prompt_tokens": 542,
+        "completion_tokens": 417,
+        "total_tokens": 959,
+        "prompt_tokens_details": {
+          "cached_tokens": 64
+        },
+        "prompt_cache_hit_tokens": 64,
+        "prompt_cache_miss_tokens": 478
+      }
+    }
+  },
+  {
+    "questionNumber": "15",
+    "category": "motorbilgisi",
+    "questionText": "Motoru çalıştırmak için uzun süre ve sıkça marş yapılması aşağıdakilerden hangisinin ömrünü kısaltır?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Fren pedalının"
+      },
+      {
+        "label": "B",
+        "text": "Far ampulünün"
+      },
+      {
+        "label": "C",
+        "text": "Marş motorunun"
+      },
+      {
+        "label": "D",
+        "text": "Silecek motorunun"
+      }
+    ],
+    "explanation": "Uzun süre ve sıkça marş yapıldığında, marş motoru aşırı ısınır ve içindeki dişliler aşınır. Bu da motorun ömrünü kısaltır.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_6",
+    "ai_analysis": {
+      "difficulty": "kolay",
+      "quality_score": 9,
+      "sub_topics": [
+        "marş sistemi",
+        "motor mekaniği",
+        "arç bakımı"
+      ],
+      "correct_answer": "C",
+      "reasoning": "Doğru cevap C çünkü marş motoru, motoru çalıştırmak için kullanılır. Uzun süreli ve sık marş yapmak, marş motorunun aşırı ısınmasına ve iç mekanizmasının (özellikle dişlilerin) aşınmasına neden olur. Bu da bileşenin ömrünü önemli ölçüde kısaltır.",
+      "explanation_quality": "çok iyi",
+      "study_tips": [
+        "Marş sisteminin çalışma prensibini öğren",
+        "Aşırı marş yapmanın etkilerini araştır",
+        "Diğer şıklardaki parçaların (fren, far, silecek) işlevlerini gözden geçir"
+      ],
+      "improvements": [
+        "Marş motorunun yapısını gösteren basit bir şema eklenebilir",
+        "Aşınma mekanizması kısaca açıklanabilir"
+      ]
+    },
+    "analysis_metadata": {
+      "analyzed_at": "2025-06-05T16:43:02.514Z",
+      "model": "deepseek-chat",
+      "cost": {
+        "prompt_tokens": 462,
+        "completion_tokens": 328,
+        "total_tokens": 790,
+        "prompt_tokens_details": {
+          "cached_tokens": 64
+        },
+        "prompt_cache_hit_tokens": 64,
+        "prompt_cache_miss_tokens": 398
+      }
+    }
+  },
+  {
+    "questionNumber": "16",
+    "category": "motorbilgisi",
+    "questionText": "Motor çalışır durumda iken, aracın gösterge panelinde bulunan şekildeki uyarı lambasının yanıyor olması neyi bildirir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Araç yakıtının bitmek üzere olduğunu"
+      },
+      {
+        "label": "B",
+        "text": "Araç kapılarından birinin açık kaldığını"
+      },
+      {
+        "label": "C",
+        "text": "Motor yağının değiştirilmesi gerektiğini"
+      },
+      {
+        "label": "D",
+        "text": "Ön ısıtma bujilerinin çalışmakta olduğunu"
+      }
+    ],
+    "explanation": "Uyarı lambası, benzin istasyonundaki yakıt pompasını işaret etmektedir. Bu ışığın yanması, yakıt deposunda kalan yakıt miktarının düşük seviyeye indiğini ve yakında yakıt almanız gerektiğini belirtir",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_7",
+    "ai_analysis": {
+      "difficulty": "kolay",
+      "quality_score": 9,
+      "sub_topics": [
+        "gösterge paneli uyarı lambaları",
+        "araç bakım işaretleri",
+        "yakıt sistemi"
+      ],
+      "correct_answer": "A",
+      "reasoning": "Doğru cevap A'dır çünkü gösterge panelinde yakıt pompası sembolü (benzin istasyonu işareti) şeklindeki uyarı lambası, aracın yakıt seviyesinin düşük olduğunu ve yakıt ikmali yapılması gerektiğini bildirir. Bu lamba genellikle depoda belirli bir seviyenin altında yakıt kaldığında yanar.",
+      "explanation_quality": "çok iyi",
+      "study_tips": [
+        "Araç gösterge panelindeki tüm uyarı lambalarının anlamlarını öğrenin.",
+        "Sürüş öncesi gösterge paneli kontrolünü alışkanlık haline getirin.",
+        "Yakıt seviyesi düşükken uzun yola çıkmaktan kaçının."
+      ],
+      "improvements": [
+        "Soru daha da netleştirilebilir: 'Şekildeki uyarı lambası' ifadesi yerine 'yakıt göstergesi uyarı lambası' gibi daha açıklayıcı bir ifade kullanılabilir.",
+        "Yanlış seçeneklerin neden yanlış olduğuna dair kısa açıklamalar eklenebilir."
+      ]
+    },
+    "analysis_metadata": {
+      "analyzed_at": "2025-06-05T16:43:21.887Z",
+      "model": "deepseek-chat",
+      "cost": {
+        "prompt_tokens": 533,
+        "completion_tokens": 410,
+        "total_tokens": 943,
+        "prompt_tokens_details": {
+          "cached_tokens": 64
+        },
+        "prompt_cache_hit_tokens": 64,
+        "prompt_cache_miss_tokens": 469
+      }
+    }
+  },
+  {
+    "questionNumber": "17",
+    "category": "trafik",
+    "questionText": "Zorunlu hâller dışında otoyollarda motorlu araçların asgari (en az) hız sınırı saatte kaç kilometredir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "15"
+      },
+      {
+        "label": "B",
+        "text": "35"
+      },
+      {
+        "label": "C",
+        "text": "40"
+      },
+      {
+        "label": "D",
+        "text": "50"
+      }
+    ],
+    "explanation": "Zorunlu hâller dışında otoyollarda motorlu araçların asgari hız sınırı saatte 40 kilometre olarak belirlenmiştir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_8",
+    "ai_analysis": {
+      "difficulty": "kolay",
+      "quality_score": 7,
+      "sub_topics": [
+        "otoyol kuralları",
+        "hız sınırları",
+        "trafik yönetmeliği"
+      ],
+      "correct_answer": "C",
+      "reasoning": "Doğru cevap C çünkü Karayolları Trafik Yönetmeliği'ne göre otoyollarda zorunlu haller dışında araçların asgari hız sınırı 40 km/s'tir. Bu kural, trafik akışını ve güvenliği sağlamak için konulmuştur.",
+      "explanation_quality": "yeterli",
+      "study_tips": [
+        "Otoyol kurallarını ve özel hükümlerini tekrar edin.",
+        "Hız sınırlarıyla ilgili diğer kuralları (ör: yerleşim yeri içi/dışı) karşılaştırarak çalışın.",
+        "Trafik işaretleriyle hız sınırlarının ilişkisini öğrenin."
+      ],
+      "improvements": [
+        "Açıklamada 'zorunlu haller' ifadesinin örneklerle desteklenmesi (arızalanma, acil durumlar vb.)",
+        "Yanlış seçeneklerin neden hatalı olduğuna dair kısa bilgi eklenebilir."
+      ]
+    },
+    "analysis_metadata": {
+      "analyzed_at": "2025-06-05T16:43:38.576Z",
+      "model": "deepseek-chat",
+      "cost": {
+        "prompt_tokens": 434,
+        "completion_tokens": 355,
+        "total_tokens": 789,
+        "prompt_tokens_details": {
+          "cached_tokens": 64
+        },
+        "prompt_cache_hit_tokens": 64,
+        "prompt_cache_miss_tokens": 370
+      }
+    }
+  },
+  {
+    "questionNumber": "18",
+    "category": "trafik",
+    "questionText": "Aşağıdakilerden hangisi, duraklanan veya park edilen yerden çıkan araç sürücüsünün uyması gereken kurallardan biri değildir?",
+    "options": [
+      {
+        "label": "A",
+        "text": "Işıkla veya kolla çıkış işareti vermesi"
+      },
+      {
+        "label": "B",
+        "text": "Aracını ve aracının etrafını kontrol etmesi"
+      },
+      {
+        "label": "C",
+        "text": "Yoldan geçen araç sürücülerini ikaz edip yavaşlatması"
+      },
+      {
+        "label": "D",
+        "text": "Sakıncalı bir durum olmadığında manevraya başlaması"
+      }
+    ],
+    "explanation": "Soruda altı çizili \"değildir\" ifadesine dikkat edilmelidir.",
+    "sourceUrl": "https://ehliyet-soru.com/test-1-mayis-2025-ehliyet-deneme-sinavi-937",
+    "scrapedAt": "2025-06-05T16:39:10.766Z",
+    "id": "ehliyet_soru_1749141550768_9",
+    "ai_analysis": {
+      "difficulty": "kolay",
+      "quality_score": 9,
+      "sub_topics": [
+        "duraklama ve park etme kuralları",
+        "trafikte güvenlik önlemleri",
+        "manevra kuralları"
+      ],
+      "correct_answer": "C",
+      "reasoning": "Doğru cevap C seçeneğidir çünkü trafik kurallarına göre, duraklanan veya park edilen yerden çıkarken diğer araçları yavaşlatmak veya durdurmak sürücünün sorumluluğunda değildir. Aksine, sürücü kendi manevrasını güvenli bir şekilde yapmakla yükümlüdür. A, B ve D seçenekleri ise sürücünün uyması gereken doğru kurallardır.",
+      "explanation_quality": "çok iyi",
+      "study_tips": [
+        "Duraklama ve park etme kurallarını tekrar gözden geçirin.",
+        "Trafikte güvenli manevra yapma tekniklerini öğrenin.",
+        "Benzer sorular çözerek bilginizi pekiştirin."
+      ],
+      "improvements": [
+        "Açıklamada 'değildir' vurgusunu daha belirgin hale getirmek için renkli veya kalın yazı tipi kullanılabilir.",
+        "Her seçeneğin neden doğru/yanlış olduğuna dair kısa açıklamalar eklenebilir."
+      ]
+    },
+    "analysis_metadata": {
+      "analyzed_at": "2025-06-05T16:43:56.191Z",
+      "model": "deepseek-chat",
+      "cost": {
+        "prompt_tokens": 487,
+        "completion_tokens": 393,
+        "total_tokens": 880,
+        "prompt_tokens_details": {
+          "cached_tokens": 64
+        },
+        "prompt_cache_hit_tokens": 64,
+        "prompt_cache_miss_tokens": 423
+      }
+    }
+  }
+]

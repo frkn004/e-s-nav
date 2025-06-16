@@ -1,0 +1,1099 @@
+[
+  {
+    "id": "clean_1749198770572_1",
+    "content": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Tarım araçları",
+        "B": "Toplu taşıma araçları",
+        "C": "Gümrük muhafaza araçları",
+        "D": "Yaralı ve acil hasta taşıyan araçlar"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy",
+        "regulation"
+      ],
+      "embedding_text": "Bu bilgiye göre, kısa farların kullanılması gerektiğinde hangisini yapmak doğru olur? Tarım araçları Toplu taşıma araçları Gümrük muhafaza araçları Yaralı ve acil hasta taşıyan araçlar"
+    }
+  },
+  {
+    "id": "clean_1749198770572_2",
+    "content": "Taşıt yolu üzerine çizilen şekildeki yazı neyi bildirmektedir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Işıklara 50 m kaldığını",
+        "B": "Asgari (en az) hız sınırını",
+        "C": "Azami (en yüksek) hız sınırını",
+        "D": "Öndeki araca 50 m’den fazla yaklaşılmamasını"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy",
+        "visual"
+      ],
+      "embedding_text": "Taşıt yolu üzerine çizilen şekildeki yazı neyi bildirmektedir? Işıklara 50 m kaldığını Asgari (en az) hız sınırını Azami (en yüksek) hız sınırını Öndeki araca 50 m’den fazla yaklaşılmamasını"
+    }
+  },
+  {
+    "id": "clean_1749198770572_3",
+    "content": "Karşıdan gelen araçla karşılaşıldığında uzağı gösteren ışıkların yerine hangisi yakılmalıdır?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Yakını gösteren ışıklar",
+        "B": "Acil uyarı ışıkları",
+        "C": "Dönüş ışıkları",
+        "D": "Park ışıkları"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Karşıdan gelen araçla karşılaşıldığında uzağı gösteren ışıkların yerine hangisi yakılmalıdır? Yakını gösteren ışıklar Acil uyarı ışıkları Dönüş ışıkları Park ışıkları"
+    }
+  },
+  {
+    "id": "clean_1749198770572_4",
+    "content": "Aşağıdakilerden hangisi balanssız tekerleğin araç üzerindeki etkilerinden biridir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Motorun soğuması",
+        "B": "Direksiyonun titremesi",
+        "C": "Motor yakıtına yağ karışması",
+        "D": "Fren disk yüzeyinin soğuması"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Aşağıdakilerden hangisi balanssız tekerleğin araç üzerindeki etkilerinden biridir? Motorun soğuması Direksiyonun titremesi Motor yakıtına yağ karışması Fren disk yüzeyinin soğuması"
+    }
+  },
+  {
+    "id": "clean_1749198770572_5",
+    "content": "Buna göre aşağıdakilerden hangisi arızalı araç çekilirken uyulması gereken şartlardan biri değildir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Çekilen aracın ağırlığının, çeken aracın taşıma sınırından az olması",
+        "B": "Birbirine bağlanan iki araç arasındaki açıklığın 10 metre olması",
+        "C": "Çekilen aracın, sürücü yönetiminde olması",
+        "D": "Her iki aracın da boş (yüksüz) olması"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Buna göre aşağıdakilerden hangisi arızalı araç çekilirken uyulması gereken şartlardan biri değildir? Çekilen aracın ağırlığının, çeken aracın taşıma sınırından az olması Birbirine bağlanan iki araç arasındaki açıklığın 10 metre olması Çekilen aracın, sürücü yönetiminde olması Her iki aracın da boş (yüksüz) olması"
+    }
+  },
+  {
+    "id": "clean_1749198770572_6",
+    "content": "Şekildeki trafik işareti neyi ifade eder?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Geçme yasağının sonu olduğunu",
+        "B": "Öndeki taşıtın geçilmesinin yasak olduğunu",
+        "C": "Bütün yasaklama ve kısıtlamaların sona erdiğini",
+        "D": "Yük taşıtlarının öndeki taşıtları geçmelerinin yasak olduğunu"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy",
+        "visual"
+      ],
+      "embedding_text": "Şekildeki trafik işareti neyi ifade eder? Geçme yasağının sonu olduğunu Öndeki taşıtın geçilmesinin yasak olduğunu Bütün yasaklama ve kısıtlamaların sona erdiğini Yük taşıtlarının öndeki taşıtları geçmelerinin yasak olduğunu"
+    }
+  },
+  {
+    "id": "clean_1749198770572_7",
+    "content": "Bu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Sırtüstü yatış",
+        "B": "Yarı oturuş",
+        "C": "Koma",
+        "D": "Şok"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Bu belirtilere göre, ilk yardımcının kazazedeye hangi pozisyonu vermesi doğrudur? Sırtüstü yatış Yarı oturuş Koma Şok"
+    }
+  },
+  {
+    "id": "clean_1749198770572_8",
+    "content": "Şekildeki kavşakta ilk geçiş hakkı sıralaması nasıl olmalıdır?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "1 - 2 - 3",
+        "B": "1 - 3 - 2",
+        "C": "2 - 3 - 1",
+        "D": "3 - 1 – 2"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy",
+        "visual"
+      ],
+      "embedding_text": "Şekildeki kavşakta ilk geçiş hakkı sıralaması nasıl olmalıdır? 1 - 2 - 3 1 - 3 - 2 2 - 3 - 1 3 - 1 – 2"
+    }
+  },
+  {
+    "id": "clean_1749198770572_9",
+    "content": "Motor çok sıcak iken radyatöre soğuk su konulması aşağıdakilerden hangisine sebep olur?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Motorun stop etmesine",
+        "B": "Motor gücünün artmasına",
+        "C": "Motor bloğunun çatlamasına",
+        "D": "Motor sıcaklığının artmasına"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Motor çok sıcak iken radyatöre soğuk su konulması aşağıdakilerden hangisine sebep olur? Motorun stop etmesine Motor gücünün artmasına Motor bloğunun çatlamasına Motor sıcaklığının artmasına"
+    }
+  },
+  {
+    "id": "clean_1749198770572_10",
+    "content": "Yönetmeliğe göre işitme cihazı ile belirli bir duyma yeterliliğine ulaşan sürücü, aşağıdaki sürücü belgelerinden hangisi ile araç kullanabilir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "G sınıfı",
+        "B": "A1 ve A2 sınıfı",
+        "C": "C, CE ve D sınıfı",
+        "D": "B sınıfı (hususi araç)"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Yönetmeliğe göre işitme cihazı ile belirli bir duyma yeterliliğine ulaşan sürücü, aşağıdaki sürücü belgelerinden hangisi ile araç kullanabilir? G sınıfı A1 ve A2 sınıfı C, CE ve D sınıfı B sınıfı (hususi araç)"
+    }
+  },
+  {
+    "id": "clean_1749198770572_11",
+    "content": "Görsele göre, hangisinin yapılması doğru olur?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "1 numaralı aracın 2 numaralı araca geçme önceliği vermesi",
+        "B": "1 numaralı aracın, 2 numaralı araca geçiş kolaylığı sağlamak için, solundaki şeride geçmesi",
+        "C": "2 numaralı aracın, 1 numaralı araç geçtikten sonra sol şeride geçmesi",
+        "D": "2 numaralı aracın, 1 numaralı aracı uyararak yavaşlatması"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy",
+        "visual"
+      ],
+      "embedding_text": "Görsele göre, hangisinin yapılması doğru olur? 1 numaralı aracın 2 numaralı araca geçme önceliği vermesi 1 numaralı aracın, 2 numaralı araca geçiş kolaylığı sağlamak için, solundaki şeride geçmesi 2 numaralı aracın, 1 numaralı araç geçtikten sonra sol şeride geçmesi 2 numaralı aracın, 1 numaralı aracı uyararak yavaşlatması"
+    }
+  },
+  {
+    "id": "clean_1749198770572_12",
+    "content": "Şekildeki trafik işaretinin anlamı nedir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Taşıt giremez",
+        "B": "Motosiklet giremez",
+        "C": "Taşıt trafiğine kapalı yol",
+        "D": "Motosiklet hariç motorlu taşıt trafiğine kapalı yol"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy",
+        "visual"
+      ],
+      "embedding_text": "Şekildeki trafik işaretinin anlamı nedir? Taşıt giremez Motosiklet giremez Taşıt trafiğine kapalı yol Motosiklet hariç motorlu taşıt trafiğine kapalı yol"
+    }
+  },
+  {
+    "id": "clean_1749198770572_13",
+    "content": "Aşağıdakilerden hangisi, şok durumundaki kazazedeye yapılması gereken ilk yardım uygulamalarındandır?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "medium",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Yarı oturur pozisyon verilmesi",
+        "B": "Fiziksel hareketinin artırılması",
+        "C": "Hava yolu açıklığının sağlanması",
+        "D": "Soğuk suyla ıslatılmış çarşafla üzerinin örtülmesi"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "medium"
+      ],
+      "embedding_text": "Aşağıdakilerden hangisi, şok durumundaki kazazedeye yapılması gereken ilk yardım uygulamalarındandır? Yarı oturur pozisyon verilmesi Fiziksel hareketinin artırılması Hava yolu açıklığının sağlanması Soğuk suyla ıslatılmış çarşafla üzerinin örtülmesi"
+    }
+  },
+  {
+    "id": "clean_1749198770573_14",
+    "content": "Aşağıdakilerden hangisi çıkıklarda yapılan ilk yardım uygulamalarındandır?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Kazazedenin hareket ettirilmesi",
+        "B": "Çıkığın yerine oturtulmaya çalışılması",
+        "C": "Çıkığın alt bölgesindeki deri rengi, ısı ve nabzın kontrol edilmesi",
+        "D": "Eklemin düzeltildikten sonra tespit edilmesi"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Aşağıdakilerden hangisi çıkıklarda yapılan ilk yardım uygulamalarındandır? Kazazedenin hareket ettirilmesi Çıkığın yerine oturtulmaya çalışılması Çıkığın alt bölgesindeki deri rengi, ısı ve nabzın kontrol edilmesi Eklemin düzeltildikten sonra tespit edilmesi"
+    }
+  },
+  {
+    "id": "clean_1749198770573_15",
+    "content": "Şekle göre aşağıdaki ifadelerden hangisi yanlıştır?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "1 ve 2 numaralı taşıtlar ana yoldadır.",
+        "B": "3 ve 4 numaralı taşıtlar tali yoldadır.",
+        "C": "3 ve 4 numaralı taşıtlar bölünmüş kara yolundadır.",
+        "D": "1, 2, 3 ve 4 numaralı taşıtlar iki yönlü kara yolundadır."
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Şekle göre aşağıdaki ifadelerden hangisi yanlıştır? 1 ve 2 numaralı taşıtlar ana yoldadır. 3 ve 4 numaralı taşıtlar tali yoldadır. 3 ve 4 numaralı taşıtlar bölünmüş kara yolundadır. 1, 2, 3 ve 4 numaralı taşıtlar iki yönlü kara yolundadır."
+    }
+  },
+  {
+    "id": "clean_1749198770573_16",
+    "content": "Aşağıdaki durumların hangisinde, sürüş esnasında refleksler zayıflamış olacağından direksiyon başındaki tepkiler çok daha yavaş gerçekleşecektir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Sürüş öncesi alkollü içki içilmişse",
+        "B": "Sürüş öncesi düzenli ve yeterli uyku uyunmuşsa",
+        "C": "Molalarda kan dolaşımını artıran hareketler yapılmışsa",
+        "D": "Temiz hava için aracın camları kısa süreliğine açılmışsa"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Aşağıdaki durumların hangisinde, sürüş esnasında refleksler zayıflamış olacağından direksiyon başındaki tepkiler çok daha yavaş gerçekleşecektir? Sürüş öncesi alkollü içki içilmişse Sürüş öncesi düzenli ve yeterli uyku uyunmuşsa Molalarda kan dolaşımını artıran hareketler yapılmışsa Temiz hava için aracın camları kısa süreliğine açılmışsa"
+    }
+  },
+  {
+    "id": "clean_1749198770573_17",
+    "content": "Yakıtı doğrudan doğruya silindirler içersinde yakan ve üretilen ısı enerjisini pistonbiyel mekanizması ile krank miline ileten motorlara ne ad verilir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "hard",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Marş motoru",
+        "B": "Elektrik motoru",
+        "C": "İçten yanmalı motor",
+        "D": "Dıştan yanmalı motor"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "hard"
+      ],
+      "embedding_text": "Yakıtı doğrudan doğruya silindirler içersinde yakan ve üretilen ısı enerjisini pistonbiyel mekanizması ile krank miline ileten motorlara ne ad verilir? Marş motoru Elektrik motoru İçten yanmalı motor Dıştan yanmalı motor"
+    }
+  },
+  {
+    "id": "clean_1749198770573_18",
+    "content": "Hangisini yapmak çevrenin temiz kalmasına katkı sağlar?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Gereksiz yere korna çalmak",
+        "B": "Seyahat esnasında, yiyecek atıklarını otoyol kenarlarına bırakmak",
+        "C": "Egzoz emisyon ölçümünü geciktirmek",
+        "D": "Araç bakımlarını zamanında yaptırmak"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy",
+        "regulation"
+      ],
+      "embedding_text": "Hangisini yapmak çevrenin temiz kalmasına katkı sağlar? Gereksiz yere korna çalmak Seyahat esnasında, yiyecek atıklarını otoyol kenarlarına bırakmak Egzoz emisyon ölçümünü geciktirmek Araç bakımlarını zamanında yaptırmak"
+    }
+  },
+  {
+    "id": "clean_1749198770573_19",
+    "content": "Bir sürücünün, emniyet kemeri kullanmaya özen göstermesinin esas nedeni ne olmalıdır?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Trafik kazalarında koruyucu önlem olarak görmek",
+        "B": "Araçta bulunan uyarı sistemini susturmak",
+        "C": "Denetimlerde problem yaşamamak",
+        "D": "Ceza almaktan çekinmek"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Bir sürücünün, emniyet kemeri kullanmaya özen göstermesinin esas nedeni ne olmalıdır? Trafik kazalarında koruyucu önlem olarak görmek Araçta bulunan uyarı sistemini susturmak Denetimlerde problem yaşamamak Ceza almaktan çekinmek"
+    }
+  },
+  {
+    "id": "clean_1749198770573_20",
+    "content": "Aracın periyodik bakımı yapılırken aşağıdakilerden hangisinin değiştirilmemesi araç motorunun çalışmasını olumsuz etkiler?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "medium",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Fren balatasının",
+        "B": "Polen filtresinin",
+        "C": "Yakıt filtresinin",
+        "D": "Geri vites müşirinin"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "medium"
+      ],
+      "embedding_text": "Aracın periyodik bakımı yapılırken aşağıdakilerden hangisinin değiştirilmemesi araç motorunun çalışmasını olumsuz etkiler? Fren balatasının Polen filtresinin Yakıt filtresinin Geri vites müşirinin"
+    }
+  },
+  {
+    "id": "clean_1749198770573_21",
+    "content": "Fan motoru çalıştığı hâlde motor suyunun soğumamasının sebebi aşağıdakilerden hangisidir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Radyatör petekleri tıkanmıştır.",
+        "B": "Araç lastiklerinin havası fazladır.",
+        "C": "Soğutma suyunda antifriz vardır.",
+        "D": "Soğutma sisteminde termostat yoktur."
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Fan motoru çalıştığı hâlde motor suyunun soğumamasının sebebi aşağıdakilerden hangisidir? Radyatör petekleri tıkanmıştır. Araç lastiklerinin havası fazladır. Soğutma suyunda antifriz vardır. Soğutma sisteminde termostat yoktur."
+    }
+  },
+  {
+    "id": "clean_1749198770573_22",
+    "content": "Videoya göre sürücü nasıl davranmalıdır?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Sabit hızla aynı şeritte yoluna devam etmeli",
+        "B": "Sol şeride geçip derhal servise gitmeli",
+        "C": "Yavaşlayıp sağ şeritten yoluna devam etmeli",
+        "D": "Trafik kurallarına uygun olarak derhal durmalı"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Videoya göre sürücü nasıl davranmalıdır? Sabit hızla aynı şeritte yoluna devam etmeli Sol şeride geçip derhal servise gitmeli Yavaşlayıp sağ şeritten yoluna devam etmeli Trafik kurallarına uygun olarak derhal durmalı"
+    }
+  },
+  {
+    "id": "clean_1749198770573_23",
+    "content": "Yetişkinlere yapılan dış kalp masajı uygulamasıyla ilgili olarak verilenlerden hangisi doğrudur?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Ellerin parmakları göğüs kafesiyle temas ettirilmeden, dirsekler bükülmeden ve göğüs kemiği üzerine vücuda dik olacak şekilde tutulması",
+        "B": "Göğüs kemiğinin alt ve üst ucunun tespit edilerek üst yarısına, orta ve yüzük parmağının dik olarak yerleştirilmesi",
+        "C": "Uygulama hızının dakikada 30 bası olacakşekilde ayarlanması",
+        "D": "Göğüs kemiği 3 cm aşağı inecek şekildebası uygulanması"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Yetişkinlere yapılan dış kalp masajı uygulamasıyla ilgili olarak verilenlerden hangisi doğrudur? Ellerin parmakları göğüs kafesiyle temas ettirilmeden, dirsekler bükülmeden ve göğüs kemiği üzerine vücuda dik olacak şekilde tutulması Göğüs kemiğinin alt ve üst ucunun tespit edilerek üst yarısına, orta ve yüzük parmağının dik olarak yerleştirilmesi Uygulama hızının dakikada 30 bası olacakşekilde ayarlanması Göğüs kemiği 3 cm aşağı inecek şekildebası uygulanması"
+    }
+  },
+  {
+    "id": "clean_1749198770573_24",
+    "content": "Aşağıdakilerden hangisi atardamar kanamalarına ait bir özelliktir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Küçük kabarcıklar şeklinde kanama olması",
+        "B": "Yüzeysel bir yaradan yayılarak, yavaş akması",
+        "C": "Koyu kırmızı renkteki kanın taşar biçimde akması",
+        "D": "Açık kırmızı renkteki kanın, kalp atımı ile eş zamanlı fışkırır tarzda akması"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Aşağıdakilerden hangisi atardamar kanamalarına ait bir özelliktir? Küçük kabarcıklar şeklinde kanama olması Yüzeysel bir yaradan yayılarak, yavaş akması Koyu kırmızı renkteki kanın taşar biçimde akması Açık kırmızı renkteki kanın, kalp atımı ile eş zamanlı fışkırır tarzda akması"
+    }
+  },
+  {
+    "id": "clean_1749198770573_25",
+    "content": "Aşağıdaki parçalardan hangisi arızalandığında motor yağında su, soğutma suyunda yağ olduğu gözlenir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Piston",
+        "B": "Kam mili",
+        "C": "Krank mili",
+        "D": "Silindir kapak contası"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Aşağıdaki parçalardan hangisi arızalandığında motor yağında su, soğutma suyunda yağ olduğu gözlenir? Piston Kam mili Krank mili Silindir kapak contası"
+    }
+  },
+  {
+    "id": "clean_1749198770573_26",
+    "content": "Hangisi, motor soğutma sisteminin elemanı değildir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Balata",
+        "B": "Su pompası",
+        "C": "Radyatör",
+        "D": "Termostat"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Hangisi, motor soğutma sisteminin elemanı değildir? Balata Su pompası Radyatör Termostat"
+    }
+  },
+  {
+    "id": "clean_1749198770573_27",
+    "content": "Motordaki yağ basıncını sürücüye bildiren gösterge aşağıdakilerden hangisidir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Yağ göstergesi",
+        "B": "Yakıt göstergesi",
+        "C": "Hararet göstergesi",
+        "D": "Motor devir göstergesi"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Motordaki yağ basıncını sürücüye bildiren gösterge aşağıdakilerden hangisidir? Yağ göstergesi Yakıt göstergesi Hararet göstergesi Motor devir göstergesi"
+    }
+  },
+  {
+    "id": "clean_1749198770573_28",
+    "content": "Yağ çubuğunun görevi aşağıdakilerden hangisidir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Antifriz seviyesini göstermek",
+        "B": "Elektrolit seviyesini göstermek",
+        "C": "Motor yağı seviyesini göstermek",
+        "D": "Soğutma suyu seviyesini göstermek"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Yağ çubuğunun görevi aşağıdakilerden hangisidir? Antifriz seviyesini göstermek Elektrolit seviyesini göstermek Motor yağı seviyesini göstermek Soğutma suyu seviyesini göstermek"
+    }
+  },
+  {
+    "id": "clean_1749198770573_29",
+    "content": "Aşağıdakilerden hangisi yakıt sisteminin parçası değildir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Yakıt pompası",
+        "B": "Enjektörler",
+        "C": "Endüksiyon bobini",
+        "D": "Hava filtresi"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Aşağıdakilerden hangisi yakıt sisteminin parçası değildir? Yakıt pompası Enjektörler Endüksiyon bobini Hava filtresi"
+    }
+  },
+  {
+    "id": "clean_1749198770573_30",
+    "content": "Aracın 2 saniyede gideceği yol uzunluğu, hangi mesafenin belirlenmesinde kullanılır?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Takip mesafesi",
+        "B": "Geçiş mesafesi",
+        "C": "İntikal mesafesi",
+        "D": "Görüş mesafesi"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy",
+        "speed_distance"
+      ],
+      "embedding_text": "Aracın 2 saniyede gideceği yol uzunluğu, hangi mesafenin belirlenmesinde kullanılır? Takip mesafesi Geçiş mesafesi İntikal mesafesi Görüş mesafesi"
+    }
+  },
+  {
+    "id": "clean_1749198770573_31",
+    "content": "Demir yolu (hemzemin) geçidinde aşağıdakilerden hangisinin yapılması yasaktır?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Bariyer açık ise dikkatli geçilmesi",
+        "B": "Bariyer kapalı ise durulması",
+        "C": "Öndeki aracın geçilmesi",
+        "D": "Hızın azaltılması"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy",
+        "regulation"
+      ],
+      "embedding_text": "Demir yolu (hemzemin) geçidinde aşağıdakilerden hangisinin yapılması yasaktır? Bariyer açık ise dikkatli geçilmesi Bariyer kapalı ise durulması Öndeki aracın geçilmesi Hızın azaltılması"
+    }
+  },
+  {
+    "id": "clean_1749198770573_32",
+    "content": "Araç park edildikten sonra aşağıdakilerden hangisini yapmak gerekir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Vitesi boşa almak",
+        "B": "El frenini çekmek",
+        "C": "Fren pedalına basmak",
+        "D": "Debriyaj pedalına basmak"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy",
+        "regulation",
+        "parking"
+      ],
+      "embedding_text": "Araç park edildikten sonra aşağıdakilerden hangisini yapmak gerekir? Vitesi boşa almak El frenini çekmek Fren pedalına basmak Debriyaj pedalına basmak"
+    }
+  },
+  {
+    "id": "clean_1749198770573_33",
+    "content": "Aracın kullanma kılavuzuna göre, belirli kilometre dolunca aşağıdaki parçalardan hangisi değiştirilir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Buji",
+        "B": "Manifold",
+        "C": "Karbüratör",
+        "D": "Teker jantı"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Aracın kullanma kılavuzuna göre, belirli kilometre dolunca aşağıdaki parçalardan hangisi değiştirilir? Buji Manifold Karbüratör Teker jantı"
+    }
+  },
+  {
+    "id": "clean_1749198770573_34",
+    "content": "Aşağıdakilerden hangisi solunum durmasına bağlı olarak dokuların oksijensiz kaldığını gösteren bir belirtidir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "medium",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Göz bebeklerinin küçülmesi",
+        "B": "Kişinin aktif ve huzursuz olması",
+        "C": "Yüzde kızarma ve vücut sıcaklığının artması",
+        "D": "Parmak uçları ve dudaklardan başlayıp yayılan morarma olması"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "medium",
+        "parking"
+      ],
+      "embedding_text": "Aşağıdakilerden hangisi solunum durmasına bağlı olarak dokuların oksijensiz kaldığını gösteren bir belirtidir? Göz bebeklerinin küçülmesi Kişinin aktif ve huzursuz olması Yüzde kızarma ve vücut sıcaklığının artması Parmak uçları ve dudaklardan başlayıp yayılan morarma olması"
+    }
+  },
+  {
+    "id": "clean_1749198770573_35",
+    "content": "Araç motorunun ilk çalıştırılması esnasında vites hangi konumda olmalıdır?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Boş",
+        "B": "1. vites",
+        "C": "2. vites",
+        "D": "3. vites"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Araç motorunun ilk çalıştırılması esnasında vites hangi konumda olmalıdır? Boş 1. vites 2. vites 3. vites"
+    }
+  },
+  {
+    "id": "clean_1749198770573_36",
+    "content": "Aşağıdakilerden hangisi motorun harareti yükseldiğinde yapılması gereken işlemlerdendir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Motorun üzerine su dökülmesi",
+        "B": "Klimanın, çalışıyorsa kapatılması",
+        "C": "Motorun stop edilerek soğuk su ilave edilmesi",
+        "D": "Motorun stop edilerek soğuk antifriz ilave edilmesi"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Aşağıdakilerden hangisi motorun harareti yükseldiğinde yapılması gereken işlemlerdendir? Motorun üzerine su dökülmesi Klimanın, çalışıyorsa kapatılması Motorun stop edilerek soğuk su ilave edilmesi Motorun stop edilerek soğuk antifriz ilave edilmesi"
+    }
+  },
+  {
+    "id": "clean_1749198770573_37",
+    "content": "Bebeklerde (0-12 ay) tek ilk yardımcı ile yapılan dış kalp masajı uygulanması ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "medium",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Göğüs ve sırt kısmının iki elin arasına alınarak sıkıştırılması",
+        "B": "Sağ elin yumruk hâline getirilerek göğüs merkezine vurulması",
+        "C": "Göğüs kemiği 6 cm aşağıya inecek şekilde basınç uygulanması",
+        "D": "Bir elin orta ve yüzük parmağı ile göğüs kemiği 4 cm aşağıya inecek şekilde basınç uygulanması"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "medium"
+      ],
+      "embedding_text": "Bebeklerde (0-12 ay) tek ilk yardımcı ile yapılan dış kalp masajı uygulanması ile ilgili olarak aşağıdakilerden hangisi doğrudur? Göğüs ve sırt kısmının iki elin arasına alınarak sıkıştırılması Sağ elin yumruk hâline getirilerek göğüs merkezine vurulması Göğüs kemiği 6 cm aşağıya inecek şekilde basınç uygulanması Bir elin orta ve yüzük parmağı ile göğüs kemiği 4 cm aşağıya inecek şekilde basınç uygulanması"
+    }
+  },
+  {
+    "id": "clean_1749198770573_38",
+    "content": "Verilenlerden hangileri trafik psikolojisinin hedeflerindendir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Yalnız I",
+        "B": "I ve II",
+        "C": "II ve III",
+        "D": "I, II ve III"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy"
+      ],
+      "embedding_text": "Verilenlerden hangileri trafik psikolojisinin hedeflerindendir? Yalnız I I ve II II ve III I, II ve III"
+    }
+  },
+  {
+    "id": "clean_1749198770573_39",
+    "content": "Araçların güvenli bir şekilde yavaşlamasını, durmasını ve sabitlenmesini sağlayan sistem aşağıdakilerden hangisidir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "medium",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Fren sistemi",
+        "B": "Marş sistemi",
+        "C": "Ateşleme sistemi",
+        "D": "Süspansiyon sistemi"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "medium",
+        "visual",
+        "parking"
+      ],
+      "embedding_text": "Araçların güvenli bir şekilde yavaşlamasını, durmasını ve sabitlenmesini sağlayan sistem aşağıdakilerden hangisidir? Fren sistemi Marş sistemi Ateşleme sistemi Süspansiyon sistemi"
+    }
+  },
+  {
+    "id": "clean_1749198770573_40",
+    "content": "Görseldeki gibi bir karşılaşmada, 2 numaralı araç sürücüsü ne yapmalıdır?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "easy",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Geçiş önceliğini kendisi kullanmalı",
+        "B": "Hızlanıp köprüye 1 numaralı araçtan önce girmeli",
+        "C": "Geçiş önceliğini 1 numaralı araca vermeli",
+        "D": "1 numaralı aracın daralan yol bölümüne girmemesi için selektör yaparak uyarmalı"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "easy",
+        "visual"
+      ],
+      "embedding_text": "Görseldeki gibi bir karşılaşmada, 2 numaralı araç sürücüsü ne yapmalıdır? Geçiş önceliğini kendisi kullanmalı Hızlanıp köprüye 1 numaralı araçtan önce girmeli Geçiş önceliğini 1 numaralı araca vermeli 1 numaralı aracın daralan yol bölümüne girmemesi için selektör yaparak uyarmalı"
+    }
+  },
+  {
+    "id": "clean_1749198770573_41",
+    "content": "Aşağıdaki kanama türlerinden hangisinde, kan kaybı diğerlerine nazaran fazla olduğu için daha kısa sürede hayati tehlike meydana gelir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "unknown",
+      "difficulty": "medium",
+      "source": "ehliyetsinavihazirlik.com",
+      "options": {
+        "A": "Burun kanamaları",
+        "B": "Atardamar kanamaları",
+        "C": "Kılcal damar kanamaları",
+        "D": "Toplardamar kanamaları"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "unknown",
+        "medium"
+      ],
+      "embedding_text": "Aşağıdaki kanama türlerinden hangisinde, kan kaybı diğerlerine nazaran fazla olduğu için daha kısa sürede hayati tehlike meydana gelir? Burun kanamaları Atardamar kanamaları Kılcal damar kanamaları Toplardamar kanamaları"
+    }
+  },
+  {
+    "id": "clean_1749198770573_42",
+    "content": "Aşağıdakilerden hangisi yakıt içerisindeki yabancı maddeleri temizleyen elemandır?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "trafik",
+      "difficulty": "easy",
+      "source": "ehliyet-soru.com",
+      "options": {
+        "C": "EVAP AÇIKLAMASI:",
+        "A": "şağıdakilerden hangisi yakıt içerisindeki yabancı maddeleri temizleyen elemandır?",
+        "D": "istribütörün arızalanması",
+        "B": "ujilerin arızalanması"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "trafik",
+        "easy"
+      ],
+      "embedding_text": "Aşağıdakilerden hangisi yakıt içerisindeki yabancı maddeleri temizleyen elemandır? EVAP AÇIKLAMASI: şağıdakilerden hangisi yakıt içerisindeki yabancı maddeleri temizleyen elemandır? istribütörün arızalanması ujilerin arızalanması"
+    }
+  },
+  {
+    "id": "clean_1749198770573_43",
+    "content": "Trafikte kırmızı ışıkta beklerken ışık sarıya döner dönmez önündeki araca korna çalan, ışığın yeşile dönmesi için 1 saniye bile bekleyemeyen sürücünün bu davranışı için aşağıdakilerden hangisi söylenebilir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "ilkyard",
+      "difficulty": "medium",
+      "source": "ehliyet-soru.com",
+      "options": {
+        "A": "Saygılı",
+        "B": "Telaşsız",
+        "C": "Sorumlu",
+        "D": "Sabırsız"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "ilkyard",
+        "medium"
+      ],
+      "embedding_text": "Trafikte kırmızı ışıkta beklerken ışık sarıya döner dönmez önündeki araca korna çalan, ışığın yeşile dönmesi için 1 saniye bile bekleyemeyen sürücünün bu davranışı için aşağıdakilerden hangisi söylenebilir? Saygılı Telaşsız Sorumlu Sabırsız"
+    }
+  },
+  {
+    "id": "clean_1749198770573_44",
+    "content": "Buna göre trafik içinde hatalı davranış sergileyen bir sürücüye hangisinin yapılması, hem o sürücünün hem de trafikteki diğer sürücülerin kaza yapma yada olumsuz bir durum oluşturma riskini azaltır?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "trafik",
+      "difficulty": "medium",
+      "source": "ehliyet-soru.com",
+      "options": {
+        "A": "Aşırı tepki gösterilmesi",
+        "B": "Kaba ve saldırgan davranılması",
+        "C": "Kızgın biçimde kornaya basılması",
+        "D": "Nezaket ve saygı çerçevesinde uyarılması"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "trafik",
+        "medium"
+      ],
+      "embedding_text": "Buna göre trafik içinde hatalı davranış sergileyen bir sürücüye hangisinin yapılması, hem o sürücünün hem de trafikteki diğer sürücülerin kaza yapma yada olumsuz bir durum oluşturma riskini azaltır? Aşırı tepki gösterilmesi Kaba ve saldırgan davranılması Kızgın biçimde kornaya basılması Nezaket ve saygı çerçevesinde uyarılması"
+    }
+  },
+  {
+    "id": "clean_1749198770573_45",
+    "content": "Yukarıdakilerden hangileri ilk yardımı yapacak kişide bulunmalıdır?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "trafikadab",
+      "difficulty": "easy",
+      "source": "ehliyet-soru.com",
+      "options": {
+        "A": "zami (en yüksek) hız sınırını",
+        "C": "EVAP AÇIKLAMASI:",
+        "D": "önüş ışıklarını geç anlamında kullanmak",
+        "B": "uji kıvılcımı ile"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "trafikadab",
+        "easy"
+      ],
+      "embedding_text": "Yukarıdakilerden hangileri ilk yardımı yapacak kişide bulunmalıdır? zami (en yüksek) hız sınırını EVAP AÇIKLAMASI: önüş ışıklarını geç anlamında kullanmak uji kıvılcımı ile"
+    }
+  },
+  {
+    "id": "clean_1749198770573_46",
+    "content": "Yaya yolu ayrılmamış kara yolunda, taşıt yolu kenarı ile şev başı veya hendek iç üst kenarı arasında kalan ve olağan olarak yayaların ve hayvanların kullanacağı, zorunlu hâllerde de araçların faydalanabileceği bölüme ne denir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "trafikadab",
+      "difficulty": "medium",
+      "source": "ehliyet-soru.com",
+      "options": {
+        "A": "Banket",
+        "B": "Şerit",
+        "C": "Platform",
+        "D": "Kavşak ortak alanı"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "trafikadab",
+        "medium"
+      ],
+      "embedding_text": "Yaya yolu ayrılmamış kara yolunda, taşıt yolu kenarı ile şev başı veya hendek iç üst kenarı arasında kalan ve olağan olarak yayaların ve hayvanların kullanacağı, zorunlu hâllerde de araçların faydalanabileceği bölüme ne denir? Banket Şerit Platform Kavşak ortak alanı"
+    }
+  },
+  {
+    "id": "clean_1749198770573_47",
+    "content": "Aracın kontak anahtarı motoru çalıştırmayacak şekilde açıldığında, gösterge panelinde bulunan şekildeki akü şarj ikaz ışığının yanması gerekir. Yanmıyorsa, arıza aşağıdakilerden hangisinde olabilir?",
+    "metadata": {
+      "type": "driving_license_question",
+      "category": "trafik",
+      "difficulty": "hard",
+      "source": "ehliyet-soru.com",
+      "options": {
+        "A": "Marş motorunda",
+        "B": "Soğutma fanında",
+        "C": "Motor devir göstergesinde",
+        "D": "Akü şarj ikaz ışığının ampülünde"
+      },
+      "correct_answer": null,
+      "explanation": "",
+      "tags": [
+        "trafik",
+        "hard",
+        "visual"
+      ],
+      "embedding_text": "Aracın kontak anahtarı motoru çalıştırmayacak şekilde açıldığında, gösterge panelinde bulunan şekildeki akü şarj ikaz ışığının yanması gerekir. Yanmıyorsa, arıza aşağıdakilerden hangisinde olabilir? Marş motorunda Soğutma fanında Motor devir göstergesinde Akü şarj ikaz ışığının ampülünde"
+    }
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "totalQuestions": 510,
+  "categories": {
+    "TRAFİK KURALLARI": 95,
+    "TRAFİK İŞARETLERİ": 65,
+    "ARAÇ TEKNİĞİ": 117,
+    "ARAÇ BAKIM": 49,
+    "İLK YARDIM": 86,
+    "YOL BİLGİSİ": 52,
+    "SÜRÜCÜ PSİKOLOJİSİ": 28,
+    "ÇEVRE VE GÜVENLİK": 18
+  },
+  "difficulties": {
+    "Orta": 209,
+    "Kolay": 220,
+    "Zor": 81
+  },
+  "visualQuestions": 126,
+  "textQuestions": 384
+}
